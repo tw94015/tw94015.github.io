@@ -8,9 +8,17 @@ CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x72
 
 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3#rtmp://59.124.75.138/sat/tv051#http://seb.sason.top/ptv/ftv.php?id=ms
 
+民視,rtmp://59.124.75.138:1935/sat/tv051
+
+民視,rtmp://59.124.75.150/sat/tv051
+
 人間衛視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210#http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
+人間衛視,http://61.219.170.95:18561/http/192.168.1.9:8081/hls/69/811/ch36.m3u8
+
 台視,rtmp://59.124.75.150/sat/tv071#http://61.219.170.95:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8#http://61.219.170.95:18543/.m3u8
+
+台視,rtmp://59.124.75.138:1935/sat/tv071
 
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 
@@ -21,6 +29,8 @@ CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x72
 華視,rtmp://59.124.75.138/sat/tv111#rtmp://59.124.75.150/sat/tv111
 
 公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
+
+公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
 
 金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
 
@@ -34,9 +44,13 @@ GoodTV,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/li
 
 Discovery,http://220.134.196.147:9568/http/116.50.42.19:8081/hls/71/813/ch44.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef#http://50.7.220.74:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
 
+Discovery,http://50.7.220.74:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
+
 TLC旅遊生活,http://220.134.196.147:9570/http/116.50.42.18:8088/hls/70/812/ch38.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a#http://220.134.196.147:9567/http/116.50.42.19:8081/hls/70/812/ch38.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
 
 動物星球,http://220.134.196.147:9566/http/116.50.42.18:8088/hls/70/812/ch37.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
+
+動物星球,http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 
 CN卡通頻道,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
 
@@ -58,7 +72,11 @@ momo親子台,
 
 衛視中文台,http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8#http://61.219.170.95:18522/.m3u8
 
+衛視中文台,http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
+
 東森綜合,http://220.134.196.147:9224/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
+
+東森超視,http://61.219.170.95:18555/http/192.168.1.9:8081/hls/64/806/ch14.m3u8
 
 東森超視,rtmp://59.124.75.138:1935/sat/tv331
 
@@ -76,11 +94,21 @@ momo 2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 
 東森戲劇,http://220.134.196.147:9230/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 
+八大戲劇,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
+
 八大戲劇,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
 
 TVBS歡樂台,rtmp://59.124.75.138:1935/sat/tv421
 
+TVBS歡樂台,rtmp://59.124.75.138/sat/tv421
+
+TVBS歡樂台,rtmp://59.124.75.150/sat/tv421
+
+TVBS經典,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
+
 緯來戲劇,http://220.134.196.147:9233/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
+
+緯來戲劇,http://61.219.170.95:18557/http/192.168.1.9:8081/hls/69/811/ch33.m3u8
 
 高點綜合,
 
@@ -98,19 +126,35 @@ momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 
 東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
 
+東森新聞,https://epg.pm/stream/c8621da5d311aa34e7281b64bec8f141bfaad8786dd836d533054d9bf46cc7b9.php
+
 華視新聞資訊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34#http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw
 
 民視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31#http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
+
+民視新聞台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 
 三立新聞,http://220.134.196.147:9243/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 
 TVBS新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
 
+TVBS新聞台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+
+TVBS新聞台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+
+TVBS國際+,https://git.io/JgYl2
+
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 
 東森財經,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211#http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw#https://git.io/Jgkpc#rtmp://59.124.75.138/sat/tv571
 
+東森財經,rtmp://59.124.75.150/sat/tv571
+
+東森財經,rtmp://59.124.75.138:1935/sat/tv571
+
 非凡新聞,http://220.134.196.147:9244/http/116.50.42.19:8081/hls/75/817/ch57.m3u8
+
+非凡新聞,http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 
 美好1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 
@@ -119,6 +163,8 @@ TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 衛視電影台,http://220.134.196.147:9223/http/116.50.42.19:8081/hls/62/804/ch07.m3u8#http://61.219.170.95:18529/.m3u8#http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 
 東森電影,http://120.84.96.227:808/hls/32/index.m3u8
+
+東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
 
 緯來電影,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
 
@@ -130,19 +176,57 @@ HBO,http://220.134.196.147:9557/http/116.50.42.18:8081/hls/71/813/ch41.m3u8?toke
 
 AXN,http://61.219.170.95:18548/http/192.168.1.9:8081/hls/71/813/ch43.m3u8#http://61.219.170.95:18548/.m3u8
 
+AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+
 好萊塢電影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+
+好萊塢電影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
+
+好萊塢電影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
 
 衛視合家歡,http://220.134.196.147:9561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a#http://220.134.196.147:9561/http/116.50.42.18:8081/hls/61/803/ch02.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda#http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8#http://61.219.170.95:18504/.m3u8
 
 CINEMAX,http://220.134.196.147:9229/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 
+緯來育樂,http://220.134.196.147:9569/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
+
+緯來育樂,rtmp://59.124.75.138/sat/tv701
+
 緯來育樂,rtmp://59.124.75.138:1935/sat/tv701#http://61.219.170.95:18541/http/192.168.1.9:8081/hls/68/810/ch30.m3u8#http://61.219.170.95:18541/.m3u8
+
+緯來育樂,http://61.219.170.95:18541/playlist.m3u8
+
+緯來育樂,rtmp://59.124.75.150/sat/tv701
+
+緯來育樂,http://220.134.196.147:9569/playlist.m3u8
+
+緯來體育,http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 
 緯來體育,rtmp://59.124.75.138:1935/sat/tv721
 
+緯來體育,rtmp://59.124.75.138/sat/tv721
+
+緯來體育,rtmp://59.124.75.150/sat/tv721
+
+緯來體育,https://epg.pm/stream/41819e3238acf8b55105deda878c5ac4aff05e4703569dae87c6c91591d9ebfa.m3u8
+
 ELEVEN 1,rtmp://59.124.75.138:1935/sat/tv731#http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23#http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 
+ELEVEN 1,rtmp://59.124.75.138/sat/tv731
+
+ELEVEN 1,rtmp://59.124.75.150/sat/tv731
+
+ELEVEN 2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+
+ELEVEN 2,https://epg.pm/stream/480fbbc2ba61ff75864f5aca4b9918c7ddba6fb3306ad56eb2a6482f92fc3301.m3u8
+
 ELEVEN 2,rtmp://59.124.75.138:1935/sat/tv741
+
+ELEVEN 2,rtmp://59.124.75.138/sat/tv741
+
+ELEVEN 2,rtmp://59.124.75.150/sat/tv741
+
+momo綜合台,http://61.219.170.95:18576/http/192.168.1.9:8081/hls/76/818/momo_max.m3u8
 
 momo綜合台,rtmp://59.124.75.138:1935/sat/tv761
 
@@ -150,15 +234,23 @@ momo綜合台,rtmp://59.124.75.138:1935/sat/tv761
 
 緯來日本,rtmp://59.124.75.138:1935/sat/tv771#http://61.219.170.95:18524/.m3u8
 
+緯來日本,rtmp://59.124.75.138/sat/tv771
+
+緯來日本,rtmp://59.124.75.150/sat/tv771
+
 國興衛視,
 
 美亞電影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 
+中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
+
 Animax,http://61.219.170.95:18550/http/192.168.1.9:8081/hls/70/812/ch39.m3u8#http://61.219.170.95:18550/.m3u8
 
 鏡新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
+
+鏡新聞,https://ytb.52sf.ga/jmsytb.m3u8?c=20
 
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 
@@ -170,9 +262,13 @@ ELTA生活旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-l
 
 三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229#http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews#http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
 
+非凡商業,http://61.219.170.95:18510/http/192.168.1.9:8081/hls/74/816/ch56.m3u8
+
 非凡商業,http://61.219.170.95:18510/.m3u8
 
 幸福空間居家,https://git.io/JgYYF
+
+幸福空間居家,https://epg.pm/stream/6b5547376f741b393d870db8ec73d41482289413d50b6bb41fab3eaecd7eb228.m3u8
 
 History,
 
@@ -258,11 +354,23 @@ GoodTV2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/l
 
 龍華電影,http://220.134.196.147:9558/http/116.50.42.18:8081/hls/62/804/ch07.m3u8?token=7375646f6868906a760733c82ee9b65e9e19dd55
 
+龍華電影,http://220.134.196.147:9558/http/116.50.42.18:8066/hls/210/10014/cstv14.m3u8
+
+龍華電影,http://61.219.170.95:18574/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
+
+龍華戲劇,http://61.219.170.95:18507/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
+
 龍華戲劇,http://61.219.170.95:18507/.m3u8#https://epg.pm/stream/a1fda790830938b2487b30e3b9b9d2676ad2939e310a161b3113db496e8fd954.m3u8#https://epg.pm/stream/ab79e3ed982c587c80bd6cf653bfadfcb77f477f486dd4b5909262473ca86660.m3u8#https://epg.pm/stream/aaa2f0ee9f1d0bdb0f6820cb48ecb51ba91d02d88754c42e6b0965fed5e624dc.m3u8#https://epg.pm/stream/34d369283cd9ff70ec59e70e6065f62d506bf5849547ca5557cff8bf4215090b.m3u8
+
+龍華戲劇,http://50.7.220.74:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
 
 龍華偶像,http://61.219.170.95:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8#https://epg.pm/stream/42cd2e4edd2468418652e234538405cd73fe2c8d4cb992d98ff35b2212b5f460.m3u8#https://epg.pm/stream/c4b865c3c21cc0c5e4f81ccd5803ba27da2725789c2668d0012731a51845559b.m3u8#https://epg.pm/stream/aa1346690dc5dfe3d48610abe2f69f9b055b26a6fa00f28be58f9a5793585271.m3u8#https://epg.pm/stream/d4800d62e279d9da23b75b026e4aae7bf17119b7c9f26ba3ddc8198479bb80d8.m3u8
 
+龍華偶像,http://50.7.220.74:8278/lunghuaidol_twn/playlist.m3u8?tid=m02000000000017261257&ct=17971&tsum=be8a7a335e6378441a89f8098abde7f1
+
 龍華日韓,http://220.134.196.147:9235/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
+
+龍華日韓,http://61.219.170.95:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
 
 龍華經典,http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
 
@@ -310,6 +418,8 @@ BBC Earth,
 
 衛視電影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 
+星衛電影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+
 星衛娛樂台,
 
 THE K-POP,https://git.io/JgYAE
@@ -332,11 +442,17 @@ Eurosport 2,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/s
 
 WWE,http://50.7.220.74:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 
+ELTA體育1台,rtmp://59.124.75.138/sat/md011
+
+ELTA體育1台,rtmp://59.124.75.150/sat/md011
+
 ELTA體育1台,http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 
 ELTA體育2台,
 
-ELTA體育3台,
+ELTA體育3台,rtmp://59.124.75.138/sat/md021
+
+ELTA體育3台,rtmp://59.124.75.150/sat/md021
 
 HBO HD,
 
@@ -352,11 +468,15 @@ Star Movies,
 
 美食星球,
 
+亞洲旅遊台,http://61.219.170.95:18568/http/192.168.1.9:8081/hls/76/818/ch61.m3u8
+
 亞洲旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250#http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d#http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8#http://220.134.196.147:9565/http/116.50.42.18:8088/hls/76/818/ch61.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
+
+亞洲旅遊台,http://220.134.196.147:9568/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
 
 Discovery Asia,http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715#http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
 
-Discovery科學,
+Discovery科學,http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
 
 tvN,
 
@@ -446,7 +566,7 @@ ELTA綜合,
 
 EYE TV旅遊台,
 
-EYE TV戲劇台,
+EYE TV戲劇台,https://epg.pm/stream/41f78c2cc87e0cbade0f1bd295f68b4ab107aa174100984b3a0a552f680547c0.m3u8
 
 嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
 
@@ -470,9 +590,11 @@ SPOTV ON2,http://live1.streamk.co:8080/sportsbox_preview/live47/playlist.m3u8?si
 
 GOODTV國度報導,https://vod.streamingfast.net/hls-vod/video/1200k/NW1A0180_1200k.mp4.m3u8
 
+NBA,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/281638
+
 NBA,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event038/hls-ae-tv/index.m3u8
 
-ESPN,
+ESPN,http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
 發現心嘉義,http://61.58.60.230:9319/live/101.m3u8
 
@@ -491,1059 +613,716 @@ FashionTV,http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&
 音樂石榴,http://txtest-xp2p.p2p.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.xs
 
 
-🇹🇼台灣頻道(備)🇹🇼,#genre#
-##台-新聞##
-民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
-民視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
-民視新聞 HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
-民視新聞 HD,https://ytb.52sf.ga/jmsytb.m3u8?c=3
-台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
-台視新聞 HD,https://ytb.52sf.ga/jmsytb.m3u8?c=6
-台視新聞 HD,https://git.io/JgkxY
-台視新聞 HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
-中視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
-中視新聞 HD,https://git.io/Jgkxz
-中視新聞 HD,https://ytb.52sf.ga/jmsytb.m3u8?c=8
-華視新聞資訊 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw
-華視新聞資訊 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
-TVBS新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
-TVBS新聞 HD,rtmp://59.124.75.138/sat/tv551
-TVBS新聞 HD,rtmp://59.124.75.150/sat/tv551
-TVBS新聞 HD,https://ytb.52sf.ga/jmsytb.m3u8?c=45
-TVBS新聞 HD,https://epg.pm/stream/43712ed6dab7923b7dea00642b5d480dfa0e7e058813646d0591f1a814b9c028.php
-TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
-中天新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
-中天新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
-中天新聞 HD,https://ytb.52sf.ga/jmsytb.m3u8?c=1
-三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
-三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
-三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
-三立iNEWS,https://git.io/Jgkxj
-三立iNEWS,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
-三立iNEWS,https://ytb.52sf.ga/jmsytb.m3u8?c=17
-東森新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
-東森新聞 HD,https://epg.pm/stream/c8621da5d311aa34e7281b64bec8f141bfaad8786dd836d533054d9bf46cc7b9.php
-東森 LIVE,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
-東森 LIVE,https://ytb.52sf.ga/jmsytb.m3u8?c=9
-東森新聞全球速報,https://ytb.52sf.ga/jmsytb.m3u8?c=21
-東森財經新聞1 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
-東森財經新聞1 HD,rtmp://59.124.75.138/sat/tv571
-東森財經新聞1 HD,rtmp://59.124.75.150/sat/tv571
-東森財經新聞1 HD,https://epg.pm/stream/b2ed5c7047cf73ef9be80e450b995aec8075d976436ebe442613dbd854bbdbc0.php
-東森財經新聞2 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
-東森財經新聞2 HD,https://git.io/Jgkpc
-東森財經新聞2 HD,https://epg.pm/stream/2542667bd5a4c00882e4275d2713961009aa17f0397831e1830f3ebd3de6ae6d.php
-東森財經新聞2 HD,https://epg.pm/stream/8ae9925c4c20b3bbb0eabb43facbc74782dcc9aa57398cbfff02f5b14d912e00.m3u8
-東森財經新聞2 HD,https://ytb.52sf.ga/jmsytb.m3u8?c=12
-壹新聞 HD,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-壹新聞 HD,http://stream.nexttv.com.tw/n001/playlist.m3u8
-鏡新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
-鏡新聞,https://ytb.52sf.ga/jmsytb.m3u8?c=20
-寰宇新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
-寰宇新聞 HD,https://ytb.52sf.ga/jmsytb.m3u8?c=15
-寰宇新聞台灣台,https://git.io/JgkpO
-寰宇新聞台灣台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
-非凡新聞,http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
-非凡商業 HD,http://61.219.170.95:18510/http/192.168.1.9:8081/hls/74/816/ch56.m3u8
-原住民族電視台,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
-原住民族電視台,http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F
-原住民族電視台,http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
-發現心嘉義,http://61.58.60.230:9319/live/100.m3u8
-嘉義SHOW,http://61.58.60.230:9319/live/101.m3u8
-滾動力,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
-Now 直播331台,https://api.leonardpark.dev/live/now/331
-Now 新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8
+🇹🇼新聞🇹🇼,#genre#
+民視新聞 HD[1920*1080],http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民視新聞 HD[1920*1080],http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民視新聞 HD[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
+民視新聞 HD[1920*1080],https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
+台視新聞 HD[1920*1080],http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台視新聞 HD[1920*1080],http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台視新聞 HD[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
+台視新聞 HD[1920*1080],https://git.io/JgkxY
+台視新聞 HD[1920*1080],https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
+中視新聞 HD[1920*1080],https://git.io/Jgkxz
+華視新聞資訊 HD[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw
+TVBS新聞[1920*1080],http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新聞[1920*1080],http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVBS新聞[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
+中天新聞 HD[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
+三立iNEWS[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
+三立iNEWS[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
+三立iNEWS[1920*1080],https://git.io/Jgkxj
+三立iNEWS[1920*1080],https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
+東森新聞全球速報[1920*1080],https://ytb.52sf.ga/jmsytb.m3u8?c=21
+東森財經新聞2 HD[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
+東森財經新聞2 HD[1920*1080],https://git.io/Jgkpc
+東森財經新聞2 HD[1920*1080],https://epg.pm/stream/2542667bd5a4c00882e4275d2713961009aa17f0397831e1830f3ebd3de6ae6d.php
+東森財經新聞2 HD[1920*1080],https://epg.pm/stream/8ae9925c4c20b3bbb0eabb43facbc74782dcc9aa57398cbfff02f5b14d912e00.m3u8
+東森財經新聞2 HD[1920*1080],https://ytb.52sf.ga/jmsytb.m3u8?c=12
+壹新聞 HD[1920*1080],http://stream.nexttv.com.tw/n001/hd/live.m3u8
+壹新聞 HD[1920*1080],http://stream.nexttv.com.tw/n001/playlist.m3u8
+鏡新聞[1920*1080],https://ytb.52sf.ga/jmsytb.m3u8?c=20
+寰宇新聞 HD[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
+寰宇新聞台灣台[1920*1080],https://git.io/JgkpO
+寰宇新聞台灣台[1920*1080],https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
+非凡新聞[1920*1080],http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+非凡商業 HD[1920*1080],http://61.219.170.95:18510/http/192.168.1.9:8081/hls/74/816/ch56.m3u8
+原住民族電視台[1920*1080],http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F
+民視新聞 HD[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
+中視新聞 HD[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+華視新聞資訊 HD[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
+TVBS新聞 HD[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+TVBS新聞 HD[1280*720],rtmp://59.124.75.138/sat/tv551
+TVBS新聞 HD[1280*720],rtmp://59.124.75.150/sat/tv551
+TVBS新聞 HD[1280*720],https://epg.pm/stream/43712ed6dab7923b7dea00642b5d480dfa0e7e058813646d0591f1a814b9c028.php
+中天新聞 HD[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
+三立iNEWS[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
+東森新聞 HD[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+東森新聞 HD[1280*720],https://epg.pm/stream/c8621da5d311aa34e7281b64bec8f141bfaad8786dd836d533054d9bf46cc7b9.php
+東森財經新聞1 HD[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
+東森財經新聞1 HD[1280*720],rtmp://59.124.75.138/sat/tv571
+東森財經新聞1 HD[1280*720],rtmp://59.124.75.150/sat/tv571
+東森財經新聞1 HD[1280*720],https://epg.pm/stream/b2ed5c7047cf73ef9be80e450b995aec8075d976436ebe442613dbd854bbdbc0.php
+鏡新聞[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
+原住民族電視台[1280*720],http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
+發現心嘉義[1280*720],http://61.58.60.230:9319/live/100.m3u8
+嘉義SHOW[1280*720],http://61.58.60.230:9319/live/101.m3u8
+滾動力[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
+🇹🇼戲劇🇹🇼,#genre#
+民視 HD[1920*1080],http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
+台視 HD(雙語)[1920*1080],http://61.219.170.95:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
+八大第一 FHD[1920*1080],http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8
+八大戲劇 HD[1920*1080],http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
+三立戲劇[1920*1080],http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
+年代 MUCH HD[1920*1080],http://61.219.170.95:18558/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
+衛視中文 FHD[1920*1080],http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
+Star World[1920*1080],http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8
+東森超視 HD[1920*1080],http://61.219.170.95:18555/http/192.168.1.9:8081/hls/64/806/ch14.m3u8
+東森超視34.5[1920*1080],http://38.64.72.148:80/hls/modn/list/2018/chunklist0.m3u8
+東森超視34.5[1920*1080],https://epg.pm/stream/01262e87505917eb11f3c00b44f94bf207c1aed6c47b7277e4b37216c318c8fb.m3u8
+東森超視34.5[1920*1080],https://epg.pm/stream/01262e87505917eb11f3c00b44f94bf207c1aed6c47b7277e4b37216c318c8fb.m3u8
+緯來育樂 HD[1920*1080],http://220.134.196.147:9569/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
+緯來育樂 HD[1920*1080],http://61.219.170.95:18541/http/192.168.1.9:8081/hls/68/810/ch30.m3u8
+緯來育樂 HD[1920*1080],http://61.219.170.95:18541/playlist.m3u8
+緯來育樂 HD[1920*1080],http://220.134.196.147:9569/playlist.m3u8
+緯來戲劇 HD[1920*1080],http://61.219.170.95:18557/http/192.168.1.9:8081/hls/69/811/ch33.m3u8
+MOMO綜合[1920*1080],http://61.219.170.95:18576/http/192.168.1.9:8081/hls/76/818/momo_max.m3u8
+AXN[1920*1080],http://61.219.170.95:18548/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
+AXN[1920*1080],http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+韓綜-Runningman[1920*1080],http://epg.112114.xyz/douyu/131977
+龍華日韓[1920*1080],http://61.219.170.95:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
+龍華偶像[1920*1080],http://61.219.170.95:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
+龍華戲劇[1920*1080],http://61.219.170.95:18507/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
+imodeTV[1920*1080],https://juyunlive.juyun.tv/live/24950198.m3u8
+幸福空間居家台[1920*1080],https://git.io/JgYYF
+幸福空間居家台[1920*1080],https://epg.pm/stream/6b5547376f741b393d870db8ec73d41482289413d50b6bb41fab3eaecd7eb228.m3u8
+中台灣生活網[1920*1080],http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+中台灣生活網[1920*1080],http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
+CTN傳訊電視[1920*1080],http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
+CTN傳訊電視[1920*1080],http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
+臺灣番薯台[1920*1080],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+🇹🇼電影🇹🇼,#genre#
+龍華電影[1920*1080],http://220.134.196.147:9558/http/116.50.42.18:8066/hls/210/10014/cstv14.m3u8
+龍華電影[1920*1080],http://61.219.170.95:18574/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
+衛視電影 HD[1920*1080],http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
+龍祥電影[1920*1080],http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+東森電影[1280*720],http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
+星衛電影[1280*720],http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+龍華經典洋片[1280*720],http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
+經典電影[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
+好萊塢電影[1280*720],http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
+HBO Signature[1280*720],http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+漫威宇宙電影[1280*544],http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
+漫威電影[1280*720],http://epg.112114.xyz/douyu/4282654
+成龍系列[1280*720],http://106.53.212.251/daili/yy.php?id=1354888751
+24小時藍光大片[1280*720],https://epg.pm/stream/f688dc581de111aaa5729f69be8c97651c8288c0f31c34dfa0e1a5be78960989.php
+🇹🇼人文🇹🇼,#genre#
+亞洲旅遊台[1920*1080],http://220.134.196.147:9568/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
+亞洲旅遊台[1920*1080],http://61.219.170.95:18568/http/192.168.1.9:8081/hls/76/818/ch61.m3u8
+動物星球[1920*1080],http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+求索紀錄[1920*1080],http://111.40.196.9/0000000000001001/1/index.m3u8?Contentid=6000000002000032052&livemode=1&stbId=10&channel-id=wasusyt
+求索紀錄[1920*1080],http://111.40.196.9/0000000000001000/1/index.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
+求索紀錄[1920*1080],http://111.11.123.49:6610/000000001000/6000000002000032052/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429142822239451&channel-id=wasusyt&Contentid=6000000002000032052
+求索科學[1920*1080],http://111.40.196.9/0000000000001000/1/index.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt
+求索科學[1920*1080],http://111.11.123.49:6610/000000001000/6000000002000032344/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429143356239632&channel-id=wasusyt&Contentid=6000000002000032344
+求索科學[1920*1080],https://epg.pm/stream/128f33f4fd9af25350bcf40c6aac3f47b085b4c9f6b089a0083a9587126a4b5e.m3u8
+求索科學[1920*1080],https://epg.pm/stream/b31032dedbd9ed871a1fc99dd5891095b30547076392d7775c29a26004727752.m3u8
+求索生活[1920*1080],http://111.40.196.9/0000000000001000//1/index.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
+求索生活[1920*1080],https://epg.pm/stream/4d69a1e97bbaccf568da81eee5b142c0599add88224cce265ff5d79322362d45.m3u8
+求索生活[1920*1080],https://epg.pm/stream/d8ad3014fd158e83b9eb0c916f8b4c48548b9f447c35847ac02dd3f713b30319.m3u8
+求索動物[1920*1080],http://111.40.196.9/0000000000001000//1/index.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
+求索動物[1920*1080],https://epg.pm/stream/8ddbfe3bc9918cb483464ef72a5541b2b610d77f3e502bd5570387b6d64902e3.m3u8
+求索動物[1920*1080],https://epg.pm/stream/a345a05b7cad52c6e11ae0cc10e7c5b440a1635932248b9c428a8190cb8910b0.m3u8
+求索動物[1920*1080],https://epg.pm/stream/e87d62cd033bd689cfe5411eff9f6b39f837fd4031a95196a5116ecc6f85f7a2.m3u8
+🇹🇼海外衛視🇹🇼,#genre#
+人間衛視[1920*1080],http://61.219.170.95:18561/http/192.168.1.9:8081/hls/69/811/ch36.m3u8
+東森衛視[1920*1080],https://epg.pm/stream/fa1f8a9f5d354522b55267c1c31655f7051d4429a23f87aac700197ef5273177.m3u8
+東森 AMERICA[1920*1080],http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+東森財經 AMERICA[1920*1080],http://38.64.72.148:80/hls/modn/list/2021/chunklist0.m3u8
+東森財經 AMERICA[1920*1080],https://epg.pm/stream/969b2881b59d6fa152d43ce33edc60cb2531f5d660ee9353ced7be8e4d5c92aa.m3u8
+東森美洲[1920*1080],http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+東森美洲 HD[1920*1080],http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+東森美洲 HD[1920*1080],http://38.64.72.148:80/hls/modn/list/2026/chunklist1.m3u8
+TVBS國際+[1920*1080],https://git.io/JgYl2
+TVBS-Asia[1920*1080],http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS-Asia[1920*1080],http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+華語電視1[1920*1080],http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
+華語電視2[1920*1080],http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+華語電視2[1920*1080],https://epg.pm/stream/1bc31c5aef3c9f590724f97413d8e11a265d4268a4624043f3a9bf0691373cd9.m3u8
+華語電視3[1920*1080],http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+華語電視3[1920*1080],https://epg.pm/stream/311a13559d59cb86eae0f005f7f5eda857cfea72860f5226a70688e1c1098a26.m3u8
+🇹🇼體育🇼,#genre#
+緯來體育 HD[1920*1080],http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+博斯運動1[1920*1080],http://220.134.196.147:9564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
+ELEVEN體育2台[1920*1080],http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+ELEVEN體育2台[1920*1080],https://epg.pm/stream/480fbbc2ba61ff75864f5aca4b9918c7ddba6fb3306ad56eb2a6482f92fc3301.m3u8
+NBA TV HD[1920*1080],http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/281638
+BT Sport ESPN[1920*1080],http://93.152.174.144:4000/play/btsportespn/index.m3u8
+新視覺 HD[1920*1080],http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+智林體育[1920*1080],http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+緯來體育 HD[1280*720],rtmp://59.124.75.138/sat/tv721
+緯來體育 HD[1280*720],rtmp://59.124.75.150/sat/tv721
+緯來體育 HD[1280*720],https://epg.pm/stream/41819e3238acf8b55105deda878c5ac4aff05e4703569dae87c6c91591d9ebfa.m3u8
+愛爾達體育一台[1280*720],rtmp://59.124.75.138/sat/md011
+愛爾達體育一台[1280*720],rtmp://59.124.75.150/sat/md011
+愛爾達體育一台[1280*720],http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+愛爾達體育三台[1280*720],rtmp://59.124.75.138/sat/md021
+愛爾達體育三台[1280*720],rtmp://59.124.75.150/sat/md021
+博斯魅力[1280*720],rtmp://59.124.75.138/sat/md031
+博斯魅力[1280*720],rtmp://59.124.75.150/sat/md031
+博斯網球[1280*720],rtmp://59.124.75.138/sat/md041
+博斯網球[1280*720],rtmp://59.124.75.150/sat/md041
+博斯高球2[1280*720],http://198.204.239.194:27347/livehlsplay?channel_id=20117
+博斯運動2[1280*720],rtmp://59.124.75.138/sat/md051
+博斯運動2[1280*720],rtmp://59.124.75.150/sat/md051
+博斯運動2[1280*720],http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
+ELEVEN體育1台[1280*720],rtmp://59.124.75.138/sat/tv731
+ELEVEN體育1台[1280*720],rtmp://59.124.75.150/sat/tv731
+ELEVEN體育2台[1280*720],rtmp://59.124.75.138/sat/tv741
+ELEVEN體育2台[1280*720],rtmp://59.124.75.150/sat/tv741
+智林體育[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58
+智林體育[1280*720],https://epg.pm/stream/0b0f0b380d76db5f989624be390367edcf7abdd220380d31e1be004782323643.php
+智林體育[1280*720],https://epg.pm/stream/536302a5c68086e028403125a2383622945c5edc4c6c85565dc5114867638ebe.php
+智林體育[1280*720],https://epg.pm/stream/56086825f7427c66aa93efbbe438295841394cc8b513e711e31c5e701fb3345d.m3u8
+智林體育[1280*720],https://epg.pm/stream/800d8d5ae1aac4d221f2d486ee9a423b2e52543d2263e9fbb55f3072b9547095.m3u8
+智林體育[1280*720],https://epg.pm/stream/cfe69386784586f7fdc212b5bedebe73fb482c58c4a5694fc5a8faf4e0a0d6df.m3u8
 
+🇹🇼綜合戲劇🇹🇼,#genre#
+公視[1280*720],http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
+民視 HD[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
+民視 HD[1280*720],rtmp://59.124.75.138/sat/tv051
+民視 HD[1280*720],rtmp://59.124.75.150/sat/tv051
+民視台灣 HD[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
+民視旅遊[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
+民視第一 HD[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
+民視綜藝[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
+民視影劇[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
+台視 HD(雙語)[1280*720],rtmp://59.124.75.138/sat/tv071
+台視 HD(雙語)[1280*720],rtmp://59.124.75.150/sat/tv071
+中視 HD[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
+中視 HD[1280*720],rtmp://59.124.75.138/sat/tv091
+中視 HD[1280*720],rtmp://59.124.75.150/sat/tv091
+華視 HD[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
+華視 HD[1280*720],rtmp://59.124.75.138/sat/tv111
+華視 HD[1280*720],rtmp://59.124.75.150/sat/tv111
+三立綜合[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
+三立綜合[1280*720],http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
+東森超視 HD[1280*720],rtmp://59.124.75.138/sat/tv331
+東森超視 HD[1280*720],rtmp://59.124.75.150/sat/tv331
+東森戲劇 HD[1280*720],http://50.7.220.74:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
+TVBS歡樂台[1280*720],rtmp://59.124.75.138/sat/tv421
+TVBS歡樂台[1280*720],rtmp://59.124.75.150/sat/tv421
+TVB 經典[1280*720],http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
+緯來日本 HD[1280*720],rtmp://59.124.75.138/sat/tv771
+緯來日本 HD[1280*720],rtmp://59.124.75.150/sat/tv771
+緯來育樂 HD[1280*720],rtmp://59.124.75.138/sat/tv701
+緯來育樂 HD[1280*720],rtmp://59.124.75.150/sat/tv701
+緯來育樂 HD[1280*720],https://epg.pm/stream/ba0eb100f8dc80bf150af51c3e27a2ef70c883e4eb7efe82f51b71d47f45f9fd.m3u8
+MOMO綜合[1280*720],rtmp://59.124.75.138/sat/tv761
+MOMO綜合[1280*720],rtmp://59.124.75.150/sat/tv761
+EYE TV戲劇[1280*720],https://epg.pm/stream/41f78c2cc87e0cbade0f1bd295f68b4ab107aa174100984b3a0a552f680547c0.m3u8
+龍華偶像[1280*720],http://50.7.220.74:8278/lunghuaidol_twn/playlist.m3u8?tid=m02000000000017261257&ct=17971&tsum=be8a7a335e6378441a89f8098abde7f1
+龍華戲劇[1280*720],http://50.7.220.74:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
+世新綜合台[1280*960],https://epg.pm/stream/b5e7c5e1f5df38b98d2239008ded374996ded7bdf8ee9ab34c72c0351bd37cef.m3u8
+客家電視[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
+客家電視[1280*720],https://epg.pm/stream/6da747497e89da81c0d415d07ce16e90852614bdc5b70a55074f8521a94ec240.php
+原住民頻道[1280*720],http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
+原住民頻道[1280*720],http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+大愛1台[1280*720],https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大愛2台[1280*720],https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大立電視[1280*720],http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+ELTV生活英語[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
+ELTV生活英語[1280*720],https://epg.pm/stream/44521cf75f3bbcbad3eb0212f565e6eb25a47f5ddfa20af3f0f4c2c72ba549ba.php
+LiveABC互動英語[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
+豬哥亮歌廳秀[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
+中天全民最大黨[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
+霹靂布袋戲[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
 
+🇹🇼人文🇹🇼,#genre#
+愛爾達生活旅遊台[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
+中天美食旅遊台[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
+亞洲旅遊台[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
+EYE TV旅遊[1280*720],http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
+EYE TV旅遊[1280*720],https://epg.pm/stream/1fd13ffdf5e1ae9fdd35455552793aac194f73e6907e6e8eb9a4b87ac98990c3.m3u8
+Discovery頻道[1280*720],http://50.7.220.74:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
+Discovery頻道[1280*720],http://50.7.220.74:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
+Discovery科學[1280*720],http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
+探索[1280*720],http://111.11.123.49:6610/000000001000/5359008697329269813/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429145628240518&channel-id=wasusyt&Contentid=5359008697329269813
+求索紀錄[1280*720],https://epg.pm/stream/26387b51fe3b077b009c9a035a886898e7772afe137422bf04b9a409e731e988.m3u8
+求索紀錄[1280*720],https://epg.pm/stream/5c457c7fb5434ad0ab63bbf48f8682817dc99dffaf82ae7a2482e931d870b4db.m3u8
+求索科學[1280*720],https://epg.pm/stream/21941bf22470ded77b9cbcf7311358b5eb994cf9c542a5d21eda23a18e3bbf44.m3u8
+大自然紀錄片[1280*720],http://tc-tct.douyucdn2.cn/dyliveflv3a/4837387rHLc42NHf.flv?wsAuth=9d21a938002b17185764ebb3d37836c2&token=cpn-androidmpro-0-4837387-8ad81bcd9db6237cbe9a4f0b40336d780b66e961085f65a5&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+🇹🇼海外衛視🇹🇼,#genre#
+東森美洲[1280*720],https://epg.pm/stream/bc697051888271f8a5752ad777ff21e4232b22974256ad7ecb90f508f3f9b51c.m3u8
+華語電視1[1280*720],https://epg.pm/stream/f388f3416de1d9e76197ba05aa13bb52edb246055a0dfccc642db9372ebfb7cc.m3u8
+華語綜藝[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
+華語戲劇[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
+新唐人亞太台[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
+新唐人亞太台[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
 
-##台-綜合戲劇##
-公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
-公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
-民視 HD,http://seb.sason.top/ptv/ftv.php?id=ms
-民視 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
-民視 HD,rtmp://59.124.75.138/sat/tv051
-民視 HD,rtmp://59.124.75.150/sat/tv051
-民視 HD,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
-民視台灣 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
-民視台灣 HD,http://seb.sason.top/ptv/ftv.php?id=tw
-民視旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
-民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
-民視第一 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
-民視第一 HD,http://seb.sason.top/ptv/ftv.php?id=dy
-民視綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
-民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
-民視影劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
-民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
-台視 HD(雙語),rtmp://59.124.75.138/sat/tv071
-台視 HD(雙語),rtmp://59.124.75.150/sat/tv071
-台視 HD(雙語),http://61.219.170.95:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
-台视 HD,http://50.7.220.74:8278/lunghuamovie_twn/playlist.m3u8?tid=mdb73470557ff10965185&ct=17874&tsum=d0a4494eb289910a11f4d305a804136a
-中視 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
-中視 HD,rtmp://59.124.75.138/sat/tv091
-中視 HD,rtmp://59.124.75.150/sat/tv091
-中視經典 HD,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
-華視 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
-華視 HD,rtmp://59.124.75.138/sat/tv111
-華視 HD,rtmp://59.124.75.150/sat/tv111
-華視 HD,https://ytb.52sf.ga/jmsytb.m3u8?c=34
-中天亞洲,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=m02000000000018570617&ct=17982&tsum=41a23593234363b088028585850ccf48
-中天娛樂 HD,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
-八大第一 HD,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
-八大第一 FHD,http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8
-八大娛樂 HD,http://50.7.220.74:8278/badaentertain/playlist.m3u8?tid=m46003aa2ac2617525877&ct=17874&tsum=d31212ff6fbefd5bd856f80d16bb3f27
-八大戲劇 HD,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
-八大戲劇 HD,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
-三立戲劇,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
-三立綜合,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
-三立綜合,http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
-三立臺灣,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-年代 MUCH HD,http://61.219.170.95:18558/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
-衛視中文 FHD,http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
-Star World,http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8
-東森超視 HD,rtmp://59.124.75.138/sat/tv331
-東森超視 HD,rtmp://59.124.75.150/sat/tv331
-東森超視 HD,http://61.219.170.95:18555/http/192.168.1.9:8081/hls/64/806/ch14.m3u8
-東森超視34.5,http://38.64.72.148:80/hls/modn/list/2018/chunklist0.m3u8
-東森超視34.5,http://38.64.72.148:80/hls/modn/list/2018/chunklist1.m3u8
-東森超視34.5,https://epg.pm/stream/01262e87505917eb11f3c00b44f94bf207c1aed6c47b7277e4b37216c318c8fb.m3u8
-東森超視34.5,https://epg.pm/stream/01262e87505917eb11f3c00b44f94bf207c1aed6c47b7277e4b37216c318c8fb.m3u8
-東森戲劇 HD,http://50.7.220.74:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
-TVBS歡樂台,rtmp://59.124.75.138/sat/tv421
-TVBS歡樂台,rtmp://59.124.75.150/sat/tv421
-TVB 經典,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
-緯來日本 HD,rtmp://59.124.75.138/sat/tv771
-緯來日本 HD,rtmp://59.124.75.150/sat/tv771
-緯來育樂 HD,rtmp://59.124.75.138/sat/tv701
-緯來育樂 HD,rtmp://59.124.75.150/sat/tv701
-緯來育樂 HD,http://220.134.196.147:9569/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
-緯來育樂 HD,http://61.219.170.95:18541/http/192.168.1.9:8081/hls/68/810/ch30.m3u8
-緯來育樂 HD,http://61.219.170.95:18541/playlist.m3u8
-緯來育樂 HD,http://220.134.196.147:9569/playlist.m3u8
-緯來育樂 HD,https://epg.pm/stream/ba0eb100f8dc80bf150af51c3e27a2ef70c883e4eb7efe82f51b71d47f45f9fd.m3u8
-緯來戲劇 HD,http://61.219.170.95:18557/http/192.168.1.9:8081/hls/69/811/ch33.m3u8
-MOMO綜合,rtmp://59.124.75.138/sat/tv761
-MOMO綜合,rtmp://59.124.75.150/sat/tv761
-MOMO綜合,http://61.219.170.95:18576/http/192.168.1.9:8081/hls/76/818/momo_max.m3u8
-AXN,http://61.219.170.95:18548/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
-AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
-AXN,http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/157542
-韓綜-Runningman,http://epg.112114.xyz/douyu/131977
-韓綜-Runningman,http://epg.112114.xyz/douyu/7298973
-EYE TV戲劇,http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
-EYE TV戲劇,https://epg.pm/stream/41f78c2cc87e0cbade0f1bd295f68b4ab107aa174100984b3a0a552f680547c0.m3u8
-EYE TV戲劇,http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
-龍華日韓,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-龍華日韓,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-龍華日韓,http://59.125.98.83:8535/playlist.m3u8
-龍華日韓,http://61.219.170.95:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
-龍華偶像,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-龍華偶像,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-龍華偶像,http://59.125.98.83:8536/playlist.m3u8
-龍華偶像,http://61.219.170.95:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
-龍華偶像,http://50.7.220.74:8278/lunghuaidol_twn/playlist.m3u8?tid=m02000000000017261257&ct=17971&tsum=be8a7a335e6378441a89f8098abde7f1
-龍華戲劇,http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-龍華戲劇,http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-龍華戲劇,http://59.125.98.83:8534/playlist.m3u8
-龍華戲劇,http://61.219.170.95:18507/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
-龍華戲劇,http://50.7.220.74:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
-imodeTV,https://juyunlive.juyun.tv/live/24950198.m3u8
-幸福空間居家台,https://git.io/JgYYF
-幸福空間居家台,https://epg.pm/stream/6b5547376f741b393d870db8ec73d41482289413d50b6bb41fab3eaecd7eb228.m3u8
-中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
-CTN傳訊電視,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
-CTN傳訊電視,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
-世新綜合台,http://61.58.60.230:9319/live/49.m3u8
-世新綜合台,https://epg.pm/stream/b5e7c5e1f5df38b98d2239008ded374996ded7bdf8ee9ab34c72c0351bd37cef.m3u8
-客家電視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
-客家電視,https://epg.pm/stream/6da747497e89da81c0d415d07ce16e90852614bdc5b70a55074f8521a94ec240.php
-原住民頻道,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
-原住民頻道,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-大愛1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-ELTV生活英語,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
-ELTV生活英語,https://epg.pm/stream/44521cf75f3bbcbad3eb0212f565e6eb25a47f5ddfa20af3f0f4c2c72ba549ba.php
-LiveABC互動英語,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
-豬哥亮歌廳秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
-中天全民最大黨,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
-霹靂布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
-
-
-
-##台-電影##
-東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
-緯來電影,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
-星衛電影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
-龍華電影,http://220.134.196.147:9558/http/116.50.42.18:8066/hls/210/10014/cstv14.m3u8
-龍華電影,http://61.219.170.95:18574/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
-龍華經典洋片,http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
-衛視電影 HD,http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
-龍祥電影,http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
-龍祥電影,http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
-天映經典,http://50.7.220.74:8278/Celestial2/playlist.m3u8?tid=m6ef86c74cc921039065&ct=17916&tsum=d3a0eedfcfc050a71e7c99ea52c0da04
-天映頻道,https://epg.pm/stream/aa1c22b3c25fcfadebf490a9dd916e500a9ef992346e0c650332762cb59978be.m3u8
-鳳凰電影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
-經典電影,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
-CINEMAX,http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
-好萊塢電影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
-HBO Family,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-HBO Family,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
-HBO Family,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
-HBO Signature,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-HBO Signature,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-漫威宇宙電影,http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
-漫威電影,http://epg.112114.xyz/douyu/4282654
-成龍系列,http://106.53.212.251/daili/yy.php?id=1354888751
-24小時藍光大片,https://epg.pm/stream/f688dc581de111aaa5729f69be8c97651c8288c0f31c34dfa0e1a5be78960989.php
-
-
-
-##台-人文##
-愛爾達生活旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
-中天美食旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
-亞洲旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
-亞洲旅遊台,http://220.134.196.147:9568/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
-亞洲旅遊台,http://61.219.170.95:18568/http/192.168.1.9:8081/hls/76/818/ch61.m3u8
-EYE TV旅遊,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
-EYE TV旅遊,https://epg.pm/stream/1fd13ffdf5e1ae9fdd35455552793aac194f73e6907e6e8eb9a4b87ac98990c3.m3u8
-動物星球,http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
-動物星球,http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
-國家地理頻道,http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
-Discovery頻道,http://50.7.220.74:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
-Discovery頻道,http://50.7.220.74:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
-Discovery頻道,http://50.7.220.74:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
-Discovery科學,http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
-探索,http://111.11.123.49:6610/000000001000/5359008697329269813/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429145628240518&channel-id=wasusyt&Contentid=5359008697329269813
-求索紀錄,http://111.40.196.9/0000000000001001/1/index.m3u8?Contentid=6000000002000032052&livemode=1&stbId=10&channel-id=wasusyt
-求索紀錄,http://111.40.196.9/0000000000001000/1/index.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
-求索紀錄,http://111.11.123.49:6610/000000001000/6000000002000032052/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429142822239451&channel-id=wasusyt&Contentid=6000000002000032052
-求索紀錄,https://epg.pm/stream/26387b51fe3b077b009c9a035a886898e7772afe137422bf04b9a409e731e988.m3u8
-求索紀錄,https://epg.pm/stream/5c457c7fb5434ad0ab63bbf48f8682817dc99dffaf82ae7a2482e931d870b4db.m3u8
-求索科學,http://111.40.196.9/0000000000001000/1/index.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt
-求索科學,http://111.11.123.49:6610/000000001000/6000000002000032344/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429143356239632&channel-id=wasusyt&Contentid=6000000002000032344
-求索科學,https://epg.pm/stream/128f33f4fd9af25350bcf40c6aac3f47b085b4c9f6b089a0083a9587126a4b5e.m3u8
-求索科學,https://epg.pm/stream/21941bf22470ded77b9cbcf7311358b5eb994cf9c542a5d21eda23a18e3bbf44.m3u8
-求索科學,https://epg.pm/stream/b31032dedbd9ed871a1fc99dd5891095b30547076392d7775c29a26004727752.m3u8
-求索生活,http://111.40.196.9/0000000000001000//1/index.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
-求索生活,https://epg.pm/stream/4d69a1e97bbaccf568da81eee5b142c0599add88224cce265ff5d79322362d45.m3u8
-求索生活,https://epg.pm/stream/d8ad3014fd158e83b9eb0c916f8b4c48548b9f447c35847ac02dd3f713b30319.m3u8
-求索動物,http://111.40.196.9/0000000000001000//1/index.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
-求索動物,https://epg.pm/stream/8ddbfe3bc9918cb483464ef72a5541b2b610d77f3e502bd5570387b6d64902e3.m3u8
-求索動物,https://epg.pm/stream/a345a05b7cad52c6e11ae0cc10e7c5b440a1635932248b9c428a8190cb8910b0.m3u8
-求索動物,https://epg.pm/stream/e87d62cd033bd689cfe5411eff9f6b39f837fd4031a95196a5116ecc6f85f7a2.m3u8
-大自然紀錄片,http://tc-tct.douyucdn2.cn/dyliveflv3a/4837387rHLc42NHf.flv?wsAuth=9d21a938002b17185764ebb3d37836c2&token=cpn-androidmpro-0-4837387-8ad81bcd9db6237cbe9a4f0b40336d780b66e961085f65a5&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
-野人研究院,http://tc-tct.douyucdn2.cn/dyliveflv3/10039437ri3Tk16G.flv?wsAuth=a6c056a06532e15bc948acb00352a737&token=cpn-androidmpro-0-10039437-038c49a12d53e7d00226e98e5456ee877f300b7b7224c7ba&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-直播看地球,https://cn-fjqz-cmcc-v-08.bilivideo.com/live-bvc/174912/live_19193_2186291.m3u8?cdn=cn-gotcha01&expires=1656813016&len=0&oi=3746152197&pt=h5&qn=10000&trid=100358e0f27166074fb2a12873a62d331288&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=d2e023db56094e793c38709ce035db7c&ptype=0&src=57345&sl=1&source=one&sche=ban&sid=19108&sk=d97bfa68429d246673110381db5d92d2&order=4
-
-
-##台-海外衛視##
-東風衛視,http://61.219.170.95:18560/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
-人間衛視,http://61.219.170.95:18561/http/192.168.1.9:8081/hls/69/811/ch36.m3u8
-東森衛視,https://epg.pm/stream/fa1f8a9f5d354522b55267c1c31655f7051d4429a23f87aac700197ef5273177.m3u8
-東森 AMERICA,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-東森 AMERICA,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-東森財經 AMERICA,http://38.64.72.148:80/hls/modn/list/2021/chunklist0.m3u8
-東森財經 AMERICA,https://epg.pm/stream/969b2881b59d6fa152d43ce33edc60cb2531f5d660ee9353ced7be8e4d5c92aa.m3u8
-東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-東森美洲 HD,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
-東森美洲 HD,http://38.64.72.148:80/hls/modn/list/2026/chunklist1.m3u8
-東森美洲,https://epg.pm/stream/bc697051888271f8a5752ad777ff21e4232b22974256ad7ecb90f508f3f9b51c.m3u8
-TVBS國際+,https://git.io/JgYl2
-TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-三立海外,https://ytb.52sf.ga/jmsytb.m3u8?c=10
-星空衛視,http://120.84.96.215:808/hls/79/index.m3u8
-華語電視1,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
-華語電視1,http://38.64.72.148:80/hls/modn/list/4001/chunklist1.m3u8
-華語電視1,https://epg.pm/stream/3f9ec1f0524491590f15e0529ba89126a5c4f8973302bc636a78a567ad23ba26.m3u8
-華語電視1,https://epg.pm/stream/f388f3416de1d9e76197ba05aa13bb52edb246055a0dfccc642db9372ebfb7cc.m3u8
-華語電視2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-華語電視2,http://38.64.72.148:80/hls/modn/list/4002/chunklist1.m3u8
-華語電視2,https://epg.pm/stream/1bc31c5aef3c9f590724f97413d8e11a265d4268a4624043f3a9bf0691373cd9.m3u8
-華語電視3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-華語電視3,http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
-華語電視3,https://epg.pm/stream/1aafb5797e2350d8a89cb113545841d508a89d2f8b25335119746915b3fa3899.m3u8
-華語電視3,https://epg.pm/stream/311a13559d59cb86eae0f005f7f5eda857cfea72860f5226a70688e1c1098a26.m3u8
-華語電視4,https://epg.pm/stream/c30733801f75330bf636b27269e6cffece818fa88cb5531246d6085f6b441715.m3u8
-華語綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
-華語戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
-新唐人大陸台,http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
-新唐人亞太台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
-新唐人亞太台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
-新唐人亞太台,http://quality-restream.com:8080/rhaddaoui90/58b4b54325/283588
-新唐人加東台,http://quality-restream.com:8080/rhaddaoui90/58b4b54325/283591
-新唐人加西台,http://quality-restream.com:8080/rhaddaoui90/58b4b54325/283592
-新唐人三藩市台,http://quality-restream.com:8080/rhaddaoui90/58b4b54325/283593
-新唐人美東台,http://quality-restream.com:8080/rhaddaoui90/58b4b54325/283594
-新唐人美西台,http://quality-restream.com:8080/rhaddaoui90/58b4b54325/283589
-
-
-
-##台-體育##
-緯來體育 HD,rtmp://59.124.75.138/sat/tv721
-緯來體育 HD,rtmp://59.124.75.150/sat/tv721
-緯來體育 HD,http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
-緯來體育 HD,https://epg.pm/stream/41819e3238acf8b55105deda878c5ac4aff05e4703569dae87c6c91591d9ebfa.m3u8
-愛爾達體育一台,rtmp://59.124.75.138/sat/md011
-愛爾達體育一台,rtmp://59.124.75.150/sat/md011
-愛爾達體育一台,http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
-愛爾達體育三台,rtmp://59.124.75.138/sat/md021
-愛爾達體育三台,rtmp://59.124.75.150/sat/md021
-博斯魅力,rtmp://59.124.75.138/sat/md031
-博斯魅力,rtmp://59.124.75.150/sat/md031
-博斯網球,rtmp://59.124.75.138/sat/md041
-博斯網球,rtmp://59.124.75.150/sat/md041
-博斯網球,http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
-博斯高球1,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
-博斯高球2,http://198.204.239.194:27347/livehlsplay?channel_id=20117
-博斯運動1,http://220.134.196.147:9564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
-博斯運動2,rtmp://59.124.75.138/sat/md051
-博斯運動2,rtmp://59.124.75.150/sat/md051
-博斯運動2,http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
-ELEVEN體育1台,rtmp://59.124.75.138/sat/tv731
-ELEVEN體育1台,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
-ELEVEN體育1台,rtmp://59.124.75.150/sat/tv731
-ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-ELEVEN體育2台,rtmp://59.124.75.138/sat/tv741
-ELEVEN體育2台,rtmp://59.124.75.150/sat/tv741
-ELEVEN體育2台,https://epg.pm/stream/480fbbc2ba61ff75864f5aca4b9918c7ddba6fb3306ad56eb2a6482f92fc3301.m3u8
-NBA TV HD,http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/13245
-NBA TV HD,http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/130888
-NBA TV HD,http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/252145
-NBA TV HD,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/281638
-MLB Network,http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137357
-BT Sport ESPN,http://93.152.174.144:4000/play/btsportespn/index.m3u8
-新視覺 HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-智林體育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-智林體育,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58
-智林體育,https://epg.pm/stream/0b0f0b380d76db5f989624be390367edcf7abdd220380d31e1be004782323643.php
-智林體育,https://epg.pm/stream/536302a5c68086e028403125a2383622945c5edc4c6c85565dc5114867638ebe.php
-智林體育,https://epg.pm/stream/56086825f7427c66aa93efbbe438295841394cc8b513e711e31c5e701fb3345d.m3u8
-智林體育,https://epg.pm/stream/800d8d5ae1aac4d221f2d486ee9a423b2e52543d2263e9fbb55f3072b9547095.m3u8
-智林體育,https://epg.pm/stream/cfe69386784586f7fdc212b5bedebe73fb482c58c4a5694fc5a8faf4e0a0d6df.m3u8
-
-
-##音樂##
-Jay(周杰倫)電台,https://epg.pm/stream/116269fe493f5a5dd8510d3ddcfc3c18e6ddda8c93f76f16f6e5bbd9ab6b8981.php
-The K-POP,https://git.io/JgYAE
-Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-時尚運動X,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
-網路流行音樂電台,https://git.io/JgkA6
-西洋流行音樂電台,https://git.io/JgkAy
-2021華語流行歌曲,https://git.io/JgYR5
-風尚音樂,https://epg.pm/stream/0924cbfb3345a85d87c16361989d09addba2194a344ee0719969a289d25552c0.php
-MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-MTV,https://epg.pm/stream/d3dd20a4c76a5e905a6e7955e0a38a7eb4f66701dff1635304dc07367a014c1d.m3u8
-MTV Biggest Pop(臺版),https://epg.pm/stream/5327d73f1055ea788ffec5e9f0f2cedc68ec6b21f3b05d6ca0ffbb56577646a0.m3u8
-MTV Biggest pop,https://epg.pm/stream/67332852719485444d13a6a7b35857b11c86ddf7e7fa42e0265d1a3c8cc7af68.m3u8
-MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-MTV Biggest Pop,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-MTV Block Party(臺版),https://epg.pm/stream/3390bc248f05cce86f42982d3990044b252ce1e0d740fdb6fea058a2cbbb1fb2.m3u8
-MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-MTV Block Party,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-MTV Spankin New(臺版),https://epg.pm/stream/1e50ce18bed45c5ccaeb366b50170c8015e77aca038f8f71d12a049c0584c504.m3u8
-MTV Spankin,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-MTV Spankin,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-MTV WMA(臺版),https://epg.pm/stream/876db05f1d00cd5e72f7db4e425cfc723b1ca4d74e64b57993dab117172d96bd.m3u8
-MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-MTV Yo!,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Vevo 2K,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Vevo Country,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Vevo Latino,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Vevo Pop,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Vevo R&B,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Vevo Reggaetón & Trap,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Vevo'70s,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Vevo'80s,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Vevo'90s,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Classica,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f779951372da90007fd45e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-CMT Equal Play,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Live Music Replay,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-
-##台-GOOD TV##
-GOOD TV-1 綜合台,http://live.streamingfast.net/osmflivech1.m3u8
-GOOD TV-10 烤箱讀書會,http://live.streamingfast.net/osmflivech10.m3u8
-GOOD TV-11 我們EYE旅行,http://live.streamingfast.net/osmflivech11.m3u8
-GOOD TV-13 健康新煮流,http://live.streamingfast.net/osmflivech13.m3u8
-GOOD TV-14 美食旅遊台,http://live.streamingfast.net/osmflivech14.m3u8
-GOOD TV-2 生活台,http://live.streamingfast.net/osmflivech12.m3u8
-GOOD TV-3 真情部落格,http://live.streamingfast.net/osmflivech3.m3u8
-GOOD TV-5 共用觀點,http://live.streamingfast.net/osmflivech5.m3u8
-GOOD TV-6,http://live.streamingfast.net/osmflivech6.m3u8
-GOOD TV-7,http://live.streamingfast.net/osmflivech7.m3u8
-GOOD TV-8,http://live.streamingfast.net/osmflivech8.m3u8
-GOOD TV-9 愛+好醫生,http://live.streamingfast.net/osmflivech9.m3u8
-
-
-
-台灣Youtube直播源,#genre#
-
-台視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
-民視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
-華視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8
-中視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
-中天新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctinews.m3u8
-中天电视,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8
-TVBSNEWS,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/tvbsnews.m3u8
-TVBSNEWS,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m3u8
-三立LIVE新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
-三立 iNEWS 新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
-寰宇新聞頻道,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
-寰宇新聞頻道,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
-東森新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcnews.m3u8
-東森幼幼,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
-東森幼幼,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/ebcyoyo.m3u8
-天才衝衝衝,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsshow.m3u8
-大愛一臺,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai1.m3u8
-大愛二臺,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai2.m3u8
-大愛海外頻道,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai3.m3u8
-彰化生活台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sdtv.m3u8
-GSTV 幸福空間居家台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/gstv.m3u8
-SBN全球財經台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3u8
-運通財經台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
-國會頻道１,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/palimentary1.m3u8
-國會頻道２,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/palimentary2.m3u8
-
-🇹🇼成人頻道🇹🇼,#genre#
-
+🇹🇼鎖碼頻道🇹🇼,#genre#
+松視1台,P2p://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
+松視1台,P2p://ns2.hellotvvod.com:9906/eb6f0056369e460298176a183733b52d
 松視1台,mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894
-松視2台,mitv://45.92.126.18:9906/6260dfc1000bd4ed172126cefab5cf1b
-松視3台,mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3
-彩虹e台,mitv://ns2.hellotvvod.com:9906/359b6bf2b58f47adb0e119ecaaaa6af4
-彩虹電影台,mitv://ns2.hellotvvod.com:9906/e874af6954fb492694408efd40334cac
-LOOK TV,mitv://ns2.hellotvvod.com:9906/1d9b83fa670f4c9bb043303f0dd4baa0
-潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/2c7cee1243934dbcb123b0e120d94630
-驚艷電影台,mitv://ns2.hellotvvod.com:9906/3d60204c01d0419c91327711d4a0d5ce
+松視1台,mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894
+松視1台,mitv://860969650:9906/5525509395864b4697e17d784c856aac.ts
 松視1台,mitv://ns2.hellotvvod.com:9906/16240d1d4ea84fa0959f83886018f241
-松視2台,mitv://ns2.hellotvvod.com:9906/582f6cb92c6b4d01a36fbdb8e79c511c
-潘朵啦粉虹台,mitv://ns2.hellotvvod.com:9906/88b34261274b455a9fb8bbd9d1f1bdcb
-PLAYBOY,mitv://ns2.hellotvvod.com:9906/de7580ba571440ae8478429afb39508a
-香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
-HOT,mitv://ns2.hellotvvod.com:9906/cd173b013ed340daa83e4e459edbabcd
-松視3台,mitv://ns2.hellotvvod.com:9906/a5576853fb2741e4b4725be5d648329b
-JStar極限台,mitv://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd
-潘多拉玩美台Perfec,mitv://ns2.hellotvvod.com:9906/2c7cee1243934dbcb123b0e120d94630
-潘朵啦高畫質粉紅台Pink,mitv://ns2.hellotvvod.com:9906/88b34261274b455a9fb8bbd9d1f1bdcb
-驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/3d60204c01d0419c91327711d4a0d5ce
-彩虹電影台,mitv://ns2.hellotvvod.com:9906/e874af6954fb492694408efd40334cac
-彩虹e台,mitv://ns2.hellotvvod.com:9906/359b6bf2b58f47adb0e119ecaaaa6af4
-香蕉台Banana,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
-Happy頻道,mitv://ns2.hellotvvod.com:9906/794cf19698d9486c91a8f026e5f06aec
-HOT頻道,mitv://ns2.hellotvvod.com:9906/cd173b013ed340daa83e4e459edbabcd
-K 頻道,mitv://ns2.hellotvvod.com:9906/3970fa5f77e1495cadc2f369d5913d04
-Look TV,mitv://ns2.hellotvvod.com:9906/1d9b83fa670f4c9bb043303f0dd4baa0
-☆JSᴴᴰ極限電影,mitv://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd
-HAPPY,mitv://ns2.hellotvvod.com:9906/794cf19698d9486c91a8f026e5f06aec
 松視1台,mitv://ns2.hellotvvod.com:9906/16240d1d4ea84fa0959f83886018f241
-松視2台,mitv://ns2.hellotvvod.com:9906/582f6cb92c6b4d01a36fbdb8e79c511c
-松視3台,mitv://ns2.hellotvvod.com:9906/a5576853fb2741e4b4725be5d648329b
-K頻道,mitv://ns2.hellotvvod.com:9906/3970fa5f77e1495cadc2f369d5913d04
-
-🇹🇼成人頻道二區🇹🇼,#genre#
-彩虹e,mitv://45.92.126.18:9906/62668da3000bd6cc134cc0d079365057
-彩虹電影,mitv://45.92.126.18:9906/6260e2d0000cf56c172d19afe4aa1d66
-K頻道,mitv://45.92.126.18:9906/6263c0cd0009e68a085c9c619861891f
-Look TV,mitv://45.92.126.18:9906/6260e2e2000f16e6172d608b5505fbdd
-香蕉,mitv://45.92.126.18:9906/6260e29a0009b4f9172c45ea502a9f98
-驚艷電影,mitv://45.92.126.18:9906/6260e2b000004933172c99712568d815
-潘朵啦粉紅,mitv://45.92.126.18:9906/6260e27a0006cf41172bc82c06b29fb9
-潘朵啦玩美,mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31
-極限電影,mitv://45.92.126.18:9906/6260e061000b04ae172397987c1e3b34
-松視1,mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894
-松視2,mitv://45.92.126.18:9906/6260dfc1000bd4ed172126cefab5cf1b
-松視3,mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3
-Hot,mitv://45.92.126.18:9906/6260e0070001ff07172235b9bb1b0cb6
-Happy,mitv://45.92.126.18:9906/6260e2420001e45e172aec2a005c42e7
-彩虹e,p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
-彩虹電影,p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66
-K頻道,p2p://54.39.16.152:9906/6263c0cd0009e68a085c9c619861891f
-Look TV,p2p://54.39.16.152:9906/6260e2e2000f16e6172d608b5505fbdd
-香蕉,p2p://54.39.16.152:9906/6260e29a0009b4f9172c45ea502a9f98
-驚艷電影,p2p://54.39.16.152:9906/6260e2b000004933172c99712568d815
-潘朵啦粉紅,p2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9
-潘朵啦玩美,p2p://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31
-極限電影,p2p://54.39.16.152:9906/6260e061000b04ae172397987c1e3b34
-松視1,p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
-松視2,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
-松視3,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
-Hot,p2p://54.39.16.152:9906/6260e0070001ff07172235b9bb1b0cb6
-Happy,p2p://54.39.16.152:9906/6260e2420001e45e172aec2a005c42e7
-彩虹e,P2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
-彩虹電影,P2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
-K頻道,P2p://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
-Look TV,P2p://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
-香蕉,P2p://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98
-驚艷電影,P2p://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
-潘朵啦粉紅,P2p://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
-潘朵啦玩美,P2p://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
-極限電影,P2p://fccs.word-tv.com:9906/6260e061000b04ae172397987c1e3b34
-松視1,P2p://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
-松視2,P2p://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b
-松視3,P2p://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
-Hot,P2p://fccs.word-tv.com:9906/6260e0070001ff07172235b9bb1b0cb6
-Happy,P2p://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
-彩虹e,P2p://ns2.hellotvvod.com:9906/849f7904eef84f918d6e98eff1f085f9
-彩虹電影,P2p://ns2.hellotvvod.com:9906/3636300771234319bd67a74f923aa1e0
-Look TV,P2p://ns2.hellotvvod.com:9906/398e8131562f4e019869097ccf5419fa
-K頻道,P2p://ns2.hellotvvod.com:9906/2df4b20a23c043278330d70876dc412c
-驚艷電影,P2p://ns2.hellotvvod.com:9906/7f53d5fec4ca48608626898a95ef4f3b
-香蕉,P2p://ns2.hellotvvod.com:9906/99608f8ed2934418b22ff73fc6d03f27
-潘朵啦玩美,P2p://ns2.hellotvvod.com:9906/6af2f80dbd0042d5a9d2cdc2f0dabc32
-潘朵啦粉紅,P2p://ns2.hellotvvod.com:9906/b0d4d81f67df4f93a8d6a57f4483db82
-極限電影,P2p://ns2.hellotvvod.com:9906/ce605f5b4c2742799cce4bdc57802a5a
-松視1,P2p://ns2.hellotvvod.com:9906/eb6f0056369e460298176a183733b52d
-松視2,P2p://ns2.hellotvvod.com:9906/507adefa21b4405d96715daad7362987
-松視3,P2p://ns2.hellotvvod.com:9906/35ffa38154c54f49b5640ae2f7e09658
-Hot,P2p://ns2.hellotvvod.com:9906/a98eef52cfb9491d98fd13dde8703ea4
-Happy,P2p://ns2.hellotvvod.com:9906/829c130bd6044049ba85416ca440ccf0
-PLAYBOY,P2p://ns2.hellotvvod.com:9906/9704f609548443659a963c57e399148b
-彩虹e,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
-彩虹電影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
-香蕉,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
-驚艷電影,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2
-潘朵啦玩美,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
-極限電影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d
-松視1,p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1 
-松視2,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
-Hot,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571 
-彩虹e,p5p://192.240.110.203:16666/60ab271b0008823b0e6079d6366a0d7e
-彩虹電影,p5p://192.240.110.203:16666/60ab2705000438470e6022cd64274913
-香蕉,p5p://192.240.110.203:16666/60ab2769000e40550e61abfe014de5b1
-驚艷電影,p5p://192.240.110.203:16666/60ab27790005917d0e61e8453f868fd2
-潘朵啦玩美,p5p://192.240.110.203:16666/60ab279b0002b9f90e626c5b4a6b3931
-極限電影,p5p://192.240.110.203:16666/60ab2789000ebe270e62291ec8b20e2d
-松視1,p5p://192.240.110.203:16666/60ab2744000d91cc0e611b49573518f1
-松視2,p5p://192.240.110.203:16666/60ab2759000359320e616ab455299cce
-Hot,p5p://192.240.110.203:16666/60ab27ac000dd0ce0e62b1998dc28571
-大獎賽,P2p://fccs.word-tv.com:9906/626b73710005a5760c69f42172cb2df4
-VENUS,P2p://fccs.word-tv.com:9906/626b732f0006b7ce0c68f297c4634035
-性愛教主HD,P2p://fccs.word-tv.com:9906/626b7a25000d82090c842544db6623c5
-做愛特訓班HD,P2p://fccs.word-tv.com:9906/626b7343000190970c693f6577f8facb
-奶奶按摩店HD,P2p://fccs.word-tv.com:9906/626b73510008edf70c6977f8aa9df6c2
-AV女王HD,P2p://fccs.word-tv.com:9906/626b735f000db2ec0c69afe0789a0758
-水多多HD,P2p://fccs.word-tv.com:9906/626b7384000360cf0c6a3dc4c16ff53b
-火烈鳥,P2p://fccs.word-tv.com:9906/626b7397000e653b0c6a8acea1802126
-午夜藍,P2p://fccs.word-tv.com:9906/626b7425000e83a70c6cb5863e2179e9
-Splash,P2p://fccs.word-tv.com:9906/626b74450000c4030c6d2f0117e32ee4
-做愛輸入HD,P2p://fccs.word-tv.com:9906/626b7455000e15fa0c6d70eac57e0110
-Cunnilingus,p5p://crfccs.kingh888.com:16666/60ab70b60001c9880f7ffd95bace24f3 
-Blonde,p5p://crfccs.kingh888.com:16666/60ab70a40002d72f0f7fb78aefd6892e 
-Solo girl,p5p://crfccs.kingh888.com:16666/60ab7092000628430f7f721440747700 
-Couples,p5p://crfccs.kingh888.com:16666/60ab70820006339d0f7f3396eb1d08dd 
-Big Butt,p5p://crfccs.kingh888.com:16666/60ab7074000469010f7efc7173919dd8 
-Creampie,p5p://crfccs.kingh888.com:16666/60ab7064000574aa0f7ebe36edd56f5d 
-Interracial,p5p://crfccs.kingh888.com:16666/60ab7047000494df0f7e4cb4bbaee6ba 
-Masturbation,p5p://crfccs.kingh888.com:16666/60ab7034000aaf730f7e040c1a43198e 
-BBW,p5p://crfccs.kingh888.com:16666/60ab7022000573560f7dbc65c7a7c516 
-Young/Old,p5p://crfccs.kingh888.com:16666/60ab70110002dad70f7d795342d4455b 
-Public,p5p://crfccs.kingh888.com:16666/60ab6ffb000a2d7f0f7d254314764200 
-Orgy,p5p://crfccs.kingh888.com:16666/60ab6fec00082ce30f7cea283a526c13 
-German,p5p://crfccs.kingh888.com:16666/60ab6fda0007e3e20f7ca3c5f3e96f00 
-Shemale,p5p://crfccs.kingh888.com:16666/60ab6fc800082d9b0f7c5d88192b05b6 
-Amateur,p5p://crfccs.kingh888.com:16666/60ab6fb6000b8a650f7c1814ba6d0807 
-Big Tits,p5p://crfccs.kingh888.com:16666/60ab6fa60009ec320f7bd92abf911f6f 
-Threesome,p5p://crfccs.kingh888.com:16666/60ab6f950004e0220f7b9578b29fcb6e 
-Teen,p5p://crfccs.kingh888.com:16666/60ab6f77000386550f7b1fef3ff04705 
-Strip,p5p://crfccs.kingh888.com:16666/60ab6f630008847b0f7ad31644e78979 
-Milf,p5p://crfccs.kingh888.com:16666/60ab6f5300037e900f7a934df938ee61 
-京采1,p5p://crfccs.kingh888.com:16666/60ab6f2a000125b50f79f28b8f8bc416
-京采2,p5p://crfccs.kingh888.com:16666/60ab6f18000750370f79adcf701ffea1 
-京采3,p5p://crfccs.kingh888.com:16666/60ab6efa000787ad0f7938ae568e03ff 
-京采4,p5p://crfccs.kingh888.com:16666/60ab6eea000b90780f78fb362da5bde6 
-京采5,p5p://crfccs.kingh888.com:16666/60ab6ed70002dde40f78aec43aa651ca 
-京采6,p5p://crfccs.kingh888.com:16666/60ab6ec40007e3700f7865d5af2800d9 
-京采7,p5p://crfccs.kingh888.com:16666/60ab6ea5000dc3580f77ee3eb0a503fc
-京采8,p5p://crfccs.kingh888.com:16666/60ab6e880004cfa20f777aabfe62cb07
-京采9,p5p://crfccs.kingh888.com:16666/60ab6e7a0001c5a50f7743347174894b 
-京采10,p5p://crfccs.kingh888.com:16666/60ab6e6a0006200a0f7705d1ab2c12fd
-彩虹e,p3p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8
-彩虹電影,p3p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3
-Look TV,p3p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771
-驚艷,p3p://45.86.67.154:9906/608858090008d7df0f4a4cdf0b6a378b
-香蕉,p3p://45.86.67.154:9906/608858b300032d400f4ce37b5b3165d3
-潘多拉完美,p3p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6
-潘多拉粉紅,p3p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1
-松視1,p3p://45.86.67.154:9906/608857aa0008e95c0f48d9cb3b7db140
-松視2,p3p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f
-松視3,p3p://45.86.67.154:9906/608be9db0003468b034356b14ecbccf5
-HOT,p3p://45.86.67.154:9906/608be96500093cd403418b48bfc325c1
-Happy,p3p://45.86.67.154:9906/60885889000aab420f4c4156421fedd9
-日本J-Girl,p3p://45.86.67.154:9906/5d5992d900092aec076d9701a5d05e67
-日本PPV-1,p3p://45.86.67.154:9906/608856e1000e0e8a0f45c9f495659823
-日本加勒比無碼,p3p://45.86.67.154:9906/5d599556000458b807774e0d94f7b8e4
-日本東京熱無碼,p3p://45.86.67.154:9906/5d59959d0008801e07786475971fae8c
-日本一本道無碼,p3p://45.86.67.154:9906/5d59962f00074b49077a9e76646ad3d6
-日本天熱素人無碼,p3p://45.86.67.154:9906/5d59966d000e5f60077b9276d8257da1
-中字有碼1,p3p://45.86.67.154:9906/6088559700006d6a0f40bd67867e9505
-中字有碼2,p3p://45.86.67.154:9906/608855c400097d900f416f8130c4b7e2
-西方21Member,p3p://45.86.67.154:9906/5d59934300011aba076f33001616e67f
-Hustler,p3p://45.86.67.154:9906/5d4c596f00037cee078e283229e92ed5
-Dorcel,p3p://45.86.67.154:9906/5d4c59d300046907078faf0e2ec1f6ef
-Private,p3p://45.86.67.154:9906/5d4c5a4d0000fa2607918abd4b19d609
-Redlight,p3p://45.86.67.154:9906/5d4c5ab0000b952e0793102c944e6d2b
-Penthouse,p3p://45.86.67.154:9906/5d4f96c10008ca971435b1dd34df64a7
-西方1ON1,p3p://45.86.67.154:9906/5d5993b80005f6e90770fd4750858dad
-Vivid HD,p3p://45.86.67.154:9906/5d4c58250004966307891f6aec517474 
-西方21Sextuary,p3p://45.86.67.154:9906/5d59940400084e1b077226c02d3c1976
-西方葡萄牙情色,p3p://45.86.67.154:9906/5d59949e000647c707747fcbd735c60c
-西方老牛吃嫩草,p3p://45.86.67.154:9906/5d5994f60008897a0775d81f36e3fcbf
-韓國演藝圈潛規則,p3p://45.86.67.154:9906/5d5995e9000e2c6707798ec91bc8ba08
-Naughty America,p3p://45.86.67.154:9906/5d5996cc0004d512077d031d6df4719e
-西方OFFICE場景,p3p://45.86.67.154:9906/5d59971a0008b9c4077e34cceff4aa94
-西方黑白大戰,p3p://45.86.67.154:9906/5d59976d000162a8077f77232ed1532c
-上原亞衣,p3p://45.86.67.154:9906/60885714000d79780f469106a18a8398
-奧體金絲雀,p3p://45.86.67.154:9906/60885696000e73570f44a516ac364b5e
-日本VR精品,p3p://45.86.67.154:9906/6088565d00040b9b0f43c3c4428ec6b5
-蒼井空,p3p://45.86.67.154:9906/608856240007a22a0f42e6072d5e291b
-天堂素人約啪,p3p://45.86.67.154:9906/608855f5000334d30f422d4d37584dc1
-大神貓先生,p3p://45.86.67.154:9906/6088574f000726f40f4775e0effc3aef
-波多野結衣,p3p://45.86.67.154:9906/6088554b000a8bdf0f3f971e47c8b07c
-Heyzo無碼,p3p://45.86.67.154:9906/608bea27000c60bd034481e611c23d95
-人妻斬,p3p://45.86.67.154:9906/608bea4b000e85d903450f12cb48a2ef
-貓步毒藥,p3p://45.86.67.154:9906/608bea74000ea3350345af42d8d8b0a6
-人妻熟女,p3p://45.86.67.154:9906/608bea960002cfd30346310ba8ab00a1
-素人動畫,p3p://45.86.67.154:9906/608beab8000eeeb70346b8f59110da07
-XXXAV,p3p://45.86.67.154:9906/608beae40002b5d4034761b4ed6c00f0
-黑珍珠,p3p://45.86.67.154:9906/608beb520004891c03490fdc097d7e4c
-色情世界,p3p://45.86.67.154:9906/608beb7600096d8803499dbcd1c788c1
-人妻出軌,p3p://45.86.67.154:9906/608bec3e00060395034caa1cf343991f
-阿拉伯情色,p3p://45.86.67.154:9906/608bec620007bc02034d372d176b1cdf
-啄木鳥,p3p://45.86.67.154:9906/608bec97000589c3034e05a5aa2c6188
-Hi Play,p3p://45.86.67.154:9906/608beb280004836603486bcab7d4e831
-古川伊織,p3p://45.86.67.154:9906/608becd9000336e2034f06ddc00031d3
-無碼破解,p3p://45.86.67.154:9906/608bed3c00098d4203508b344ba5ff1e
-迷奸無碼,p3p://45.86.67.154:9906/608c0034000ce114039aa4ce516a1ea7
-經典三級,p3p://45.86.67.154:9906/608c0057000ef9b8039b2e1056ace6eb
-華男洋妞,p3p://45.86.67.154:9906/608c0090000eebf9039c0cb440ccacea
-麻豆大番,p3p://45.86.67.154:9906/608c00b600071408039c9f226307f8cb
-麻豆導演,p3p://45.86.67.154:9906/608c00e10007e058039d474f3d9f7f96
-麻豆外番,p3p://45.86.67.154:9906/608c0103000de280039dcda8c9f55a82
-麻豆台灣,p3p://45.86.67.154:9906/608c01a70005cbc903a04c36fe07e835
-91老金,p3p://45.86.67.154:9906/608c01d60003609403a103308739719a
-鴨總偵探,p3p://45.86.67.154:9906/608c01fd000c740003a19ddacc1c7d5f
-金三角獵艷,p3p://45.86.67.154:9906/608c02220006ded803a22cf5cf1c760a
-黑人乾翻天,p3p://45.86.67.154:9906/608c0247000bbce203a2bebca4cdb2c9
-千人斬,p3p://45.86.67.154:9906/608c027c000c450603a38de66db6a92d
-小寶尋花,p3p://45.86.67.154:9906/608c02a30002b14603a423cb81258ba5
-午夜尋花,p3p://45.86.67.154:9906/608c02c80004e1aa03a4b4e26241a1bc
-男爵探花,p3p://45.86.67.154:9906/608c02f80006677903a570c674c16ef7
-大陸迷奸,p3p://45.86.67.154:9906/608c031d000bbb8103a602ab387ff987
-SM西貢女,p3p://45.86.67.154:9906/608c034100080f6903a68e5b1f24e142
-PsychopornTW,p3p://45.86.67.154:9906/608c037b0005e54c03a7705dc4f2e0d2
-俄羅斯毛子,p3p://45.86.67.154:9906/608c03bd000d5ca203a8741602ffe939
-美國家庭,p3p://45.86.67.154:9906/608c03e2000dff3203a904c8e2c1604e
-歐美藝術,p3p://45.86.67.154:9906/608c0408000d5fc803a9990f5e1be750
-果凍傳媒,p3p://45.86.67.154:9906/608c0435000affe303aa483b0c83ac05
-彩虹e,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts
-彩虹電影,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
-香蕉,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1.ts
-驚艷電影,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2.ts
-潘朵啦玩美,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931.ts
-極限電影,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
-松視1,p8p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1.ts
-松視2,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce.ts
-Hot,p8p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571.ts
-Look TV,p8p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd.ts
-彩虹e,p9p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8.ts
-彩虹電影,p9p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3.ts
-LOOK TV,p9p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771.ts
-驚艷,p9p://45.86.67.154:9906/608858090008d7df0f4a4cdf0b6a378b.ts
-香蕉,p9p://45.86.67.154:9906/608858b300032d400f4ce37b5b3165d3.ts
-潘多拉完美,p9p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6.ts
-潘多拉粉紅,p9p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1.ts
-松視1,p9p://45.86.67.154:9906/608857aa0008e95c0f48d9cb3b7db140.ts
-松視2,p9p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f.ts
-HOT,p9p://45.86.67.154:9906/608be96500093cd403418b48bfc325c1.ts
-日本J-Girl,p9p://45.86.67.154:9906/5d5992d900092aec076d9701a5d05e67.ts
-日本PPV-1,p9p://45.86.67.154:9906/608856e1000e0e8a0f45c9f495659823.ts
-日本加勒比無碼,p9p://45.86.67.154:9906/5d599556000458b807774e0d94f7b8e4.ts
-日本東京熱無碼,p9p://45.86.67.154:9906/5d59959d0008801e07786475971fae8c.ts
-日本一本道無碼,p9p://45.86.67.154:9906/5d59962f00074b49077a9e76646ad3d6.ts
-日本天熱素人無碼,p9p://45.86.67.154:9906/5d59966d000e5f60077b9276d8257da1.ts
-中字有碼1,p9p://45.86.67.154:9906/6088559700006d6a0f40bd67867e9505.ts
-中字有碼2,p9p://45.86.67.154:9906/608855c400097d900f416f8130c4b7e2.ts
-
-🇹🇼成人頻道三區🇹🇼,#genre#
-
-限制级电影,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
-俄罗斯成人5台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
-俄罗斯成人4台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
-俄罗斯成人3台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
-俄罗斯成人2台,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
-俄罗斯成人1台,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
-一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
-二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
-k频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
-香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
-松视3欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
-松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
-松视1欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
-松视2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
-
-K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
-松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
-松视3欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
-松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
-香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
-潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
-粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
-玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
-二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
-
-Adult IPTV (18+),http://cdn.adultiptv.net/bigass.m3u8
-一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
-惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
-俄罗斯成人4台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
-俄罗斯成人5台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
-限制级电影,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
-彩虹e,mitv://ns2.hellotvvod.com:9906/abf66e1926ce4018b7b059016c3e2d9b.ts
-彩虹电影,mitv://ns2.hellotvvod.com:9906/d4c614b8b1e9426a858fb8331d47f4a4.ts
-LOOK TV,mitv://ns2.hellotvvod.com:9906/e94eb5756d7a42b3adf338b1a4a5344a.ts
-潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/22366d1ff0e64c5b870ff01b7e4bb8d4.ts
-惊艳成人电影,mitv://ns2.hellotvvod.com:9906/bcfdd9d57f1544dcaa10e84a2f239f19.ts
-松视1,mitv://ns2.hellotvvod.com:9906/2b2051e6c8a24f18a0ec7ca6f41ca840.ts
-松视2,mitv://ns2.hellotvvod.com:9906/b5eb6088e0bb4aa692bf7209bcf0c4b1.ts
-潘朵啦粉红台,mitv://ns2.hellotvvod.com:9906/6ffed66679ef45d9810f116e785a2a53.ts
-PLAYBOY,mitv://ns2.hellotvvod.com:9906/264546d06a06432bbbb39ed82934c78b.ts
-香蕉,mitv://ns2.hellotvvod.com:9906/7264623a28ba4b498d0d0c5b08154c28.ts
-HOT,mitv://ns2.hellotvvod.com:9906/88652a8699964209acf41b25e2c15094.ts
-松视3,mitv://ns2.hellotvvod.com:9906/7cda1cc3c22944f5be2d5cad8b44340d.ts
-JStar极限,mitv://ns2.hellotvvod.com:9906/47b422bd6c57400484fa154649963af0.ts
-HAPPY,mitv://ns2.hellotvvod.com:9906/bb9503e2799342cfbc406a8ee2783367.ts
-K,mitv://ns2.hellotvvod.com:9906/04538c5c882f4f34b22ae5342aa666b7.ts
-彩虹e台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
-彩虹電影台,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
-松視1台,p8p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1 
-松視1台,p8p://45.92.126.18:9906/60e5c60e000509400cfb0e18dd7b20e2
-松視1台,p8p://45.92.126.18:19706/60e5c60e000509400cfb0e18dd7b20e2
-松視1台,p8p://fccs.123178.top:9906/60e5c60e000509400cfb0e18dd7b20e2
-松視2台,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
-松視2台,p8p://45.92.126.18:9906/60e5c644000b70ee0cfbe2ab20648a6b
-松視2台,p8p://45.92.126.18:19706/60e5c644000b70ee0cfbe2ab20648a6b
-松視2台,p8p://fccs.123178.top:9906/60e5c644000b70ee0cfbe2ab20648a6b
-Hot,p8p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571 
-Hot,p8p://45.92.126.18:9906/60e5c5940008bfb40cf9327b7a38210e
-Hot,p8p://45.92.126.18:19706/60e5c5940008bfb40cf9327b7a38210e
-Hot,p8p://fccs.123178.top:9906/60e5c5940008bfb40cf9327b7a38210e
-Hot,p8p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
-驚豔成人電影台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2
-驚豔成人電影台,p8p://fccs.123178.top:9906/60fd2dbc0002e8d300ed4537251ee06d
-驚豔成人電影台,p8p://45.92.126.18:19706/60fd2dbc0002e8d300ed4537251ee06d
-香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
-香蕉台,p8p://fccs.123178.top:9906/60fd2ddd000096c200edc58716da3240
-香蕉台,p8p://45.92.126.18:19706/60fd2ddd000096c200edc58716da3240
-潘朵啦高畫質玩美台,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
-潘朵啦高畫質玩美台,p8p://45.92.126.18:9906/60e5c6c10007bff20cfdca01da007296
-潘朵啦高畫質玩美台,p8p://45.92.126.18:19706/60e5c6c10007bff20cfdca01da007296
-潘朵啦高畫質玩美台,p8p://fccs.123178.top:9906/60e5c6c10007bff20cfdca01da007296
-JStar極限台電影頻道,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d
-JStar極限台電影頻道,p8p://45.92.126.18:9906/60fd2dff000297b000ee4ada2986dc4f
-JStar極限台電影頻道,p8p://45.92.126.18:19706/60fd2dff000297b000ee4ada2986dc4f
-JStar極限台電影頻道,p8p://fccs.123178.top:9906/60fd2dff000297b000ee4ada2986dc4f
-松視3台,p8p://45.92.126.18:9906/60e5c670000a55dc0cfc8e43fe53445e
-松視3台,p8p://45.92.126.18:19706/60e5c670000a55dc0cfc8e43fe53445e
-松視3台,p8p://fccs.123178.top:9906/60e5c670000a55dc0cfc8e43fe53445e
-松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
-松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
-松视3欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
-松视4欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
-潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
-香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
-K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
-惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
-HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8
-粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
-玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
-极限电影,https://nginx1.cmsiptv.xyz/hls/jixian/index.m3u8
-潘哆啦玩美,https://nginx1.cmsiptv.xyz/hls/pdlwm/index.m3u8
-潘哆啦粉红,https://nginx1.cmsiptv.xyz/hls/pdlwm/index.m3u8
-彩虹e台,mitv://ns2.hellotvvod.com:9906/3fb96c0e3402489ea71b09b4665519e7.ts
-彩虹電影台,mitv://ns2.hellotvvod.com:9906/2a020e712d4d436691da2ea78eafebdc.ts
-LOOK TV,mitv://ns2.hellotvvod.com:9906/d6795ca162e34cb89be51befc6dfe594.ts
-潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/d3ece42c680544de95e35183ac5b5389.ts
-驚豔電影台,mitv://ns2.hellotvvod.com:9906/6a4958e7000e4e0db866b28a0790f477.ts
+松視1台,mitv://ns2.hellotvvod.com:9906/2b2051e6c8a24f18a0ec7ca6f41ca840.ts
+松視1台,mitv://ns2.hellotvvod.com:9906/2b2051e6c8a24f18a0ec7ca6f41ca840.ts
 松視1台,mitv://ns2.hellotvvod.com:9906/5525509395864b4697e17d784c856aac.ts
-松視2台,mitv://ns2.hellotvvod.com:9906/f99730c3755b4c0898176cb31cdbd7a9.ts
-潘朵啦粉虹台,mitv://ns2.hellotvvod.com:9906/0f5d661ffac94a6c9d1e3677ad288827.ts
-PLAYBOY,mitv://ns2.hellotvvod.com:9906/84371c47b4b54e36b0065d3a2a773379.ts
-香蕉台,mitv://ns2.hellotvvod.com:9906/1362bb778dae475288955810c1ab2aaa.ts
-HOT,mitv://ns2.hellotvvod.com:9906/82d829e45ddb4433ae62280e78e84f64.ts
-松視3台,mitv://ns2.hellotvvod.com:9906/eddc3d313451476097ea7506d1d0867d.ts
-JStar極限台,mitv://ns2.hellotvvod.com:9906/9279f96ca28d4a47b1926bef15c0a082.ts
-HAPPY,mitv://ns2.hellotvvod.com:9906/338ec38c41e94ac2a7a556096b6964ea.ts
-松视1台,p3p://45.86.67.154:9906/608857aa0008e95c0f48d9cb3b7db140
-松视1台,p5p://45.92.126.18:9906/60e5c60e000509400cfb0e18dd7b20e2
-松视1台,p5p://fccs.123178.top:9906/60e5c60e000509400cfb0e18dd7b20e2
-松视2台,p3p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f
-松视2台,p5p://45.92.126.18:9906/60e5c644000b70ee0cfbe2ab20648a6b
-松视2台,p5p://fccs.123178.top:9906/60e5c644000b70ee0cfbe2ab20648a6b
-松视3台,p5p://45.92.126.18:9906/60e5c670000a55dc0cfc8e43fe53445e
-松视3台,p5p://fccs.123178.top:9906/60e5c670000a55dc0cfc8e43fe53445e
-K频道,p5p://45.92.126.18:9906/60e5c69c0007bf360cfd3979da394ad7
-K频道,p5p://fccs.123178.top:9906/60e5c69c0007bf360cfd3979da394ad7
+松視1台,mitv://ns2.hellotvvod.com:9906/5525509395864b4697e17d784c856aac.ts
+松視1台,p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
+松視1台,p3p://45.86.67.154:9906/608857aa0008e95c0f48d9cb3b7db140
+松視1台,p3p://45.86.67.154:9906/608857aa0008e95c0f48d9cb3b7db140
+松視1台,p3p://45.86.67.154:9906/608857aa0008e95c0f48d9cb3b7db140
+松視1台,p5p://192.240.110.203:16666/60ab2744000d91cc0e611b49573518f1
 松視1台,p5p://45.92.126.18:9906/60e5c60e000509400cfb0e18dd7b20e2
-松視2台,p5p://45.92.126.18:9906/60e5c644000b70ee0cfbe2ab20648a6b
-松視3台,p5p://45.92.126.18:9906/60e5c670000a55dc0cfc8e43fe53445e
-Hot,p5p://45.92.126.18:9906/60e5c5940008bfb40cf9327b7a38210e
-Happy,p5p://45.92.126.18:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
-彩虹e台,p5p://45.92.126.18:9906/60e5c5e4000b60ac0cfa6ba7ff5ef206
-彩虹e台,mitv://860969650:9906/3fb96c0e3402489ea71b09b4665519e7.ts
-K 頻道,p5p://45.92.126.18:9906/60e5c69c0007bf360cfd3979da394ad7
-Look TV,p5p://45.92.126.18:9906/60ed753e0003e9cf1108a73c5ad48fc9
-驚豔台,p5p://45.92.126.18:9906/60fd2dbc0002e8d300ed4537251ee06d
-香蕉台,p5p://45.92.126.18:9906/60fd2ddd000096c200edc58716da3240
-香蕉台,mitv://860969650:9906/1362bb778dae475288955810c1ab2aaa.ts
-潘朵拉玩美台,p5p://45.92.126.18:9906/60e5c6c10007bff20cfdca01da007296
-潘朵拉粉紅台,p5p://45.92.126.18:9906/60fd2d970005922100ecb55d2f333764
-JStar極限台,p5p://45.92.126.18:9906/60fd2dff000297b000ee4ada2986dc4f
-彩虹电影台,mitv://860969650:9906/2a020e712d4d436691da2ea78eafebdc.ts
-LOOK TV,mitv://860969650:9906/d6795ca162e34cb89be51befc6dfe594.ts
-潘朵啦玩美台,mitv://860969650:9906/d3ece42c680544de95e35183ac5b5389.ts
-惊艳成人电影台,mitv://860969650:9906/6a4958e7000e4e0db866b28a0790f477.ts
-松视1台,mitv://860969650:9906/5525509395864b4697e17d784c856aac.ts
-松视2台,mitv://860969650:9906/f99730c3755b4c0898176cb31cdbd7a9.ts
-潘朵啦粉红台,mitv://860969650:9906/0f5d661ffac94a6c9d1e3677ad288827.ts
-PLAYBOY,mitv://860969650:9906/84371c47b4b54e36b0065d3a2a773379.ts
-HOT,mitv://860969650:9906/82d829e45ddb4433ae62280e78e84f64.ts
-松视3台,mitv://860969650:9906/eddc3d313451476097ea7506d1d0867d.ts
-JStar极限台,mitv://860969650:9906/9279f96ca28d4a47b1926bef15c0a082.ts
-HAPPY,mitv://860969650:9906/338ec38c41e94ac2a7a556096b6964ea.ts
-
-彩虹电影,p9p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3.ts
-LookTV,p9p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771.ts
-潘多拉完美,p9p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6.ts
-潘多拉粉红,p9p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1.ts
-松视1台,p9p://45.86.67.154:9906/608857aa0008e95c0f48d9cb3b7db140.ts
-松视2台,p9p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f.ts
-热,p9p://45.86.67.154:9906/608be96500093cd403418b48bfc325c1.ts
-彩虹E台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts
-彩虹电影,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
-香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1.ts
-观台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2.ts
-潘朵拉玩美,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931.ts
-极限电影台,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
-松视1台,p8p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1.ts
-松视2台,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce.ts
-GAORA,rtmp://59.124.75.150/sat/jp031
-
-彩虹e台,mitv://ns2.hellotvvod.com:9906/3fb96c0e3402489ea71b09b4665519e7.ts
-彩虹電影台,mitv://ns2.hellotvvod.com:9906/2a020e712d4d436691da2ea78eafebdc.ts
-LOOK TV,mitv://ns2.hellotvvod.com:9906/d6795ca162e34cb89be51befc6dfe594.ts
-潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/d3ece42c680544de95e35183ac5b5389.ts
-驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/6a4958e7000e4e0db866b28a0790f477.ts
-松視1台,mitv://ns2.hellotvvod.com:9906/5525509395864b4697e17d784c856aac.ts
-松視2台,mitv://ns2.hellotvvod.com:9906/f99730c3755b4c0898176cb31cdbd7a9.ts
-潘朵啦粉紅台,mitv://ns2.hellotvvod.com:9906/0f5d661ffac94a6c9d1e3677ad288827.ts
-PLAYBOY,mitv://ns2.hellotvvod.com:9906/84371c47b4b54e36b0065d3a2a773379.ts
-香蕉台,mitv://ns2.hellotvvod.com:9906/1362bb778dae475288955810c1ab2aaa.ts
-HOT,mitv://ns2.hellotvvod.com:9906/82d829e45ddb4433ae62280e78e84f64.ts
-松視3台,mitv://ns2.hellotvvod.com:9906/eddc3d313451476097ea7506d1d0867d.ts
-JStar極限台,mitv://ns2.hellotvvod.com:9906/9279f96ca28d4a47b1926bef15c0a082.ts
-HAPPY,mitv://ns2.hellotvvod.com:9906/338ec38c41e94ac2a7a556096b6964ea.ts
-彩虹e台,mitv://ns2.hellotvvod.com:9906/abf66e1926ce4018b7b059016c3e2d9b.ts
-彩虹电影台,mitv://ns2.hellotvvod.com:9906/d4c614b8b1e9426a858fb8331d47f4a4.ts
-LOOK TV,mitv://ns2.hellotvvod.com:9906/e94eb5756d7a42b3adf338b1a4a5344a.ts
-潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/22366d1ff0e64c5b870ff01b7e4bb8d4.ts
-惊艳成人电影台,mitv://ns2.hellotvvod.com:9906/bcfdd9d57f1544dcaa10e84a2f239f19.ts
-松视1台,mitv://ns2.hellotvvod.com:9906/2b2051e6c8a24f18a0ec7ca6f41ca840.ts
-松视2台,mitv://ns2.hellotvvod.com:9906/b5eb6088e0bb4aa692bf7209bcf0c4b1.ts
-潘朵啦粉红台,mitv://ns2.hellotvvod.com:9906/6ffed66679ef45d9810f116e785a2a53.ts
-PLAYBOY,mitv://ns2.hellotvvod.com:9906/264546d06a06432bbbb39ed82934c78b.ts
-香蕉台,mitv://ns2.hellotvvod.com:9906/7264623a28ba4b498d0d0c5b08154c28.ts
-HOT,mitv://ns2.hellotvvod.com:9906/88652a8699964209acf41b25e2c15094.ts
-松视3台,mitv://ns2.hellotvvod.com:9906/7cda1cc3c22944f5be2d5cad8b44340d.ts
-JStar极限台,mitv://ns2.hellotvvod.com:9906/47b422bd6c57400484fa154649963af0.ts
-HAPPY,mitv://ns2.hellotvvod.com:9906/bb9503e2799342cfbc406a8ee2783367.ts
-K,mitv://ns2.hellotvvod.com:9906/04538c5c882f4f34b22ae5342aa666b7.ts
-松潘台,http://live.spccmc.com:90/live/spxwzh.m3u8
-女鬼,http://m3u8.jiertai.cn/84cb427007fcc61f774b8871034ff09c08c6c219.m3u8
-BANG BROS FHD,http://ott3.alwaysdata.net/live/lv.php?id=35
-BHOT FHD,http://ott3.alwaysdata.net/live/lv.php?id=75
-BRAZZERS FHD,http://ott3.alwaysdata.net/live/lv.php?id=22
-CBLISS 4K,http://ott3.alwaysdata.net/live/lv.php?id=72
-DDF NETWORK FHD,http://ott3.alwaysdata.net/live/lv.php?id=17
-EROX FHD,http://ott3.alwaysdata.net/live/lv.php?id=96
-FAKE TAXI FHD,http://ott3.alwaysdata.net/live/lv.php?id=02
-HARD X FHD,http://ott3.alwaysdata.net/live/lv.php?id=18
-HiTZEFREi! FHD,http://ott3.alwaysdata.net/live/lv.php?id=20
-HOLED.COM FHD,http://ott3.alwaysdata.net/live/lv.php?id=21
-HOTGUYS FUCK FHD,http://ott3.alwaysdata.net/live/lv.php?id=23
-JAPANHDV FHD,http://ott3.alwaysdata.net/live/lv.php?id=25
-LEO TV FHD,http://ott3.alwaysdata.net/live/lv.php?id=01
-lesbea.com FHD,http://ott3.alwaysdata.net/live/lv.php?id=27
-LETHAL PASS FHD,http://ott3.alwaysdata.net/live/lv.php?id=29
-METART.COM FHD,http://ott3.alwaysdata.net/live/lv.php?id=33
-MYLF FHD,http://ott3.alwaysdata.net/live/lv.php?id=16
-MYLF.COM FHD,http://ott3.alwaysdata.net/live/lv.php?id=36
-NAUGHTY AMERICA FHD,http://ott3.alwaysdata.net/live/lv.php?id=37
-NUBILES FHD,http://ott3.alwaysdata.net/live/lv.php?id=38
-PLAY BOY FHD,http://ott3.alwaysdata.net/live/lv.php?id=42
-PRIVATE FHD,http://ott3.alwaysdata.net/live/lv.php?id=45
-PublicAgent FHD,http://ott3.alwaysdata.net/live/lv.php?id=46
-REALITY KINGS 2FHD,http://ott3.alwaysdata.net/live/lv.php?id=48
-REALITY KINGS 3FHD,http://ott3.alwaysdata.net/live/lv.php?id=49
-REALITY KINGS FHD,http://ott3.alwaysdata.net/live/lv.php?id=47
-REDXXX FHD,http://ott3.alwaysdata.net/live/lv.php?id=81
-TINY  4K,http://ott3.alwaysdata.net/live/lv.php?id=58
-TUSHY FHD,http://ott3.alwaysdata.net/live/lv.php?id=61
-TUSHY RAW FHD,http://ott3.alwaysdata.net/live/lv.php?id=62
-VIVID RED FHD,http://ott3.alwaysdata.net/live/lv.php?id=64
-VIXEN FHD,http://ott3.alwaysdata.net/live/lv.php?id=65
-WHITEBOXXX FHD,http://ott3.alwaysdata.net/live/lv.php?id=67
-WICKED FHD,http://ott3.alwaysdata.net/live/lv.php?id=68
-xyMAX FHD,http://ott3.alwaysdata.net/live/lv.php?id=86
-xyMIX FHD,http://ott3.alwaysdata.net/live/lv.php?id=87
-xyPLUS FHD,http://ott3.alwaysdata.net/live/lv.php?id=88
-两只兔子 FHD,http://ott3.alwaysdata.net/live/lv.php?id=60
-
-彩虹e台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts
-彩虹電影台,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
-香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1.ts
-驚豔成人電影台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2.ts
-潘朵啦高畫質玩美台,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931.ts
-JStar極限台電影頻道,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
-松視1台,p8p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1.ts
-松視2台,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce.ts
-Hot,p8p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571.ts
-
+松視1台,p5p://45.92.126.18:9906/60e5c60e000509400cfb0e18dd7b20e2
 松視1台,p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1 
-松視1台,p8p://192.240.110.203:16666/60ab2744000d91cc0e611b49573518f1
-松視2台,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
-松視2台,p8p://192.240.110.203:16666/60ab2759000359320e616ab455299cce
-松視2台,p8p://45.92.126.18:9906/60e5c644000b70ee0cfbe2ab20648a6b
-松視2台,p8p://fccs.123178.top:9906/60e5c644000b70ee0cfbe2ab20648a6b
-彩虹電影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
-彩虹電影,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
-彩虹e台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts 
-彩虹e台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
-彩虹e台,p8p://192.240.110.203:16666/60ab271b0008823b0e6079d6366a0d7e
-彩虹e台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts 
-彩虹e台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts   
-香蕉台,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1   
-香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
-香蕉台,p8p://192.240.110.203:16666/60ab2769000e40550e61abfe014de5b1
-香蕉台,p5p://fccs.123178.top:9906/60ab2769000e40550e61abfe014de5b1  
-香蕉台,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1   
-香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1.ts 
-驚豔成人電影台,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2             
-驚豔成人電影台,p8p://192.240.110.203:16666/60ab27790005917d0e61e8453f868fd2
-驚豔成人電影台,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2             
-驚豔成人電影台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2.ts  
-驚豔成人電影台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2
-潘朵啦高畫質玩美台,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931              
-潘朵啦高畫質玩美台,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
-潘朵啦高畫質玩美台,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931              
-潘朵啦高畫質玩美台,p8p://192.240.110.203:16666/60ab279b0002b9f90e626c5b4a6b3931
-潘朵啦高畫質玩美台,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931.ts 
-潘朵啦高畫質玩美台,p5p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6.ts
-潘朵拉粉红台,p9p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1.ts
-潘朵拉粉红台,p5p://crfccs.kingh888.com:16666/60fd2d970005922100ecb55d2f333764              
-潘朵拉粉红台,p8p://crfccs.kingh888.com:16666/60fd2d970005922100ecb55d2f333764 
-潘朵拉粉红台,p8p://fccs.123178.top:9906/60fd2d970005922100ecb55d2f333764
-JStar極限台電影頻道,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
-JStar極限台電影頻道,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
-JStar極限台電影頻道,p8p://192.240.110.203:16666/60ab2789000ebe270e62291ec8b20e2d
-JStar極限台電影頻道,p8p://fccs.123178.top:9906/60fd2dff000297b000ee4ada2986dc4
-JStar極限台電影頻道,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
-HOT,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571 
-HOT,p5p://45.92.126.18:9906/60e5c5940008bfb40cf9327b7a38210e
-HOT,p8p://fccs.123178.top:9906/60e5c5940008bfb40cf9327b7a38210e
-HOT,p8p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571 
-LOOK-HD,p5p://45.92.126.18:9906/60ed753e0003e9cf1108a73c5ad48fc9
-LOOK-HD,p8p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd
-LOOK-HD,p5p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd
-LOOK-HD,p5p://45.92.126.18:9906/60ed753e0003e9cf1108a73c5ad48fc9
-
-彩虹台,p5p：//crfccs.kingh888.com：16666/60ab271b0008823b0e6079d6366a0d7e
-彩虹電影台,p5p：//crfccs.kingh888.com：16666/60ab2705000438470e6022cd64274913
-香蕉台,p5p：//crfccs.kingh888.com：16666/60ab2769000e40550e61abfe014de5b1
-驚豔成人電影台,p5p：//crfccs.kingh888.com：16666/60ab27790005917d0e61e8453f868fd2
-潘朵啦高畫質玩美台,p5p：//crfccs.kingh888.com：16666/60ab279b0002b9f90e626c5b4a6b3931
-JStar極限台電影頻道,p5p：//crfccs.kingh888.com：16666/60ab2789000ebe270e62291ec8b20e2d
+松視1台,p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1 
+松視1台,p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1 
+松視1台,p5p://fccs.123178.top:9906/60e5c60e000509400cfb0e18dd7b20e2
 松視1台,p5p：//crfccs.kingh888.com：16666/60ab2744000d91cc0e611b49573518f1
-松視2台,p5p：//crfccs.kingh888.com：16666/60ab2759000359320e616ab455299cce
-Hot,p5p：//crfccs.kingh888.com：16666/60ab27ac000dd0ce0e62b1998dc28571
-彩虹E台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts
-彩虹电影,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
-香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1.ts
-观台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2.ts
-潘朵拉玩美,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931.ts
-极限电影台,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
-松视1台,p8p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1.ts
-松视2台,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce.ts
 松視1台,p8p://192.240.110.203:16666/60ab2744000d91cc0e611b49573518f1
-松視1台,p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1 
-松視2台,p8p://192.240.110.203:16666/60ab2759000359320e616ab455299cce
+松視1台,p8p://192.240.110.203:16666/60ab2744000d91cc0e611b49573518f1
+松視1台,p8p://45.92.126.18:19706/60e5c60e000509400cfb0e18dd7b20e2
+松視1台,p8p://45.92.126.18:9906/60e5c60e000509400cfb0e18dd7b20e2
+松視1台,p8p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1 
+松視1台,p8p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1.ts
+松視1台,p8p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1.ts
+松視1台,p8p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1.ts
+松視1台,p8p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1.ts
+松視1台,p8p://fccs.123178.top:9906/60e5c60e000509400cfb0e18dd7b20e2
+松視1台,p9p://45.86.67.154:9906/608857aa0008e95c0f48d9cb3b7db140.ts
+松視1台,p9p://45.86.67.154:9906/608857aa0008e95c0f48d9cb3b7db140.ts
+
+松視2台,P2p://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b
+松視2台,P2p://ns2.hellotvvod.com:9906/507adefa21b4405d96715daad7362987
+松視2台,mitv://45.92.126.18:9906/6260dfc1000bd4ed172126cefab5cf1b
+松視2台,mitv://45.92.126.18:9906/6260dfc1000bd4ed172126cefab5cf1b
+松視2台,mitv://860969650:9906/f99730c3755b4c0898176cb31cdbd7a9.ts
+松視2台,mitv://ns2.hellotvvod.com:9906/582f6cb92c6b4d01a36fbdb8e79c511c
+松視2台,mitv://ns2.hellotvvod.com:9906/582f6cb92c6b4d01a36fbdb8e79c511c
+松視2台,mitv://ns2.hellotvvod.com:9906/b5eb6088e0bb4aa692bf7209bcf0c4b1.ts
+松視2台,mitv://ns2.hellotvvod.com:9906/b5eb6088e0bb4aa692bf7209bcf0c4b1.ts
+松視2台,mitv://ns2.hellotvvod.com:9906/f99730c3755b4c0898176cb31cdbd7a9.ts
+松視2台,mitv://ns2.hellotvvod.com:9906/f99730c3755b4c0898176cb31cdbd7a9.ts
+松視2台,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
+松視2台,p3p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f
+松視2台,p3p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f
+松視2台,p3p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f
+松視2台,p5p://192.240.110.203:16666/60ab2759000359320e616ab455299cce
+松視2台,p5p://45.92.126.18:9906/60e5c644000b70ee0cfbe2ab20648a6b
+松視2台,p5p://45.92.126.18:9906/60e5c644000b70ee0cfbe2ab20648a6b
 松視2台,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
+松視2台,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
+松視2台,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
+松視2台,p5p://fccs.123178.top:9906/60e5c644000b70ee0cfbe2ab20648a6b
+松視2台,p5p：//crfccs.kingh888.com：16666/60ab2759000359320e616ab455299cce
+松視2台,p8p://192.240.110.203:16666/60ab2759000359320e616ab455299cce
+松視2台,p8p://192.240.110.203:16666/60ab2759000359320e616ab455299cce
+松視2台,p8p://45.92.126.18:19706/60e5c644000b70ee0cfbe2ab20648a6b
 松視2台,p8p://45.92.126.18:9906/60e5c644000b70ee0cfbe2ab20648a6b
+松視2台,p8p://45.92.126.18:9906/60e5c644000b70ee0cfbe2ab20648a6b
+松視2台,p8p://45.92.126.18:9906/60e5c644000b70ee0cfbe2ab20648a6b
+松視2台,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
+松視2台,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce.ts
+松視2台,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce.ts
+松視2台,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce.ts
+松視2台,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce.ts
 松視2台,p8p://fccs.123178.top:9906/60e5c644000b70ee0cfbe2ab20648a6b
+松視2台,p8p://fccs.123178.top:9906/60e5c644000b70ee0cfbe2ab20648a6b
+松視2台,p8p://fccs.123178.top:9906/60e5c644000b70ee0cfbe2ab20648a6b
+松視2台,p9p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f.ts
+松視2台,p9p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f.ts
 
-彩虹電影台,p8p://192.240.110.203:16666/60ab2705000438470e6022cd64274913
-彩虹電影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
-彩虹電影,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
-彩虹e台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
-彩虹e台,p8p://192.240.110.203:16666/60ab271b0008823b0e6079d6366a0d7e
-彩虹e台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts 
-彩虹e台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts   
-香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
-香蕉台,p8p://192.240.110.203:16666/60ab2769000e40550e61abfe014de5b1
-香蕉台,p5p://fccs.123178.top:9906/60ab2769000e40550e61abfe014de5b1  
-香蕉台,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1   
-香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1.ts 
-驚豔成人電影台,p8p://192.240.110.203:16666/60ab27790005917d0e61e8453f868fd2
-驚豔成人電影台,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2             
-驚豔成人電影台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2.ts  
-驚豔成人電影台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2
-潘朵啦高畫質玩美台,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
-潘朵啦高畫質玩美台,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931              
-潘朵啦高畫質玩美台,p8p://192.240.110.203:16666/60ab279b0002b9f90e626c5b4a6b3931
-潘朵啦高畫質玩美台,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931.ts 
-潘朵啦高畫質玩美台,p9p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6.ts
-潘朵拉粉红台,p9p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1.ts
-潘朵拉粉红台,p5p://crfccs.kingh888.com:16666/60fd2d970005922100ecb55d2f333764              
-潘朵拉粉红台,p8p://crfccs.kingh888.com:16666/60fd2d970005922100ecb55d2f333764 
-潘朵拉粉红台,p8p://fccs.123178.top:9906/60fd2d970005922100ecb55d2f333764
-JStar極限台電影頻道,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
-JStar極限台電影頻道,p8p://192.240.110.203:16666/60ab2789000ebe270e62291ec8b20e2d
-JStar極限台電影頻道,p8p://fccs.123178.top:9906/60fd2dff000297b000ee4ada2986dc4
-JStar極限台電影頻道,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
-HOT,p8p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571 
-HOT,p8p://45.92.126.18:9906/60e5c5940008bfb40cf9327b7a38210e
-HOT,p8p://fccs.123178.top:9906/60e5c5940008bfb40cf9327b7a38210e
-HOT,p8p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571 
-LOOK-HD,p5p://45.92.126.18:9906/60ed753e0003e9cf1108a73c5ad48fc9
-LOOK-HD,p8p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd
-LOOK-HD,p5p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd
-LOOK-HD,p5p://45.92.126.18:9906/60ed753e0003e9cf1108a73c5ad48fc9
+松視3台,P2p://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
+松視3台,P2p://ns2.hellotvvod.com:9906/35ffa38154c54f49b5640ae2f7e09658
+松視3台,mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3
+松視3台,mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3
+松視3台,mitv://860969650:9906/eddc3d313451476097ea7506d1d0867d.ts
+松視3台,mitv://ns2.hellotvvod.com:9906/7cda1cc3c22944f5be2d5cad8b44340d.ts
+松視3台,mitv://ns2.hellotvvod.com:9906/7cda1cc3c22944f5be2d5cad8b44340d.ts
+松視3台,mitv://ns2.hellotvvod.com:9906/a5576853fb2741e4b4725be5d648329b
+松視3台,mitv://ns2.hellotvvod.com:9906/a5576853fb2741e4b4725be5d648329b
+松視3台,mitv://ns2.hellotvvod.com:9906/eddc3d313451476097ea7506d1d0867d.ts
+松視3台,mitv://ns2.hellotvvod.com:9906/eddc3d313451476097ea7506d1d0867d.ts
+松視3台,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
+松視3台,p3p://45.86.67.154:9906/608be9db0003468b034356b14ecbccf5
+松視3台,p5p://45.92.126.18:9906/60e5c670000a55dc0cfc8e43fe53445e
+松視3台,p5p://45.92.126.18:9906/60e5c670000a55dc0cfc8e43fe53445e
+松視3台,p5p://fccs.123178.top:9906/60e5c670000a55dc0cfc8e43fe53445e
+松視3台,p8p://45.92.126.18:19706/60e5c670000a55dc0cfc8e43fe53445e
+松視3台,p8p://45.92.126.18:9906/60e5c670000a55dc0cfc8e43fe53445e
+松視3台,p8p://fccs.123178.top:9906/60e5c670000a55dc0cfc8e43fe53445e
 
-彩虹e台,p3p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8
-彩虹电影台,p3p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3
+HAPPY頻道,mitv://860969650:9906/338ec38c41e94ac2a7a556096b6964ea.ts
+HAPPY頻道,mitv://ns2.hellotvvod.com:9906/338ec38c41e94ac2a7a556096b6964ea.ts
+HAPPY頻道,mitv://ns2.hellotvvod.com:9906/338ec38c41e94ac2a7a556096b6964ea.ts
+HAPPY頻道,mitv://ns2.hellotvvod.com:9906/794cf19698d9486c91a8f026e5f06aec
+HAPPY頻道,mitv://ns2.hellotvvod.com:9906/bb9503e2799342cfbc406a8ee2783367.ts
+HAPPY頻道,mitv://ns2.hellotvvod.com:9906/bb9503e2799342cfbc406a8ee2783367.ts
+
+HOT頻道,P2p://fccs.word-tv.com:9906/6260e0070001ff07172235b9bb1b0cb6
+HOT頻道,P2p://ns2.hellotvvod.com:9906/a98eef52cfb9491d98fd13dde8703ea4
+HOT頻道,mitv://45.92.126.18:9906/6260e0070001ff07172235b9bb1b0cb6
+HOT頻道,mitv://860969650:9906/82d829e45ddb4433ae62280e78e84f64.ts
+HOT頻道,mitv://ns2.hellotvvod.com:9906/82d829e45ddb4433ae62280e78e84f64.ts
+HOT頻道,mitv://ns2.hellotvvod.com:9906/82d829e45ddb4433ae62280e78e84f64.ts
+HOT頻道,mitv://ns2.hellotvvod.com:9906/88652a8699964209acf41b25e2c15094.ts
+HOT頻道,mitv://ns2.hellotvvod.com:9906/88652a8699964209acf41b25e2c15094.ts
+HOT頻道,mitv://ns2.hellotvvod.com:9906/cd173b013ed340daa83e4e459edbabcd
+HOT頻道,mitv://ns2.hellotvvod.com:9906/cd173b013ed340daa83e4e459edbabcd
+HOT頻道,p2p://54.39.16.152:9906/6260e0070001ff07172235b9bb1b0cb6
+HOT頻道,p3p://45.86.67.154:9906/608be96500093cd403418b48bfc325c1
+HOT頻道,p3p://45.86.67.154:9906/608be96500093cd403418b48bfc325c1
+HOT頻道,p5p://192.240.110.203:16666/60ab27ac000dd0ce0e62b1998dc28571
+HOT頻道,p5p://45.92.126.18:9906/60e5c5940008bfb40cf9327b7a38210e
+HOT頻道,p5p://45.92.126.18:9906/60e5c5940008bfb40cf9327b7a38210e
+HOT頻道,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571 
+HOT頻道,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571 
+HOT頻道,p5p：//crfccs.kingh888.com：16666/60ab27ac000dd0ce0e62b1998dc28571
+HOT頻道,p8p://45.92.126.18:19706/60e5c5940008bfb40cf9327b7a38210e
+HOT頻道,p8p://45.92.126.18:9906/60e5c5940008bfb40cf9327b7a38210e
+HOT頻道,p8p://45.92.126.18:9906/60e5c5940008bfb40cf9327b7a38210e
+HOT頻道,p8p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
+HOT頻道,p8p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571 
+HOT頻道,p8p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571 
+HOT頻道,p8p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571 
+HOT頻道,p8p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571 
+HOT頻道,p8p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571.ts
+HOT頻道,p8p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571.ts
+HOT頻道,p8p://fccs.123178.top:9906/60e5c5940008bfb40cf9327b7a38210e
+HOT頻道,p8p://fccs.123178.top:9906/60e5c5940008bfb40cf9327b7a38210e
+HOT頻道,p8p://fccs.123178.top:9906/60e5c5940008bfb40cf9327b7a38210e
+HOT頻道,p9p://45.86.67.154:9906/608be96500093cd403418b48bfc325c1.ts
+Happy頻道,P2p://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
+Happy頻道,P2p://ns2.hellotvvod.com:9906/829c130bd6044049ba85416ca440ccf0
+Happy頻道,mitv://45.92.126.18:9906/6260e2420001e45e172aec2a005c42e7
+Happy頻道,mitv://ns2.hellotvvod.com:9906/794cf19698d9486c91a8f026e5f06aec
+Happy頻道,p2p://54.39.16.152:9906/6260e2420001e45e172aec2a005c42e7
+Happy頻道,p3p://45.86.67.154:9906/60885889000aab420f4c4156421fedd9
+Happy頻道,p5p://45.92.126.18:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
+K 頻道,P2p://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
+K 頻道,P2p://ns2.hellotvvod.com:9906/2df4b20a23c043278330d70876dc412c
+K 頻道,mitv://45.92.126.18:9906/6263c0cd0009e68a085c9c619861891f
+K 頻道,mitv://ns2.hellotvvod.com:9906/04538c5c882f4f34b22ae5342aa666b7.ts
+K 頻道,mitv://ns2.hellotvvod.com:9906/04538c5c882f4f34b22ae5342aa666b7.ts
+K 頻道,mitv://ns2.hellotvvod.com:9906/3970fa5f77e1495cadc2f369d5913d04
+K 頻道,mitv://ns2.hellotvvod.com:9906/3970fa5f77e1495cadc2f369d5913d04
+K 頻道,p2p://54.39.16.152:9906/6263c0cd0009e68a085c9c619861891f
+K 頻道,p5p://45.92.126.18:9906/60e5c69c0007bf360cfd3979da394ad7
+K 頻道,p5p://45.92.126.18:9906/60e5c69c0007bf360cfd3979da394ad7
+K 頻道,p5p://fccs.123178.top:9906/60e5c69c0007bf360cfd3979da394ad7
+
+LOOK TV,P2p://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
+LOOK TV,P2p://ns2.hellotvvod.com:9906/398e8131562f4e019869097ccf5419fa
+LOOK TV,mitv://45.92.126.18:9906/6260e2e2000f16e6172d608b5505fbdd
+LOOK TV,mitv://860969650:9906/d6795ca162e34cb89be51befc6dfe594.ts
+LOOK TV,mitv://ns2.hellotvvod.com:9906/1d9b83fa670f4c9bb043303f0dd4baa0
+LOOK TV,mitv://ns2.hellotvvod.com:9906/1d9b83fa670f4c9bb043303f0dd4baa0
+LOOK TV,mitv://ns2.hellotvvod.com:9906/d6795ca162e34cb89be51befc6dfe594.ts
+LOOK TV,mitv://ns2.hellotvvod.com:9906/d6795ca162e34cb89be51befc6dfe594.ts
+LOOK TV,mitv://ns2.hellotvvod.com:9906/e94eb5756d7a42b3adf338b1a4a5344a.ts
+LOOK TV,mitv://ns2.hellotvvod.com:9906/e94eb5756d7a42b3adf338b1a4a5344a.ts
+LOOK TV,p2p://54.39.16.152:9906/6260e2e2000f16e6172d608b5505fbdd
 LOOK TV,p3p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771
-惊艳台,p3p://45.86.67.154:9906/608858090008d7df0f4a4cdf0b6a378b
+LOOK TV,p3p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771
+LOOK TV,p5p://45.92.126.18:9906/60ed753e0003e9cf1108a73c5ad48fc9
+LOOK TV,p8p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd.ts
+LOOK TV,p9p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771.ts
+LOOK TV,p9p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771.ts
+LOOK-HD,p5p://45.92.126.18:9906/60ed753e0003e9cf1108a73c5ad48fc9
+LOOK-HD,p5p://45.92.126.18:9906/60ed753e0003e9cf1108a73c5ad48fc9
+LOOK-HD,p5p://45.92.126.18:9906/60ed753e0003e9cf1108a73c5ad48fc9
+LOOK-HD,p5p://45.92.126.18:9906/60ed753e0003e9cf1108a73c5ad48fc9
+LOOK-HD,p5p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd
+LOOK-HD,p5p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd
+LOOK-HD,p8p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd
+LOOK-HD,p8p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd
+PLAYBOY,P2p://ns2.hellotvvod.com:9906/9704f609548443659a963c57e399148b
+PLAYBOY,http://ott3.alwaysdata.net/live/lv.php?id=42
+PLAYBOY,mitv://860969650:9906/84371c47b4b54e36b0065d3a2a773379.ts
+PLAYBOY,mitv://ns2.hellotvvod.com:9906/264546d06a06432bbbb39ed82934c78b.ts
+PLAYBOY,mitv://ns2.hellotvvod.com:9906/264546d06a06432bbbb39ed82934c78b.ts
+PLAYBOY,mitv://ns2.hellotvvod.com:9906/84371c47b4b54e36b0065d3a2a773379.ts
+PLAYBOY,mitv://ns2.hellotvvod.com:9906/84371c47b4b54e36b0065d3a2a773379.ts
+PLAYBOY,mitv://ns2.hellotvvod.com:9906/de7580ba571440ae8478429afb39508a
+☆JSᴴᴰ極限電影,,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
+☆JSᴴᴰ極限電影,P2p://fccs.word-tv.com:9906/6260e061000b04ae172397987c1e3b34
+☆JSᴴᴰ極限電影,P2p://ns2.hellotvvod.com:9906/ce605f5b4c2742799cce4bdc57802a5a
+☆JSᴴᴰ極限電影,https://nginx1.cmsiptv.xyz/hls/jixian/index.m3u8
+☆JSᴴᴰ極限電影,mitv://45.92.126.18:9906/6260e061000b04ae172397987c1e3b34
+☆JSᴴᴰ極限電影,mitv://860969650:9906/9279f96ca28d4a47b1926bef15c0a082.ts
+☆JSᴴᴰ極限電影,mitv://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd
+☆JSᴴᴰ極限電影,mitv://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd
+☆JSᴴᴰ極限電影,mitv://ns2.hellotvvod.com:9906/47b422bd6c57400484fa154649963af0.ts
+☆JSᴴᴰ極限電影,mitv://ns2.hellotvvod.com:9906/47b422bd6c57400484fa154649963af0.ts
+☆JSᴴᴰ極限電影,mitv://ns2.hellotvvod.com:9906/9279f96ca28d4a47b1926bef15c0a082.ts
+☆JSᴴᴰ極限電影,mitv://ns2.hellotvvod.com:9906/9279f96ca28d4a47b1926bef15c0a082.ts
+☆JSᴴᴰ極限電影,p2p://54.39.16.152:9906/6260e061000b04ae172397987c1e3b34
+☆JSᴴᴰ極限電影,p5p://192.240.110.203:16666/60ab2789000ebe270e62291ec8b20e2d
+☆JSᴴᴰ極限電影,p5p://45.92.126.18:9906/60fd2dff000297b000ee4ada2986dc4f
+☆JSᴴᴰ極限電影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d
+☆JSᴴᴰ極限電影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
+☆JSᴴᴰ極限電影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
+☆JSᴴᴰ極限電影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
+☆JSᴴᴰ極限電影,p5p：//crfccs.kingh888.com：16666/60ab2789000ebe270e62291ec8b20e2d
+☆JSᴴᴰ極限電影,p8p://192.240.110.203:16666/60ab2789000ebe270e62291ec8b20e2d
+☆JSᴴᴰ極限電影,p8p://192.240.110.203:16666/60ab2789000ebe270e62291ec8b20e2d
+☆JSᴴᴰ極限電影,p8p://45.92.126.18:19706/60fd2dff000297b000ee4ada2986dc4f
+☆JSᴴᴰ極限電影,p8p://45.92.126.18:9906/60fd2dff000297b000ee4ada2986dc4f
+☆JSᴴᴰ極限電影,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d
+☆JSᴴᴰ極限電影,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
+☆JSᴴᴰ極限電影,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
+☆JSᴴᴰ極限電影,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
+☆JSᴴᴰ極限電影,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
+☆JSᴴᴰ極限電影,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
+☆JSᴴᴰ極限電影,p8p://fccs.123178.top:9906/60fd2dff000297b000ee4ada2986dc4
+☆JSᴴᴰ極限電影,p8p://fccs.123178.top:9906/60fd2dff000297b000ee4ada2986dc4
+☆JSᴴᴰ極限電影,p8p://fccs.123178.top:9906/60fd2dff000297b000ee4ada2986dc4f
+
+彩虹e台,P2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
+彩虹e台,P2p://ns2.hellotvvod.com:9906/849f7904eef84f918d6e98eff1f085f9
+彩虹e台,mitv://45.92.126.18:9906/62668da3000bd6cc134cc0d079365057
+彩虹e台,mitv://860969650:9906/3fb96c0e3402489ea71b09b4665519e7.ts
+彩虹e台,mitv://ns2.hellotvvod.com:9906/359b6bf2b58f47adb0e119ecaaaa6af4
+彩虹e台,mitv://ns2.hellotvvod.com:9906/359b6bf2b58f47adb0e119ecaaaa6af4
+彩虹e台,mitv://ns2.hellotvvod.com:9906/3fb96c0e3402489ea71b09b4665519e7.ts
+彩虹e台,mitv://ns2.hellotvvod.com:9906/3fb96c0e3402489ea71b09b4665519e7.ts
+彩虹e台,mitv://ns2.hellotvvod.com:9906/abf66e1926ce4018b7b059016c3e2d9b.ts
+彩虹e台,mitv://ns2.hellotvvod.com:9906/abf66e1926ce4018b7b059016c3e2d9b.ts
+彩虹e台,p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
+彩虹e台,p3p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8
+彩虹e台,p3p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8
+彩虹e台,p5p://192.240.110.203:16666/60ab271b0008823b0e6079d6366a0d7e
+彩虹e台,p5p://45.92.126.18:9906/60e5c5e4000b60ac0cfa6ba7ff5ef206
+彩虹e台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
+彩虹e台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts 
+彩虹e台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts 
+彩虹e台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts 
+彩虹e台,p8p://192.240.110.203:16666/60ab271b0008823b0e6079d6366a0d7e
+彩虹e台,p8p://192.240.110.203:16666/60ab271b0008823b0e6079d6366a0d7e
+彩虹e台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
+彩虹e台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
+彩虹e台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
+彩虹e台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts
+彩虹e台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts
+彩虹e台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts
+彩虹e台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts
+彩虹e台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts   
+彩虹e台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts   
+彩虹e台,p9p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8.ts
+彩虹電影台,P2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
+彩虹電影台,P2p://ns2.hellotvvod.com:9906/3636300771234319bd67a74f923aa1e0
+彩虹電影台,mitv://45.92.126.18:9906/6260e2d0000cf56c172d19afe4aa1d66
+彩虹電影台,mitv://860969650:9906/2a020e712d4d436691da2ea78eafebdc.ts
+彩虹電影台,mitv://ns2.hellotvvod.com:9906/2a020e712d4d436691da2ea78eafebdc.ts
+彩虹電影台,mitv://ns2.hellotvvod.com:9906/2a020e712d4d436691da2ea78eafebdc.ts
+彩虹電影台,mitv://ns2.hellotvvod.com:9906/d4c614b8b1e9426a858fb8331d47f4a4.ts
+彩虹電影台,mitv://ns2.hellotvvod.com:9906/d4c614b8b1e9426a858fb8331d47f4a4.ts
+彩虹電影台,mitv://ns2.hellotvvod.com:9906/e874af6954fb492694408efd40334cac
+彩虹電影台,mitv://ns2.hellotvvod.com:9906/e874af6954fb492694408efd40334cac
+彩虹電影台,p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66
+彩虹電影台,p3p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3
+彩虹電影台,p3p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3
+彩虹電影台,p5p://192.240.110.203:16666/60ab2705000438470e6022cd64274913
+彩虹電影台,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
+彩虹電影台,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
+彩虹電影台,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
+彩虹電影台,p5p：//crfccs.kingh888.com：16666/60ab2705000438470e6022cd64274913
+彩虹電影台,p8p://192.240.110.203:16666/60ab2705000438470e6022cd64274913
+彩虹電影台,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
+彩虹電影台,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
+彩虹電影台,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
+彩虹電影台,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
+彩虹電影台,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
+彩虹電影台,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
+彩虹電影台,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
+彩虹電影台,p9p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3.ts
+彩虹電影台,p9p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3.ts
+
+
+
+潘朵啦玩美台,P2p://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
+潘朵啦玩美台,P2p://ns2.hellotvvod.com:9906/6af2f80dbd0042d5a9d2cdc2f0dabc32
+潘朵啦玩美台,Perfec,mitv://ns2.hellotvvod.com:9906/2c7cee1243934dbcb123b0e120d94630
+潘朵啦玩美台,https://nginx1.cmsiptv.xyz/hls/pdlwm/index.m3u8
+潘朵啦玩美台,mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31
+潘朵啦玩美台,mitv://860969650:9906/d3ece42c680544de95e35183ac5b5389.ts
+潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/22366d1ff0e64c5b870ff01b7e4bb8d4.ts
+潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/22366d1ff0e64c5b870ff01b7e4bb8d4.ts
+潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/2c7cee1243934dbcb123b0e120d94630
+潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/d3ece42c680544de95e35183ac5b5389.ts
+潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/d3ece42c680544de95e35183ac5b5389.ts
+潘朵啦玩美台,p2p://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31
+潘朵啦玩美台,p3p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6
+潘朵啦玩美台,p3p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6
+潘朵啦玩美台,p5p://192.240.110.203:16666/60ab279b0002b9f90e626c5b4a6b3931
+潘朵啦玩美台,p5p://45.92.126.18:9906/60e5c6c10007bff20cfdca01da007296
+潘朵啦玩美台,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
+潘朵啦玩美台,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931.ts
+潘朵啦玩美台,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931.ts
+潘朵啦玩美台,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931.ts
+潘朵啦玩美台,p9p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6.ts
+潘朵啦玩美台,p9p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6.ts
+潘朵啦粉紅台,https://nginx1.cmsiptv.xyz/hls/pdlwm/index.m3u8
+潘朵啦粉紅台,mitv://860969650:9906/0f5d661ffac94a6c9d1e3677ad288827.ts
+潘朵啦粉紅台,mitv://ns2.hellotvvod.com:9906/0f5d661ffac94a6c9d1e3677ad288827.ts
+潘朵啦粉紅台,mitv://ns2.hellotvvod.com:9906/6ffed66679ef45d9810f116e785a2a53.ts
+潘朵啦粉紅台,mitv://ns2.hellotvvod.com:9906/6ffed66679ef45d9810f116e785a2a53.ts
+潘朵啦粉紅台,p3p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1
+潘朵啦粉紅台,p3p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1
+潘朵啦粉紅台,p5p://45.92.126.18:9906/60fd2d970005922100ecb55d2f333764
+潘朵啦粉紅台,p5p://crfccs.kingh888.com:16666/60fd2d970005922100ecb55d2f333764              
+潘朵啦粉紅台,p5p://crfccs.kingh888.com:16666/60fd2d970005922100ecb55d2f333764              
+潘朵啦粉紅台,p8p://crfccs.kingh888.com:16666/60fd2d970005922100ecb55d2f333764 
+潘朵啦粉紅台,p8p://crfccs.kingh888.com:16666/60fd2d970005922100ecb55d2f333764 
+潘朵啦粉紅台,p8p://fccs.123178.top:9906/60fd2d970005922100ecb55d2f333764
+潘朵啦粉紅台,p8p://fccs.123178.top:9906/60fd2d970005922100ecb55d2f333764
+潘朵啦粉紅台,p9p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1.ts
+潘朵啦粉紅台,p9p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1.ts
+潘朵啦粉紅台,p9p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1.ts
+潘朵啦粉紅台,p9p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1.ts
+潘朵啦粉虹台,P2p://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
+潘朵啦粉虹台,P2p://ns2.hellotvvod.com:9906/b0d4d81f67df4f93a8d6a57f4483db82
+潘朵啦粉虹台,mitv://45.92.126.18:9906/6260e27a0006cf41172bc82c06b29fb9
+潘朵啦粉虹台,mitv://ns2.hellotvvod.com:9906/0f5d661ffac94a6c9d1e3677ad288827.ts
+潘朵啦粉虹台,mitv://ns2.hellotvvod.com:9906/88b34261274b455a9fb8bbd9d1f1bdcb
+潘朵啦粉虹台,p2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9
+潘朵啦高畫質玩美台,p5p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6.ts
+潘朵啦高畫質玩美台,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931              
+潘朵啦高畫質玩美台,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931              
+潘朵啦高畫質玩美台,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931              
+潘朵啦高畫質玩美台,p5p：//crfccs.kingh888.com：16666/60ab279b0002b9f90e626c5b4a6b3931
+潘朵啦高畫質玩美台,p8p://192.240.110.203:16666/60ab279b0002b9f90e626c5b4a6b3931
+潘朵啦高畫質玩美台,p8p://192.240.110.203:16666/60ab279b0002b9f90e626c5b4a6b3931
+潘朵啦高畫質玩美台,p8p://45.92.126.18:19706/60e5c6c10007bff20cfdca01da007296
+潘朵啦高畫質玩美台,p8p://45.92.126.18:9906/60e5c6c10007bff20cfdca01da007296
+潘朵啦高畫質玩美台,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
+潘朵啦高畫質玩美台,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
+潘朵啦高畫質玩美台,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
+潘朵啦高畫質玩美台,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931.ts
+潘朵啦高畫質玩美台,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931.ts 
+潘朵啦高畫質玩美台,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931.ts 
+潘朵啦高畫質玩美台,p8p://fccs.123178.top:9906/60e5c6c10007bff20cfdca01da007296
+潘朵啦高畫質玩美台,p9p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6.ts
+潘朵啦高畫質粉紅台Pink,mitv://ns2.hellotvvod.com:9906/88b34261274b455a9fb8bbd9d1f1bdcb
+熱,p9p://45.86.67.154:9906/608be96500093cd403418b48bfc325c1.ts
+
+限制級電影,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
+限制級電影,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
+香蕉台,P2p://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98
+香蕉台,P2p://ns2.hellotvvod.com:9906/99608f8ed2934418b22ff73fc6d03f27
+香蕉台,mitv://45.92.126.18:9906/6260e29a0009b4f9172c45ea502a9f98
+香蕉台,mitv://860969650:9906/1362bb778dae475288955810c1ab2aaa.ts
+香蕉台,mitv://ns2.hellotvvod.com:9906/1362bb778dae475288955810c1ab2aaa.ts
+香蕉台,mitv://ns2.hellotvvod.com:9906/1362bb778dae475288955810c1ab2aaa.ts
+香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
+香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
+香蕉台,mitv://ns2.hellotvvod.com:9906/7264623a28ba4b498d0d0c5b08154c28.ts
+香蕉台,mitv://ns2.hellotvvod.com:9906/7264623a28ba4b498d0d0c5b08154c28.ts
+香蕉台,p2p://54.39.16.152:9906/6260e29a0009b4f9172c45ea502a9f98
 香蕉台,p3p://45.86.67.154:9906/608858b300032d400f4ce37b5b3165d3
-潘多拉完美,p3p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6
-潘多拉粉红,p3p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1
-松视1台,p3p://45.86.67.154:9906/608857aa0008e95c0f48d9cb3b7db140
-松视2台,p3p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f
-HOT,p3p://45.86.67.154:9906/608be96500093cd403418b48bfc325c1
-日本J-Girl,p3p://45.86.67.154:9906/5d5992d900092aec076d9701a5d05e67
-日本PPV-1,p3p://45.86.67.154:9906/608856e1000e0e8a0f45c9f495659823
-日本加勒比无码,p3p://45.86.67.154:9906/5d599556000458b807774e0d94f7b8e4
-日本东京热无码,p3p://45.86.67.154:9906/5d59959d0008801e07786475971fae8c
-日本一本道无码,p3p://45.86.67.154:9906/5d59962f00074b49077a9e76646ad3d6
-日本天热素人无码,p3p://45.86.67.154:9906/5d59966d000e5f60077b9276d8257da1
-中字有码1,p3p://45.86.67.154:9906/6088559700006d6a0f40bd67867e9505
-中字有码2,p3p://45.86.67.154:9906/608855c400097d900f416f8130c4b7e2
+香蕉台,p3p://45.86.67.154:9906/608858b300032d400f4ce37b5b3165d3
+香蕉台,p5p://192.240.110.203:16666/60ab2769000e40550e61abfe014de5b1
+香蕉台,p5p://45.92.126.18:9906/60fd2ddd000096c200edc58716da3240
+香蕉台,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
+香蕉台,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1   
+香蕉台,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1   
+香蕉台,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1   
+香蕉台,p5p://fccs.123178.top:9906/60ab2769000e40550e61abfe014de5b1  
+香蕉台,p5p://fccs.123178.top:9906/60ab2769000e40550e61abfe014de5b1  
+香蕉台,p5p：//crfccs.kingh888.com：16666/60ab2769000e40550e61abfe014de5b1
+香蕉台,p8p://192.240.110.203:16666/60ab2769000e40550e61abfe014de5b1
+香蕉台,p8p://192.240.110.203:16666/60ab2769000e40550e61abfe014de5b1
+香蕉台,p8p://45.92.126.18:19706/60fd2ddd000096c200edc58716da3240
+香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
+香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
+香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
+香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1.ts
+香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1.ts
+香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1.ts
+香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1.ts
+香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1.ts 
+香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1.ts 
+香蕉台,p8p://fccs.123178.top:9906/60fd2ddd000096c200edc58716da3240
+香蕉台,p9p://45.86.67.154:9906/608858b300032d400f4ce37b5b3165d3.ts
+
+驚艷成人電影台,mitv://860969650:9906/6a4958e7000e4e0db866b28a0790f477.ts
+驚艷成人電影台,mitv://ns2.hellotvvod.com:9906/bcfdd9d57f1544dcaa10e84a2f239f19.ts
+驚豔成人電影台,P2p://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
+驚豔成人電影台,P2p://ns2.hellotvvod.com:9906/7f53d5fec4ca48608626898a95ef4f3b
+驚豔成人電影台,mitv://45.92.126.18:9906/6260e2b000004933172c99712568d815
+驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/3d60204c01d0419c91327711d4a0d5ce
+驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/3d60204c01d0419c91327711d4a0d5ce
+驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/6a4958e7000e4e0db866b28a0790f477.ts
+驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/6a4958e7000e4e0db866b28a0790f477.ts
+驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/bcfdd9d57f1544dcaa10e84a2f239f19.ts
+驚豔成人電影台,p2p://54.39.16.152:9906/6260e2b000004933172c99712568d815
+驚豔成人電影台,p3p://45.86.67.154:9906/608858090008d7df0f4a4cdf0b6a378b
+驚豔成人電影台,p3p://45.86.67.154:9906/608858090008d7df0f4a4cdf0b6a378b
+驚豔成人電影台,p5p://192.240.110.203:16666/60ab27790005917d0e61e8453f868fd2
+驚豔成人電影台,p5p://45.92.126.18:9906/60fd2dbc0002e8d300ed4537251ee06d
+驚豔成人電影台,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2
+驚豔成人電影台,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2             
+驚豔成人電影台,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2             
+驚豔成人電影台,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2             
+驚豔成人電影台,p5p：//crfccs.kingh888.com：16666/60ab27790005917d0e61e8453f868fd2
+驚豔成人電影台,p8p://192.240.110.203:16666/60ab27790005917d0e61e8453f868fd2
+驚豔成人電影台,p8p://192.240.110.203:16666/60ab27790005917d0e61e8453f868fd2
+驚豔成人電影台,p8p://45.92.126.18:19706/60fd2dbc0002e8d300ed4537251ee06d
+驚豔成人電影台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2
+驚豔成人電影台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2
+驚豔成人電影台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2
+驚豔成人電影台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2.ts
+驚豔成人電影台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2.ts
+驚豔成人電影台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2.ts  
+驚豔成人電影台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2.ts  
+驚豔成人電影台,p8p://fccs.123178.top:9906/60fd2dbc0002e8d300ed4537251ee06d
+驚豔成人電影台,p9p://45.86.67.154:9906/608858090008d7df0f4a4cdf0b6a378b.ts
+
+日本一本道無碼,p3p://45.86.67.154:9906/5d59962f00074b49077a9e76646ad3d6
+日本一本道無碼,p3p://45.86.67.154:9906/5d59962f00074b49077a9e76646ad3d6
+日本一本道無碼,p9p://45.86.67.154:9906/5d59962f00074b49077a9e76646ad3d6.ts
+日本東京熱無碼,p3p://45.86.67.154:9906/5d59959d0008801e07786475971fae8c
+日本東京熱無碼,p3p://45.86.67.154:9906/5d59959d0008801e07786475971fae8c
+日本東京熱無碼,p9p://45.86.67.154:9906/5d59959d0008801e07786475971fae8c.ts
+
+K 頻道歐美版,http://live.redtraffic.xyz:80/threesome.m3u8
+K 頻道歐美版,http://live.redtraffic.xyz:80/threesome.m3u8
+K 頻道歐美版,http://live.redtraffic.xyz:80/threesome.m3u8
+松視1歐美版,http://live.redtraffic.xyz:80/fetish.m3u8
+松視1歐美版,http://live.redtraffic.xyz:80/fetish.m3u8
+松視1歐美版,http://live.redtraffic.xyz:80/interracial.m3u8
+松視2歐美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+松視2歐美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+松視2歐美版,http://live.redtraffic.xyz:80/interracial.m3u8
+松視3歐美版,http://live.redtraffic.xyz:80/bigdick.m3u8
+松視3歐美版,http://live.redtraffic.xyz:80/bigdick.m3u8
+松視3歐美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+松視4歐美版,http://live.redtraffic.xyz:80/bigdick.m3u8
+潘多拉歐美版,http://live.redtraffic.xyz:80/pornstar.m3u8
+潘多拉歐美版,http://live.redtraffic.xyz:80/pornstar.m3u8
+玩美台歐美版,http://live.redtraffic.xyz:80/pov.m3u8
+玩美台歐美版,http://live.redtraffic.xyz:80/pov.m3u8
+粉紅台歐美版,http://live.redtraffic.xyz:80/teen.m3u8
+粉紅台歐美版,http://live.redtraffic.xyz:80/teen.m3u8
+香蕉台歐美版,http://live.redtraffic.xyz:80/milf.m3u8
+香蕉台歐美版,http://live.redtraffic.xyz:80/milf.m3u8
+香蕉台歐美版,http://live.redtraffic.xyz:80/milf.m3u8
+驚艷台歐美版,http://live.redtraffic.xyz:80/cuckold.m3u8
+驚艷台歐美版,http://live.redtraffic.xyz:80/cuckold.m3u8
+
+HOT歐美版,http://live.redtraffic.xyz:80/hardcore.m3u8
+
+一本道歐美版,http://live.redtraffic.xyz:80/bigass.m3u8
+一本道歐美版,http://live.redtraffic.xyz:80/bigass.m3u8
+俄羅斯成人1台,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+俄羅斯成人2台,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+俄羅斯成人3台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+俄羅斯成人4台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+俄羅斯成人4台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+俄羅斯成人5台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+俄羅斯成人5台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
