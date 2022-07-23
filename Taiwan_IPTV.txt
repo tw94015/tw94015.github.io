@@ -863,45 +863,7 @@ Discovery科學[1280*720],http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?
 🇹🇼鎖碼頻道🇹🇼,#genre#
 松視1台,https://onlih11.live0-facebook.com/hls/d3408ff3-f575-4d5a-96c8-b3f904f561ee/index.m3u8
 
-松視2台,P2p://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b
-松視2台,P2p://ns2.hellotvvod.com:9906/507adefa21b4405d96715daad7362987
-松視2台,mitv://45.92.126.18:9906/6260dfc1000bd4ed172126cefab5cf1b
-松視2台,mitv://45.92.126.18:9906/6260dfc1000bd4ed172126cefab5cf1b
-松視2台,mitv://860969650:9906/f99730c3755b4c0898176cb31cdbd7a9.ts
-松視2台,mitv://ns2.hellotvvod.com:9906/582f6cb92c6b4d01a36fbdb8e79c511c
-松視2台,mitv://ns2.hellotvvod.com:9906/582f6cb92c6b4d01a36fbdb8e79c511c
-松視2台,mitv://ns2.hellotvvod.com:9906/b5eb6088e0bb4aa692bf7209bcf0c4b1.ts
-松視2台,mitv://ns2.hellotvvod.com:9906/b5eb6088e0bb4aa692bf7209bcf0c4b1.ts
-松視2台,mitv://ns2.hellotvvod.com:9906/f99730c3755b4c0898176cb31cdbd7a9.ts
-松視2台,mitv://ns2.hellotvvod.com:9906/f99730c3755b4c0898176cb31cdbd7a9.ts
-松視2台,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
-松視2台,p3p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f
-松視2台,p3p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f
-松視2台,p3p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f
-松視2台,p5p://192.240.110.203:16666/60ab2759000359320e616ab455299cce
-松視2台,p5p://45.92.126.18:9906/60e5c644000b70ee0cfbe2ab20648a6b
-松視2台,p5p://45.92.126.18:9906/60e5c644000b70ee0cfbe2ab20648a6b
-松視2台,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
-松視2台,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
-松視2台,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
-松視2台,p5p://fccs.123178.top:9906/60e5c644000b70ee0cfbe2ab20648a6b
-松視2台,p5p：//crfccs.kingh888.com：16666/60ab2759000359320e616ab455299cce
-松視2台,p8p://192.240.110.203:16666/60ab2759000359320e616ab455299cce
-松視2台,p8p://192.240.110.203:16666/60ab2759000359320e616ab455299cce
-松視2台,p8p://45.92.126.18:19706/60e5c644000b70ee0cfbe2ab20648a6b
-松視2台,p8p://45.92.126.18:9906/60e5c644000b70ee0cfbe2ab20648a6b
-松視2台,p8p://45.92.126.18:9906/60e5c644000b70ee0cfbe2ab20648a6b
-松視2台,p8p://45.92.126.18:9906/60e5c644000b70ee0cfbe2ab20648a6b
-松視2台,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
-松視2台,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce.ts
-松視2台,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce.ts
-松視2台,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce.ts
-松視2台,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce.ts
-松視2台,p8p://fccs.123178.top:9906/60e5c644000b70ee0cfbe2ab20648a6b
-松視2台,p8p://fccs.123178.top:9906/60e5c644000b70ee0cfbe2ab20648a6b
-松視2台,p8p://fccs.123178.top:9906/60e5c644000b70ee0cfbe2ab20648a6b
-松視2台,p9p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f.ts
-松視2台,p9p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f.ts
+松視2台,https://onlih11.live0-facebook.com/hls/227accf6-8ef7-47c4-8765-4429e17e9221/index.m3u8
 
 松視3台,P2p://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
 松視3台,P2p://ns2.hellotvvod.com:9906/35ffa38154c54f49b5640ae2f7e09658
