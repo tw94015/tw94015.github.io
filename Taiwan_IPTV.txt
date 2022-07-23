@@ -865,25 +865,9 @@ Discovery科學[1280*720],http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?
 
 松視2台,https://onlih11.live0-facebook.com/hls/227accf6-8ef7-47c4-8765-4429e17e9221/index.m3u8
 
+松視3台,https://onlih11.live0-facebook.com/hls/87088968-cf16-451c-a855-734b3ef0d1dd/index.m3u8
 松視3台,P2p://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
-松視3台,P2p://ns2.hellotvvod.com:9906/35ffa38154c54f49b5640ae2f7e09658
-松視3台,mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3
-松視3台,mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3
-松視3台,mitv://860969650:9906/eddc3d313451476097ea7506d1d0867d.ts
-松視3台,mitv://ns2.hellotvvod.com:9906/7cda1cc3c22944f5be2d5cad8b44340d.ts
-松視3台,mitv://ns2.hellotvvod.com:9906/7cda1cc3c22944f5be2d5cad8b44340d.ts
-松視3台,mitv://ns2.hellotvvod.com:9906/a5576853fb2741e4b4725be5d648329b
-松視3台,mitv://ns2.hellotvvod.com:9906/a5576853fb2741e4b4725be5d648329b
-松視3台,mitv://ns2.hellotvvod.com:9906/eddc3d313451476097ea7506d1d0867d.ts
-松視3台,mitv://ns2.hellotvvod.com:9906/eddc3d313451476097ea7506d1d0867d.ts
-松視3台,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
-松視3台,p3p://45.86.67.154:9906/608be9db0003468b034356b14ecbccf5
-松視3台,p5p://45.92.126.18:9906/60e5c670000a55dc0cfc8e43fe53445e
-松視3台,p5p://45.92.126.18:9906/60e5c670000a55dc0cfc8e43fe53445e
-松視3台,p5p://fccs.123178.top:9906/60e5c670000a55dc0cfc8e43fe53445e
-松視3台,p8p://45.92.126.18:19706/60e5c670000a55dc0cfc8e43fe53445e
-松視3台,p8p://45.92.126.18:9906/60e5c670000a55dc0cfc8e43fe53445e
-松視3台,p8p://fccs.123178.top:9906/60e5c670000a55dc0cfc8e43fe53445e
+
 
 HAPPY頻道,mitv://860969650:9906/338ec38c41e94ac2a7a556096b6964ea.ts
 HAPPY頻道,mitv://ns2.hellotvvod.com:9906/338ec38c41e94ac2a7a556096b6964ea.ts
