@@ -1211,9 +1211,6 @@ PLAYBOY,mitv://ns2.hellotvvod.com:9906/de7580ba571440ae8478429afb39508a
 潘朵啦高畫質粉紅台Pink,mitv://ns2.hellotvvod.com:9906/88b34261274b455a9fb8bbd9d1f1bdcb
 熱,p9p://45.86.67.154:9906/608be96500093cd403418b48bfc325c1.ts
 
-限制級電影,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
-限制級電影,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
-
 香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
 香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
 香蕉台,mitv://ns2.hellotvvod.com:9906/7264623a28ba4b498d0d0c5b08154c28.ts
