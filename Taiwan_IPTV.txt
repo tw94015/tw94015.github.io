@@ -1213,12 +1213,7 @@ PLAYBOY,mitv://ns2.hellotvvod.com:9906/de7580ba571440ae8478429afb39508a
 
 限制級電影,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
 限制級電影,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
-香蕉台,P2p://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98
-香蕉台,P2p://ns2.hellotvvod.com:9906/99608f8ed2934418b22ff73fc6d03f27
-香蕉台,mitv://45.92.126.18:9906/6260e29a0009b4f9172c45ea502a9f98
-香蕉台,mitv://860969650:9906/1362bb778dae475288955810c1ab2aaa.ts
-香蕉台,mitv://ns2.hellotvvod.com:9906/1362bb778dae475288955810c1ab2aaa.ts
-香蕉台,mitv://ns2.hellotvvod.com:9906/1362bb778dae475288955810c1ab2aaa.ts
+
 香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
 香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
 香蕉台,mitv://ns2.hellotvvod.com:9906/7264623a28ba4b498d0d0c5b08154c28.ts
