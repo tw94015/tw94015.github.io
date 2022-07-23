@@ -1057,28 +1057,8 @@ PLAYBOY,mitv://ns2.hellotvvod.com:9906/de7580ba571440ae8478429afb39508a
 
 
 
-潘朵啦玩美台,P2p://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
-潘朵啦玩美台,P2p://ns2.hellotvvod.com:9906/6af2f80dbd0042d5a9d2cdc2f0dabc32
-潘朵啦玩美台,Perfec,mitv://ns2.hellotvvod.com:9906/2c7cee1243934dbcb123b0e120d94630
-潘朵啦玩美台,https://nginx1.cmsiptv.xyz/hls/pdlwm/index.m3u8
-潘朵啦玩美台,mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31
-潘朵啦玩美台,mitv://860969650:9906/d3ece42c680544de95e35183ac5b5389.ts
-潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/22366d1ff0e64c5b870ff01b7e4bb8d4.ts
-潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/22366d1ff0e64c5b870ff01b7e4bb8d4.ts
+潘朵啦玩美台,https://onlih11.live0-facebook.com/hls/0df02c9d-06b8-4bd2-b276-4e9107ac100b/index.m3u8
 潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/2c7cee1243934dbcb123b0e120d94630
-潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/d3ece42c680544de95e35183ac5b5389.ts
-潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/d3ece42c680544de95e35183ac5b5389.ts
-潘朵啦玩美台,p2p://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31
-潘朵啦玩美台,p3p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6
-潘朵啦玩美台,p3p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6
-潘朵啦玩美台,p5p://192.240.110.203:16666/60ab279b0002b9f90e626c5b4a6b3931
-潘朵啦玩美台,p5p://45.92.126.18:9906/60e5c6c10007bff20cfdca01da007296
-潘朵啦玩美台,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
-潘朵啦玩美台,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931.ts
-潘朵啦玩美台,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931.ts
-潘朵啦玩美台,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931.ts
-潘朵啦玩美台,p9p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6.ts
-潘朵啦玩美台,p9p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6.ts
 潘朵啦粉紅台,https://nginx1.cmsiptv.xyz/hls/pdlwm/index.m3u8
 潘朵啦粉紅台,mitv://860969650:9906/0f5d661ffac94a6c9d1e3677ad288827.ts
 潘朵啦粉紅台,mitv://ns2.hellotvvod.com:9906/0f5d661ffac94a6c9d1e3677ad288827.ts
