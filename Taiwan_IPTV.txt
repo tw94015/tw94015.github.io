@@ -861,7 +861,7 @@ Discovery科學[1280*720],http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?
 新唐人亞太台[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
 
 🇹🇼鎖碼頻道🇹🇼,#genre#
-松視1台,P2p://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
+松視1台,https://onlih11.live0-facebook.com/hls/d3408ff3-f575-4d5a-96c8-b3f904f561ee/index.m3u8
 松視1台,P2p://ns2.hellotvvod.com:9906/eb6f0056369e460298176a183733b52d
 松視1台,mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894
 松視1台,mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894
