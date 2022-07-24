@@ -442,6 +442,8 @@ Eurosport 2,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/s
 
 WWE,http://50.7.220.74:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 
+ELTA體育1台,https://onlih10.live0-facebook.com/hls/7bd309cb-8b65-4c87-be81-d26d8b9ee25a/index.m3u8
+
 ELTA體育1台,rtmp://59.124.75.138/sat/md011
 
 ELTA體育1台,rtmp://59.124.75.150/sat/md011
