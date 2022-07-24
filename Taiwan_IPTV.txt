@@ -862,16 +862,19 @@ Discovery科學[1280*720],http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?
 
 🇹🇼鎖碼頻道🇹🇼,#genre#
 松視1台,https://onlih11.live0-facebook.com/hls/d3408ff3-f575-4d5a-96c8-b3f904f561ee/index.m3u8
+松視1台,P2p://ns2.hellotvvod.com:9906/eb6f0056369e460298176a183733b52d
+松視1台,mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894
 
-松視2台,https://onlih11.live0-facebook.com/hls/227accf6-8ef7-47c4-8765-4429e17e9221/index.m3u8
+松視2台,https://onlih11.live0-facebook.com/hls/2f892bb1-b995-42da-90b9-8c8dc64c149b/index.m3u8
+松視2台,P2p://ns2.hellotvvod.com:9906/507adefa21b4405d96715daad7362987
+松視2台,mitv://45.92.126.18:9906/6260dfc1000bd4ed172126cefab5cf1b
 
 松視3台,https://onlih11.live0-facebook.com/hls/87088968-cf16-451c-a855-734b3ef0d1dd/index.m3u8
-松視3台,P2p://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
+松視3台,P2p://ns2.hellotvvod.com:9906/35ffa38154c54f49b5640ae2f7e09658
+松視3台,mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3
 
 
-HAPPY頻道,mitv://860969650:9906/338ec38c41e94ac2a7a556096b6964ea.ts
-HAPPY頻道,mitv://ns2.hellotvvod.com:9906/338ec38c41e94ac2a7a556096b6964ea.ts
-HAPPY頻道,mitv://ns2.hellotvvod.com:9906/338ec38c41e94ac2a7a556096b6964ea.ts
+
 HAPPY頻道,mitv://ns2.hellotvvod.com:9906/794cf19698d9486c91a8f026e5f06aec
 HAPPY頻道,mitv://ns2.hellotvvod.com:9906/bb9503e2799342cfbc406a8ee2783367.ts
 HAPPY頻道,mitv://ns2.hellotvvod.com:9906/bb9503e2799342cfbc406a8ee2783367.ts
@@ -961,7 +964,8 @@ PLAYBOY,mitv://ns2.hellotvvod.com:9906/264546d06a06432bbbb39ed82934c78b.ts
 PLAYBOY,mitv://ns2.hellotvvod.com:9906/84371c47b4b54e36b0065d3a2a773379.ts
 PLAYBOY,mitv://ns2.hellotvvod.com:9906/84371c47b4b54e36b0065d3a2a773379.ts
 PLAYBOY,mitv://ns2.hellotvvod.com:9906/de7580ba571440ae8478429afb39508a
-☆JSᴴᴰ極限電影,,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
+
+☆JSᴴᴰ極限電影,,https://onlih11.live0-facebook.com/hls/3717cfbd-bb05-41a6-9bc1-a384b89a99ee/index.m3u8
 ☆JSᴴᴰ極限電影,P2p://fccs.word-tv.com:9906/6260e061000b04ae172397987c1e3b34
 ☆JSᴴᴰ極限電影,P2p://ns2.hellotvvod.com:9906/ce605f5b4c2742799cce4bdc57802a5a
 ☆JSᴴᴰ極限電影,https://nginx1.cmsiptv.xyz/hls/jixian/index.m3u8
@@ -1026,7 +1030,8 @@ PLAYBOY,mitv://ns2.hellotvvod.com:9906/de7580ba571440ae8478429afb39508a
 彩虹e台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts   
 彩虹e台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts   
 彩虹e台,p9p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8.ts
-彩虹電影台,https://onlih11.live0-facebook.com/hls/7d2b0348-934e-4bfa-884e-900e4876cb96/index.m3u8
+
+彩虹電影台,https://onlih11.live0-facebook.com/hls/23c1437b-3090-4ebc-96d5-2778c9f3e328/index.m3u8
 彩虹電影台,P2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
 
 
