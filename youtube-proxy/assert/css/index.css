@@ -1,0 +1,23 @@
+.gray-line{
+    position: relative;
+    text-align: center;
+    overflow: hidden;
+    font-size: 14px;
+    color: #999;
+}
+.gray-line::before,.gray-line::after{
+    content: '';
+    display: block;
+    width: 100%;
+    height: 1px;
+    position: absolute;
+    background: #ccc;
+    top: 50%;
+}
+.gray-line::before{
+    margin-left: 0px;
+    transform: translateX(-100%);
+}
+.gray-line::after{
+    margin-left: 0px;
+}

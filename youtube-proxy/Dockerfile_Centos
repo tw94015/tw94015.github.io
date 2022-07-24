@@ -1,0 +1,19 @@
+FROM centos:7 AS builder
+RUN yum install epel-release -y
+RUN yum update -y
+RUN yum install -y golang
+WORKDIR /go/src/github.com/zjyl1994/livetv/
+COPY . . 
+RUN GOPROXY="https://goproxy.io" GO111MODULE=on go build -o livetv .
+
+FROM centos:7
+RUN yum install epel-release -y
+RUN yum install -y youtube-dl tzdata libc6-compat libgcc libstdc++
+WORKDIR /root
+COPY --from=builder /go/src/github.com/zjyl1994/livetv/view ./view
+COPY --from=builder /go/src/github.com/zjyl1994/livetv/assert ./assert
+COPY --from=builder /go/src/github.com/zjyl1994/livetv/.env .
+COPY --from=builder /go/src/github.com/zjyl1994/livetv/livetv .
+EXPOSE 9000
+VOLUME ["/root/data"]
+CMD ["./livetv"]
