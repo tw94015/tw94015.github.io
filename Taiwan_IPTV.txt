@@ -866,15 +866,8 @@ Discovery科學,http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599
 求索紀錄,https://epg.pm/stream/5c457c7fb5434ad0ab63bbf48f8682817dc99dffaf82ae7a2482e931d870b4db.m3u8
 求索科學,https://epg.pm/stream/21941bf22470ded77b9cbcf7311358b5eb994cf9c542a5d21eda23a18e3bbf44.m3u8
 大自然紀錄片,http://tc-tct.douyucdn2.cn/dyliveflv3a/4837387rHLc42NHf.flv?wsAuth=9d21a938002b17185764ebb3d37836c2&token=cpn-androidmpro-0-4837387-8ad81bcd9db6237cbe9a4f0b40336d780b66e961085f65a5&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
-🇹🇼海外衛視🇹🇼,#genre#
-東森美洲,https://epg.pm/stream/bc697051888271f8a5752ad777ff21e4232b22974256ad7ecb90f508f3f9b51c.m3u8
-華語電視1,https://epg.pm/stream/f388f3416de1d9e76197ba05aa13bb52edb246055a0dfccc642db9372ebfb7cc.m3u8
-華語綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
-華語戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
-新唐人亞太台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
-新唐人亞太台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
 
-🇹🇼鎖碼頻道🇹🇼_0000,#genre#
+🇹🇼鎖碼頻道🇹🇼,#genre#
 松視1台,mitv://ns2.hellotvvod.com:9906/16240d1d4ea84fa0959f83886018f241
 
 松視2台,mitv://ns2.hellotvvod.com:9906/582f6cb92c6b4d01a36fbdb8e79c511c
