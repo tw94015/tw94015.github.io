@@ -455,6 +455,8 @@ ELTA體育1台,rtmp://59.124.75.150/sat/md011
 
 ELTA體育2台,https://onlih10.live0-facebook.com/hls/b6be973d-8386-495e-9552-ec80e1ddacbf/index.m3u8
 
+ELTA體育3台,mitv://ns2.hellotvvod.com:9906/ebb118632d64402595a6fa3a36b9f9a4
+
 ELTA體育3台,rtmp://59.124.75.138/sat/md021
 
 ELTA體育3台,rtmp://59.124.75.150/sat/md021
@@ -773,6 +775,7 @@ BT Sport ESPN[1920*1080],http://93.152.174.144:4000/play/btsportespn/index.m3u8
 愛爾達體育一台[1280*720],rtmp://59.124.75.150/sat/md011
 愛爾達體育一台[1280*720],http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 愛爾達體育二台[1280*720],https://onlih10.live0-facebook.com/hls/b6be973d-8386-495e-9552-ec80e1ddacbf/index.m3u8
+愛爾達體育三台[1280*720],mitv://ns2.hellotvvod.com:9906/ebb118632d64402595a6fa3a36b9f9a4
 愛爾達體育三台[1280*720],rtmp://59.124.75.138/sat/md021
 愛爾達體育三台[1280*720],rtmp://59.124.75.150/sat/md021
 博斯魅力[1280*720],rtmp://59.124.75.138/sat/md031
