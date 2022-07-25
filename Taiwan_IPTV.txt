@@ -736,7 +736,7 @@ HBO Signature,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D576
 龍華電影,http://220.134.196.147:9558/http/116.50.42.18:8066/hls/210/10014/cstv14.m3u8
 美亞電影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 靖天電影,mitv://ns2.hellotvvod.com:9906/944ef19dba2b449db6ff46e2f2e4969c
-🇹🇼體育🇼,#genre#
+🇹🇼體育🇹🇼,#genre#
 緯來體育 HD,http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 緯來體育 HD,rtmp://59.124.75.138/sat/tv721
 緯來體育 HD,rtmp://59.124.75.150/sat/tv721
