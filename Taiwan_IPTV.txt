@@ -842,3 +842,47 @@ HOT頻道,mitv://ns2.hellotvvod.com:9906/cd173b013ed340daa83e4e459edbabcd
 LOOK TV,mitv://ns2.hellotvvod.com:9906/1d9b83fa670f4c9bb043303f0dd4baa0
 
 PLAYBOY,mitv://ns2.hellotvvod.com:9906/de7580ba571440ae8478429afb39508a
+
+鎖碼頻道(備),#genre#
+☆JSᴴᴰ極限電影,mitv://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd
+☆JSᴴᴰ極限電影,mitv://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd.ts
+彩虹e台,mitv://45.92.126.18:9906/62668da3000bd6cc134cc0d079365057
+彩虹e台,mitv://ns2.hellotvvod.com:9906/359b6bf2b58f47adb0e119ecaaaa6af4.ts
+彩虹e台,P2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
+彩虹e台,p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
+彩虹電影台,mitv://45.92.126.18:9906/6260e2d0000cf56c172d19afe4aa1d66
+彩虹電影台,mitv://ns2.hellotvvod.com:9906/e874af6954fb492694408efd40334cac.ts
+彩虹電影台,p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66
+彩虹電影台,P2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
+LOOK TV,p2p://54.39.16.152:9906/6260e2e2000f16e6172d608b5505fbdd
+LOOK TV,mitv://ns2.hellotvvod.com:9906/1d9b83fa670f4c9bb043303f0dd4baa0.ts
+潘朵啦粉紅台,mitv://ns2.hellotvvod.com:9906/88b34261274b455a9fb8bbd9d1f1bdcb.ts
+潘朵啦玩美台,mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31
+潘朵啦玩美台,p2p://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31
+潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/2c7cee1243934dbcb123b0e120d94630.ts
+松視1台,mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894
+松視1台,p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
+松視1台,mitv://ns2.hellotvvod.com:9906/16240d1d4ea84fa0959f83886018f241.ts
+松視2台,mitv://45.92.126.18:9906/6260dfc1000bd4ed172126cefab5cf1b
+松視2台,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
+松視2台,mitv://ns2.hellotvvod.com:9906/582f6cb92c6b4d01a36fbdb8e79c511c.ts
+松視3台,mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3
+松視3台,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
+松視3台,mitv://ns2.hellotvvod.com:9906/a5576853fb2741e4b4725be5d648329b.ts
+HOT頻道,mitv://45.92.126.18:9906/6260e0070001ff07172235b9bb1b0cb6
+HOT頻道,p2p://54.39.16.152:9906/6260e0070001ff07172235b9bb1b0cb6
+HOT頻道,mitv://ns2.hellotvvod.com:9906/cd173b013ed340daa83e4e459edbabcd.ts
+HAPPY頻道,mitv://45.92.126.18:9906/6260e2420001e45e172aec2a005c42e7
+HAPPY頻道,p2p://54.39.16.152:9906/6260e2420001e45e172aec2a005c42e7
+HAPPY頻道,mitv://ns2.hellotvvod.com:9906/794cf19698d9486c91a8f026e5f06aec.ts
+K 頻道,mitv://45.92.126.18:9906/6263c0cd0009e68a085c9c619861891f
+K 頻道,p2p://54.39.16.152:9906/6263c0cd0009e68a085c9c619861891f
+K 頻道,P2p://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
+K 頻道,mitv://ns2.hellotvvod.com:9906/3970fa5f77e1495cadc2f369d5913d04.ts
+香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
+香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791.ts
+驚豔成人電影台,p2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9
+驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/3d60204c01d0419c91327711d4a0d5ce.ts
+驚豔成人電影台,mitv://45.92.126.18:9906/6260e27a0006cf41172bc82c06b29fb9
+PLAYBOY,mitv://ns2.hellotvvod.com:9906/de7580ba571440ae8478429afb39508a.ts
+
