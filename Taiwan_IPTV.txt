@@ -6,6 +6,10 @@
 
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
+民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
+
+民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
+
 民視,mitv://ns2.hellotvvod.com:9906/d4f02803fb9c4574acac5e92f9c7edbd#mitv://ns2.hellotvvod.com:9906/d4f02803fb9c4574acac5e92f9c7edbd
 
 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3#rtmp://59.124.75.138/sat/tv051#http://seb.sason.top/ptv/ftv.php?id=ms
@@ -217,6 +221,8 @@ CINEMAX,http://220.134.196.147:9229/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 緯來體育,rtmp://59.124.75.150/sat/tv721
 
 緯來體育,https://epg.pm/stream/41819e3238acf8b55105deda878c5ac4aff05e4703569dae87c6c91591d9ebfa.m3u8
+
+ELEVEN 1,http://220.134.196.147:9230/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 
 ELEVEN 1,rtmp://59.124.75.138:1935/sat/tv731#http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23#http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 
@@ -758,6 +764,7 @@ HBO Signature,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D576
 愛爾達體育3台,mitv://ns2.hellotvvod.com:9906/ebb118632d64402595a6fa3a36b9f9a4
 愛爾達體育3台,mitv://ns2.hellotvvod.com:9906/0d7862a284024e9d9341587930e0d07f
 
+ELEVEN體育1台,http://220.134.196.147:9230/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 ELEVEN體育1台,rtmp://59.124.75.138/sat/tv731
 ELEVEN體育1台,rtmp://59.124.75.150/sat/tv731
 ELEVEN體育1台,rtmp://59.124.75.138:1935/sat/tv731
