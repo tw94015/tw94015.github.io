@@ -182,6 +182,8 @@ TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 
 HBO,http://220.134.196.147:9557/http/116.50.42.18:8081/hls/71/813/ch41.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
 
+東森洋片,http://120.84.96.134:808/hls/33/index.m3u8
+
 東森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 
 AXN,http://61.219.170.95:18548/http/192.168.1.9:8081/hls/71/813/ch43.m3u8#http://61.219.170.95:18548/.m3u8
@@ -740,6 +742,7 @@ EYE TV戲劇台,https://epg.pm/stream/41f78c2cc87e0cbade0f1bd295f68b4ab107aa1741
 東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
 東森電影,mitv://ns2.hellotvvod.com:9906/f4b91b7216344cc193da2b2c4ca0a478
 東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
+東森洋片,http://120.84.96.134:808/hls/33/index.m3u8
 星衛電影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
 衛視電影台,http://220.134.196.147:9223/http/116.50.42.19:8081/hls/62/804/ch07.m3u8#http://61.219.170.95:18529/.m3u8#http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 衛視電影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
