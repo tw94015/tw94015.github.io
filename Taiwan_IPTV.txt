@@ -231,7 +231,7 @@ CINEMAX,http://220.134.196.147:9229/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 
 緯來體育,rtmp://59.124.75.150/sat/tv721
 
-緯來體育台,mitv://ns2.hellotvvod.com:9906/23ea59c14cfe49eeb19298fea276876e.ts
+緯來體育,mitv://ns2.hellotvvod.com:9906/23ea59c14cfe49eeb19298fea276876e.ts
 
 ELEVEN體育1台,http://220.134.196.147:9230/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 ELEVEN體育1台,rtmp://59.124.75.138/sat/tv731
