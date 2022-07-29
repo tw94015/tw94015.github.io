@@ -231,7 +231,7 @@ CINEMAX,http://220.134.196.147:9229/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 
 緯來體育,rtmp://59.124.75.150/sat/tv721
 
-緯來體育,https://epg.pm/stream/41819e3238acf8b55105deda878c5ac4aff05e4703569dae87c6c91591d9ebfa.m3u8
+緯來體育台,mitv://ns2.hellotvvod.com:9906/23ea59c14cfe49eeb19298fea276876e.ts
 
 ELEVEN體育1台,http://220.134.196.147:9230/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 ELEVEN體育1台,rtmp://59.124.75.138/sat/tv731
@@ -785,7 +785,7 @@ CatchPlay電影台,mitv://ns2.hellotvvod.com:9906/0718c5d6108c4c3788f12d567a1364
 緯來體育 HD,http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 緯來體育 HD,rtmp://59.124.75.138/sat/tv721
 緯來體育 HD,rtmp://59.124.75.150/sat/tv721
-緯來體育 HD,https://epg.pm/stream/41819e3238acf8b55105deda878c5ac4aff05e4703569dae87c6c91591d9ebfa.m3u8
+緯來體育 HD,mitv://ns2.hellotvvod.com:9906/23ea59c14cfe49eeb19298fea276876e.ts
 
 愛爾達體育1台,mitv://fccs.word-tv.com:9906/62596cd0000349b813fb2a4367d31141
 愛爾達體育1台,mitv://ns2.hellotvvod.com:9906/a3a8ada76fc6450e91024f1415458e73
