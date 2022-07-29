@@ -61,7 +61,7 @@ CN卡通頻道,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD833733728
 
 尼克兒童頻道,
 
-momo親子台,
+momo親子台,mitv://ns2.hellotvvod.com:9906/3f089cf327fb43ec8437f081779461c6.ts
 
 東森幼幼台,mitv://ns2.hellotvvod.com:9906/133b48c603464627be480a984163e9c7
 
