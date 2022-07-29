@@ -6,6 +6,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzEzOC4yLjYzLjMyL2NhdC9saXZlLnR4dA=="]}]}],
 "sites":[
 {"key":"csp_Nbys","name":"🏢泥巴影院(SP)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_xpath_naifeiorg","name":"奈飛中文(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable ":1,"ext":"http://138.2.63.32/cat/DV/naifeiorg.json"},
 {"key":"csp_SP360","name":"🎾360影視(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},{"key":"csp_QQ","name":"🐧騰訊視頻(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"293視頻","name":"🔥293視頻(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
