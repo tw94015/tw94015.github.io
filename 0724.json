@@ -3,9 +3,7 @@
 
 "spider":"https://gitea.com/rexian99/TVBox/raw/branch/main/jar/0724.jar",
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":[
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vemNjYXQtZ2l0L01hb1lTdHYvcmF3L21hc3Rlci9UVi9saXZlLnR4dA=="]}]}],
-
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzEzOC4yLjYzLjMyL2NhdC9saXZlLnR4dA=="]}]}],
 "sites":[
 {"key":"csp_SP360","name":"🎾360影視(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},{"key":"csp_QQ","name":"🐧騰訊視頻(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
