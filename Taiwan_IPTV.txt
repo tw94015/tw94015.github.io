@@ -610,7 +610,6 @@ EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/98676bc0823c421c90184c248fc79a85
 
 亞洲美食,mitv://ns2.hellotvvod.com:9906/8abbfcc140f44a478ac5789e4011da5e
 
-壹電影,mitv://fccs.word-tv.com:9906/62674e97000a6a59163e799316c3d943
 壹電影,mitv://ns2.hellotvvod.com:9906/7177a9e3319a47a49ea1b87ba06aa490
 
 壹綜合,mitv://ns2.hellotvvod.com:9906/5d60f4b9c5c842d391b891c9bad74e7a.ts
@@ -786,7 +785,6 @@ HBO Signature,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D576
 龍華電影,http://220.134.196.147:9558/http/116.50.42.18:8081/hls/62/804/ch07.m3u8?token=7375646f6868906a760733c82ee9b65e9e19dd55
 龍華電影,http://220.134.196.147:9558/http/116.50.42.18:8066/hls/210/10014/cstv14.m3u8
 采昌影劇台,mitv://ns2.hellotvvod.com:9906/3500f254b3ad4cdd926fdf91e3312f12.ts
-壹電影,mitv://fccs.word-tv.com:9906/62674e97000a6a59163e799316c3d943
 壹電影,mitv://ns2.hellotvvod.com:9906/7177a9e3319a47a49ea1b87ba06aa490
 美亞電影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 靖天電影,mitv://ns2.hellotvvod.com:9906/944ef19dba2b449db6ff46e2f2e4969c
