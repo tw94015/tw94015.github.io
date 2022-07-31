@@ -770,7 +770,6 @@ EYE TV戲劇台,https://epg.pm/stream/41f78c2cc87e0cbade0f1bd295f68b4ab107aa1741
 星衛電影台,mitv://fccs.word-tv.com:9906/62613c0200051f95188982fec2ef3ed5
 衛視電影台,http://220.134.196.147:9223/http/116.50.42.19:8081/hls/62/804/ch07.m3u8#http://61.219.170.95:18529/.m3u8#http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 衛視電影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-龍華經典洋片,http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
 經典電影,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
 好萊塢電影,http://220.134.196.147:9224/http/116.50.42.19:8081/hls/74/816/ch55.m3u8
 好萊塢電影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
