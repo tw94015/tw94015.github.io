@@ -790,6 +790,7 @@ HBO Signature,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D576
 漫威電影,http://epg.112114.xyz/douyu/4282654
 龍華電影,http://220.134.196.147:9558/http/116.50.42.18:8081/hls/62/804/ch07.m3u8?token=7375646f6868906a760733c82ee9b65e9e19dd55
 龍華電影,http://220.134.196.147:9558/http/116.50.42.18:8066/hls/210/10014/cstv14.m3u8
+采昌影劇台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv049&nid=25
 采昌影劇台,p2p://ns2.hellotvvod.com:9906/3f1eb3f3bc8d43cca77136849e9b7a9e
 壹電影,mitv://ns2.hellotvvod.com:9906/7177a9e3319a47a49ea1b87ba06aa490
 美亞電影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
