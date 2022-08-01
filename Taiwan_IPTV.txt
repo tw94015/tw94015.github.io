@@ -116,6 +116,8 @@ TVBS歡樂台,rtmp://59.124.75.138/sat/tv421
 
 TVBS歡樂台,rtmp://59.124.75.150/sat/tv421
 
+TVBS歡樂台,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
+
 TVBS經典,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 
 緯來戲劇,http://220.134.196.147:9233/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
