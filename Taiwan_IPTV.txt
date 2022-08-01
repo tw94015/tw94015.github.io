@@ -873,8 +873,8 @@ ELTA生活旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-l
 🇹🇼鎖碼頻道🇹🇼_0000,#genre#
 ☆JSᴴᴰ極限電影,mitv://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd
 ☆JSᴴᴰ極限電影,mitv://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd.ts
+彩虹e台,p2p://ns2.hellotvvod.com:9906/5e82f32843cf4b8e99f07a1c799b3851
 彩虹e台,mitv://ns2.hellotvvod.com:9906/359b6bf2b58f47adb0e119ecaaaa6af4.ts
-彩虹e台,P2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
 彩虹e台,p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
 彩虹e台,mitv://ns2.hellotvvod.com:9906/359b6bf2b58f47adb0e119ecaaaa6af4
 彩虹電影台,mitv://ns2.hellotvvod.com:9906/e874af6954fb492694408efd40334cac.ts
