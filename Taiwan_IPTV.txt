@@ -602,7 +602,7 @@ EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/98676bc0823c421c90184c248fc79a85
 
 亞洲美食,mitv://ns2.hellotvvod.com:9906/8abbfcc140f44a478ac5789e4011da5e
 
-壹電影,mitv://ns2.hellotvvod.com:9906/7177a9e3319a47a49ea1b87ba06aa490
+壹電影,p2p://ns2.hellotvvod.com:9906/2491bdd4fb6a47f3a49592f9d896edc3
 
 壹綜合,mitv://ns2.hellotvvod.com:9906/5d60f4b9c5c842d391b891c9bad74e7a.ts
 
