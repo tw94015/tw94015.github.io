@@ -7,13 +7,12 @@
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
-民視,mitv://ns2.hellotvvod.com:9906/d4f02803fb9c4574acac5e92f9c7edbd
-民視,mitv://ns2.hellotvvod.com:9906/d4f02803fb9c4574acac5e92f9c7edbd
+民視,p2p://ns2.hellotvvod.com:9906/ab45f757ec2a4c2ebbbea7823cb482f0
 民視,rtmp://59.124.75.138/sat/tv051
-民視,mitv://ns2.hellotvvod.com:9906/d4f02803fb9c4574acac5e92f9c7edbd.ts
+民視,p2p://ns2.hellotvvod.com:9906/9d360cfac1dd4906b9b54681a7f57b4e
 民視,rtmp://59.124.75.138:1935/sat/tv051
 民視,rtmp://59.124.75.150/sat/tv051
-民視,mitv://ns2.hellotvvod.com:9906/1fdb6ceb99204d33988fc310fb6271e8.ts
+
 
 人間衛視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210#http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
@@ -701,13 +700,11 @@ TVBS新聞 HD,https://epg.pm/stream/43712ed6dab7923b7dea00642b5d480dfa0e7e058813
 
 🇹🇼綜合戲劇🇹🇼,#genre#
 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
-民視,mitv://ns2.hellotvvod.com:9906/d4f02803fb9c4574acac5e92f9c7edbd
-民視,mitv://ns2.hellotvvod.com:9906/d4f02803fb9c4574acac5e92f9c7edbd
+民視,p2p://ns2.hellotvvod.com:9906/ab45f757ec2a4c2ebbbea7823cb482f0
 民視,rtmp://59.124.75.138/sat/tv051
-民視,mitv://ns2.hellotvvod.com:9906/d4f02803fb9c4574acac5e92f9c7edbd.ts
+民視,p2p://ns2.hellotvvod.com:9906/9d360cfac1dd4906b9b54681a7f57b4e
 民視,rtmp://59.124.75.138:1935/sat/tv051
 民視,rtmp://59.124.75.150/sat/tv051
-民視,mitv://ns2.hellotvvod.com:9906/1fdb6ceb99204d33988fc310fb6271e8.ts
 
 台視,http://61.219.170.95:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
 公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
