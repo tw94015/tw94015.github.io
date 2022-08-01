@@ -879,8 +879,8 @@ ELTA生活旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-l
 彩虹e台,mitv://ns2.hellotvvod.com:9906/359b6bf2b58f47adb0e119ecaaaa6af4
 彩虹電影台,p2p://ns2.hellotvvod.com:9906/bcd55282f97e49fb8a55c3c8a4de48f3.ts
 彩虹電影台,p2p://ns2.hellotvvod.com:9906/bcd55282f97e49fb8a55c3c8a4de48f3
-LOOK TV,mitv://ns2.hellotvvod.com:9906/1d9b83fa670f4c9bb043303f0dd4baa0.ts
-LOOK TV,mitv://ns2.hellotvvod.com:9906/1d9b83fa670f4c9bb043303f0dd4baa0
+LOOK TV,p2p://ns2.hellotvvod.com:9906/a2dd077459d5400bb1b3158385de22d5.ts
+LOOK TV,p2p://ns2.hellotvvod.com:9906/a2dd077459d5400bb1b3158385de22d5
 潘朵啦粉紅台,mitv://ns2.hellotvvod.com:9906/88b34261274b455a9fb8bbd9d1f1bdcb.ts
 潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/2c7cee1243934dbcb123b0e120d94630.ts
 松視1台,mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894
