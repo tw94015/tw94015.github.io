@@ -7,11 +7,13 @@
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
-民視,p2p://ns2.hellotvvod.com:9906/ab45f757ec2a4c2ebbbea7823cb482f0
+民視,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=MF8F2804739628047396&ct=19193&tsum=73a49379fed74f8fc39359fcf589a9d8
 民視,rtmp://59.124.75.138/sat/tv051
-民視,p2p://ns2.hellotvvod.com:9906/9d360cfac1dd4906b9b54681a7f57b4e
 民視,rtmp://59.124.75.138:1935/sat/tv051
 民視,rtmp://59.124.75.150/sat/tv051
+民視,p2p://ns2.hellotvvod.com:9906/ab45f757ec2a4c2ebbbea7823cb482f0
+民視,p2p://ns2.hellotvvod.com:9906/9d360cfac1dd4906b9b54681a7f57b4e
+
 
 
 人間衛視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210#http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
@@ -71,11 +73,9 @@ momo親子台,mitv://ns2.hellotvvod.com:9906/3f089cf327fb43ec8437f081779461c6.ts
 八大綜合,http://61.219.170.95:18517/.m3u8
 
 三立台灣台,http://220.134.196.147:9256/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
-
+三立台灣台,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 三立台灣台,p2p://ns2.hellotvvod.com:9906/bf2340e4482040e3b4af5c384adc2250
-
 三立台灣台,p2p://ns2.hellotvvod.com:9906/5615cc482e7b48ee8bdd53bae0c6a479
-
 三立台灣台,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 
 三立都會台,http://220.134.196.147:9222/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
@@ -83,6 +83,8 @@ momo親子台,mitv://ns2.hellotvvod.com:9906/3f089cf327fb43ec8437f081779461c6.ts
 衛視中文台,http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8#http://61.219.170.95:18522/.m3u8
 
 衛視中文台,http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
+
+衛視中文台,http://61.219.170.95:18522/.m3u8
 
 東森綜合,http://220.134.196.147:9224/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
 
@@ -191,6 +193,8 @@ HBO,http://220.134.196.147:9557/http/116.50.42.18:8081/hls/71/813/ch41.m3u8?toke
 東森洋片,http://120.84.96.134:808/hls/33/index.m3u8
 
 東森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+
+東森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
 
 AXN,http://61.219.170.95:18548/http/192.168.1.9:8081/hls/71/813/ch43.m3u8#http://61.219.170.95:18548/.m3u8
 
@@ -442,6 +446,8 @@ BBC Earth,
 衛視電影台,http://220.134.196.147:9254/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
 
 衛視電影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+
+衛視電影台,http://61.219.170.95:18529/.m3u8
 
 星衛電影台,mitv://ns2.hellotvvod.com:9906/ea0326dbedc94962a54ee6c7c688ad8b
 
@@ -700,11 +706,12 @@ TVBS新聞 HD,https://epg.pm/stream/43712ed6dab7923b7dea00642b5d480dfa0e7e058813
 
 🇹🇼綜合戲劇🇹🇼,#genre#
 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
-民視,p2p://ns2.hellotvvod.com:9906/ab45f757ec2a4c2ebbbea7823cb482f0
+民視,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=MF8F2804739628047396&ct=19193&tsum=73a49379fed74f8fc39359fcf589a9d8
 民視,rtmp://59.124.75.138/sat/tv051
-民視,p2p://ns2.hellotvvod.com:9906/9d360cfac1dd4906b9b54681a7f57b4e
 民視,rtmp://59.124.75.138:1935/sat/tv051
 民視,rtmp://59.124.75.150/sat/tv051
+民視,p2p://ns2.hellotvvod.com:9906/ab45f757ec2a4c2ebbbea7823cb482f0
+民視,p2p://ns2.hellotvvod.com:9906/9d360cfac1dd4906b9b54681a7f57b4e
 
 台視,http://61.219.170.95:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
 公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
@@ -719,6 +726,7 @@ TVBS新聞 HD,https://epg.pm/stream/43712ed6dab7923b7dea00642b5d480dfa0e7e058813
 三立戲劇台,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
 三立戲劇台,mitv://ns2.hellotvvod.com:9906/2e38b1ed3fa84778aa2e1eaa43bc7066
 三立台灣台,http://220.134.196.147:9256/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+三立台灣台,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 三立台灣台,p2p://ns2.hellotvvod.com:9906/bf2340e4482040e3b4af5c384adc2250
 三立台灣台,p2p://ns2.hellotvvod.com:9906/5615cc482e7b48ee8bdd53bae0c6a479
 三立台灣台,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
@@ -727,6 +735,7 @@ TVBS新聞 HD,https://epg.pm/stream/43712ed6dab7923b7dea00642b5d480dfa0e7e058813
 三立綜合,http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 年代MUCH,http://61.219.170.95:18558/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
 衛視中文 FHD,http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
+衛視中文 FHD,http://61.219.170.95:18522/.m3u8
 東森戲劇,http://220.134.196.147:9230/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 東森超視 HD,http://61.219.170.95:18555/http/192.168.1.9:8081/hls/64/806/ch14.m3u8
 東森超視 HD,http://38.64.72.148:80/hls/modn/list/2018/chunklist0.m3u8
@@ -756,10 +765,12 @@ EYE TV戲劇台,https://epg.pm/stream/41f78c2cc87e0cbade0f1bd295f68b4ab107aa1741
 東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
 東森電影,mitv://ns2.hellotvvod.com:9906/f4b91b7216344cc193da2b2c4ca0a478.ts
 東森洋片,http://120.84.96.134:808/hls/33/index.m3u8
+東森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
 星衛電影台,mitv://ns2.hellotvvod.com:9906/ea0326dbedc94962a54ee6c7c688ad8b
 星衛電影台,mitv://fccs.word-tv.com:9906/62613c0200051f95188982fec2ef3ed5
 衛視電影台,http://220.134.196.147:9223/http/116.50.42.19:8081/hls/62/804/ch07.m3u8#http://61.219.170.95:18529/.m3u8#http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 衛視電影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+衛視電影台,http://61.219.170.95:18529/.m3u8
 經典電影,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
 好萊塢電影,http://220.134.196.147:9224/http/116.50.42.19:8081/hls/74/816/ch55.m3u8
 好萊塢電影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
