@@ -882,7 +882,8 @@ ELTA生活旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-l
 LOOK TV,p2p://ns2.hellotvvod.com:9906/a2dd077459d5400bb1b3158385de22d5.ts
 LOOK TV,p2p://ns2.hellotvvod.com:9906/a2dd077459d5400bb1b3158385de22d5
 潘朵啦粉紅台,mitv://ns2.hellotvvod.com:9906/88b34261274b455a9fb8bbd9d1f1bdcb.ts
-潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/2c7cee1243934dbcb123b0e120d94630.ts
+潘朵啦玩美台,p2p://ns2.hellotvvod.com:9906/c8589ff8c36c4e72a9b604c61be35962.ts
+潘朵啦玩美台,p2p://ns2.hellotvvod.com:9906/c8589ff8c36c4e72a9b604c61be35962
 松視1台,mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894
 松視1台,p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
 松視1台,mitv://ns2.hellotvvod.com:9906/16240d1d4ea84fa0959f83886018f241.ts
@@ -902,8 +903,7 @@ K 頻道,P2p://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
 K 頻道,mitv://ns2.hellotvvod.com:9906/3970fa5f77e1495cadc2f369d5913d04.ts
 香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
 香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791.ts
-驚豔成人電影台,p2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9
-驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/3d60204c01d0419c91327711d4a0d5ce.ts
-驚豔成人電影台,mitv://45.92.126.18:9906/6260e27a0006cf41172bc82c06b29fb9
+驚豔成人電影台,p2p://ns2.hellotvvod.com:9906/cac666bec3a44169bff6b1d1f48f7d67.ts
+驚豔成人電影台,p2p://ns2.hellotvvod.com:9906/cac666bec3a44169bff6b1d1f48f7d67
 PLAYBOY,mitv://ns2.hellotvvod.com:9906/de7580ba571440ae8478429afb39508a.ts
 
