@@ -381,11 +381,15 @@ GoodTV2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/l
 
 龍華動畫,http://61.219.170.95:18600/.m3u8
 
+龍華動畫,http://61.219.170.95:18600/.m3u8
+
 龍華電影,http://220.134.196.147:9558/http/116.50.42.18:8081/hls/62/804/ch07.m3u8?token=7375646f6868906a760733c82ee9b65e9e19dd55
 
 龍華電影,http://220.134.196.147:9558/http/116.50.42.18:8066/hls/210/10014/cstv14.m3u8
 
 龍華電影,http://61.219.170.95:18574/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
+
+龍華電影,http://61.219.170.95:18574/.m3u8
 
 龍華戲劇,http://61.219.170.95:18507/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
 
@@ -541,8 +545,8 @@ AMC最愛電影,mitv://ns2.hellotvvod.com:9906/0c2aaf5130704f6889b0f5a5f2574c51.
 
 緯來精采,mitv://ns2.hellotvvod.com:9906/859fc83fef3d4712a4608a7ca44379d9
 
-三立戲劇台,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
-三立戲劇台,mitv://ns2.hellotvvod.com:9906/2e38b1ed3fa84778aa2e1eaa43bc7066
+
+三立戲劇台,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
 
 博斯高球I,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
 
@@ -725,8 +729,7 @@ TVBS新聞 HD,https://epg.pm/stream/43712ed6dab7923b7dea00642b5d480dfa0e7e058813
 八大戲劇 HD,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
 八大戲劇,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
 八大戲劇,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
-三立戲劇台,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
-三立戲劇台,mitv://ns2.hellotvvod.com:9906/2e38b1ed3fa84778aa2e1eaa43bc7066
+三立戲劇台,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
 三立台灣台,http://220.134.196.147:9256/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
 三立台灣台,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 三立台灣台,p2p://ns2.hellotvvod.com:9906/bf2340e4482040e3b4af5c384adc2250
@@ -734,7 +737,7 @@ TVBS新聞 HD,https://epg.pm/stream/43712ed6dab7923b7dea00642b5d480dfa0e7e058813
 三立台灣台,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 三立都會台,http://220.134.196.147:9222/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 三立綜合,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
-三立綜合,http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
+三立綜合,http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=MB0B8754413687544136&ct=19193&tsum=b815a8eec252a8266b57178e6b336b03
 年代MUCH,http://61.219.170.95:18558/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
 衛視中文 FHD,http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
 衛視中文 FHD,http://61.219.170.95:18522/.m3u8
@@ -760,6 +763,7 @@ EYE TV戲劇台,https://epg.pm/stream/41f78c2cc87e0cbade0f1bd295f68b4ab107aa1741
 🇹🇼電影🇹🇼,#genre#
 龍華電影,http://220.134.196.147:9558/http/116.50.42.18:8066/hls/210/10014/cstv14.m3u8
 龍華電影,http://61.219.170.95:18574/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
+龍華電影,http://61.219.170.95:18574/.m3u8
 衛視電影台,http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 龍祥電影,mitv://ns2.hellotvvod.com:9906/558d283e9d9d44729c3d8f337b55e572.ts
 東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
