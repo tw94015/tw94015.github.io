@@ -683,7 +683,7 @@ TVBS新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
 東森財經新聞 HD,https://ytb.52sf.ga/jmsytb.m3u8?c=12
 壹新聞 HD,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹新聞 HD,http://stream.nexttv.com.tw/n001/playlist.m3u8
-鏡新聞 HD,https://ytb.52sf.ga/jmsytb.m3u8?c=20
+鏡新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
 年代新聞,http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 寰宇新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 寰宇新聞台灣台,https://git.io/JgkpO
