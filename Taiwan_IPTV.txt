@@ -673,9 +673,12 @@ FashionTV,http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&
 中視新聞 HD,https://git.io/Jgkxz
 華視新聞資訊 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw
 華視新聞資訊 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34#http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw
+TVBS新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+TVBS新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
 TVBS新聞 HD,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞 HD,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
+TVBS新聞 HD,rtmp://59.124.75.138/sat/tv551
+TVBS新聞 HD,rtmp://59.124.75.150/sat/tv551
 中天新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
 三立新聞,http://220.134.196.147:9243/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
@@ -696,10 +699,6 @@ TVBS新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
 民視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
 中視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
 華視新聞資訊 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
-TVBS新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
-TVBS新聞 HD,rtmp://59.124.75.138/sat/tv551
-TVBS新聞 HD,rtmp://59.124.75.150/sat/tv551
-TVBS新聞 HD,https://epg.pm/stream/43712ed6dab7923b7dea00642b5d480dfa0e7e058813646d0591f1a814b9c028.php
 中天新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
 三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
 東森新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
