@@ -794,13 +794,12 @@ SP_0000,#genre#
 LOOK TV,mitv://ns2.hellotvvod.com:9906/a2dd077459d5400bb1b3158385de22d5
 潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/c8589ff8c36c4e72a9b604c61be35962
 驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/cac666bec3a44169bff6b1d1f48f7d67
+香蕉台,mitv://ns2.hellotvvod.com:9906/edb18b7e92c74df083681bac7ec1ac5f
 松視1台,mitv://ns2.hellotvvod.com:9906/b38279cc17f94e488fa4cc1df2d25a63
 松視2台,mitv://ns2.hellotvvod.com:9906/91a9b279d5ca4629ac04157baaf095bf
-PLAYBOY,mitv://ns2.hellotvvod.com:9906/edad3da983474f7889730c8cfd5321e9
-香蕉台,mitv://ns2.hellotvvod.com:9906/edb18b7e92c74df083681bac7ec1ac5f
 松視3台,mitv://ns2.hellotvvod.com:9906/2ed3e79538364ed68f8f909de4e13be8
 JStar極限台,mitv://ns2.hellotvvod.com:9906/e3ec78bbb85a472e8843d43e7205e87d
 HAPPY,mitv://ns2.hellotvvod.com:9906/d08db5ea6c98424badd2101f44157021
 K,mitv://ns2.hellotvvod.com:9906/5044e5e86476431f981c4b781aca6f9e
-	
+PLAYBOY,mitv://ns2.hellotvvod.com:9906/edad3da983474f7889730c8cfd5321e9
 	
