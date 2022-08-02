@@ -43,7 +43,7 @@ MOMO綜合,http://61.219.170.95:18576/.m3u8
 民視,rtmp://59.124.75.138:1935/sat/tv051
 蓮花衛視,http://nettvpro.live/hls/lotustv.php
 TVBS新聞,rtmp://59.124.75.138:1935/sat/tv551
-中華電信,#genre#,id:474,TVBS歡樂,rtmp://59.124.75.138:1935/sat/tv421
+TVBS歡樂,rtmp://59.124.75.138:1935/sat/tv421
 有線18,rtmp://59.124.75.138:1935/sat/hk041
 緯來育樂,rtmp://59.124.75.138:1935/sat/tv701
 緯來體育,rtmp://59.124.75.138:1935/sat/tv721
