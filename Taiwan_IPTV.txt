@@ -490,14 +490,16 @@ Eurosport 2,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/s
 
 WWE,http://50.7.220.74:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 
-
+愛爾達體育1台,mitv://45.92.126.18:9906/62596cd0000349b813fb2a4367d31141
+愛爾達體育1台,http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 愛爾達體育1台,p2p://ns2.hellotvvod.com:9906/8bbc0fed9a014a5cae3e1537fafe7b15
 愛爾達體育1台,p2p://ns2.hellotvvod.com:9906/97a71c06dcda477595c3f345bd0f3dcf
-愛爾達體育1台,http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 
+愛爾達體育2台,mitv://45.92.126.18:9906/62596cee000e512213fba2460c39ef10
 愛爾達體育2台,p2p://ns2.hellotvvod.com:9906/9c0ce7c0407747ffa18dedf01afda650
 愛爾達體育2台,p2p://ns2.hellotvvod.com:9906/c766e42fa48a4f9391f809acab5790dd
 
+愛爾達體育3台,mitv://45.92.126.18:9906/62596d0a0009c5b313fc0e7cd12205f2
 愛爾達體育3台,p2p://ns2.hellotvvod.com:9906/2c3f014567d2474ebaaaa234bf9f21dc
 愛爾達體育3台,p2p://ns2.hellotvvod.com:9906/610f7088e51748408defd2e6ccd99a2d
 
@@ -813,13 +815,16 @@ CatchPlay電影台,mitv://ns2.hellotvvod.com:9906/0718c5d6108c4c3788f12d567a1364
 緯來體育 HD,rtmp://59.124.75.150/sat/tv721
 緯來體育 HD,mitv://ns2.hellotvvod.com:9906/23ea59c14cfe49eeb19298fea276876e.ts
 
+愛爾達體育1台,mitv://45.92.126.18:9906/62596cd0000349b813fb2a4367d31141
+愛爾達體育1台,http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 愛爾達體育1台,p2p://ns2.hellotvvod.com:9906/8bbc0fed9a014a5cae3e1537fafe7b15
 愛爾達體育1台,p2p://ns2.hellotvvod.com:9906/97a71c06dcda477595c3f345bd0f3dcf
-愛爾達體育1台,http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 
+愛爾達體育2台,mitv://45.92.126.18:9906/62596cee000e512213fba2460c39ef10
 愛爾達體育2台,p2p://ns2.hellotvvod.com:9906/9c0ce7c0407747ffa18dedf01afda650
 愛爾達體育2台,p2p://ns2.hellotvvod.com:9906/c766e42fa48a4f9391f809acab5790dd
 
+愛爾達體育3台,mitv://45.92.126.18:9906/62596d0a0009c5b313fc0e7cd12205f2
 愛爾達體育3台,p2p://ns2.hellotvvod.com:9906/2c3f014567d2474ebaaaa234bf9f21dc
 愛爾達體育3台,p2p://ns2.hellotvvod.com:9906/610f7088e51748408defd2e6ccd99a2d
 
@@ -827,13 +832,13 @@ ELEVEN體育1台,http://220.134.196.147:9230/http/59.120.8.187:8078/hls/25/80/es
 ELEVEN體育1台,rtmp://59.124.75.138/sat/tv731
 ELEVEN體育1台,rtmp://59.124.75.150/sat/tv731
 ELEVEN體育1台,rtmp://59.124.75.138:1935/sat/tv731
-ELEVEN體育1台,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
+ELEVEN體育1台,mitv://45.92.126.18:9906/625854d4000964b10fb57b7382610c8d
 ELEVEN體育1台,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
-ELEVEN體育1台,mitv://ns2.hellotvvod.com:9906/362d98cea092490186e3ae392b60ac2c.ts
+
 ELEVEN體育2台,http://220.134.196.147:9227/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 ELEVEN體育2台,rtmp://59.124.75.138/sat/tv741
 ELEVEN體育2台,rtmp://59.124.75.150/sat/tv741
-ELEVEN體育2台,mitv://ns2.hellotvvod.com:9906/fb1fa05398b54c2f84b13edd044d412e.ts
+ELEVEN體育2台,mitv://45.92.126.18:9906/6258550f0001c6880fb65ff87e0ebc13
 ELEVEN體育2台,https://epg.pm/stream/480fbbc2ba61ff75864f5aca4b9918c7ddba6fb3306ad56eb2a6482f92fc3301.m3u8
 ELEVEN體育2台,rtmp://59.124.75.138:1935/sat/tv741
 
