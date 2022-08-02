@@ -20,6 +20,8 @@ CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x72
 
 人間衛視,http://61.219.170.95:18561/http/192.168.1.9:8081/hls/69/811/ch36.m3u8
 
+台視,http://61.219.170.95:18543/http/116.50.42.18:8081/hls/72/814/ch46.m3u8
+
 台視,rtmp://59.124.75.150/sat/tv071#http://61.219.170.95:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8#http://61.219.170.95:18543/.m3u8
 
 台視,rtmp://59.124.75.138:1935/sat/tv071
