@@ -78,6 +78,7 @@ momo親子台,mitv://ns2.hellotvvod.com:9906/3f089cf327fb43ec8437f081779461c6.ts
 
 三立台灣台,http://220.134.196.147:9256/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
 三立台灣台,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
+三立台灣台,mitv://45.92.126.18:9906/625851fa000d44170faa58e136d727dc
 三立台灣台,p2p://ns2.hellotvvod.com:9906/bf2340e4482040e3b4af5c384adc2250
 三立台灣台,p2p://ns2.hellotvvod.com:9906/5615cc482e7b48ee8bdd53bae0c6a479
 三立台灣台,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
@@ -738,6 +739,7 @@ TVBS新聞 HD,rtmp://59.124.75.150/sat/tv551
 三立戲劇台,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
 三立台灣台,http://220.134.196.147:9256/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
 三立台灣台,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
+三立台灣台,mitv://45.92.126.18:9906/625851fa000d44170faa58e136d727dc
 三立台灣台,p2p://ns2.hellotvvod.com:9906/bf2340e4482040e3b4af5c384adc2250
 三立台灣台,p2p://ns2.hellotvvod.com:9906/5615cc482e7b48ee8bdd53bae0c6a479
 三立台灣台,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
