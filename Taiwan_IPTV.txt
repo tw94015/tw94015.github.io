@@ -162,11 +162,11 @@ TVBS國際+,https://git.io/JgYl2
 
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 
-東森財經,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211#http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw#https://git.io/Jgkpc#rtmp://59.124.75.138/sat/tv571
-
-東森財經,rtmp://59.124.75.150/sat/tv571
-
-東森財經,rtmp://59.124.75.138:1935/sat/tv571
+東森財經新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
+東森財經新聞 HD,https://raw.githubusercontent.com/killme1206/cmd/YTlive/23.m3u8
+東森財經新聞 HD,rtmp://59.124.75.138/sat/tv571
+東森財經新聞 HD,rtmp://59.124.75.150/sat/tv571
+東森財經新聞 HD,https://epg.pm/stream/b2ed5c7047cf73ef9be80e450b995aec8075d976436ebe442613dbd854bbdbc0.php
 
 非凡新聞,http://220.134.196.147:9244/http/116.50.42.19:8081/hls/75/817/ch57.m3u8
 
@@ -677,10 +677,6 @@ TVBS新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
 三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
 三立iNEWS,https://git.io/Jgkxj
 三立iNEWS,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
-東森財經新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
-東森財經新聞 HD,https://git.io/Jgkpc
-東森財經新聞 HD,https://epg.pm/stream/8ae9925c4c20b3bbb0eabb43facbc74782dcc9aa57398cbfff02f5b14d912e00.m3u8
-東森財經新聞 HD,https://ytb.52sf.ga/jmsytb.m3u8?c=12
 壹新聞 HD,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹新聞 HD,http://stream.nexttv.com.tw/n001/playlist.m3u8
 鏡新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
@@ -703,6 +699,7 @@ TVBS新聞 HD,https://epg.pm/stream/43712ed6dab7923b7dea00642b5d480dfa0e7e058813
 東森新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
 東森新聞 HD,https://epg.pm/stream/c8621da5d311aa34e7281b64bec8f141bfaad8786dd836d533054d9bf46cc7b9.php
 東森財經新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
+東森財經新聞 HD,https://raw.githubusercontent.com/killme1206/cmd/YTlive/23.m3u8
 東森財經新聞 HD,rtmp://59.124.75.138/sat/tv571
 東森財經新聞 HD,rtmp://59.124.75.150/sat/tv571
 東森財經新聞 HD,https://epg.pm/stream/b2ed5c7047cf73ef9be80e450b995aec8075d976436ebe442613dbd854bbdbc0.php
