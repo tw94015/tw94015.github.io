@@ -187,9 +187,9 @@ TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 
 衛視電影台,http://220.134.196.147:9254/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
 
-東森電影,mitv://ns2.hellotvvod.com:9906/f4b91b7216344cc193da2b2c4ca0a478
+東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 
-東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
+東森電影,mitv://ns2.hellotvvod.com:9906/7c56b5132aa8456d89307424cdbf142b
 
 東森電影,mitv://fccs.word-tv.com:9906/62541ccb0008d232097eddd9e4082c99
 
@@ -779,11 +779,9 @@ Star World,http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8
 龍華電影,http://61.219.170.95:18574/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
 龍華電影,http://61.219.170.95:18574/.m3u8
 衛視電影台,http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
-東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
-東森電影,mitv://ns2.hellotvvod.com:9906/f4b91b7216344cc193da2b2c4ca0a478
-東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
-東森電影,mitv://ns2.hellotvvod.com:9906/f4b91b7216344cc193da2b2c4ca0a478.ts
-東森洋片,http://120.84.96.134:808/hls/33/index.m3u8
+東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+東森電影,mitv://ns2.hellotvvod.com:9906/7c56b5132aa8456d89307424cdbf142b
+東森電影,mitv://fccs.word-tv.com:9906/62541ccb0008d232097eddd9e4082c99
 東森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
 星衛電影台,mitv://ns2.hellotvvod.com:9906/8fc7b7e098224cafb6af86596721d484
 星衛電影台,mitv://fccs.word-tv.com:9906/62613c0200051f95188982fec2ef3ed5
