@@ -793,7 +793,7 @@
     彩虹電影台,mitv://ns2.hellotvvod.com:9906/d9586773768148f18a12fe2f41325287
     LOOK TV,mitv://ns2.hellotvvod.com:9906/cb447cf109fe480283b8b49db9547f5c
     潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/edccc059eb714ef88d16187e52305dd3
-    驚艷成人電影台,mitv://ns2.hellotvvod.com:9906/eee5685e1ee24b458272f7807f24bc01
+    驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/eee5685e1ee24b458272f7807f24bc01
     松視1台,mitv://ns2.hellotvvod.com:9906/0c11667126114f009d947d2dd96d51f6
     松視2台,mitv://ns2.hellotvvod.com:9906/ce457c615b8d45de91ae7fbcb83f1183
     PLAYBOY,mitv://ns2.hellotvvod.com:9906/f140f83eb8ff4e97be0add11bd63ddce
