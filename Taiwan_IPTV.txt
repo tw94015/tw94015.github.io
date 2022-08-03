@@ -139,6 +139,7 @@ JET綜合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct
 momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+壹新聞,http://stream.nexttv.com.tw:80/n001/hd/live.m3u8
 
 年代新聞,http://220.134.196.147:9237/http/60.251.39.91:8081/hls/67/809/ch27.m3u8 
 
@@ -692,6 +693,7 @@ TVBS新聞 HD,rtmp://59.124.75.150/sat/tv551
 三立iNEWS,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
 壹新聞 HD,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹新聞 HD,http://stream.nexttv.com.tw/n001/playlist.m3u8
+壹新聞 HD,http://stream.nexttv.com.tw:80/n001/hd/live.m3u8
 鏡新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
 年代新聞,http://220.134.196.147:9237/http/60.251.39.91:8081/hls/67/809/ch27.m3u8 
 年代新聞,http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
