@@ -11,8 +11,7 @@ CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x72
 民視,rtmp://59.124.75.138/sat/tv051
 民視,rtmp://59.124.75.138:1935/sat/tv051
 民視,rtmp://59.124.75.150/sat/tv051
-民視,mitv://ns2.hellotvvod.com:9906/ab45f757ec2a4c2ebbbea7823cb482f0
-民視,p2p://ns2.hellotvvod.com:9906/9d360cfac1dd4906b9b54681a7f57b4e
+民視,mitv://ns2.hellotvvod.com:9906/56079abb287644afac0686395ea134f6
 
 
 
@@ -729,8 +728,7 @@ TVBS新聞 HD,rtmp://59.124.75.150/sat/tv551
 民視,rtmp://59.124.75.138/sat/tv051
 民視,rtmp://59.124.75.138:1935/sat/tv051
 民視,rtmp://59.124.75.150/sat/tv051
-民視,mitv://ns2.hellotvvod.com:9906/ab45f757ec2a4c2ebbbea7823cb482f0
-民視,mitv://ns2.hellotvvod.com:9906/9d360cfac1dd4906b9b54681a7f57b4e
+民視,mitv://ns2.hellotvvod.com:9906/56079abb287644afac0686395ea134f6
 
 台視,http://61.219.170.95:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
 公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
