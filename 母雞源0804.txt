@@ -394,7 +394,7 @@ AMC,mitv://fccs.word-tv.com:9906/62674eb900041ef4163efcc6b4c8cd0b
 靖洋戲劇台,mitv://fccs.word-tv.com:9906/6260e602000b292d1739948a4e6140fe
 EYE戲劇,mitv://fccs.word-tv.com:9906/625960940003b62a13cb5fff85627bd1
 愛爾達影劇台,mitv://fccs.word-tv.com:9906/62595fe00007a82a13c8a1e18c1171c7
-    _8100,#genre#
+成人,#genre#
 彩虹e台,mitv://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
 彩虹電影台,mitv://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
 LOOK TV,mitv://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
@@ -425,3 +425,17 @@ KMP 頻道,mitv://fccs.word-tv.com:9906/626b7417000ebc0c0c6c7ee48913e1f0
 櫻桃,mitv://fccs.word-tv.com:9906/626b7434000c38c40c6cef87e3079c78
 大學,mitv://fccs.word-tv.com:9906/626b74450000c4030c6d2f0117e32ee4
 INPUT,mitv://fccs.word-tv.com:9906/626b7455000e15fa0c6d70eac57e01
+
+🍌｜小蕉成人,#genre#
+潘朵啦玩美,mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31
+松视1,mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894
+松视2,P2p://ns2.hellotvvod.com:9906/ce457c615b8d45de91ae7fbcb83f1183
+松视3,mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3
+彩虹e,p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
+彩虹电影,p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66
+香蕉台,p2p://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98
+潘朵啦玩美,p2p://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31
+松视1,p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
+松视3,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
+彩虹e,P2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
+彩虹电影,P2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
