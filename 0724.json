@@ -3,9 +3,19 @@
 
 "spider":"https://gitea.com/rexian99/TVBox/raw/branch/main/jar/0724.jar",
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":[
+"lives": [
+{
+"group": "redirect",
+"channels": [
+{
+"name": "redirect",
+"urls": [
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9rZHMyLmNvZGluZy5uZXQvcC9rL2Qvay9naXQvcmF3L21hc3Rlci9tYW9saXZlLnR4dA=="
-]}]}],
+]
+}
+]
+}
+],
 "sites":[
 {"key":"csp_Nbys","name":"🏢泥巴影院(SP)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_naifeiorg","name":"奈飛中文(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable ":1,"ext":"http://138.2.63.32/cat/DV/naifeiorg.json"},
