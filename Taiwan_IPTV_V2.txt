@@ -242,7 +242,7 @@ FashionTV	,http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343
 孝廉	,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8							
 音樂石榴	,http://txtest-xp2p.p2p.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.xs							
 								
-🇹🇼新聞🇹🇼								
+🇹🇼新聞🇹🇼,#genre#								
 民視新聞 HD	,http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw	#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8	#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31					
 台視新聞 HD	,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw	https://git.io/JgkxY	https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8					
 中視新聞 HD	,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8	https://git.io/Jgkxz	http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33					
