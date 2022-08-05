@@ -3,7 +3,7 @@
 
 "spider":"https://gitea.com/rexian99/TVBox/raw/branch/main/jar/0724.jar",
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["https://raw.githubusercontent.com/tw94015/tw94015.github.io/main/8%E6%9C%881%E6%97%A5%E6%99%B4%E5%A4%A9.txt"]}]}],
+"lives":""https://raw.githubusercontent.com/tw94015/tw94015.github.io/main/8%E6%9C%881%E6%97%A5%E6%99%B4%E5%A4%A9.txt",
 "sites":[
 {"key":"csp_Nbys","name":"🏢泥巴影院(SP)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_naifeiorg","name":"奈飛中文(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable ":1,"ext":"http://138.2.63.32/cat/DV/naifeiorg.json"},
