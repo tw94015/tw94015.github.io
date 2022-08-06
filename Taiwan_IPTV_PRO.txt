@@ -142,7 +142,7 @@ GoodTV2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/l
 靖天綜合,mitv://ns2.hellotvvod.com:9906/6fcc2d818c3f495fae82f2411d85a2d6
 靖天育樂,mitv://ns2.hellotvvod.com:9906/b3b353e559b24fd783f6d883c1a05b03
 靖天卡通,http://50.7.220.74:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c#http://hwplay-hls.myun.tv/live/3416a75f4cea9109507cacd8e2f2aefcA9878B4CBA565893E4CF8B1C1F0F2326.m3u8
-靖天戲劇,mitv://ns2.hellotvvod.com:9906/161eafacb2e54e30a4bf40b231a8c1b2
+靖天戲劇,P2p://ns2.hellotvvod.com:9906/161eafacb2e54e30a4bf40b231a8c1b2
 靖天日本,mitv://ns2.hellotvvod.com:9906/d322e2bc60ea4d2f89703b858345a132
 靖洋卡通台,mitv://ns2.hellotvvod.com:9906/cf4353462f1e4298bd84b59eb665a634
 靖洋戲劇台,mitv://ns2.hellotvvod.com:9906/7f256a4100094422a9e37833f6a0d448.ts
@@ -223,7 +223,7 @@ EYE TV戲劇台,https://epg.pm/stream/41f78c2cc87e0cbade0f1bd295f68b4ab107aa1741
 嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
 台視綜合,mitv://fccs.word-tv.com:9906/626929ef0001a650037acf4bc1fd630b
 亞洲美食,mitv://ns2.hellotvvod.com:9906/8abbfcc140f44a478ac5789e4011da5e
-壹電影,mitv://ns2.hellotvvod.com:9906/ba73492c73854d3fac7c3e6d50d386ae
+壹電影,mitv://fccs.word-tv.com:9906/62674e97000a6a59163e799316c3d943
 壹綜合,mitv://ns2.hellotvvod.com:9906/5d60f4b9c5c842d391b891c9bad74e7a.ts
 時尚運動X,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
 SPOTV,http://live1.streamk.co:8080/sportsbox_preview/live53/playlist.m3u8?site=gaktv&ch=live53#http://mytv.dothome.co.kr/ch/catv/244.php#https://apichvod19.seezntv.com/OTM/10070_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
@@ -299,7 +299,7 @@ HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&
 龍祥時代,http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8#http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5#http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
 漫威電影,http://epg.112114.xyz/douyu/4282654
 采昌影劇台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv049&nid=25#mitv://ns2.hellotvvod.com:9906/b0510259b5eb446e8d81062512b4ccfb
-壹電影,mitv://ns2.hellotvvod.com:9906/ba73492c73854d3fac7c3e6d50d386ae
+壹電影,mitv://fccs.word-tv.com:9906/62674e97000a6a59163e799316c3d943
 美亞電影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 靖天電影,mitv://ns2.hellotvvod.com:9906/944ef19dba2b449db6ff46e2f2e4969c
 CatchPlay電影台,mitv://ns2.hellotvvod.com:9906/0718c5d6108c4c3788f12d567a1364e3.ts
@@ -328,22 +328,22 @@ EYE TV戲劇台,https://epg.pm/stream/41f78c2cc87e0cbade0f1bd295f68b4ab107aa1741
 龍華日韓,http://61.219.170.95:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
 龍華偶像,http://61.219.170.95:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
 龍華戲劇,http://61.219.170.95:18507/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
-靖天戲劇,mitv://ns2.hellotvvod.com:9906/161eafacb2e54e30a4bf40b231a8c1b2
+靖天戲劇,P2p://ns2.hellotvvod.com:9906/161eafacb2e54e30a4bf40b231a8c1b2
 Star World,http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8
 
 🇹🇼鎖碼頻道🇹🇼_0000,#genre#
-☆JSᴴᴰ極限電影,mitv://ns2.hellotvvod.com:9906/544277358a2942aebd69af19afe60608#mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
-彩虹e台,mitv://ns2.hellotvvod.com:9906/0abd2d7b3380468fa5dbbbf878c4f294#mitv://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057#p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057#P2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057#p2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
-彩虹電影台,mitv://ns2.hellotvvod.com:9906/d9586773768148f18a12fe2f41325287#mitv://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66#p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66#P2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66#p2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
-LOOK TV,mitv://ns2.hellotvvod.com:9906/cb447cf109fe480283b8b49db9547f5c#mitv://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd#p2p://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
+☆JSᴴᴰ極限電影#mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
+彩虹e台#mitv://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057#p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057#P2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057#p2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
+彩虹電影台#mitv://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66#p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66#P2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66#p2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
+LOOK TV#mitv://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd#p2p://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
 潘朵啦粉紅台,mitv://fccs.word-tv.com:9906/6260e061000b04ae172397987c1e3b34
-潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/edccc059eb714ef88d16187e52305dd3#mitv://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31#mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31#p2p://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31#p2p://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
-松視1台,mitv://ns2.hellotvvod.com:9906/0c11667126114f009d947d2dd96d51f6#mitv://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894#mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894#p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894#p2p://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
-松視2台,mitv://ns2.hellotvvod.com:9906/ce457c615b8d45de91ae7fbcb83f1183#mitv://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b#mitv://45.92.126.18:9906/6260dfc1000bd4ed172126cefab5cf1b#p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
-松視3台,mitv://ns2.hellotvvod.com:9906/5a32785621ba4e0b8505e72a4ada3a4a#mitv://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3#mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3#p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3#p2p://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
+潘朵啦玩美台#mitv://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31#mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31#p2p://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31#p2p://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
+松視1台#mitv://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894#mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894#p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894#p2p://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
+松視2台#mitv://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b#mitv://45.92.126.18:9906/6260dfc1000bd4ed172126cefab5cf1b#p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
+松視3台#mitv://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3#mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3#p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3#p2p://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
 HOT頻道,mitv://fccs.word-tv.com:9906/6260e0070001ff07172235b9bb1b0cb6#mitv://45.92.126.18:9906/6260e0070001ff07172235b9bb1b0cb6#p2p://54.39.16.152:9906/6260e0070001ff07172235b9bb1b0cb6
-HAPPY頻道,mitv://ns2.hellotvvod.com:9906/004c47dfe1fd4590a15a68884a6879fa#mitv://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7#mitv://45.92.126.18:9906/6260e2420001e45e172aec2a005c42e7#p2p://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
-K 頻道,mitv://ns2.hellotvvod.com:9906/180450a1dc994dfb82c2d9d0e4cc2d6b#mitv://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f#mitv://45.92.126.18:9906/6263c0cd0009e68a085c9c619861891f#p2p://54.39.16.152:9906/6263c0cd0009e68a085c9c619861891f
-香蕉台,mitv://ns2.hellotvvod.com:9906/c2ac8f165ec14b1db963dd67adfcd2a0#mitv://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98#p2p://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98#p2p://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98
-驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/eee5685e1ee24b458272f7807f24bc01#mitv://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9#p2p://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
-PLAYBOY,mitv://ns2.hellotvvod.com:9906/f140f83eb8ff4e97be0add11bd63ddce#mitv://fccs.word-tv.com:9906/626b740500067a270c6c3677cce23984
+HAPPY頻道#mitv://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7#mitv://45.92.126.18:9906/6260e2420001e45e172aec2a005c42e7#p2p://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
+K 頻道#mitv://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f#mitv://45.92.126.18:9906/6263c0cd0009e68a085c9c619861891f#p2p://54.39.16.152:9906/6263c0cd0009e68a085c9c619861891f
+香蕉台#mitv://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98#p2p://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98#p2p://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98
+驚豔成人電影台#mitv://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9#p2p://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
+PLAYBOY#mitv://fccs.word-tv.com:9906/626b740500067a270c6c3677cce23984
