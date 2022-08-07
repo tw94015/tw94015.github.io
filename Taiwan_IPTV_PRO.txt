@@ -2,7 +2,7 @@
 豬哥亮歌廳秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
 公視台語台,http://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3#http://seb.sason.top/ptv/ftv.php?id=ms#rtmp://59.124.75.138/sat/tv051#rtmp://59.124.75.138:1935/sat/tv051#rtmp://59.124.75.150/sat/tv051
+民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3#rtmp://59.124.75.138/sat/tv051#rtmp://59.124.75.138:1935/sat/tv051#rtmp://59.124.75.150/sat/tv051
 人間衛視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210#http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8#http://61.219.170.95:18561/http/192.168.1.9:8081/hls/69/811/ch36.m3u8
 台視,http://61.219.170.95:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -241,7 +241,7 @@ FashionTV,http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&
 生命電視台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 孝廉,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
 音樂石榴,http://txtest-xp2p.p2p.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.xs
-
+網路流行音樂台,https://git.io/JgkA6
 🇹🇼新聞🇹🇼,#genre#
 民視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
 台視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxwhttps://git.io/JgkxYhttps://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
@@ -305,7 +305,7 @@ HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&
 CatchPlay電影台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv076&nid=177
 
 🇹🇼戲劇🇹🇼,#genre#
-民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3#http://seb.sason.top/ptv/ftv.php?id=ms#rtmp://59.124.75.138/sat/tv051#rtmp://59.124.75.138:1935/sat/tv051#rtmp://59.124.75.150/sat/tv051
+民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3#rtmp://59.124.75.138/sat/tv051#rtmp://59.124.75.138:1935/sat/tv051#rtmp://59.124.75.150/sat/tv051
 台視,http://61.219.170.95:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
 公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
 公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
@@ -330,6 +330,10 @@ EYE TV戲劇台,http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e884
 龍華戲劇,http://61.219.170.95:18507/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
 靖天戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv058&nid=116
 Star World,http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8
+
+🇹🇼即時風景,#genre#
+象山看台北,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=528
+外太空看地球,http://u6tvm9fcxdmxxo.movieyo.net:1602/live.m3u8?c=167
 
 ❤鎖碼頻道❤_0000,#genre#
 ☆JSᴴᴰ極限電影,mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815#P2p://54.39.16.152:9906/6260e2b000004933172c99712568d815
