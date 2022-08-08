@@ -66,7 +66,7 @@ TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 HBO,http://220.134.196.147:9557/http/116.50.42.18:8081/hls/71/813/ch41.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
 東森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4#mitv://ns2.hellotvvod.com:9906/564798b3a4b945528410559392b461f9#mitv://45.92.126.18:9906/62541d6200021780098129f8ea5d0f93
 AXN,http://61.219.170.95:18548/http/192.168.1.9:8081/hls/71/813/ch43.m3u8#http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb#http://59.125.122.90:18548/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://59.125.122.90:18548/http/192.168.1.9:8081/hls/76/818/ch08.m3u8
-好萊塢電影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3#http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161#http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859#http://220.134.196.147:9224/http/116.50.42.19:8081/hls/74/816/ch55.m3u8#mitv://ns2.hellotvvod.com:9906/072b01d54b954eacb530858a1d61b993
+好萊塢電影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3#http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161#http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859#http://220.134.196.147:9224/http/116.50.42.19:8081/hls/74/816/ch55.m3u8#mitv://ns2.hellotvvod.com:9906/072b01d54b954eacb530858a1d61b993#http://iptv12k.com:35461/live/80301070602/456776/1249.m3u8
 衛視合家歡,http://220.134.196.147:9561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a#http://220.134.196.147:9561/http/116.50.42.18:8081/hls/61/803/ch02.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda#http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8#http://61.219.170.95:18504/.m3u8
 CINEMAX,http://220.134.196.147:9229/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 緯來育樂,http://220.134.196.147:9569/http/59.120.8.187:8081/hls/68/810/ch30.m3u8#http://61.219.170.95:18541/http/192.168.1.9:8081/hls/68/810/ch30.m3u8#http://61.219.170.95:18541/playlist.m3u8#http://220.134.196.147:9569/playlist.m3u8
@@ -153,7 +153,7 @@ GoodTV2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/l
 中視精采台,mitv://fccs.word-tv.com:9906/6269290b000463f70377555ece4c7fca
 台視財經,mitv://ns2.hellotvvod.com:9906/dc1ed8d86c454a6f8da7764f27ee919d
 台視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxwhttps://git.io/JgkxYhttps://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
-星衛電影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb#mitv://ns2.hellotvvod.com:9906/042b5b5b8aee4f49a2ff6ff59b6152b3#http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+星衛電影台,http://iptv12k.com:35461/live/80301070602/456776/1870.m3u8#mitv://ns2.hellotvvod.com:9906/042b5b5b8aee4f49a2ff6ff59b6152b3#http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
 星衛娛樂台,mitv://ns2.hellotvvod.com:9906/d24c773470c847a3963860c4d746532b
 THE K-POP,https://git.io/JgYAE
 暴走兄弟,http://zzy789.xyz/bili.php?id=10544270
@@ -164,9 +164,9 @@ BBC Earth
 Eurosport 1,http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/217/stream.m3u8#http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/217/stream.m3u8#http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8#http://cdnua06.hls.tv/476/hls/ic98vakdjzm2sqf1elhg67pwr0xbto34/216/stream.m3u8#http://cdnua06.hls.tv/476/hls/cma6nrk9e8z7ygfsl5xtj3ohb014vpw2/216/stream.m3u8#http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/216/stream.m3u8
 Eurosport 2,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/stream.m3u8#https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/219/stream.m3u8#http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/219/stream.m3u8#http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/stream.m3u8#http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8#http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=eurosport2
 WWE,http://50.7.220.74:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
-愛爾達體育1台,mitv://ns2.hellotvvod.com:9906/9502c7983e3a4215a0c00fa62ecbeb24#mitv://ns2.hellotvvod.com:9906/c5467bdb499440d59fda0a490dca13c4#mitv://45.92.126.18:9906/62596cd0000349b813fb2a4367d31141#http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745#rtmp://59.124.75.150/sat/md011#rtmp://59.124.75.138/sat/md011
-愛爾達體育2台,mitv://ns2.hellotvvod.com:9906/13c5007b107349e98c02eed6ffcbb5e4#mitv://45.92.126.18:9906/62596cee000e512213fba2460c39ef10
-愛爾達體育3台,mitv://ns2.hellotvvod.com:9906/70437e80ba86494ab1f8edb0cdb1c7b8#mitv://ns2.hellotvvod.com:9906/673a7935b4504809b2e6bc0d852440bd#mitv://45.92.126.18:9906/62596d0a0009c5b313fc0e7cd12205f2#rtmp://59.124.75.138/sat/md021
+愛爾達體育1台,mitv://ns2.hellotvvod.com:9906/9502c7983e3a4215a0c00fa62ecbeb24#mitv://ns2.hellotvvod.com:9906/c5467bdb499440d59fda0a490dca13c4#http://iptv12k.com:35461/live/80301070602/456776/1221.m3u8#http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745#rtmp://59.124.75.150/sat/md011#rtmp://59.124.75.138/sat/md011
+愛爾達體育2台,mitv://ns2.hellotvvod.com:9906/13c5007b107349e98c02eed6ffcbb5e4#http://iptv12k.com:35461/live/80301070602/456776/1220.m3u8
+愛爾達體育3台,mitv://ns2.hellotvvod.com:9906/70437e80ba86494ab1f8edb0cdb1c7b8#mitv://ns2.hellotvvod.com:9906/673a7935b4504809b2e6bc0d852440bd#http://iptv12k.com:35461/live/80301070602/456776/1219.m3u8#rtmp://59.124.75.138/sat/md021
 HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2#mitv://ns2.hellotvvod.com:9906/66a79676e75c43bbb11e7d80529a87fd
 HBO強檔巨獻,mitv://ns2.hellotvvod.com:9906/d7d62ec11f474255995219571ff0f5d5.ts
 HBO原創巨獻,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
@@ -267,9 +267,9 @@ TVBS新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live
 
 🇹🇼體育🇹🇼,#genre#
 緯來體育,http://220.134.196.147:9233/http/59.120.8.187:8081/hls/67/809/ch28.m3u8#http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8#rtmp://59.124.75.138:1935/sat/tv721#rtmp://59.124.75.138/sat/tv721#rtmp://59.124.75.150/sat/tv721#P2p://54.39.16.152:9906/62541bbd000ba7f6097abfe357f9c565
-愛爾達體育1台,mitv://ns2.hellotvvod.com:9906/9502c7983e3a4215a0c00fa62ecbeb24#mitv://ns2.hellotvvod.com:9906/c5467bdb499440d59fda0a490dca13c4#mitv://45.92.126.18:9906/62596cd0000349b813fb2a4367d31141#http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745#rtmp://59.124.75.150/sat/md011#rtmp://59.124.75.138/sat/md011
-愛爾達體育2台,mitv://ns2.hellotvvod.com:9906/13c5007b107349e98c02eed6ffcbb5e4#mitv://45.92.126.18:9906/62596cee000e512213fba2460c39ef10
-愛爾達體育3台,mitv://ns2.hellotvvod.com:9906/70437e80ba86494ab1f8edb0cdb1c7b8#mitv://ns2.hellotvvod.com:9906/673a7935b4504809b2e6bc0d852440bd#mitv://45.92.126.18:9906/62596d0a0009c5b313fc0e7cd12205f2#rtmp://59.124.75.138/sat/md021
+愛爾達體育1台,mitv://ns2.hellotvvod.com:9906/9502c7983e3a4215a0c00fa62ecbeb24#mitv://ns2.hellotvvod.com:9906/c5467bdb499440d59fda0a490dca13c4#http://iptv12k.com:35461/live/80301070602/456776/1221.m3u8#http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745#rtmp://59.124.75.150/sat/md011#rtmp://59.124.75.138/sat/md011
+愛爾達體育2台,mitv://ns2.hellotvvod.com:9906/13c5007b107349e98c02eed6ffcbb5e4#http://iptv12k.com:35461/live/80301070602/456776/1220.m3u8
+愛爾達體育3台,mitv://ns2.hellotvvod.com:9906/70437e80ba86494ab1f8edb0cdb1c7b8#mitv://ns2.hellotvvod.com:9906/673a7935b4504809b2e6bc0d852440bd#http://iptv12k.com:35461/live/80301070602/456776/1219.m3u8#rtmp://59.124.75.138/sat/md021
 ELEVEN體育1台,http://220.134.196.147:9230/http/59.120.8.187:8078/hls/25/80/esport.m3u8#rtmp://59.124.75.138/sat/tv731#rtmp://59.124.75.150/sat/tv731#rtmp://59.124.75.138:1935/sat/tv731#mitv://45.92.126.18:9906/625854d4000964b10fb57b7382610c8d#http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 ELEVEN體育2台,http://220.134.196.147:9227/http/59.120.8.187:8078/hls/26/80/esport2.m3u8#rtmp://59.124.75.138/sat/tv741#rtmp://59.124.75.150/sat/tv741#mitv://45.92.126.18:9906/6258550f0001c6880fb65ff87e0ebc13#https://epg.pm/stream/480fbbc2ba61ff75864f5aca4b9918c7ddba6fb3306ad56eb2a6482f92fc3301.m3u8#rtmp://59.124.75.138:1935/sat/tv741
 J Sports 1,P2p://54.39.16.152:9906/62693bb8000a631203c04aaf37cd8e88
@@ -290,9 +290,9 @@ BT Sport ESPN,http://93.152.174.144:4000/play/btsportespn/index.m3u8
 衛視電影台,http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8#http://220.134.196.147:9223/http/116.50.42.19:8081/hls/62/804/ch07.m3u8#http://61.219.170.95:18529/.m3u8#http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8#http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2#http://61.219.170.95:18529/.m3u8
 東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b#http://171.108.239.12:8181/tsfile/live/1010_1.m3u8#http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20296
 東森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4#mitv://ns2.hellotvvod.com:9906/564798b3a4b945528410559392b461f9#mitv://45.92.126.18:9906/62541d6200021780098129f8ea5d0f93
-星衛電影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb#mitv://ns2.hellotvvod.com:9906/042b5b5b8aee4f49a2ff6ff59b6152b3#http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+星衛電影台,http://iptv12k.com:35461/live/80301070602/456776/1870.m3u8#mitv://ns2.hellotvvod.com:9906/042b5b5b8aee4f49a2ff6ff59b6152b3#http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
 經典電影,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
-好萊塢電影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3#http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161#http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859#http://220.134.196.147:9224/http/116.50.42.19:8081/hls/74/816/ch55.m3u8#mitv://ns2.hellotvvod.com:9906/072b01d54b954eacb530858a1d61b993
+好萊塢電影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3#http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161#http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859#http://220.134.196.147:9224/http/116.50.42.19:8081/hls/74/816/ch55.m3u8#mitv://ns2.hellotvvod.com:9906/072b01d54b954eacb530858a1d61b993#http://iptv12k.com:35461/live/80301070602/456776/1249.m3u8
 HBO Signature,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2#mitv://ns2.hellotvvod.com:9906/66a79676e75c43bbb11e7d80529a87fd
 緯來電影,http://220.134.196.147:9223/http/116.50.42.18:8081/hls/69/811/ch35.m3u8#http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
@@ -366,6 +366,10 @@ Star World,http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8
 綠島-南寮漁港,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1659971059/ei/k9HwYuuaBp3J2roPzYKXmA0/ip/2600%3A1900%3A2000%3Ae6%3A0%3A0%3A0%3A2/id/wTHhv7M0vCI.1/source/yt_live_broadcast/requiressl/yes/tx/24214266/txs/24214266%2C24214267/hfr/1/playlist_duration/30/manifest_duration/30/spc/lT-KhgCWRuw7NGuIQG6ZkoBhLyeL5YY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgXOPAObxnJ8ReSflUeYKMJzQOY-IZ1S9JNUOByd_7bDcCIF7WaMJx9KvxqnlZMvT5kBu4ikQORYd5UtnKYmmi4GJY/file/index.m3u8
 綠島-柴口浮潛區,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1659971091/ei/s9HwYo6qEoTy4gK08r6ICw/ip/2600%3A1900%3A2000%3Ae6%3A0%3A0%3A0%3A2/id/Y4gzPl4PDtU.1/source/yt_live_broadcast/requiressl/yes/tx/24246935/txs/24246935%2C24246936/hfr/1/playlist_duration/30/manifest_duration/30/spc/lT-KhvCT7FjkzgggtYKSvKM0LvQTm20/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgOpL3jA0_pTsvMUW20MMfZ4-qEjiqGOy0gn7HWbp5kx4CIQDKwsdcyrydcV7T_Or5UaC0WaLmW8eN3dbJcb5gcdpMuA%3D%3D/file/index.m3u8
 
+
+
+
+
 ❤鎖碼頻道❤_0000,#genre#
 ☆JSᴴᴰ極限電影,mitv://ns2.hellotvvod.com:9906/ac3459851f2d48babb893cdd06072e9d#mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815#P2p://54.39.16.152:9906/6260e2b000004933172c99712568d815
 彩虹e台,mitv://ns2.hellotvvod.com:9906/d54097c49aae4ad4a5d1028ed60faab4#mitv://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057#p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
@@ -382,3 +386,94 @@ K 頻道,mitv://ns2.hellotvvod.com:9906/214f573e568a43af8bed500d3d56f4d0#mitv://
 香蕉台,mitv://ns2.hellotvvod.com:9906/6a1754fa20394dd09903a98133152eef#mitv://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98#P2p://54.39.16.152:9906/6260e29a0009b4f9172c45ea502a9f98
 驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/63fdfe354a244e74a507d3bfef9d319c#mitv://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9#P2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9
 PLAYBOY,mitv://ns2.hellotvvod.com:9906/abd30b0b191f4183a41e2228c67d2d41#mitv://fccs.word-tv.com:9906/626b740500067a270c6c3677cce23984#P2p://54.39.16.152:9906/626b740500067a270c6c3677cce23984
+
+台灣備用,#genre#
+TVBS-精彩台,http://iptv12k.com:35461/live/80301070602/456776/4842.m3u8
+天映經典 MOVIE,http://iptv12k.com:35461/live/80301070602/456776/1871.m3u8
+星衛HD電影 MOVIE,http://iptv12k.com:35461/live/80301070602/456776/1870.m3u8
+美亞電影台 MOVIE,http://iptv12k.com:35461/live/80301070602/456776/1869.m3u8
+衛視電影台 MOVIE scm,http://iptv12k.com:35461/live/80301070602/456776/1868.m3u8
+東森洋片 MOVIE,http://iptv12k.com:35461/live/80301070602/456776/1867.m3u8
+東森電影台 MOVIE,http://iptv12k.com:35461/live/80301070602/456776/1866.m3u8
+CatchPlay電影台 MOVIE,http://iptv12k.com:35461/live/80301070602/456776/1865.m3u8
+壹電視新聞台,http://iptv12k.com:35461/live/80301070602/456776/1293.m3u8
+中視,http://iptv12k.com:35461/live/80301070602/456776/1291.m3u8
+台視,http://iptv12k.com:35461/live/80301070602/456776/1290.m3u8
+公視,http://iptv12k.com:35461/live/80301070602/456776/1289.m3u8
+三立都會,http://iptv12k.com:35461/live/80301070602/456776/1287.m3u8
+三立台灣,http://iptv12k.com:35461/live/80301070602/456776/1286.m3u8
+三立新聞,http://iptv12k.com:35461/live/80301070602/456776/1285.m3u8
+八大戲劇,http://iptv12k.com:35461/live/80301070602/456776/1284.m3u8
+八大綜合,http://iptv12k.com:35461/live/80301070602/456776/1283.m3u8
+八大第一,http://iptv12k.com:35461/live/80301070602/456776/1282.m3u8
+八大娛樂台,http://iptv12k.com:35461/live/80301070602/456776/1281.m3u8
+東森綜合台,http://iptv12k.com:35461/live/80301070602/456776/1280.m3u8
+中天亞洲CTI Asia,http://iptv12k.com:35461/live/80301070602/456776/1278.m3u8
+中天娛樂,http://iptv12k.com:35461/live/80301070602/456776/1277.m3u8
+中視經典,http://iptv12k.com:35461/live/80301070602/456776/1274.m3u8
+BRAVO中視青采,http://iptv12k.com:35461/live/80301070602/456776/1273.m3u8
+TVBS,http://iptv12k.com:35461/live/80301070602/456776/1272.m3u8
+TVBS-G歡樂台,http://iptv12k.com:35461/live/80301070602/456776/1271.m3u8
+FOX NEWS,http://iptv12k.com:35461/live/80301070602/456776/1270.m3u8
+NBCSN,http://iptv12k.com:35461/live/80301070602/456776/1269.m3u8
+HBO,http://iptv12k.com:35461/live/80301070602/456776/1266.m3u8
+HBO家庭,http://iptv12k.com:35461/live/80301070602/456776/1265.m3u8
+HBO強檔,http://iptv12k.com:35461/live/80301070602/456776/1264.m3u8
+HBO原創,http://iptv12k.com:35461/live/80301070602/456776/1263.m3u8
+JET TV,http://iptv12k.com:35461/live/80301070602/456776/1262.m3u8
+衛視HD電影scm,http://iptv12k.com:35461/live/80301070602/456776/1261.m3u8
+美亞電影台,http://iptv12k.com:35461/live/80301070602/456776/1260.m3u8
+美食星球,http://iptv12k.com:35461/live/80301070602/456776/1259.m3u8
+衛視電影台scm,http://iptv12k.com:35461/live/80301070602/456776/1258.m3u8
+衛視中文 HD Star Chinese Channel HD,http://iptv12k.com:35461/live/80301070602/456776/1257.m3u8
+東森洋片,http://iptv12k.com:35461/live/80301070602/456776/1256.m3u8
+東森戲劇台,http://iptv12k.com:35461/live/80301070602/456776/1255.m3u8
+東森電影台,http://iptv12k.com:35461/live/80301070602/456776/1254.m3u8
+天映經典,http://iptv12k.com:35461/live/80301070602/456776/1253.m3u8
+CatchPlay電影台,http://iptv12k.com:35461/live/80301070602/456776/1252.m3u8
+金光布袋戲,http://iptv12k.com:35461/live/80301070602/456776/1251.m3u8
+Smithsonian Channel,http://iptv12k.com:35461/live/80301070602/456776/1250.m3u8
+好萊塢電影台,http://iptv12k.com:35461/live/80301070602/456776/1249.m3u8
+愛爾達影劇台,http://iptv12k.com:35461/live/80301070602/456776/1248.m3u8
+星衛娛樂台,http://iptv12k.com:35461/live/80301070602/456776/1247.m3u8
+罪案偵緝頻道,http://iptv12k.com:35461/live/80301070602/456776/1246.m3u8
+TSN 1,http://iptv12k.com:35461/live/80301070602/456776/1245.m3u8
+TLC旅遊生活,http://iptv12k.com:35461/live/80301070602/456776/1244.m3u8
+AXN,http://iptv12k.com:35461/live/80301070602/456776/1243.m3u8
+緯來戲劇  緯來戲劇,http://iptv12k.com:35461/live/80301070602/456776/1241.m3u8
+緯來綜合,http://iptv12k.com:35461/live/80301070602/456776/1240.m3u8
+緯來精彩,http://iptv12k.com:35461/live/80301070602/456776/1239.m3u8
+緯來日本,http://iptv12k.com:35461/live/80301070602/456776/1238.m3u8
+緯來體育,http://iptv12k.com:35461/live/80301070602/456776/1237.m3u8
+緯來電影,http://iptv12k.com:35461/live/80301070602/456776/1236.m3u8
+ASIANET NEWS,http://iptv12k.com:35461/live/80301070602/456776/1234.m3u8
+動物星球animal planet,http://iptv12k.com:35461/live/80301070602/456776/1233.m3u8
+探索頻道asia,http://iptv12k.com:35461/live/80301070602/456776/1231.m3u8
+Animax HD,http://iptv12k.com:35461/live/80301070602/456776/1230.m3u8
+亞洲美食頻道,http://iptv12k.com:35461/live/80301070602/456776/1229.m3u8
+NBCgolf,http://iptv12k.com:35461/live/80301070602/456776/1228.m3u8
+NBA,http://iptv12k.com:35461/live/80301070602/456776/1227.m3u8
+TSN 4,http://iptv12k.com:35461/live/80301070602/456776/1225.m3u8
+探索科學,http://iptv12k.com:35461/live/80301070602/456776/1224.m3u8
+EYE TV旅遊台,http://iptv12k.com:35461/live/80301070602/456776/1223.m3u8
+國家地理高畫質野生,http://iptv12k.com:35461/live/80301070602/456776/1222.m3u8
+ELTA體育1台,http://iptv12k.com:35461/live/80301070602/456776/1221.m3u8
+ELTA體育2台,http://iptv12k.com:35461/live/80301070602/456776/1220.m3u8
+ELTA體育3台,http://iptv12k.com:35461/live/80301070602/456776/1219.m3u8
+ELEVEN 體育1,http://iptv12k.com:35461/live/80301070602/456776/1218.m3u8
+ELEVEN 體育2,http://iptv12k.com:35461/live/80301070602/456776/1217.m3u8
+Warner TV,http://iptv12k.com:35461/live/80301070602/456776/1216.m3u8
+BBC Lifestyle Channel,http://iptv12k.com:35461/live/80301070602/456776/1215.m3u8
+CINEMAX HD,http://iptv12k.com:35461/live/80301070602/456776/1214.m3u8
+Travel Channel,http://iptv12k.com:35461/live/80301070602/456776/1213.m3u8
+ESPN,http://iptv12k.com:35461/live/80301070602/456776/1212.m3u8
+BBC Earth,http://iptv12k.com:35461/live/80301070602/456776/1210.m3u8
+MOMO親子臺,http://iptv12k.com:35461/live/80301070602/456776/1209.m3u8
+DW,http://iptv12k.com:35461/live/80301070602/456776/1208.m3u8
+歷史頻道History 1,http://iptv12k.com:35461/live/80301070602/456776/1206.m3u8
+MTV LIVE,http://iptv12k.com:35461/live/80301070602/456776/1205.m3u8
+大愛電視,http://iptv12k.com:35461/live/80301070602/456776/1204.m3u8
+大愛二台,http://iptv12k.com:35461/live/80301070602/456776/1203.m3u8
+人間衛視,http://iptv12k.com:35461/live/80301070602/456776/1202.m3u8
+歷史頻道2 History 2,http://iptv12k.com:35461/live/80301070602/456776/1201.m3u8
+新唐人亞太台,http://iptv12k.com:35461/live/80301070602/456776/1200.m3u8
