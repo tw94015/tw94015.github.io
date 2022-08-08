@@ -1,805 +1,727 @@
-    台灣,#genre#	
-    CNN,mitv://ns2.hellotvvod.com:9906/1b0b57acb6874e0fb1965abdceb5c251
-    民視,mitv://ns2.hellotvvod.com:9906/56079abb287644afac0686395ea134f6
-    人間衛視,mitv://ns2.hellotvvod.com:9906/235fc3858fd04fe183d727d0dff6be08
-    台視,mitv://ns2.hellotvvod.com:9906/19ce5f51df05499a930c885b337bbc91
-    大愛,mitv://ns2.hellotvvod.com:9906/daf23cf46a0d42aaa52e0c58343da36b
-    中視,mitv://ns2.hellotvvod.com:9906/19e6015aed074278a22cc50ed23e9a85
-    霹靂台灣台,mitv://ns2.hellotvvod.com:9906/c60281099d184230bc8165a712ef52d2
-    華視,mitv://ns2.hellotvvod.com:9906/23c24cf7e35c4dcab82c0c128c270b42
-    公視,mitv://ns2.hellotvvod.com:9906/f8de6876aed84fdd90ff7a16e549431f
-    好消息,mitv://ns2.hellotvvod.com:9906/a7aee787cbb84964805e5624ef23de65
-    原住民電視台,mitv://ns2.hellotvvod.com:9906/bbf3f422b0b344ac8d3e265397d8fb0a
-    客家電視台,mitv://ns2.hellotvvod.com:9906/c82a58008f0b451b8c6d5b46b0d76c54
-    國家地理頻道,mitv://ns2.hellotvvod.com:9906/af3b11a1197d455fb864756fa44ba63f
-    探索頻道,mitv://ns2.hellotvvod.com:9906/fb67c58f3cc14b0faa0ba968555035b8
-    TLC旅遊生活,mitv://ns2.hellotvvod.com:9906/5a5ffbab78f64be8981ee5e0eae23a5d
-    動物星球,mitv://ns2.hellotvvod.com:9906/cf80986a60be4873b5d91a3d80b0fdf3
-    CN卡通頻道,mitv://ns2.hellotvvod.com:9906/486cac33c16b4eaebc44f883a3d6c0fa
-    MOMO親子台,mitv://ns2.hellotvvod.com:9906/0082a678d11147dab76bc472a280f0a5
-    東森幼幼台,mitv://ns2.hellotvvod.com:9906/62dc911dbc154f438b088ebfcc2edf91
-    緯來綜合台,mitv://ns2.hellotvvod.com:9906/03c60326c4b140e6b3ddc9a64adbb761
-    八大第一台,mitv://ns2.hellotvvod.com:9906/2b52f1c9c0774de9a7085725ac6e3878
-    八大綜合台,mitv://ns2.hellotvvod.com:9906/c0bca7ee9592434eb8426e243fcfeae8
-    三立台灣台,mitv://ns2.hellotvvod.com:9906/c26355712de64fe9917611bcb65abdc8
-    三立都會台,mitv://ns2.hellotvvod.com:9906/68d0bc0628e04c5ab3884f2b0e2cbec2
-    東森綜合台,mitv://ns2.hellotvvod.com:9906/c92dd2eb120744b580eb7accca5e599a
-    超視,mitv://ns2.hellotvvod.com:9906/d97136f051fa40789aee007f60b8eb20
-    中天綜合台,mitv://ns2.hellotvvod.com:9906/d706680894c44aaca3b38b827f3a8b56
-    中天娛樂台,mitv://ns2.hellotvvod.com:9906/9852a9b936d54ff5a75b64df3ca5a2da
-    東森戲劇台,mitv://ns2.hellotvvod.com:9906/64f606ebb39b400ea80777b1e05aaf18
-    八大戲劇台,mitv://ns2.hellotvvod.com:9906/efd4009faedc42b4b99a6b305fa76009
-    TVBS歡樂台,mitv://ns2.hellotvvod.com:9906/bca63f60e0ec4af3bef0eb5e7c2bdf2d
-    緯來戲劇台,mitv://ns2.hellotvvod.com:9906/86776c41443c4f21afd2d9a52692e396
-    高點綜合台,mitv://ns2.hellotvvod.com:9906/50299cebad9040b8800f5e3e41b251e1
-    BBC World News,mitv://ns2.hellotvvod.com:9906/e13a7e95b23548c0b2ce77b2fec025f3
-    Al Jazeera English,mitv://ns2.hellotvvod.com:9906/0dcc2770723647b6b9bbe7d3b8076365
-    CNBC,mitv://ns2.hellotvvod.com:9906/d949f1be74844870b9e751474b979f42
-    Bloomberg TV,mitv://ns2.hellotvvod.com:9906/96f83d40516c425b850ed71aef498340
-    HITS,mitv://ns2.hellotvvod.com:9906/680cd3cc6ed04c39befad15655b95f79
-    壹電視新聞台,mitv://ns2.hellotvvod.com:9906/01f09c5c2dc54d54af529d6455895344
-    年代新聞,mitv://ns2.hellotvvod.com:9906/ccf7618d48274e518109b3aa824a053f
-    東森新聞台,mitv://ns2.hellotvvod.com:9906/4053dec4295047e18113145177bd53a1
-    中天新聞台,mitv://ns2.hellotvvod.com:9906/5475913400524ada8cafe009c2f22fa5
-    民視新聞台,mitv://ns2.hellotvvod.com:9906/aa4d2a792bce4ddf9de27f7391090258
-    三立新聞台,mitv://ns2.hellotvvod.com:9906/aa1df094ab784a63ba6ea89bc0e6b9f9
-    TVBS新聞台,mitv://ns2.hellotvvod.com:9906/eb34d9d496be4f55bcca117240668bf0
-    TVBS,mitv://ns2.hellotvvod.com:9906/e32042f1d6e147afbd64a66713dd6d60
-    東森財經新聞台,mitv://ns2.hellotvvod.com:9906/164d942788234d10aa3693de54e032b3
-    非凡新聞台,mitv://ns2.hellotvvod.com:9906/b480de0514504c7dae5f6bd8ba6fd12f
-    衛視電影台,mitv://ns2.hellotvvod.com:9906/b236d09ba98644eda7eca81583130ec5
-    東森電影台,mitv://ns2.hellotvvod.com:9906/7c56b5132aa8456d89307424cdbf142b
-    緯來電影台,mitv://ns2.hellotvvod.com:9906/64bc8c0ba9a04b36bdd26e130d45e64b
-    龍祥電影,mitv://ns2.hellotvvod.com:9906/bb1b8ced77ec4747a92ba050139f6b01
-    HBO,mitv://ns2.hellotvvod.com:9906/66a79676e75c43bbb11e7d80529a87fd
-    東森洋片台,mitv://ns2.hellotvvod.com:9906/d58e4f65e8d04e06b32cb41b0c64107a
-    AXN,mitv://ns2.hellotvvod.com:9906/87deaa51fad94e88bd21196c8e89f600
-    好萊塢電影台,mitv://ns2.hellotvvod.com:9906/1f05c94f079a4f78b2cf65a4bae8fd54
-    CINEMAX,mitv://ns2.hellotvvod.com:9906/5f717ad47cf14ce8b97c0f98b4e3d6f4
-    緯來育樂台,mitv://ns2.hellotvvod.com:9906/87bd0a0edeb94249aba99aeef7bfdf26
-    緯來體育台,mitv://ns2.hellotvvod.com:9906/938a7733f530434589b37b5a166c678b
-    ELEVEN體育1台,mitv://ns2.hellotvvod.com:9906/4f72de4318d6437189b737eb5e5cd3e3
-    緯來日本,mitv://ns2.hellotvvod.com:9906/8ef6046ec30247ea96ce9844c12343e5
-    國興衛視,mitv://ns2.hellotvvod.com:9906/7bad9f5cbd8e4e16ba0d8368ffd0ba2b
-    FOX,mitv://ns2.hellotvvod.com:9906/cf5c08c63fc74fa9b5b63429ffe58016
-    Z頻道,mitv://ns2.hellotvvod.com:9906/b05c2b61637c4c0ab4ad2e6bb7cbb533
-    Animax,mitv://ns2.hellotvvod.com:9906/fc9b838770694cb69eab5fc137034d28
-    尼克兒童頻道,mitv://ns2.hellotvvod.com:9906/5054880a245848eb85bfc708da67f302
-    MTV,mitv://ns2.hellotvvod.com:9906/507549a277be447e98582b22ecffc9d5
-    八大娛樂台,mitv://ns2.hellotvvod.com:9906/d361d4c875c84ffda559ef730fa64cf2
-    三立iNEWS,mitv://ns2.hellotvvod.com:9906/9aceea33b578424e8eeda8cfa01223c1
-    龍華偶像,mitv://ns2.hellotvvod.com:9906/9fcf1b6d93ae43e9899f380ea2f3cc54
-    Arirang,mitv://ns2.hellotvvod.com:9906/35e3140636484f82977b70f744d83322
-    tvN,mitv://ns2.hellotvvod.com:9906/007334eaba55496daf4e2c9f1fe4fb90
-    DW,mitv://ns2.hellotvvod.com:9906/5d6d7a090002479eb231fcbec038246a
-    France24,mitv://ns2.hellotvvod.com:9906/3a5e2bafc6264693bb37781c2f57c092
-    非凡商業台,mitv://ns2.hellotvvod.com:9906/992564e4e100409abe28568ca32ce60d
-    公視3台,mitv://ns2.hellotvvod.com:9906/f2815b9c54544e33928ca18fa3cda677
-    大愛2台,mitv://ns2.hellotvvod.com:9906/6e3bc48898cb40ed9776ce8dfade22fc
-    ELTV生活英語台,mitv://ns2.hellotvvod.com:9906/add7bd3c3ad1489c8a78b97389810276
-    靖洋卡通Nice Bingo,mitv://ns2.hellotvvod.com:9906/b216861a6a574d1a9a8d28ad11da466d
-    靖天卡通台,mitv://ns2.hellotvvod.com:9906/f252343ca356416e8a7bdad1033e70d8
-    達文西頻道,mitv://ns2.hellotvvod.com:9906/1b9af031664049e9897282f5f5f8d461
-    Nick Jr.,mitv://ns2.hellotvvod.com:9906/20d8687df1164dff8e1ee27d37161d4e
-    國會頻道1,mitv://ns2.hellotvvod.com:9906/db1630ef0a4f4f09a7394d06568e736b
-    國會頻道2,mitv://ns2.hellotvvod.com:9906/d5566e3942154bad8ae398ba96372f15
-    MTV Live,mitv://ns2.hellotvvod.com:9906/073a6942bf7e4f55be6aae12c4176791
-    Mezzo Live,mitv://ns2.hellotvvod.com:9906/e56abb50bcef49c1a38a9fe08b00d000
-    CLASSICA 古典樂,mitv://ns2.hellotvvod.com:9906/6583a64e66824f788a397b513361eef4
-    CMusic,mitv://ns2.hellotvvod.com:9906/1591639f7db240b7a36a25b8f1ba427d
-    愛爾達體育1台(備),mitv://ns2.hellotvvod.com:9906/69a9e41f76c94be0aae401839661c7e5
-    愛爾達體育2台(備),mitv://ns2.hellotvvod.com:9906/9eb136cff8e6424c8f4df118d6f51bc3
-    愛爾達體育3台(備),mitv://ns2.hellotvvod.com:9906/d61c527b10f44550a754f614048d5986
-    TRACE Sport Stars,mitv://ns2.hellotvvod.com:9906/488d13982c9b42479df980b729bc2fef
-    博斯高球,mitv://ns2.hellotvvod.com:9906/f86a31c846174e818a10a1a7a918b4e7
-    博斯高球二台,mitv://ns2.hellotvvod.com:9906/b41c81261ed74c99a2bd0be9e7535969
-    博斯網球台,mitv://ns2.hellotvvod.com:9906/ed1261b0710149b29b27cd381636c76e
-    博斯魅力網,mitv://ns2.hellotvvod.com:9906/8562125af5a3419aa85893e7b8f73f17
-    博斯無限台,mitv://ns2.hellotvvod.com:9906/b859586aeb7e4d4d818b45cee69c0b42
-    博斯無限二台,mitv://ns2.hellotvvod.com:9906/67d6c0cee271498fbd6f520e023f8d1d
-    博斯運動,mitv://ns2.hellotvvod.com:9906/9cb6a4f553b249ef9437a6f1452501a7
-    ELEVEN體育2台,mitv://ns2.hellotvvod.com:9906/7edd2a65e47e4f08b8e50bebccecabfd
-    智林體育台,mitv://ns2.hellotvvod.com:9906/40b7f55374a947558d43a9c3cafd258e
-    博斯運動二台,mitv://ns2.hellotvvod.com:9906/305fa1a99eea438788c97013e63a1000
-    OUTDOOR,mitv://ns2.hellotvvod.com:9906/f800079e66484ee08f286ba804d25f32
-    HBO強檔鉅獻,mitv://ns2.hellotvvod.com:9906/ccf6732646a3461c9c37489c73c33c1e
-    HBO原創鉅獻,mitv://ns2.hellotvvod.com:9906/fd11b57029d648e0bcabb09b90e40df3
-    國家地理高畫質野生頻道,mitv://ns2.hellotvvod.com:9906/c7ebf5508e6b4eeea5979a4c7f6cf443
-    BBC Earth,mitv://ns2.hellotvvod.com:9906/20252637856b4070b216236f680334d5
-    Discovery Asia,mitv://ns2.hellotvvod.com:9906/09c09c15d3614a76b759e354821e49e3
-    Discovery科學頻道,mitv://ns2.hellotvvod.com:9906/5bcb84c0c07c4e49a6fa70e56f11c4de
-    DMAX,mitv://ns2.hellotvvod.com:9906/51ce8d2534e4438fa4c58c4bbd98f236
-    EVE,mitv://ns2.hellotvvod.com:9906/a77a3a0b6d5f41d9aa75ac40f09ea473
-    HISTORY 2,mitv://ns2.hellotvvod.com:9906/fb050b191e6b43e2825de848923e9906
-    歷史頻道,mitv://ns2.hellotvvod.com:9906/2a5d0ab2a2a04bf7801e52b0f7e34df3
-    罪案偵緝頻道,mitv://ns2.hellotvvod.com:9906/5c34a4b5ef8b47dcaa7d13ff408c25d7
-    BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/ec5ab64a6a4b4fd1a552629c888c5b9d
-    LUXE TV,mitv://ns2.hellotvvod.com:9906/2457fd4d99a246a4ace59c953a1d19bd
-    Lifetime,mitv://ns2.hellotvvod.com:9906/6ff66383cdb04702af6ab9bb2eca705d
-    KLT-靖天國際台,mitv://ns2.hellotvvod.com:9906/9db7f1d0ae184eedad7c3b36fea83165
-    HGTV居家樂活頻道,mitv://ns2.hellotvvod.com:9906/26d97e494202417494f19059c06928e1
-    Love Nature,mitv://ns2.hellotvvod.com:9906/41f7fe129dac4fa6bc1a6f2556ff334a
-    美食星球,mitv://ns2.hellotvvod.com:9906/35466e1e2fdd453a9d541f5f1eda2f63
-    亞洲美食頻道,mitv://ns2.hellotvvod.com:9906/c58bce7b28b945ae88aa131ba84dc9c2
-    亞洲旅遊台,mitv://ns2.hellotvvod.com:9906/752338a84a06467aa2b6adf25554dde2
-    EYE TV旅遊台,mitv://ns2.hellotvvod.com:9906/178eec47f2c64a8d967e08c320defd0d
-    時尚頻道,mitv://ns2.hellotvvod.com:9906/2b7ca7659b16416b8e5a60ec55fb0e68
-    好消息2台,mitv://ns2.hellotvvod.com:9906/f9258324e7c0403dbabf0589fc42f7aa
-    三立綜合台,mitv://ns2.hellotvvod.com:9906/76d71af3a4bf43339dbc29bfa65bc619
-    靖天資訊台,mitv://ns2.hellotvvod.com:9906/83272fe838a04ee3b5d58b8020c5fdc0
-    靖天綜合台,mitv://ns2.hellotvvod.com:9906/ff10c5134f37459ea617746440e46e1c
-    靖天育樂台,mitv://ns2.hellotvvod.com:9906/f771fb805ab84288a82b904ac67883a3
-    中視經典台,mitv://ns2.hellotvvod.com:9906/befb0410500542b88b806599d2de2035
-    中視菁采台,mitv://ns2.hellotvvod.com:9906/d3f788afd426472aa690000f44275794
-    TVBS精采台,mitv://ns2.hellotvvod.com:9906/88f434aee2bb47318af0211dcd5aa44e
-    壹電視綜合,mitv://ns2.hellotvvod.com:9906/2523257d905944e8904576d58681910c
-    緯來精采,mitv://ns2.hellotvvod.com:9906/c26bd816cb1d4aa89bd197fc3d1dd533
-    ETtoday綜合台,mitv://ns2.hellotvvod.com:9906/5c36e7ae43614bd8b9c7dba3c6c33550
-    民視第一台,mitv://ns2.hellotvvod.com:9906/328d37b3688944d18092122c584f5650
-    民視台灣台,mitv://ns2.hellotvvod.com:9906/503a3fc0dfe9415eada840393e00cea0
-    Nice TV靖天歡樂台,mitv://ns2.hellotvvod.com:9906/df3604110a10444aa88194f0eb2a0eba
-    八大優頻道,mitv://ns2.hellotvvod.com:9906/f5246bd219f94c70bf1d480e0145eaa3
-    三立戲劇台,mitv://ns2.hellotvvod.com:9906/2c63d74674044580901020a53329cade
-    龍華戲劇,mitv://ns2.hellotvvod.com:9906/7b17ee22f6cd4b81b74f064b0caa1f5b
-    靖天戲劇台,mitv://ns2.hellotvvod.com:9906/161eafacb2e54e30a4bf40b231a8c1b2
-    靖洋戲劇台,mitv://ns2.hellotvvod.com:9906/7ad2517f916c4de8b723b95441e08679
-    靖天日本台,mitv://ns2.hellotvvod.com:9906/8a6dfea68367487396d847edca21c609
-    i-Fun動漫台,mitv://ns2.hellotvvod.com:9906/3d192858b53f41c383013eecf65361dd
-    韓國娛樂台,mitv://ns2.hellotvvod.com:9906/3c1085a679c9449fb0d2bc55d2e1a9d9
-    星衛娛樂台,mitv://ns2.hellotvvod.com:9906/12188e7ff3e54a809790be98e0f488b5
-    ROCK Extreme,mitv://ns2.hellotvvod.com:9906/dd13a6ccb0824a5c9459e2b45f3d701f
-    中視新聞台,mitv://ns2.hellotvvod.com:9906/c942f173c72e4b00a75b39e1b0c65c59
-    寰宇新聞台,mitv://ns2.hellotvvod.com:9906/30abd547e85542489fadb6118486e89c
-    華視新聞,mitv://ns2.hellotvvod.com:9906/b9f5a12f5e0c412bb90090ee38d85f78
-    NHK新聞資訊台,mitv://ns2.hellotvvod.com:9906/6e728463976a41429e839649c705a9de
-    美亞電影台HD,mitv://ns2.hellotvvod.com:9906/84d7063eae584f878a8df780c296777b
-    龍華電影,mitv://ns2.hellotvvod.com:9906/1906f543a7f24ddc8f00f0e8168369b8
-    星衛HD電影台,mitv://ns2.hellotvvod.com:9906/9dd8214bd89a4ce6b49d3954bfc36ca8
-    靖天映畫,mitv://ns2.hellotvvod.com:9906/92242afd38064c0f96d71c8fa320c1a0
-    靖天電影台,mitv://ns2.hellotvvod.com:9906/cf86e8b4e3684875bee0ae7f097312ed
-    WARNER TV,mitv://ns2.hellotvvod.com:9906/9cee824c28f142e18c491dabfac4d0ee
-    Star Movies HD,mitv://ns2.hellotvvod.com:9906/8fe7d1bb62dd4f22bcb8819e1e323cb9
-    AMC最愛電影,mitv://ns2.hellotvvod.com:9906/e9ef28b6b4b44b3db6dc564236337a36
-    HBO Family,mitv://ns2.hellotvvod.com:9906/dc1f58392ef240ed8166ef2836036dfd
-    CatchPlay電影台,mitv://ns2.hellotvvod.com:9906/eaefb15ec2c047cda69102ac4772488d
-    CinemaWorld,mitv://ns2.hellotvvod.com:9906/8938c37cf7674ceabcc4e6a806ab4b9d
-    壹電視電影台,mitv://ns2.hellotvvod.com:9906/ba73492c73854d3fac7c3e6d50d386ae
-    采昌影劇台,mitv://ns2.hellotvvod.com:9906/b0510259b5eb446e8d81062512b4ccfb
-    佛衛慈悲台,mitv://ns2.hellotvvod.com:9906/8cfe9d96f9fc4179832405fc51a390a2
-    TV5Monde,mitv://ns2.hellotvvod.com:9906/4b26bba3d1394960be610521294fcfab
-    Cbeebies,mitv://ns2.hellotvvod.com:9906/31c86bce46a44aa9924ea10e062c0fc9
-    EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/571cc50dbdfa44a2aaf9eed1feb9d72c
-    台視新聞台,mitv://ns2.hellotvvod.com:9906/9c46902686e845b0aec65a35c593b2da
-    寰宇新聞台灣台,mitv://ns2.hellotvvod.com:9906/53f9d612f6714de29245a451b6fb729f
-    台視財經台,mitv://ns2.hellotvvod.com:9906/f4967ae36bb14b9f911414b0451f7641
-    緯來日本(備),mitv://ns2.hellotvvod.com:9906/29fc811aee994d969875169e26f16caa
-    愛爾達影劇台,mitv://ns2.hellotvvod.com:9906/489bc5e7611a4e59ba8a88ecd702bfec
-    ROCK Entertainment,mitv://ns2.hellotvvod.com:9906/cad0f9fc62d44d499e7a1a0596865146
-    民視(備),mitv://ns2.hellotvvod.com:9906/782ff6c7222445d79779f05f84807e56
-    三立台灣台(備),mitv://ns2.hellotvvod.com:9906/1b647cfabe9a4ef0970c7739076382ba
-    Dreamworks,mitv://ns2.hellotvvod.com:9906/b18b3dc4de8542ff8b066fefa3c7c824
-    TV5MONDE Style 生活時尚,mitv://ns2.hellotvvod.com:9906/1805c3eb8e4547f78ba8b72e8d97dea4
-    Travel Channel,mitv://ns2.hellotvvod.com:9906/9a7f9e972337485eb298b47361f99847
-    影迷數位電影台,mitv://ns2.hellotvvod.com:9906/ef8a496cc1cf446dab26b6f4c7d18032
-    衛視中文台,mitv://ns2.hellotvvod.com:9906/9c2dce1361564b04b09cfb7961d64de9
-    愛爾達體育1台,mitv://ns2.hellotvvod.com:9906/88224b61a1d74dac89cf8f109ec55653
-    愛爾達體育2台,mitv://ns2.hellotvvod.com:9906/b0b04760e4fe43f09cd0d9278286cb1c
-    愛爾達體育3台,mitv://ns2.hellotvvod.com:9906/085c4e7e9ee14d20890f33f5a3d92666
-    台視(備),mitv://ns2.hellotvvod.com:9906/71001bae6e2249f3a2ebe09736ff8e8a
-    大愛(備),mitv://ns2.hellotvvod.com:9906/cb4ce89b6b2c4129aece9d8ea59342a1
-    中視(備),mitv://ns2.hellotvvod.com:9906/ea172a9aad4743c38139867df5d78438
-    華視(備),mitv://ns2.hellotvvod.com:9906/96d204fb1b884adab7e01fc36458ea34
-    公視(備),mitv://ns2.hellotvvod.com:9906/871f0e7dd97746c89aa4c0f8f795fd72
-    東森新聞台(備),mitv://ns2.hellotvvod.com:9906/f4de91a7ee724d48bca4e883caed3b70
-    鏡新聞,mitv://ns2.hellotvvod.com:9906/9a1f808f124646a59b1929eae1fc2066
-    中國,#genre#	
-    CCTV1,mitv://ns2.hellotvvod.com:9906/40aa963edbb0411e87a7109783bda3f1
-    CCTV2,mitv://ns2.hellotvvod.com:9906/65a1021042254a338e13dfc94140fc76
-    CCTV3,mitv://ns2.hellotvvod.com:9906/dbd04f1f166f4da7b1d0cb50d4f0e665
-    CCTV4,mitv://ns2.hellotvvod.com:9906/2d49715b8c4f43f6996c35803d7050b4
-    CCTV5,mitv://ns2.hellotvvod.com:9906/9c99f4f657394c29b9a47c7070779146
-    CCTV5+,mitv://ns2.hellotvvod.com:9906/caab5d6c1a7f40c9a8e27769775aca65
-    CCTV6,mitv://ns2.hellotvvod.com:9906/68e6bb2c77424096b910567ef90ed1c5
-    CCTV7,mitv://ns2.hellotvvod.com:9906/0cc6b49287f143088bad31a8625c981b
-    CCTV8,mitv://ns2.hellotvvod.com:9906/fcd155d851c84c19af193f75f25e69dc
-    CCTV9,mitv://ns2.hellotvvod.com:9906/9ba6ecfc78c64d4fb77c81cd203f95e9
-    CCTV10,mitv://ns2.hellotvvod.com:9906/c589c2282fdb46e0bb4cac5e2f13684b
-    CCTV11,mitv://ns2.hellotvvod.com:9906/bb4ea75f9f0d4e8db5f37202d629815c
-    CCTV12,mitv://ns2.hellotvvod.com:9906/d634904eca6342c3ba9a51b9e8bddfc8
-    CCTV13,mitv://ns2.hellotvvod.com:9906/a04e365e06274ae99316509574164d76
-    CCTV14,mitv://ns2.hellotvvod.com:9906/37673267f05b4d7aae64a417ced781a1
-    CCTV15,mitv://ns2.hellotvvod.com:9906/51e7ab414f754ae08286701dc913ecbe
-    北京衛視,mitv://ns2.hellotvvod.com:9906/5272f137724c436db86f59297cfd9410
-    天津衛視,mitv://ns2.hellotvvod.com:9906/8a8caad5e3c24bc4a14af00774a2bc7e
-    河北衛視,mitv://ns2.hellotvvod.com:9906/d76ab7c9f8034e2f9f41d8226ff9beed
-    黑龍江衛視,mitv://ns2.hellotvvod.com:9906/c07acffef4cc45d9b5cc886bd36f1863
-    遼寧衛視,mitv://ns2.hellotvvod.com:9906/8b3670cf20f4479a84ae2f3f74d52dfc
-    東方衛視,mitv://ns2.hellotvvod.com:9906/8e84f8afbf6842ea982fcae007a19f44
-    江蘇衛視,mitv://ns2.hellotvvod.com:9906/553c1e71d3124c48b746d192a69b166d
-    浙江衛視,mitv://ns2.hellotvvod.com:9906/0e099649c1cf4247ac76d25161414d7b
-    江西衛視,mitv://ns2.hellotvvod.com:9906/1cdc348b49434bbcb6da01ff2668c973
-    山東衛視,mitv://ns2.hellotvvod.com:9906/50a66ba627574c9da7e024db85dfa77f
-    東南衛視,mitv://ns2.hellotvvod.com:9906/376f754aef094bd799a57aa8f0650c4a
-    湖北衛視,mitv://ns2.hellotvvod.com:9906/c1ba6ad1baa34ba398276a26069c6f36
-    湖南衛視,mitv://ns2.hellotvvod.com:9906/e6e7d573fe9a4003a0152f31e1b121c3
-    深圳衛視,mitv://ns2.hellotvvod.com:9906/b2b67d7f255d4734ac63dfaed13b3738
-    廣東衛視,mitv://ns2.hellotvvod.com:9906/5ef7cd29753b4bcd917277980dc7c446
-    廣西衛視,mitv://ns2.hellotvvod.com:9906/ed807ffa01574491be089b2ff393b539
-    重慶衛視,mitv://ns2.hellotvvod.com:9906/192a472702c3408594db7e00edc32d4d
-    雲南衛視,mitv://ns2.hellotvvod.com:9906/db53b09296cf448cb242162aae767a75
-    星空衛視,mitv://ns2.hellotvvod.com:9906/559c82439baa4959b27ac0e046e5959c
-    廣東南方衛視,mitv://ns2.hellotvvod.com:9906/438d8b14081a47f3ad1b15f1a87359bf
-    珠江台,mitv://ns2.hellotvvod.com:9906/8856eb8f9df74c7d979b56d384368e1d
-    金鷹卡通,mitv://ns2.hellotvvod.com:9906/b566e00d4e84479fb090a84bc7fa2497
-    魅力足球,mitv://ns2.hellotvvod.com:9906/462370ffad8d4cbcbabfcd3485f88a76
-    五星體育,mitv://ns2.hellotvvod.com:9906/347c034fad344360964e4c9a9e096db1
-    廣東體育,mitv://ns2.hellotvvod.com:9906/5e38917eddf44965bd35e26ba7641483
-    CCTV16,mitv://ns2.hellotvvod.com:9906/886c31c068b542e3aca30cb0ea0074de
-    廣東影視,mitv://ns2.hellotvvod.com:9906/829e926bb35c46f28e35affba22851b8
-    港澳
-    港台電視31,mitv://ns2.hellotvvod.com:9906/d2ed0743ab0c43b7b726498548ac4ca1
-    港台電視32,mitv://ns2.hellotvvod.com:9906/fe810ef706f1443096cb7df950cfe980
-    香港開電視,mitv://ns2.hellotvvod.com:9906/be34edc7498c414a8ffb0420a47f5d21
-    ?翡翠台(備),mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f\t
-    J2,mitv://ns2.hellotvvod.com:9906/378ac927018c4800b7e76a4020c9c4d2
-    無綫新聞台(備),mitv://ns2.hellotvvod.com:9906/7eaf6705207448c9b8ec68e98a4c27fb
-    無綫新聞台,mitv://ns2.hellotvvod.com:9906/407fb5d11fc44abb89db4bec2f361e1b
-    無綫財經·資訊台,mitv://ns2.hellotvvod.com:9906/3bb2222330874f87a204a1a4bd336a9d
-    ViuTVsix,mitv://ns2.hellotvvod.com:9906/ce24d2709cc54d958af0b0fb70cec5b4
-    ViuTV,mitv://ns2.hellotvvod.com:9906/7f6355fa49c740a4883b166fe9b52899
-    鳳凰中文台,mitv://ns2.hellotvvod.com:9906/0b5ad84b256544e7b3f9560f09d643d7
-    鳳凰資訊台,mitv://ns2.hellotvvod.com:9906/73257b49c2c9418ba46eac6dac2f4533
-    鳳凰香港台,mitv://ns2.hellotvvod.com:9906/00038905807a4a1989018d8dc6bb153c
-    TVB星河(粵),mitv://ns2.hellotvvod.com:9906/f62e72a8594d4dfab4b83a31f57c44dc
-    陽光衛視,mitv://ns2.hellotvvod.com:9906/e1f74db9fc9b44289ff3982eb55341dc
-    澳門-MACAU,mitv://ns2.hellotvvod.com:9906/72a2755d950c4ce0b4bd3791d19800c6
-    澳門蓮花,mitv://ns2.hellotvvod.com:9906/9708b51f75b740b1b9b9ed548549781d
-    now新聞台,mitv://ns2.hellotvvod.com:9906/f32572889a6141a5a0df234290b9f367
-    now直播台,mitv://ns2.hellotvvod.com:9906/659de2e811b146eabf63d599d9103d94
-    HKC電影台,mitv://ns2.hellotvvod.com:9906/93b9375af6a9476f80c827da7d94328c
-    鳳凰電影台,mitv://ns2.hellotvvod.com:9906/797091de3e8d4b059e7c8bc3d8c3b611
-    HKC新聞台,mitv://ns2.hellotvvod.com:9906/95ff4b4a6ea14a5faaaae8bd6cf1e197
-    HKC財經資訊台,mitv://ns2.hellotvvod.com:9906/a8fb576b347c40b4803dc03825716847
-    HKC 18,mitv://ns2.hellotvvod.com:9906/5748b81344684339943ee3eb4d40cac7
-    HKC 603,mitv://ns2.hellotvvod.com:9906/ca9d7742128e4896be319b61eac063bc
-    HKC體育台,mitv://ns2.hellotvvod.com:9906/46759f1d455b421f9bd1dd2fe48ff4ed
-    HKC Sports Plus 1,mitv://ns2.hellotvvod.com:9906/2faabd303fe24c67bd5314e255ace7dc
-    HKC綜合娛樂台,mitv://ns2.hellotvvod.com:9906/160635fe0a584dbc9ae611d9a94d12c9
-    TVB娛樂新聞台,mitv://ns2.hellotvvod.com:9906/65bf272526a54e848ad57233b1c8a19f
-    翡翠台,mitv://ns2.hellotvvod.com:9906/ad8348afd16d40eda47552a19ab9d807
-    TVB經典台,mitv://ns2.hellotvvod.com:9906/6dd61b3f12af4e74a77cc5e2b2caefc2
-    Thrill,mitv://ns2.hellotvvod.com:9906/325d7f89a5a14a80ad140a595c8c09b2
-    明珠台,mitv://ns2.hellotvvod.com:9906/533c075b326045919a101b391c318d94
-    18台,mitv://ns2.hellotvvod.com:9906/18052ac03d1a43c5a9db1d85e17bf131
-    爆谷星影台,mitv://ns2.hellotvvod.com:9906/0d80c62ac6484dae8c3457c9e234450b
-    美亞電影台(粵語),mitv://ns2.hellotvvod.com:9906/88ece3d3b7884fb986a224aac8ac8987
-    Hands Up,mitv://ns2.hellotvvod.com:9906/fbc72668e3284c8eaeda5cb0aab2211a
-    粵語片台,mitv://ns2.hellotvvod.com:9906/c28c3ef6f7974c7991d1930113f1fe5b
-    亞洲劇台,mitv://ns2.hellotvvod.com:9906/bd74c8f7c9254d029f4bd95fd3334c51
-    功夫台,mitv://ns2.hellotvvod.com:9906/7e4b15020ead4f8783bfbeefb3e94ab8
-    爆谷台,mitv://ns2.hellotvvod.com:9906/42a0a6fc05bb4f39bd1d7141cab1e4fd
-    馬來西亞,#genre#	
-    CNN,mitv://ns2.hellotvvod.com:9906/1b0b57acb6874e0fb1965abdceb5c251
-    TV1,mitv://ns2.hellotvvod.com:9906/e82f28c440c749b290eacd02dee40d97
-    TV2,mitv://ns2.hellotvvod.com:9906/62b335fb7a3343e5ba61d635b97809c3
-    TV3,mitv://ns2.hellotvvod.com:9906/f32ae37e7aae4ce7a2e6279f6fd228c4
-    NTV7,mitv://ns2.hellotvvod.com:9906/87f4fea2a59f489580e3e74160aa84a5
-    八度空間,mitv://ns2.hellotvvod.com:9906/bc045b11ca234c2d9defce804c32c96d
-    TV9,mitv://ns2.hellotvvod.com:9906/2bbbd3b9ca2e45de87754fcb0391084a
-    Astro Ria HD,mitv://ns2.hellotvvod.com:9906/edea3f065fee4a80a9720b6c291feddc
-    Astro Prima HD,mitv://ns2.hellotvvod.com:9906/48c2d084891f4a5fb09ee0f91847b807
-    Astro Oasis HD,mitv://ns2.hellotvvod.com:9906/166e167b579348e29575c7f1e83194f0
-    Astro Warna HD,mitv://ns2.hellotvvod.com:9906/b4d4bcb85ce44741b4348bffa12e9638
-    Astro Citra HD,mitv://ns2.hellotvvod.com:9906/8dfa17acb22f4161bd30a8e7c19cefb8
-    Astro Rania HD,mitv://ns2.hellotvvod.com:9906/5cfbfb21e9c946ca9da247323ab35ca0
-    Astro Aura HD,mitv://ns2.hellotvvod.com:9906/ae04984f2a1940ce8c6ca4ddc5ae0717
-    Al-Hijrah,mitv://ns2.hellotvvod.com:9906/29f17b6b291241f39a626d1c1174afc8
-    TV Okey,mitv://ns2.hellotvvod.com:9906/1c61c2d05ea24e589c2e1b69abcb0331
-    SUN TV,mitv://ns2.hellotvvod.com:9906/f0bc762de6394d0ea8cfe58b35985081
-    Astro Cricket,mitv://ns2.hellotvvod.com:9906/835b076771194a928da334c6482757c6
-    愛奇藝,mitv://ns2.hellotvvod.com:9906/d1be9a85060b449da7c1b21b4b81fa89
-    Astro小太陽,mitv://ns2.hellotvvod.com:9906/bd15152ffcae4a7fb9d0f22bd2186e44
-    Astro AEC(備),mitv://ns2.hellotvvod.com:9906/264bb45633b04dc4b4c3ed3b47477806
-    Astro雙星,mitv://ns2.hellotvvod.com:9906/802477ee531449e482435d2aec866b41
-    Astro全佳,mitv://ns2.hellotvvod.com:9906/e51b5fe9b27343c9a054247ff7dabe61
-    天映頻道,mitv://ns2.hellotvvod.com:9906/15f13e15cfeb40779e541164e0366560
-    翡翠台(華麗台),mitv://ns2.hellotvvod.com:9906/612968e970ee416fa7e201dcee2f6abe
-    Astro AOD HD 311,mitv://ns2.hellotvvod.com:9906/e6d8e656201c49b8b14e2c629a53727a
-    中天亞洲台,mitv://ns2.hellotvvod.com:9906/c27d923e7cfe4f818620c9d0218674fb
-    TVB星河(粵),mitv://ns2.hellotvvod.com:9906/f62e72a8594d4dfab4b83a31f57c44dc
-    天映經典,mitv://ns2.hellotvvod.com:9906/3db2c79640d14465a98fa1ee26979f9a
-    Astro歡喜台(備),mitv://ns2.hellotvvod.com:9906/f1fe63740e3d4f4baece3c377eeda85d
-    KBS World,mitv://ns2.hellotvvod.com:9906/56cbdcea390640998e418d47515e462a
-    ONE,mitv://ns2.hellotvvod.com:9906/c77e3cdc502a48ceb65d29c6f7643d13
-    Oh!K,mitv://ns2.hellotvvod.com:9906/997054221ffc4ddf800e67523c2fa4ee
-    Colors Hindi,mitv://ns2.hellotvvod.com:9906/5792b033ffe34a91ba1dcb12222ace67
-    TVS,mitv://ns2.hellotvvod.com:9906/bf1dc65fb03e49e2b028404c644ce7fd
-    Astro Vaanavil,mitv://ns2.hellotvvod.com:9906/ff85fc8871404d11b3c34afd5f39a2d4
-    tvN Movies HD,mitv://ns2.hellotvvod.com:9906/2d0b184610a94a9ca1654f2ff0e15874
-    Astro Awani,mitv://ns2.hellotvvod.com:9906/5004749cb2734554ae6a64ab5530d34d
-    BERNAMA,mitv://ns2.hellotvvod.com:9906/b9a0d467b9a9462c8c2c68f74d7fe1b2
-    CGTN,mitv://ns2.hellotvvod.com:9906/a05147fc54994b239b269b9c08ccdedf
-    BBC World News,mitv://ns2.hellotvvod.com:9906/e13a7e95b23548c0b2ce77b2fec025f3
-    Al Jazeera English,mitv://ns2.hellotvvod.com:9906/0dcc2770723647b6b9bbe7d3b8076365
-    CNBC,mitv://ns2.hellotvvod.com:9906/d949f1be74844870b9e751474b979f42
-    Bloomberg TV,mitv://ns2.hellotvvod.com:9906/96f83d40516c425b850ed71aef498340
-    Astro Ceria,mitv://ns2.hellotvvod.com:9906/dce2aff672e249bc9682523f8f662f8d
-    Cartoon Network,mitv://ns2.hellotvvod.com:9906/05765519ced946069b15426b709faf23
-    Nickelodeon,mitv://ns2.hellotvvod.com:9906/10388cc4218f421a9f57e7ab45188aaa
-    Nick Jr.,mitv://ns2.hellotvvod.com:9906/ba27716f45f342ef84e592fc5a248c71
-    Boomerang,mitv://ns2.hellotvvod.com:9906/b7ed7385205c4c0786b74a14e6b5c145
-    AXN亞洲,mitv://ns2.hellotvvod.com:9906/9e67e8c610794a66b8c789cc857d94c4
-    KIX,mitv://ns2.hellotvvod.com:9906/9f1b96d19f154b8f97617e55a0f209b3
-    HITS,mitv://ns2.hellotvvod.com:9906/680cd3cc6ed04c39befad15655b95f79
-    Astro Arena,mitv://ns2.hellotvvod.com:9906/4f6c4717c9104aadacd6038766b8dc45
-    Astro SuperSport,mitv://ns2.hellotvvod.com:9906/bc9bb7ee37f344db825ce42cc8cd1f21
-    Astro SuperSport 2,mitv://ns2.hellotvvod.com:9906/d197d8809f4c4fc9ae53537d77b69dce
-    Astro SuperSport 3,mitv://ns2.hellotvvod.com:9906/724b0e0ae89241dfb6bcece3b5b5817f
-    Astro SuperSport 4,mitv://ns2.hellotvvod.com:9906/15c1e85aa617496aa14152c317d488bc
-    beIN Sports 3,mitv://ns2.hellotvvod.com:9906/dd06702a292f4a07ac61b647faf95de9
-    WWE,mitv://ns2.hellotvvod.com:9906/3e66fb30b34f4ef894658d0c980b386e
-    Sky News,mitv://ns2.hellotvvod.com:9906/0888d73983a6499d98e4425bb2661f4a
-    八度空間(備),mitv://ns2.hellotvvod.com:9906/85a0ca89b20149ae8ab261e6079386d3
-    Nat Geo Wild,mitv://ns2.hellotvvod.com:9906/ecba8344b1c44c499911759a255dbc81
-    tvN,mitv://ns2.hellotvvod.com:9906/007334eaba55496daf4e2c9f1fe4fb90
-    Drama Sangat,mitv://ns2.hellotvvod.com:9906/fbb7101dd6c34ec9970e851fafbc1334
-    RTM Sport,mitv://ns2.hellotvvod.com:9906/6ab99345dacc4218bd14685eaa1d5927
-    Berita RTM,mitv://ns2.hellotvvod.com:9906/ab61b5774c984e408230c39886fc9ff9
-    DW,mitv://ns2.hellotvvod.com:9906/5d6d7a090002479eb231fcbec038246a
-    France24,mitv://ns2.hellotvvod.com:9906/3a5e2bafc6264693bb37781c2f57c092
-    SPOTV,mitv://ns2.hellotvvod.com:9906/16a4431d22d640049b67071fe8f1d802
-    beIN Sports,mitv://ns2.hellotvvod.com:9906/d279c66dbc9a4368bfdc0461c744ab1e
-    TVB娛樂新聞台,mitv://ns2.hellotvvod.com:9906/65bf272526a54e848ad57233b1c8a19f
-    Astro AEC,mitv://ns2.hellotvvod.com:9906/c3b00314661e4bf1954528045c337e0a
-    Awesome TV,mitv://ns2.hellotvvod.com:9906/e71b10c0b75344cbbac9f565fa8b6fe1
-    ABO Movies Thangathirai HD,mitv://ns2.hellotvvod.com:9906/9e33e7abdc494f22b25b039575cd2246
-    Colors Tamil,mitv://ns2.hellotvvod.com:9906/9ee84539e3d543309224b7863b28ba9d
-    BOO,mitv://ns2.hellotvvod.com:9906/0c698e6a1cab41d4be9f93a57877f4bb
-    TVB經典台,mitv://ns2.hellotvvod.com:9906/6dd61b3f12af4e74a77cc5e2b2caefc2
-    ABC Australia,mitv://ns2.hellotvvod.com:9906/0f82c331ca144c20bd1a04ef47a338da
-    Eurosport HD,mitv://ns2.hellotvvod.com:9906/26f2b48dc14a4620a142c56217b0911c
-    Astro Arena 2,mitv://ns2.hellotvvod.com:9906/455b5c5423994284bc03a472876cda0a
-    Astro SuperSport 5,mitv://ns2.hellotvvod.com:9906/d092a45518964b658f967303a84682e5
-    Astro Vinmeen,mitv://ns2.hellotvvod.com:9906/ce8cf6f3df974bb09f156dacf61f2f96
-    Sun Music,mitv://ns2.hellotvvod.com:9906/a043cb42c3d44a68b11d40289102e0d3
-    Chutti TV,mitv://ns2.hellotvvod.com:9906/d3324f11b15041119f1ad3c3b3583853
-    Adithya,mitv://ns2.hellotvvod.com:9906/f1947c7659d547779b2d7ad65ffbd704
-    Star Vijay,mitv://ns2.hellotvvod.com:9906/79d9eb40c774475c80180a83ac09173d
-    Zee Tamil,mitv://ns2.hellotvvod.com:9906/df22784f26824b8fad091c40e845c2f0
-    TVBS亞洲,mitv://ns2.hellotvvod.com:9906/1757e82926ab4371b804b164e08206b4
-    Astro AOD 352,mitv://ns2.hellotvvod.com:9906/b153d4a511db4dabb6138f07089da1d6
-    Astro AOD 354,mitv://ns2.hellotvvod.com:9906/a31f028d596f41b4a658aa1b81703a76
-    Astro Tutor TV SK,mitv://ns2.hellotvvod.com:9906/4b539d3b215d4c42ae7dd7c2e97ebc30
-    Astro Tutor TV SPM,mitv://ns2.hellotvvod.com:9906/864b54c43c09450d976c338bf546ccfe
-    Premier Sports,mitv://ns2.hellotvvod.com:9906/5810c8a835574aedbc803183385cf1aa
-    TA-DAA!,mitv://ns2.hellotvvod.com:9906/50282c6518954bd18ec25db3011267f0
-    eGG Network,mitv://ns2.hellotvvod.com:9906/91bc919e06824f12915c5dc22ac363e3
-    BollyOne,mitv://ns2.hellotvvod.com:9906/8d03865c1cf440328b4c06acc353f508
-    HITS Movies,mitv://ns2.hellotvvod.com:9906/3f6a22da0581470e88b79e3c3d63c503
-    SHOWCASE MOVIES,mitv://ns2.hellotvvod.com:9906/d33f0a64437346b9ad7b5078ee3ef949
-    PrimeTime Channel,mitv://ns2.hellotvvod.com:9906/d1f3dfc87a9c41fd98f60eb410f5d951
-    Golf Channel,mitv://ns2.hellotvvod.com:9906/fedb53cf07f4438fa29127e4bc39ab31
-    Astro歡喜台,mitv://ns2.hellotvvod.com:9906/2b7c9a480cf0458d9130f16e8993d6c1
-    Baby TV,mitv://ns2.hellotvvod.com:9906/d8e128d257394f7e8b1cab42768c1e89
-    TLC,mitv://ns2.hellotvvod.com:9906/5201fc0be3cf47868d97de76b81b0268
-    beIN Sports 2,mitv://ns2.hellotvvod.com:9906/b2c26c7fa3e54b0f90a84db705b1451f
-    新加坡,#genre#	
-    天映頻道,mitv://ns2.hellotvvod.com:9906/15f13e15cfeb40779e541164e0366560
-    中天亞洲台,mitv://ns2.hellotvvod.com:9906/c27d923e7cfe4f818620c9d0218674fb
-    TVB星河(粵),mitv://ns2.hellotvvod.com:9906/f62e72a8594d4dfab4b83a31f57c44dc
-    天映經典,mitv://ns2.hellotvvod.com:9906/3db2c79640d14465a98fa1ee26979f9a
-    KBS World,mitv://ns2.hellotvvod.com:9906/56cbdcea390640998e418d47515e462a
-    ONE,mitv://ns2.hellotvvod.com:9906/c77e3cdc502a48ceb65d29c6f7643d13
-    Oh!K,mitv://ns2.hellotvvod.com:9906/997054221ffc4ddf800e67523c2fa4ee
-    Colors Hindi,mitv://ns2.hellotvvod.com:9906/5792b033ffe34a91ba1dcb12222ace67
-    CGTN,mitv://ns2.hellotvvod.com:9906/a05147fc54994b239b269b9c08ccdedf
-    BBC World News,mitv://ns2.hellotvvod.com:9906/e13a7e95b23548c0b2ce77b2fec025f3
-    CNBC,mitv://ns2.hellotvvod.com:9906/d949f1be74844870b9e751474b979f42
-    Bloomberg TV,mitv://ns2.hellotvvod.com:9906/96f83d40516c425b850ed71aef498340
-    Cartoon Network,mitv://ns2.hellotvvod.com:9906/05765519ced946069b15426b709faf23
-    Nickelodeon,mitv://ns2.hellotvvod.com:9906/10388cc4218f421a9f57e7ab45188aaa
-    Nick Jr.,mitv://ns2.hellotvvod.com:9906/ba27716f45f342ef84e592fc5a248c71
-    Boomerang,mitv://ns2.hellotvvod.com:9906/b7ed7385205c4c0786b74a14e6b5c145
-    AXN亞洲,mitv://ns2.hellotvvod.com:9906/9e67e8c610794a66b8c789cc857d94c4
-    HITS,mitv://ns2.hellotvvod.com:9906/680cd3cc6ed04c39befad15655b95f79
-    beIN Sports 3,mitv://ns2.hellotvvod.com:9906/dd06702a292f4a07ac61b647faf95de9
-    Mediacorp 5,mitv://ns2.hellotvvod.com:9906/64cf6a1e847d4ebcb3a18d52ffce3689
-    Mediacorp 8,mitv://ns2.hellotvvod.com:9906/70b97aa693ab4943b8edf657a01f63dd
-    Suria,mitv://ns2.hellotvvod.com:9906/07fe007c4390426c9e3d1901de246db2
-    Vasantham,mitv://ns2.hellotvvod.com:9906/7f5a3b21ba1f488e920a46d780643142
-    CNA,mitv://ns2.hellotvvod.com:9906/43f6746a2b1f40c6b0debc8f63be1a05
-    Mediacorp U,mitv://ns2.hellotvvod.com:9906/28b7d71deacd445eb9776abae4c63409
-    衛視電影台,mitv://ns2.hellotvvod.com:9906/b236d09ba98644eda7eca81583130ec5
-    Nat Geo Wild,mitv://ns2.hellotvvod.com:9906/ecba8344b1c44c499911759a255dbc81
-    Arirang,mitv://ns2.hellotvvod.com:9906/35e3140636484f82977b70f744d83322
-    Euronews,mitv://ns2.hellotvvod.com:9906/e3a30d33347a4976b53e51d160ff1a2c
-    Fight Sports,mitv://ns2.hellotvvod.com:9906/44bbd9ce056d47829002a020cee478d6
-    GEM,mitv://ns2.hellotvvod.com:9906/f90fa70647d14303b384d58935d64aa4
-    Horse Racing 89,mitv://ns2.hellotvvod.com:9906/cc08a75237f449e39deccc743174987e
-    Fox News,mitv://ns2.hellotvvod.com:9906/03b59d4b1bbf4b53a088f3aec3d0dc5c
-    beIN Sports,mitv://ns2.hellotvvod.com:9906/d279c66dbc9a4368bfdc0461c744ab1e
-    HGTV居家樂活頻道,mitv://ns2.hellotvvod.com:9906/26d97e494202417494f19059c06928e1
-    TV5Monde,mitv://ns2.hellotvvod.com:9906/4b26bba3d1394960be610521294fcfab
-    東森亞洲衛視,mitv://ns2.hellotvvod.com:9906/1400188397d24995922910d165fedfae
-    Thrill,mitv://ns2.hellotvvod.com:9906/325d7f89a5a14a80ad140a595c8c09b2
-    Hub都會台,mitv://ns2.hellotvvod.com:9906/28319935c4cc4132b455b8308a211791
-    TVBS亞洲,mitv://ns2.hellotvvod.com:9906/1757e82926ab4371b804b164e08206b4
-    Hub娛家,mitv://ns2.hellotvvod.com:9906/bee45fa436b94ee3a9960e5f9d91bc22
-    NBA,mitv://ns2.hellotvvod.com:9906/99b6eaa269ed43fe81726de914a98c3b
-    beIN Sports 2,mitv://ns2.hellotvvod.com:9906/b2c26c7fa3e54b0f90a84db705b1451f
-    Hub Sports 1,mitv://ns2.hellotvvod.com:9906/6fa369a85e1c432b9e2d236b37ba4c84
-    Hub Sports 2,mitv://ns2.hellotvvod.com:9906/656d6c012c2a461585edf4e3ae79c571
-    Hub Sports 3,mitv://ns2.hellotvvod.com:9906/ac439d2f9ced4e578d1bd03fbac992d2
-    Horse Racing 88,mitv://ns2.hellotvvod.com:9906/d4f2b4bfd3ac411a9cf4bc6523d7dcc1
-    日本,#genre#	
-    NHK-G綜合,mitv://ns2.hellotvvod.com:9906/58960cc19ce54e0fb892c363214d507a
-    NHK-E教育,mitv://ns2.hellotvvod.com:9906/8e1482478cb340ac90622399bb60cfde
-    日本テレビ,mitv://ns2.hellotvvod.com:9906/b183c7d13b4146fabebc2bd6e314cc31
-    TBSテレビ,mitv://ns2.hellotvvod.com:9906/f48e4b23127d4f579367688099c6b66b
-    テレビ東京,mitv://ns2.hellotvvod.com:9906/0ea6bbb31bb2481192de410321aaaf5c
-    フジテレビ,mitv://ns2.hellotvvod.com:9906/8c451888d2ba4084b168ff0ccd517702
-    読売テレビ,mitv://ns2.hellotvvod.com:9906/7a22edb3a5d748c59d9e77871efc2c41
-    関西テレビ,mitv://ns2.hellotvvod.com:9906/8f57c990a55a45b597b94c78bf4ffc5b
-    KBS京都,mitv://ns2.hellotvvod.com:9906/28dc60c8070e4ab3b122fc73820efd7b
-    每日放送,mitv://ns2.hellotvvod.com:9906/1ca7ddec7dd949afbc7b170861f4580c
-    朝日放送,mitv://ns2.hellotvvod.com:9906/03ab779a55ed4b269dc8395c4cfd6769
-    テレビ大阪,mitv://ns2.hellotvvod.com:9906/e596f9f7cc624f1e801981834b6235b9
-    テレビ朝日,mitv://ns2.hellotvvod.com:9906/1fbf075da46f41e8a75053ccebbf2e01
-    BS-1,mitv://ns2.hellotvvod.com:9906/eb66ef59d6b548d78b06dd96536a6783
-    BSプレミアム,mitv://ns2.hellotvvod.com:9906/fe9db799e9f5439bbfdca9bc7e3329cd
-    BS日テレ,mitv://ns2.hellotvvod.com:9906/1a65a34a1d194a6cbd10385613cc424d
-    BS朝日,mitv://ns2.hellotvvod.com:9906/95c0bb50fd56497fae5cbc258b07c120
-    BS-TBS,mitv://ns2.hellotvvod.com:9906/e839431891244b67976f0645ed48dd0e
-    BS11,mitv://ns2.hellotvvod.com:9906/be2c98767c384ad5873c16453245917f
-    BSフジ,mitv://ns2.hellotvvod.com:9906/4f2df88aefe247c6bce86c83c94b3907
-    WOWOWプライム,mitv://ns2.hellotvvod.com:9906/3c6a466efcf84c51a8268cc5152119c3
-    WOWOWライブ,mitv://ns2.hellotvvod.com:9906/23b9b9be617e469f8da0c809f1d995a3
-    WOWOWシネマ,mitv://ns2.hellotvvod.com:9906/0c4e0fcb17194ca29933223f0eb2c119
-    スター?チャンネル1,mitv://ns2.hellotvvod.com:9906/552b6344562341c4801f6eca6645b8d8
-    スター?チャンネル2,mitv://ns2.hellotvvod.com:9906/87d27f2490c044b8ae67c934d28c0c81
-    スター?チャンネル3,mitv://ns2.hellotvvod.com:9906/af19c61a80d44597a98985b6b3acb217
-    BSアニマックス,mitv://ns2.hellotvvod.com:9906/01fb38dd6dce4b14a7c59f2876aedb1c
-    J Sports 1,mitv://ns2.hellotvvod.com:9906/dd25929ee7d744dd8aa6cd05a53224fc
-    J Sports 2,mitv://ns2.hellotvvod.com:9906/ebac52380125477a9ad6d933e923bfc6
-    J Sports 3,mitv://ns2.hellotvvod.com:9906/21637f5b434e4b47be7cd2ff1d4a9745
-    J Sports 4,mitv://ns2.hellotvvod.com:9906/cd6e962582424b04bae3e5b267abbe10
-    BS12,mitv://ns2.hellotvvod.com:9906/28be2136cf8d4f44a20e5ee91ce9a261
-    ゴルフネットワークHD,mitv://ns2.hellotvvod.com:9906/9c3cf64489db406fa5d97e0f07f06891
-    時代劇専門チャンネル,mitv://ns2.hellotvvod.com:9906/7add686191744e158ad8b7d87e026097
-    Music Japan TV,mitv://ns2.hellotvvod.com:9906/5bb9552cfe1049ba9d963f676496b1a6
-    キッズステーションHD,mitv://ns2.hellotvvod.com:9906/1bc81a2ee3bb43939104c38312f858d2
-    ディスカバリーチャンネル,mitv://ns2.hellotvvod.com:9906/ed49d103acc744dd835894e12386df8d
-    ナショナルジオグラフィック,mitv://ns2.hellotvvod.com:9906/8b7b6b48ca424c47ae290292b2b70181
-    日テレNEWS 24,mitv://ns2.hellotvvod.com:9906/cc128bbfc9194b0b86959fe39a9d9480
-    旅チャンネル,mitv://ns2.hellotvvod.com:9906/9f5a41952e9c4a648ad3119bf61bf0f6
-    ファミリー劇場,mitv://ns2.hellotvvod.com:9906/8b258606a4144a78bf32651323e02a79
-    韓國,#genre#	
-    Arirang,mitv://ns2.hellotvvod.com:9906/35e3140636484f82977b70f744d83322
-    KBS1,mitv://ns2.hellotvvod.com:9906/c91ba2b81e5149ec91c1e871fdd6fb35
-    KBS2,mitv://ns2.hellotvvod.com:9906/428bfd43776f44b6bfca8f2b537e3db1
-    KBS Drama,mitv://ns2.hellotvvod.com:9906/07a1967c8a4d4903b4111441330775fe
-    KBS Joy,mitv://ns2.hellotvvod.com:9906/77f6c8afba6f4557b0ace292d8b07035
-    SBS,mitv://ns2.hellotvvod.com:9906/e2ff7bf9c05e4525838294b9dba2d2e1
-    SBS Biz,mitv://ns2.hellotvvod.com:9906/47f8d16e502a4969844fd0e35c51428e
-    JTBC,mitv://ns2.hellotvvod.com:9906/05e1f9960ba3476680c5e1153906de70
-    EBS,mitv://ns2.hellotvvod.com:9906/f8e975c7328746328e014b0ebc325984
-    YTN,mitv://ns2.hellotvvod.com:9906/d2ee06b0d5b142e99a1c225d0cfdb2bd
-    Mnet,mitv://ns2.hellotvvod.com:9906/09f2f51179bd4e3ba53c5b599bd45387
-    tvN,mitv://ns2.hellotvvod.com:9906/007334eaba55496daf4e2c9f1fe4fb90
-    OCN,mitv://ns2.hellotvvod.com:9906/b177823c980b40bf9469476567d10b74
-    OCN Movies,mitv://ns2.hellotvvod.com:9906/aa07fa1520fc40f79c9e7fad05ca9a1c
-    TV Chosun,mitv://ns2.hellotvvod.com:9906/1924a1a636df4a50b848cb12b8c83df6
-    MBC,mitv://ns2.hellotvvod.com:9906/5916743baed34967947fd579d099a452
-    MBN,mitv://ns2.hellotvvod.com:9906/3b934827e4e54a78b39197a2eb908978
-    Tooniverse,mitv://ns2.hellotvvod.com:9906/c32ef7fbcf7c42289bee239fe9dc9ffa
-    SPOTV,mitv://ns2.hellotvvod.com:9906/351dd71819c34ad181ea6b43b2b78c8e
-    SPOTV 2,mitv://ns2.hellotvvod.com:9906/d55fc34250a74ae297eb75d652256716
-    JTBC GOLF,mitv://ns2.hellotvvod.com:9906/4b446a4f8ceb44b39044eede13b35204
-    印尼,#genre#	
-    tvN Movies HD,mitv://ns2.hellotvvod.com:9906/2d0b184610a94a9ca1654f2ff0e15874
-    Indosiar,mitv://ns2.hellotvvod.com:9906/65413bf634de4b12925cba1748650d7f
-    SCTV,mitv://ns2.hellotvvod.com:9906/f35a25244bc145f4b439d6f3fdaf72c6
-    RCTI,mitv://ns2.hellotvvod.com:9906/41311b7cd2fd40719ea58b75e11fa3e7
-    泰國,#genre#	
-    Channel 5,mitv://ns2.hellotvvod.com:9906/4792bc05a8be44408428f3870570a68c
-    NBT,mitv://ns2.hellotvvod.com:9906/faa292a871354990bfb408569b12a394
-    TNN 16,mitv://ns2.hellotvvod.com:9906/6846fb0f414b4c0a80784f08cf7b62af
-    JKN 18,mitv://ns2.hellotvvod.com:9906/1a02a01e33d848349f7d63b39404fe84
-    Voice TV,mitv://ns2.hellotvvod.com:9906/cab839b5901b4f15bc361055ac0c1baa
-    Nation TV,mitv://ns2.hellotvvod.com:9906/8d966eb8ec7c4c58bef92ffe8cccc082
-    Workpoint TV,mitv://ns2.hellotvvod.com:9906/026c835ff01043e488c6d7351fb1c9f5
-    true4U,mitv://ns2.hellotvvod.com:9906/02678e1ef3634739822c794d35cdac71
-    GMM 25,mitv://ns2.hellotvvod.com:9906/0f4e24a9794b4e259d46eb566d4085bd
-    Channel 8,mitv://ns2.hellotvvod.com:9906/db5c5161ff7e489c96b4d95e931d37c3
-    Mono 29,mitv://ns2.hellotvvod.com:9906/840223af115449f6beb244cb36d10009
-    MCOT,mitv://ns2.hellotvvod.com:9906/f6a68aa05ee942aea0501c0af2a9be24
-    ONE,mitv://ns2.hellotvvod.com:9906/bdd22638ce394ce6be957d55f1b303c4
-    Thairath TV,mitv://ns2.hellotvvod.com:9906/580029ae7c764a64b621bb3a0c4693fe
-    Channel 3,mitv://ns2.hellotvvod.com:9906/d69912ebfa944988a61587d4d093f695
-    Amarin TV,mitv://ns2.hellotvvod.com:9906/8b26f963b4bb4753ab271ba2f3f848fd
-    Channel 7,mitv://ns2.hellotvvod.com:9906/cbe20e32f7fc4118860259bdb60ac23e
-    PPTV,mitv://ns2.hellotvvod.com:9906/c890c46af31a42e9ad850a8f766d3a3c
-    Boomerang,mitv://ns2.hellotvvod.com:9906/3e56bbe3e455451d8bde61169043bc56
-    Toonee,mitv://ns2.hellotvvod.com:9906/c771c1ff02e54119b6a5481b468f3d47
-    Thai Parliament TV,mitv://ns2.hellotvvod.com:9906/aa88a4c737d04a10b2c4966033ea52ae
-    Thai PBS,mitv://ns2.hellotvvod.com:9906/aac3a7a1ab30442db05da64f32e3202d
-    News 1,mitv://ns2.hellotvvod.com:9906/1bc29892e64f46f79f8eee2b593e04f8
-    Channel 4050,mitv://ns2.hellotvvod.com:9906/8e8b1090911e4187865e8e9da06a6392
-    TVB Thai,mitv://ns2.hellotvvod.com:9906/1cc407ebed0744c1979be7e9c8aa220d
-    Bluesky,mitv://ns2.hellotvvod.com:9906/00643165d7314e98a6dce63e8f99e99f
-    Top News,mitv://ns2.hellotvvod.com:9906/d323d604aea04fe3982fef9765cf7db6
-    True Sport 2,mitv://ns2.hellotvvod.com:9906/36f1657d3f8a4ed3b73b76d89faffbaa
-    True Sport 3,mitv://ns2.hellotvvod.com:9906/61904ed3406c40d8b2b216f89706091b
-    True Sport 4,mitv://ns2.hellotvvod.com:9906/7bb881aa60634027bfc17a871882f182
-    True Sport 5,mitv://ns2.hellotvvod.com:9906/64c60126b45043fa88f7bda85ca17150
-    True Sport 7,mitv://ns2.hellotvvod.com:9906/87566571411643749767f111c4ae3d17
-    菲律賓,#genre#	
-    Cartoon Network,mitv://ns2.hellotvvod.com:9906/05765519ced946069b15426b709faf23
-    Nickelodeon,mitv://ns2.hellotvvod.com:9906/10388cc4218f421a9f57e7ab45188aaa
-    Nick Jr.,mitv://ns2.hellotvvod.com:9906/ba27716f45f342ef84e592fc5a248c71
-    Boomerang,mitv://ns2.hellotvvod.com:9906/b7ed7385205c4c0786b74a14e6b5c145
-    Golf Channel Philippines,mitv://ns2.hellotvvod.com:9906/810725c34f314ad4b40c3580d893d3d4
-    印度,#genre#	
-    SUN TV,mitv://ns2.hellotvvod.com:9906/f0bc762de6394d0ea8cfe58b35985081
-    India TV,mitv://ns2.hellotvvod.com:9906/d510d73bca4a41578b3badd8ba7191be
-    Janam TV,mitv://ns2.hellotvvod.com:9906/70ffb01c12bb4e69b656bdd666b24b17
-    Colors Tamil,mitv://ns2.hellotvvod.com:9906/9ee84539e3d543309224b7863b28ba9d
-    NDTV,mitv://ns2.hellotvvod.com:9906/32ba3fecd3064b7da943cdc79f8d148a
-    Sun Music,mitv://ns2.hellotvvod.com:9906/a043cb42c3d44a68b11d40289102e0d3
-    Chutti TV,mitv://ns2.hellotvvod.com:9906/d3324f11b15041119f1ad3c3b3583853
-    Adithya,mitv://ns2.hellotvvod.com:9906/f1947c7659d547779b2d7ad65ffbd704
-    Star Vijay,mitv://ns2.hellotvvod.com:9906/79d9eb40c774475c80180a83ac09173d
-    Zee Tamil,mitv://ns2.hellotvvod.com:9906/df22784f26824b8fad091c40e845c2f0
-    美國,#genre#	
-    CNN,mitv://ns2.hellotvvod.com:9906/1b0b57acb6874e0fb1965abdceb5c251
-    CNBC,mitv://ns2.hellotvvod.com:9906/d949f1be74844870b9e751474b979f42
-    Bloomberg TV,mitv://ns2.hellotvvod.com:9906/96f83d40516c425b850ed71aef498340
-    ESPN,mitv://ns2.hellotvvod.com:9906/e17f4bffbb0b41a191163706cb7bb48f
-    CBSN,mitv://ns2.hellotvvod.com:9906/a93df9be37154db58119d2b9dae329f1
-    Fox News,mitv://ns2.hellotvvod.com:9906/03b59d4b1bbf4b53a088f3aec3d0dc5c
-    Food Network,mitv://ns2.hellotvvod.com:9906/503d40ce584d4c3388a2335257da72c4
-    NBA,mitv://ns2.hellotvvod.com:9906/99b6eaa269ed43fe81726de914a98c3b
-    新聞,#genre#	
-    CNN,mitv://ns2.hellotvvod.com:9906/1b0b57acb6874e0fb1965abdceb5c251
-    無綫新聞台,mitv://ns2.hellotvvod.com:9906/407fb5d11fc44abb89db4bec2f361e1b
-    無綫財經·資訊台,mitv://ns2.hellotvvod.com:9906/3bb2222330874f87a204a1a4bd336a9d
-    CGTN,mitv://ns2.hellotvvod.com:9906/a05147fc54994b239b269b9c08ccdedf
-    BBC World News,mitv://ns2.hellotvvod.com:9906/e13a7e95b23548c0b2ce77b2fec025f3
-    Al Jazeera English,mitv://ns2.hellotvvod.com:9906/0dcc2770723647b6b9bbe7d3b8076365
-    CNBC,mitv://ns2.hellotvvod.com:9906/d949f1be74844870b9e751474b979f42
-    Bloomberg TV,mitv://ns2.hellotvvod.com:9906/96f83d40516c425b850ed71aef498340
-    CNA,mitv://ns2.hellotvvod.com:9906/43f6746a2b1f40c6b0debc8f63be1a05
-    壹電視新聞台,mitv://ns2.hellotvvod.com:9906/01f09c5c2dc54d54af529d6455895344
-    年代新聞,mitv://ns2.hellotvvod.com:9906/ccf7618d48274e518109b3aa824a053f
-    now新聞台,mitv://ns2.hellotvvod.com:9906/f32572889a6141a5a0df234290b9f367
-    now直播台,mitv://ns2.hellotvvod.com:9906/659de2e811b146eabf63d599d9103d94
-    東森新聞台,mitv://ns2.hellotvvod.com:9906/4053dec4295047e18113145177bd53a1
-    中天新聞台,mitv://ns2.hellotvvod.com:9906/5475913400524ada8cafe009c2f22fa5
-    民視新聞台,mitv://ns2.hellotvvod.com:9906/aa4d2a792bce4ddf9de27f7391090258
-    三立新聞台,mitv://ns2.hellotvvod.com:9906/aa1df094ab784a63ba6ea89bc0e6b9f9
-    TVBS新聞台,mitv://ns2.hellotvvod.com:9906/eb34d9d496be4f55bcca117240668bf0
-    東森財經新聞台,mitv://ns2.hellotvvod.com:9906/164d942788234d10aa3693de54e032b3
-    非凡新聞台,mitv://ns2.hellotvvod.com:9906/b480de0514504c7dae5f6bd8ba6fd12f
-    TNN 16,mitv://ns2.hellotvvod.com:9906/6846fb0f414b4c0a80784f08cf7b62af
-    JKN 18,mitv://ns2.hellotvvod.com:9906/1a02a01e33d848349f7d63b39404fe84
-    三立iNEWS,mitv://ns2.hellotvvod.com:9906/9aceea33b578424e8eeda8cfa01223c1
-    Sky News,mitv://ns2.hellotvvod.com:9906/0888d73983a6499d98e4425bb2661f4a
-    DW,mitv://ns2.hellotvvod.com:9906/5d6d7a090002479eb231fcbec038246a
-    Euronews,mitv://ns2.hellotvvod.com:9906/e3a30d33347a4976b53e51d160ff1a2c
-    France24,mitv://ns2.hellotvvod.com:9906/3a5e2bafc6264693bb37781c2f57c092
-    HKC新聞台,mitv://ns2.hellotvvod.com:9906/95ff4b4a6ea14a5faaaae8bd6cf1e197
-    非凡商業台,mitv://ns2.hellotvvod.com:9906/992564e4e100409abe28568ca32ce60d
-    HKC財經資訊台,mitv://ns2.hellotvvod.com:9906/a8fb576b347c40b4803dc03825716847
-    國會頻道1,mitv://ns2.hellotvvod.com:9906/db1630ef0a4f4f09a7394d06568e736b
-    國會頻道2,mitv://ns2.hellotvvod.com:9906/d5566e3942154bad8ae398ba96372f15
-    CBSN,mitv://ns2.hellotvvod.com:9906/a93df9be37154db58119d2b9dae329f1
-    Fox News,mitv://ns2.hellotvvod.com:9906/03b59d4b1bbf4b53a088f3aec3d0dc5c
-    中視新聞台,mitv://ns2.hellotvvod.com:9906/c942f173c72e4b00a75b39e1b0c65c59
-    寰宇新聞台,mitv://ns2.hellotvvod.com:9906/30abd547e85542489fadb6118486e89c
-    華視新聞,mitv://ns2.hellotvvod.com:9906/b9f5a12f5e0c412bb90090ee38d85f78
-    NHK新聞資訊台,mitv://ns2.hellotvvod.com:9906/6e728463976a41429e839649c705a9de
-    ABC Australia,mitv://ns2.hellotvvod.com:9906/0f82c331ca144c20bd1a04ef47a338da
-    台視新聞台,mitv://ns2.hellotvvod.com:9906/9c46902686e845b0aec65a35c593b2da
-    寰宇新聞台灣台,mitv://ns2.hellotvvod.com:9906/53f9d612f6714de29245a451b6fb729f
-    台視財經台,mitv://ns2.hellotvvod.com:9906/f4967ae36bb14b9f911414b0451f7641
-    東森新聞台(備),mitv://ns2.hellotvvod.com:9906/f4de91a7ee724d48bca4e883caed3b70
-    鏡新聞,mitv://ns2.hellotvvod.com:9906/9a1f808f124646a59b1929eae1fc2066
-    音樂,#genre#	
-    MTV,mitv://ns2.hellotvvod.com:9906/507549a277be447e98582b22ecffc9d5
-    Music Japan TV,mitv://ns2.hellotvvod.com:9906/5bb9552cfe1049ba9d963f676496b1a6
-    MTV Live,mitv://ns2.hellotvvod.com:9906/073a6942bf7e4f55be6aae12c4176791
-    Mezzo Live,mitv://ns2.hellotvvod.com:9906/e56abb50bcef49c1a38a9fe08b00d000
-    CLASSICA 古典樂,mitv://ns2.hellotvvod.com:9906/6583a64e66824f788a397b513361eef4
-    CMusic,mitv://ns2.hellotvvod.com:9906/1591639f7db240b7a36a25b8f1ba427d
-    體育,#genre#	
-    CCTV5,mitv://ns2.hellotvvod.com:9906/9c99f4f657394c29b9a47c7070779146
-    CCTV5+,mitv://ns2.hellotvvod.com:9906/caab5d6c1a7f40c9a8e27769775aca65
-    魅力足球,mitv://ns2.hellotvvod.com:9906/462370ffad8d4cbcbabfcd3485f88a76
-    五星體育,mitv://ns2.hellotvvod.com:9906/347c034fad344360964e4c9a9e096db1
-    廣東體育,mitv://ns2.hellotvvod.com:9906/5e38917eddf44965bd35e26ba7641483
-    Astro Cricket,mitv://ns2.hellotvvod.com:9906/835b076771194a928da334c6482757c6
-    Astro Arena,mitv://ns2.hellotvvod.com:9906/4f6c4717c9104aadacd6038766b8dc45
-    Astro SuperSport,mitv://ns2.hellotvvod.com:9906/bc9bb7ee37f344db825ce42cc8cd1f21
-    Astro SuperSport 2,mitv://ns2.hellotvvod.com:9906/d197d8809f4c4fc9ae53537d77b69dce
-    Astro SuperSport 3,mitv://ns2.hellotvvod.com:9906/724b0e0ae89241dfb6bcece3b5b5817f
-    Astro SuperSport 4,mitv://ns2.hellotvvod.com:9906/15c1e85aa617496aa14152c317d488bc
-    beIN Sports 3,mitv://ns2.hellotvvod.com:9906/dd06702a292f4a07ac61b647faf95de9
-    WWE,mitv://ns2.hellotvvod.com:9906/3e66fb30b34f4ef894658d0c980b386e
-    緯來育樂台,mitv://ns2.hellotvvod.com:9906/87bd0a0edeb94249aba99aeef7bfdf26
-    緯來體育台,mitv://ns2.hellotvvod.com:9906/938a7733f530434589b37b5a166c678b
-    ELEVEN體育1台,mitv://ns2.hellotvvod.com:9906/4f72de4318d6437189b737eb5e5cd3e3
-    Z頻道,mitv://ns2.hellotvvod.com:9906/b05c2b61637c4c0ab4ad2e6bb7cbb533
-    J Sports 1,mitv://ns2.hellotvvod.com:9906/dd25929ee7d744dd8aa6cd05a53224fc
-    J Sports 2,mitv://ns2.hellotvvod.com:9906/ebac52380125477a9ad6d933e923bfc6
-    J Sports 3,mitv://ns2.hellotvvod.com:9906/21637f5b434e4b47be7cd2ff1d4a9745
-    J Sports 4,mitv://ns2.hellotvvod.com:9906/cd6e962582424b04bae3e5b267abbe10
-    RTM Sport,mitv://ns2.hellotvvod.com:9906/6ab99345dacc4218bd14685eaa1d5927
-    Skynet Sports HD,mitv://ns2.hellotvvod.com:9906/322b27ea63e44721a7949a7ffad1b15c
-    Skynet Sports 2,mitv://ns2.hellotvvod.com:9906/d4cdaee370f147238956f40682901afb
-    Skynet Sports 5,mitv://ns2.hellotvvod.com:9906/de9b39c8008441d494861ad913a559ca
-    Skynet Sports 6,mitv://ns2.hellotvvod.com:9906/dec61f75c54a487dbfa49b0a967b41ba
-    Fight Sports,mitv://ns2.hellotvvod.com:9906/44bbd9ce056d47829002a020cee478d6
-    Golf Channel Philippines,mitv://ns2.hellotvvod.com:9906/810725c34f314ad4b40c3580d893d3d4
-    ESPN,mitv://ns2.hellotvvod.com:9906/e17f4bffbb0b41a191163706cb7bb48f
-    HKC 18,mitv://ns2.hellotvvod.com:9906/5748b81344684339943ee3eb4d40cac7
-    HKC 603,mitv://ns2.hellotvvod.com:9906/ca9d7742128e4896be319b61eac063bc
-    HKC體育台,mitv://ns2.hellotvvod.com:9906/46759f1d455b421f9bd1dd2fe48ff4ed
-    HKC Sports Plus 1,mitv://ns2.hellotvvod.com:9906/2faabd303fe24c67bd5314e255ace7dc
-    愛爾達體育1台(備),mitv://ns2.hellotvvod.com:9906/69a9e41f76c94be0aae401839661c7e5
-    愛爾達體育2台(備),mitv://ns2.hellotvvod.com:9906/9eb136cff8e6424c8f4df118d6f51bc3
-    愛爾達體育3台(備),mitv://ns2.hellotvvod.com:9906/d61c527b10f44550a754f614048d5986
-    TRACE Sport Stars,mitv://ns2.hellotvvod.com:9906/488d13982c9b42479df980b729bc2fef
-    博斯高球,mitv://ns2.hellotvvod.com:9906/f86a31c846174e818a10a1a7a918b4e7
-    博斯高球二台,mitv://ns2.hellotvvod.com:9906/b41c81261ed74c99a2bd0be9e7535969
-    博斯網球台,mitv://ns2.hellotvvod.com:9906/ed1261b0710149b29b27cd381636c76e
-    博斯魅力網,mitv://ns2.hellotvvod.com:9906/8562125af5a3419aa85893e7b8f73f17
-    博斯無限台,mitv://ns2.hellotvvod.com:9906/b859586aeb7e4d4d818b45cee69c0b42
-    博斯無限二台,mitv://ns2.hellotvvod.com:9906/67d6c0cee271498fbd6f520e023f8d1d
-    SPOTV,mitv://ns2.hellotvvod.com:9906/16a4431d22d640049b67071fe8f1d802
-    博斯運動,mitv://ns2.hellotvvod.com:9906/9cb6a4f553b249ef9437a6f1452501a7
-    ELEVEN體育2台,mitv://ns2.hellotvvod.com:9906/7edd2a65e47e4f08b8e50bebccecabfd
-    智林體育台,mitv://ns2.hellotvvod.com:9906/40b7f55374a947558d43a9c3cafd258e
-    博斯運動二台,mitv://ns2.hellotvvod.com:9906/305fa1a99eea438788c97013e63a1000
-    beIN Sports,mitv://ns2.hellotvvod.com:9906/d279c66dbc9a4368bfdc0461c744ab1e
-    Eurosport HD,mitv://ns2.hellotvvod.com:9906/26f2b48dc14a4620a142c56217b0911c
-    Astro Arena 2,mitv://ns2.hellotvvod.com:9906/455b5c5423994284bc03a472876cda0a
-    Astro SuperSport 5,mitv://ns2.hellotvvod.com:9906/d092a45518964b658f967303a84682e5
-    NBA,mitv://ns2.hellotvvod.com:9906/99b6eaa269ed43fe81726de914a98c3b
-    Premier Sports,mitv://ns2.hellotvvod.com:9906/5810c8a835574aedbc803183385cf1aa
-    eGG Network,mitv://ns2.hellotvvod.com:9906/91bc919e06824f12915c5dc22ac363e3
-    Golf Channel,mitv://ns2.hellotvvod.com:9906/fedb53cf07f4438fa29127e4bc39ab31
-    CCTV16,mitv://ns2.hellotvvod.com:9906/886c31c068b542e3aca30cb0ea0074de
-    True Sport 2,mitv://ns2.hellotvvod.com:9906/36f1657d3f8a4ed3b73b76d89faffbaa
-    True Sport 3,mitv://ns2.hellotvvod.com:9906/61904ed3406c40d8b2b216f89706091b
-    True Sport 4,mitv://ns2.hellotvvod.com:9906/7bb881aa60634027bfc17a871882f182
-    True Sport 5,mitv://ns2.hellotvvod.com:9906/64c60126b45043fa88f7bda85ca17150
-    True Sport 7,mitv://ns2.hellotvvod.com:9906/87566571411643749767f111c4ae3d17
-    beIN Sports 2,mitv://ns2.hellotvvod.com:9906/b2c26c7fa3e54b0f90a84db705b1451f
-    愛爾達體育1台,mitv://ns2.hellotvvod.com:9906/88224b61a1d74dac89cf8f109ec55653
-    愛爾達體育2台,mitv://ns2.hellotvvod.com:9906/b0b04760e4fe43f09cd0d9278286cb1c
-    愛爾達體育3台,mitv://ns2.hellotvvod.com:9906/085c4e7e9ee14d20890f33f5a3d92666
-    Hub Sports 1,mitv://ns2.hellotvvod.com:9906/6fa369a85e1c432b9e2d236b37ba4c84
-    Hub Sports 2,mitv://ns2.hellotvvod.com:9906/656d6c012c2a461585edf4e3ae79c571
-    Hub Sports 3,mitv://ns2.hellotvvod.com:9906/ac439d2f9ced4e578d1bd03fbac992d2
-    知識,#genre#	
-    CCTV9,mitv://ns2.hellotvvod.com:9906/9ba6ecfc78c64d4fb77c81cd203f95e9
-    國家地理頻道,mitv://ns2.hellotvvod.com:9906/af3b11a1197d455fb864756fa44ba63f
-    探索頻道,mitv://ns2.hellotvvod.com:9906/fb67c58f3cc14b0faa0ba968555035b8
-    TLC旅遊生活,mitv://ns2.hellotvvod.com:9906/5a5ffbab78f64be8981ee5e0eae23a5d
-    動物星球,mitv://ns2.hellotvvod.com:9906/cf80986a60be4873b5d91a3d80b0fdf3
-    Nat Geo Wild,mitv://ns2.hellotvvod.com:9906/ecba8344b1c44c499911759a255dbc81
-    ELTV生活英語台,mitv://ns2.hellotvvod.com:9906/add7bd3c3ad1489c8a78b97389810276
-    達文西頻道,mitv://ns2.hellotvvod.com:9906/1b9af031664049e9897282f5f5f8d461
-    國家地理高畫質野生頻道,mitv://ns2.hellotvvod.com:9906/c7ebf5508e6b4eeea5979a4c7f6cf443
-    BBC Earth,mitv://ns2.hellotvvod.com:9906/20252637856b4070b216236f680334d5
-    Discovery Asia,mitv://ns2.hellotvvod.com:9906/09c09c15d3614a76b759e354821e49e3
-    Discovery科學頻道,mitv://ns2.hellotvvod.com:9906/5bcb84c0c07c4e49a6fa70e56f11c4de
-    DMAX,mitv://ns2.hellotvvod.com:9906/51ce8d2534e4438fa4c58c4bbd98f236
-    EVE,mitv://ns2.hellotvvod.com:9906/a77a3a0b6d5f41d9aa75ac40f09ea473
-    HISTORY 2,mitv://ns2.hellotvvod.com:9906/fb050b191e6b43e2825de848923e9906
-    歷史頻道,mitv://ns2.hellotvvod.com:9906/2a5d0ab2a2a04bf7801e52b0f7e34df3
-    罪案偵緝頻道,mitv://ns2.hellotvvod.com:9906/5c34a4b5ef8b47dcaa7d13ff408c25d7
-    BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/ec5ab64a6a4b4fd1a552629c888c5b9d
-    LUXE TV,mitv://ns2.hellotvvod.com:9906/2457fd4d99a246a4ace59c953a1d19bd
-    Lifetime,mitv://ns2.hellotvvod.com:9906/6ff66383cdb04702af6ab9bb2eca705d
-    KLT-靖天國際台,mitv://ns2.hellotvvod.com:9906/9db7f1d0ae184eedad7c3b36fea83165
-    HGTV居家樂活頻道,mitv://ns2.hellotvvod.com:9906/26d97e494202417494f19059c06928e1
-    Love Nature,mitv://ns2.hellotvvod.com:9906/41f7fe129dac4fa6bc1a6f2556ff334a
-    美食星球,mitv://ns2.hellotvvod.com:9906/35466e1e2fdd453a9d541f5f1eda2f63
-    亞洲美食頻道,mitv://ns2.hellotvvod.com:9906/c58bce7b28b945ae88aa131ba84dc9c2
-    Food Network,mitv://ns2.hellotvvod.com:9906/503d40ce584d4c3388a2335257da72c4
-    亞洲旅遊台,mitv://ns2.hellotvvod.com:9906/752338a84a06467aa2b6adf25554dde2
-    EYE TV旅遊台,mitv://ns2.hellotvvod.com:9906/178eec47f2c64a8d967e08c320defd0d
-    時尚頻道,mitv://ns2.hellotvvod.com:9906/2b7ca7659b16416b8e5a60ec55fb0e68
-    TV5MONDE Style 生活時尚,mitv://ns2.hellotvvod.com:9906/1805c3eb8e4547f78ba8b72e8d97dea4
-    Travel Channel,mitv://ns2.hellotvvod.com:9906/9a7f9e972337485eb298b47361f99847
-    TLC,mitv://ns2.hellotvvod.com:9906/5201fc0be3cf47868d97de76b81b0268
-    兒少,#genre#	
-    CCTV14,mitv://ns2.hellotvvod.com:9906/37673267f05b4d7aae64a417ced781a1
-    CN卡通頻道,mitv://ns2.hellotvvod.com:9906/486cac33c16b4eaebc44f883a3d6c0fa
-    星空衛視,mitv://ns2.hellotvvod.com:9906/559c82439baa4959b27ac0e046e5959c
-    金鷹卡通,mitv://ns2.hellotvvod.com:9906/b566e00d4e84479fb090a84bc7fa2497
-    MOMO親子台,mitv://ns2.hellotvvod.com:9906/0082a678d11147dab76bc472a280f0a5
-    Astro小太陽,mitv://ns2.hellotvvod.com:9906/bd15152ffcae4a7fb9d0f22bd2186e44
-    Astro Ceria,mitv://ns2.hellotvvod.com:9906/dce2aff672e249bc9682523f8f662f8d
-    Cartoon Network,mitv://ns2.hellotvvod.com:9906/05765519ced946069b15426b709faf23
-    Nickelodeon,mitv://ns2.hellotvvod.com:9906/10388cc4218f421a9f57e7ab45188aaa
-    Nick Jr.,mitv://ns2.hellotvvod.com:9906/ba27716f45f342ef84e592fc5a248c71
-    Boomerang,mitv://ns2.hellotvvod.com:9906/b7ed7385205c4c0786b74a14e6b5c145
-    Animax,mitv://ns2.hellotvvod.com:9906/fc9b838770694cb69eab5fc137034d28
-    尼克兒童頻道,mitv://ns2.hellotvvod.com:9906/5054880a245848eb85bfc708da67f302
-    靖洋卡通Nice Bingo,mitv://ns2.hellotvvod.com:9906/b216861a6a574d1a9a8d28ad11da466d
-    靖天卡通台,mitv://ns2.hellotvvod.com:9906/f252343ca356416e8a7bdad1033e70d8
-    達文西頻道,mitv://ns2.hellotvvod.com:9906/1b9af031664049e9897282f5f5f8d461
-    Nick Jr.,mitv://ns2.hellotvvod.com:9906/20d8687df1164dff8e1ee27d37161d4e
-    Cbeebies,mitv://ns2.hellotvvod.com:9906/31c86bce46a44aa9924ea10e062c0fc9
-    Dreamworks,mitv://ns2.hellotvvod.com:9906/b18b3dc4de8542ff8b066fefa3c7c824
-    Baby TV,mitv://ns2.hellotvvod.com:9906/d8e128d257394f7e8b1cab42768c1e89
-    Hands Up,mitv://ns2.hellotvvod.com:9906/fbc72668e3284c8eaeda5cb0aab2211a
-    電影,#genre#	
-    CCTV6,mitv://ns2.hellotvvod.com:9906/68e6bb2c77424096b910567ef90ed1c5
-    天映頻道,mitv://ns2.hellotvvod.com:9906/15f13e15cfeb40779e541164e0366560
-    天映經典,mitv://ns2.hellotvvod.com:9906/3db2c79640d14465a98fa1ee26979f9a
-    tvN Movies HD,mitv://ns2.hellotvvod.com:9906/2d0b184610a94a9ca1654f2ff0e15874
-    HKC電影台,mitv://ns2.hellotvvod.com:9906/93b9375af6a9476f80c827da7d94328c
-    鳳凰電影台,mitv://ns2.hellotvvod.com:9906/797091de3e8d4b059e7c8bc3d8c3b611
-    衛視電影台,mitv://ns2.hellotvvod.com:9906/b236d09ba98644eda7eca81583130ec5
-    東森電影台,mitv://ns2.hellotvvod.com:9906/7c56b5132aa8456d89307424cdbf142b
-    緯來電影台,mitv://ns2.hellotvvod.com:9906/64bc8c0ba9a04b36bdd26e130d45e64b
-    龍祥電影,mitv://ns2.hellotvvod.com:9906/bb1b8ced77ec4747a92ba050139f6b01
-    HBO,mitv://ns2.hellotvvod.com:9906/66a79676e75c43bbb11e7d80529a87fd
-    東森洋片台,mitv://ns2.hellotvvod.com:9906/d58e4f65e8d04e06b32cb41b0c64107a
-    AXN,mitv://ns2.hellotvvod.com:9906/87deaa51fad94e88bd21196c8e89f600
-    好萊塢電影台,mitv://ns2.hellotvvod.com:9906/1f05c94f079a4f78b2cf65a4bae8fd54
-    CINEMAX,mitv://ns2.hellotvvod.com:9906/5f717ad47cf14ce8b97c0f98b4e3d6f4
-    緯來育樂台,mitv://ns2.hellotvvod.com:9906/87bd0a0edeb94249aba99aeef7bfdf26
-    HBO強檔鉅獻,mitv://ns2.hellotvvod.com:9906/ccf6732646a3461c9c37489c73c33c1e
-    HBO原創鉅獻,mitv://ns2.hellotvvod.com:9906/fd11b57029d648e0bcabb09b90e40df3
-    美亞電影台HD,mitv://ns2.hellotvvod.com:9906/84d7063eae584f878a8df780c296777b
-    龍華電影,mitv://ns2.hellotvvod.com:9906/1906f543a7f24ddc8f00f0e8168369b8
-    星衛HD電影台,mitv://ns2.hellotvvod.com:9906/9dd8214bd89a4ce6b49d3954bfc36ca8
-    靖天映畫,mitv://ns2.hellotvvod.com:9906/92242afd38064c0f96d71c8fa320c1a0
-    靖天電影台,mitv://ns2.hellotvvod.com:9906/cf86e8b4e3684875bee0ae7f097312ed
-    WARNER TV,mitv://ns2.hellotvvod.com:9906/9cee824c28f142e18c491dabfac4d0ee
-    Star Movies HD,mitv://ns2.hellotvvod.com:9906/8fe7d1bb62dd4f22bcb8819e1e323cb9
-    AMC最愛電影,mitv://ns2.hellotvvod.com:9906/e9ef28b6b4b44b3db6dc564236337a36
-    HBO Family,mitv://ns2.hellotvvod.com:9906/dc1f58392ef240ed8166ef2836036dfd
-    CatchPlay電影台,mitv://ns2.hellotvvod.com:9906/eaefb15ec2c047cda69102ac4772488d
-    CinemaWorld,mitv://ns2.hellotvvod.com:9906/8938c37cf7674ceabcc4e6a806ab4b9d
-    壹電視電影台,mitv://ns2.hellotvvod.com:9906/ba73492c73854d3fac7c3e6d50d386ae
-    采昌影劇台,mitv://ns2.hellotvvod.com:9906/b0510259b5eb446e8d81062512b4ccfb
-    BOO,mitv://ns2.hellotvvod.com:9906/0c698e6a1cab41d4be9f93a57877f4bb
-    Thrill,mitv://ns2.hellotvvod.com:9906/325d7f89a5a14a80ad140a595c8c09b2
-    爆谷星影台,mitv://ns2.hellotvvod.com:9906/0d80c62ac6484dae8c3457c9e234450b
-    HITS Movies,mitv://ns2.hellotvvod.com:9906/3f6a22da0581470e88b79e3c3d63c503
-    SHOWCASE MOVIES,mitv://ns2.hellotvvod.com:9906/d33f0a64437346b9ad7b5078ee3ef949
-    影迷數位電影台,mitv://ns2.hellotvvod.com:9906/ef8a496cc1cf446dab26b6f4c7d18032
-    美亞電影台(粵語),mitv://ns2.hellotvvod.com:9906/88ece3d3b7884fb986a224aac8ac8987
-    爆谷台,mitv://ns2.hellotvvod.com:9906/42a0a6fc05bb4f39bd1d7141cab1e4fd
-    戲劇,#genre#	
-    東森戲劇台,mitv://ns2.hellotvvod.com:9906/64f606ebb39b400ea80777b1e05aaf18
-    八大戲劇台,mitv://ns2.hellotvvod.com:9906/efd4009faedc42b4b99a6b305fa76009
-    緯來戲劇台,mitv://ns2.hellotvvod.com:9906/86776c41443c4f21afd2d9a52692e396
-    三立戲劇台,mitv://ns2.hellotvvod.com:9906/2c63d74674044580901020a53329cade
-    龍華戲劇,mitv://ns2.hellotvvod.com:9906/7b17ee22f6cd4b81b74f064b0caa1f5b
-    靖天戲劇台,mitv://ns2.hellotvvod.com:9906/161eafacb2e54e30a4bf40b231a8c1b2
-    靖洋戲劇台,mitv://ns2.hellotvvod.com:9906/7ad2517f916c4de8b723b95441e08679
-    EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/571cc50dbdfa44a2aaf9eed1feb9d72c
-    愛爾達影劇台,mitv://ns2.hellotvvod.com:9906/489bc5e7611a4e59ba8a88ecd702bfec
-    Hub娛家,mitv://ns2.hellotvvod.com:9906/bee45fa436b94ee3a9960e5f9d91bc22
-    亞洲劇台,mitv://ns2.hellotvvod.com:9906/bd74c8f7c9254d029f4bd95fd3334c51
-    SP,#genre#	
-    彩虹e台,mitv://ns2.hellotvvod.com:9906/0abd2d7b3380468fa5dbbbf878c4f294
-    彩虹電影台,mitv://ns2.hellotvvod.com:9906/d9586773768148f18a12fe2f41325287
-    LOOK TV,mitv://ns2.hellotvvod.com:9906/cb447cf109fe480283b8b49db9547f5c
-    潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/edccc059eb714ef88d16187e52305dd3
-    驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/eee5685e1ee24b458272f7807f24bc01
-    松視1台,mitv://ns2.hellotvvod.com:9906/0c11667126114f009d947d2dd96d51f6
-    松視2台,mitv://ns2.hellotvvod.com:9906/ce457c615b8d45de91ae7fbcb83f1183
-    PLAYBOY,mitv://ns2.hellotvvod.com:9906/f140f83eb8ff4e97be0add11bd63ddce
-    香蕉台,mitv://ns2.hellotvvod.com:9906/c2ac8f165ec14b1db963dd67adfcd2a0
-    松視3台,mitv://ns2.hellotvvod.com:9906/5a32785621ba4e0b8505e72a4ada3a4a
-    JStar極限台,mitv://ns2.hellotvvod.com:9906/544277358a2942aebd69af19afe60608
-    HAPPY,mitv://ns2.hellotvvod.com:9906/004c47dfe1fd4590a15a68884a6879fa
-    K,mitv://ns2.hellotvvod.com:9906/180450a1dc994dfb82c2d9d0e4cc2d6b
 
+大陸央視,#genre#
+CCTV1,mitv://ns2.hellotvvod.com:9906/737cccd3109041e99336fa7844364b0e
+CCTV2,mitv://ns2.hellotvvod.com:9906/acea64dae5cc45c3b057fcd78f05889e
+CCTV3,mitv://ns2.hellotvvod.com:9906/d4f707b173644bcc8e182ce37183d466
+CCTV4,mitv://ns2.hellotvvod.com:9906/0cf9e85847ad4509ab570cbcd00f15db
+CCTV5,mitv://ns2.hellotvvod.com:9906/d8eb2ce26a36421bb376d59d72f3f73b
+CCTV5+,mitv://ns2.hellotvvod.com:9906/54a2f4f2914946078bcec9489f750523
+CCTV6,mitv://ns2.hellotvvod.com:9906/332c59ede2634bd4a01f1ef0021b19ca
+CCTV7,mitv://ns2.hellotvvod.com:9906/112a6129e98a4a968c4d4520fb73d8a1
+CCTV8,mitv://ns2.hellotvvod.com:9906/648da41b1bed436ebc1ea95086aeefd7
+CCTV9,mitv://ns2.hellotvvod.com:9906/6a74c33ec31a4a6abe33e089c9bcd10f
+CCTV10,mitv://ns2.hellotvvod.com:9906/918dede6b68d4e3f82bef99cf89c52a8
+CCTV11,mitv://ns2.hellotvvod.com:9906/995bcaa11d97426590545c2855b97ff2
+CCTV12,mitv://ns2.hellotvvod.com:9906/8299009cebea445f9753c4720b261337
+CCTV13,mitv://ns2.hellotvvod.com:9906/1e5a44b35897458aa6b6089105edf628
+CCTV14,mitv://ns2.hellotvvod.com:9906/7b62c4f359d1447d9f56819a2050cfec
+CCTV15,mitv://ns2.hellotvvod.com:9906/ee931c57a6c8471a824c4b1865f13119
+大陸省市,#genre#
+北京衛視,mitv://ns2.hellotvvod.com:9906/62259a2ec3094654965994f30cd3f332
+天津衛視,mitv://ns2.hellotvvod.com:9906/43fee2536e594bb9be42f128514161f6
+河北衛視,mitv://ns2.hellotvvod.com:9906/fbfdcdc670bc413e8e17463af0bb1b50
+黑龍江衛視,mitv://ns2.hellotvvod.com:9906/8122b2d303be410784c618a1016f886f
+遼寧衛視,mitv://ns2.hellotvvod.com:9906/2602379e94fe4a53b7fff57371eeabc5
+東方衛視,mitv://ns2.hellotvvod.com:9906/920815fe581e4c27a652edcc5bdc65ad
+江蘇衛視,mitv://ns2.hellotvvod.com:9906/df946b7e2ad1497996414cd5bb702667
+浙江衛視,mitv://ns2.hellotvvod.com:9906/5e1e5835a3b5493a8faba8b3131b965e
+江西衛視,mitv://ns2.hellotvvod.com:9906/a6d7821bb43b47758fafadaa99a82877
+山東衛視,mitv://ns2.hellotvvod.com:9906/252c81a383e34ffbbdfdab4337efce27
+東南衛視,mitv://ns2.hellotvvod.com:9906/4758e1b371b94f8d840f9b5f78b9e4df
+湖北衛視,mitv://ns2.hellotvvod.com:9906/e91ae96fe2f64d4fb915fc510a2dfd65
+湖南衛視,mitv://ns2.hellotvvod.com:9906/b9043acb09a34bb0b7bcf31b18a38ca2
+深圳衛視,mitv://ns2.hellotvvod.com:9906/cf41449ac0414cddbde3ed8e54a1050c
+廣東衛視,mitv://ns2.hellotvvod.com:9906/5196b2de63f2455abd2f51f1b83d786c
+廣西衛視,mitv://ns2.hellotvvod.com:9906/2daa929ac7e049199082503ba0918147
+重慶衛視,mitv://ns2.hellotvvod.com:9906/7a92349afae64630a2ae7ec6fed57a00
+雲南衛視,mitv://ns2.hellotvvod.com:9906/a667bcd056534be8a447f8849bcf75dd
+星空衛視,mitv://ns2.hellotvvod.com:9906/939cf4c83d694325a914cf15f2b59472
+廣東南方衛視,mitv://ns2.hellotvvod.com:9906/409a4e190790473e9f0753e6ed26f8f9
+珠江台,mitv://ns2.hellotvvod.com:9906/eb621a0f17d1448c9024729b8343b59f
+金鷹卡通,mitv://ns2.hellotvvod.com:9906/833a9d26fa674d14a0b292e2f2299ab8
+魅力足球,mitv://ns2.hellotvvod.com:9906/e62f4dc5efc4435b94cdbcc369680b71
+廣東體育,mitv://ns2.hellotvvod.com:9906/ba4be21d38ff4fd4b3b73d5f9fc0496f
+CCTV16,mitv://ns2.hellotvvod.com:9906/5d54f00b370941c68b1d84376277d0d6
+廣東影院,mitv://ns2.hellotvvod.com:9906/fbc22e4e13bd4db0a45040d93e5a7789
+港澳特區,#genre#
+鳳凰電影,mitv://ns2.hellotvvod.com:9906/e8ce90281fbf4a8f8e86fee1b2559690
+鳳凰香港,mitv://ns2.hellotvvod.com:9906/e51b03d771e840048309c71fa2330fd9
+鳳凰中文,mitv://ns2.hellotvvod.com:9906/7d38088d47544eaf9b14409a64c9fd7c
+鳳凰資訊,mitv://ns2.hellotvvod.com:9906/dab820d00f34469cbad849cec2b8a909
+翡翠台,mitv://ns2.hellotvvod.com:9906/d13b35c8a11b469b8d95a83c8d5db4e9
+明珠台,mitv://ns2.hellotvvod.com:9906/34eee4af52814f53bb64f43981a0c8a3
+TVB經典台,mitv://ns2.hellotvvod.com:9906/3357a302823c431a9bdf89bdb20c904a
+TVB星河(粵),mitv://ns2.hellotvvod.com:9906/1a0001a9c1634c6495079d1b5b6cecd1
+TVB娛樂新聞台,mitv://ns2.hellotvvod.com:9906/9f60552e07c64b3aa85329d33c997d7a
+功夫台,mitv://ns2.hellotvvod.com:9906/7769a5798cae496f824707f3af669bff
+J2,mitv://ns2.hellotvvod.com:9906/a933f3b577ae40ceb03a3d40983341c8
+無線財經,mitv://ns2.hellotvvod.com:9906/cf116df5b7444e29a5f97a99855cc713
+無線新聞,mitv://ns2.hellotvvod.com:9906/0d9b491bbb594d17bd778a8aa1f032b9
+無線新聞,mitv://ns2.hellotvvod.com:9906/5df8fee218e14507bacde9a828ad9cb6
+18台,mitv://ns2.hellotvvod.com:9906/2f4b7048b07c498fad079d0bd8240a7d
+Hands Up,mitv://ns2.hellotvvod.com:9906/5bf89a712321439d8f944fd91b56b997
+HKC 18,mitv://ns2.hellotvvod.com:9906/1625b66d963b4f0590534c3288c13b28
+HKC Sports Plus 1,mitv://ns2.hellotvvod.com:9906/a4265c506b8a4d68be5f9b6afb25eaaf
+HKC電影台,mitv://ns2.hellotvvod.com:9906/cadbdcf3111b4ec2b3929e97d0742739
+HKC體育台,mitv://ns2.hellotvvod.com:9906/40d81c9603744c369b7491b3021dea52
+有線新聞台,mitv://ns2.hellotvvod.com:9906/daee2885ea784f53b9cb40ce0c1d64aa
+HKC綜合娛樂台,mitv://ns2.hellotvvod.com:9906/1a08b6594a904f8fb8d65cb83ac6618a
+有線財經資訊台,mitv://ns2.hellotvvod.com:9906/77878a31e697445bbc2fea694e28fe0f
+香港603,mitv://ns2.hellotvvod.com:9906/6c181b31628346cb8b0c722c767a8289
+粵語片台,mitv://ns2.hellotvvod.com:9906/54d1e4cd538847ebacf1ea10b6f35da2
+直播台,mitv://ns2.hellotvvod.com:9906/ba4f1ba8185c4d1785102d24879b64e8
+ViuTV,mitv://ns2.hellotvvod.com:9906/4d58101b0a4045808ccc7a2e2d022a6f
+ViuTVsix,mitv://ns2.hellotvvod.com:9906/5adb2b11625a468a9eaef5f66f83eed4
+now新聞台,mitv://ns2.hellotvvod.com:9906/c93bf269bc214f2fbf326650a2b00c1f
+now直播台,mitv://ns2.hellotvvod.com:9906/ba4f1ba8185c4d1785102d24879b64e8
+港台電視31,mitv://ns2.hellotvvod.com:9906/f66e03f090e0468185f126a1c84261d4
+港台電視32,mitv://ns2.hellotvvod.com:9906/9f974b324ccd4fff86bf25cfb011b173
+爆谷台,mitv://ns2.hellotvvod.com:9906/6966b3e8df2946128dda5f52105666cc
+爆谷星影台,mitv://ns2.hellotvvod.com:9906/7e919be933d74926b56a43399f4cff6f
+Thrill,mitv://ns2.hellotvvod.com:9906/9d3edae6b1b642db997711d5a8dea997
+香港開電視,mitv://ns2.hellotvvod.com:9906/7a0e7f01a56d48fe8f9827032596e8f3
+美亞電影台(粵語),mitv://ns2.hellotvvod.com:9906/bcde74703ea04b40baef86b24f0d3db9
+亞洲劇台,mitv://ns2.hellotvvod.com:9906/71f5195bafb34ca2bc900dee8ffb674f
+陽光衛視,mitv://ns2.hellotvvod.com:9906/f7a3541b6ae64cc1bc5d524275c1ae34
+星空衛視,mitv://ns2.hellotvvod.com:9906/939cf4c83d694325a914cf15f2b59472
+澳門-MACAU,mitv://ns2.hellotvvod.com:9906/357683e6820b4fd4a5f86729daf51432
+澳門蓮花,mitv://ns2.hellotvvod.com:9906/6cd160fb635a48a29d655070fe01fe15
+台灣省,#genre#
+中天新聞台,mitv://ns2.hellotvvod.com:9906/68d11486c3864cea8e3e115e6d41803a
+中天娛樂台,mitv://ns2.hellotvvod.com:9906/1fa45143dc72442c83d88b34aab68f2a
+中天綜合台,mitv://ns2.hellotvvod.com:9906/5f08cdd50c1947cbbe6074854c609d8a
+中視,mitv://ns2.hellotvvod.com:9906/55ff43e003d0423c942402f9c39992fe
+中視,mitv://ns2.hellotvvod.com:9906/55ff43e003d0423c942402f9c39992fe
+中視菁采台,mitv://ns2.hellotvvod.com:9906/d623c7ffd2904511be3386a071746034
+中視經典,mitv://ns2.hellotvvod.com:9906/cab2bb1e72be4102937f6eef5f3a1f26
+中視新聞,mitv://ns2.hellotvvod.com:9906/fd670236fe3944bdbd4c7fa0b5b26809
+TVBS,mitv://ns2.hellotvvod.com:9906/c7a399b4c78c47d9885e8ae0f84b64da
+TVBS歡樂台,mitv://ns2.hellotvvod.com:9906/0d556504e2404a83b2d3ec082be332e4
+TVBS精采台,mitv://ns2.hellotvvod.com:9906/a394f765ad224d47869122f6b9c2d797
+TVBS新聞台,mitv://ns2.hellotvvod.com:9906/fd506871afd04352a0faded9d535a442
+民視,mitv://ns2.hellotvvod.com:9906/cdf4c0ba1c384939a4f89370d90f272d
+民視,mitv://ns2.hellotvvod.com:9906/cdf4c0ba1c384939a4f89370d90f272d
+民視第一台,mitv://ns2.hellotvvod.com:9906/40fa756663144958a3e27bfc55e93e4b
+民視台灣台,mitv://ns2.hellotvvod.com:9906/6e2cb6a844a84a819f0d77c526a57f1f
+民視新聞台,mitv://ns2.hellotvvod.com:9906/e869a423f27e4c1b8233e45fd7bbbcc4
+台視,mitv://ns2.hellotvvod.com:9906/492f5361f33240c08dbb3e6f62f14155
+台視,mitv://ns2.hellotvvod.com:9906/492f5361f33240c08dbb3e6f62f14155
+台視財經台,mitv://ns2.hellotvvod.com:9906/12a0866943ef4427b8c873c017d28098
+台視新聞台,mitv://ns2.hellotvvod.com:9906/208d3a4dbe3a44668deb7621b1add360
+華視,mitv://ns2.hellotvvod.com:9906/ff5215a6d3894e9fa4d33ad5f41910a6
+華視,mitv://ns2.hellotvvod.com:9906/ff5215a6d3894e9fa4d33ad5f41910a6
+華視新聞,mitv://ns2.hellotvvod.com:9906/0c13d826172e446aba96cd2d82778622
+公視,mitv://ns2.hellotvvod.com:9906/8baacd640c9d480590daa4077c0948e2
+公視,mitv://ns2.hellotvvod.com:9906/8baacd640c9d480590daa4077c0948e2
+公視三台,mitv://ns2.hellotvvod.com:9906/5bbf0b3a1ace4dd7ba4253a4a947552f
+公視2,mitv://ns2.hellotvvod.com:9906/8f49eb828d94419f980b2cdada53818b
+東森財經新聞台,mitv://ns2.hellotvvod.com:9906/e5ff63fe62b74c85a22ba9f12ee67d30
+東森電影台,mitv://ns2.hellotvvod.com:9906/4d52e75bf0394e9d9a1569f0de2d2419
+東森戲劇台,mitv://ns2.hellotvvod.com:9906/d343d861e605442595598821327cfa11
+東森新聞台,mitv://ns2.hellotvvod.com:9906/067a5eb5f87844f1af18e7ee9fb15c6c
+東森新聞台,mitv://ns2.hellotvvod.com:9906/067a5eb5f87844f1af18e7ee9fb15c6c
+東森洋片台,mitv://ns2.hellotvvod.com:9906/564798b3a4b945528410559392b461f9
+東森YOYO台,mitv://ns2.hellotvvod.com:9906/c7a395ee2f204b9cb27ded0d77b0b55b
+東森綜合台,mitv://ns2.hellotvvod.com:9906/5ed46891057f45738e5ec17a8daa6732
+靖天電影台,mitv://ns2.hellotvvod.com:9906/715aef9cfa0e4391bba0bfabc9032516
+靖天卡通台,mitv://ns2.hellotvvod.com:9906/4c696c0ee752441fb9492c8d4d391a30
+靖天日本台,mitv://ns2.hellotvvod.com:9906/bb415ebb7a5142068f19cb9e50af89cb
+靖天戲劇台,mitv://ns2.hellotvvod.com:9906/3eb966b8af5d4446b13ffa9f8f1fcb9c
+靖天映畫,mitv://ns2.hellotvvod.com:9906/bc7c2f85b96b4230904eaf03243a2594
+靖天育樂台,mitv://ns2.hellotvvod.com:9906/894c8328276544629431ae74992da819
+靖天資訊台,mitv://ns2.hellotvvod.com:9906/d895ff31f2a5499eb05938c71d4b0ca6
+靖天綜合台,mitv://ns2.hellotvvod.com:9906/586fdd0466c846d6b34e892aead0f579
+靖洋卡通台,mitv://ns2.hellotvvod.com:9906/b6d0777621aa48a096e8e754c406ff45
+八大第一台,mitv://ns2.hellotvvod.com:9906/798f3ed7fd984e469e63f9de37fa9132
+八大戲劇,mitv://ns2.hellotvvod.com:9906/f79d2e117e3846379e8b315cc60a15bb
+八大優,mitv://ns2.hellotvvod.com:9906/46a08c4aff8b4ae29370447793677772
+八大娛樂台,mitv://ns2.hellotvvod.com:9906/c0e5ad86e263403195fbcf082f0abfe5
+八大綜合台,mitv://ns2.hellotvvod.com:9906/e51ba2c967114c07a7cd0dbca1c7e597
+EVE,mitv://ns2.hellotvvod.com:9906/eeb68536f8394f188498caf68574a8e1
+EYE旅遊,mitv://ns2.hellotvvod.com:9906/85bf0a842a784185bbac347483efeb07
+EYE戲劇,mitv://ns2.hellotvvod.com:9906/71ec8a158be2405c86063664051732a5
+三立都會台,mitv://ns2.hellotvvod.com:9906/62b0a78f4ba34af5b24044325cc8577c
+三立台灣台,mitv://ns2.hellotvvod.com:9906/957adbaacb3c4dbeba9f05b0cddbf63d
+三立戲劇台,mitv://ns2.hellotvvod.com:9906/b6beb0384af2476d969fa0e749f42460
+三立新聞台,mitv://ns2.hellotvvod.com:9906/7d11ff16b37c46cbb696f3ef1938dfb6
+三立綜合台,mitv://ns2.hellotvvod.com:9906/5e78d11535174fb08184cfaa4fdf8c60
+緯來電影台,mitv://ns2.hellotvvod.com:9906/a93ff9e4e84345948a3a5209549f9dbf
+緯來精采,mitv://ns2.hellotvvod.com:9906/79343b0a4e924abd8ddaa63cd62687ac
+緯來日本台,mitv://ns2.hellotvvod.com:9906/8159beff1fe44193b21df948512385e4
+緯來體育台,mitv://ns2.hellotvvod.com:9906/52490fe65b74416c8e4e7a9ea8bc86ed
+緯來戲劇台,mitv://ns2.hellotvvod.com:9906/c8c832b33a26420a8e724fff221ce237
+緯來育樂台,mitv://ns2.hellotvvod.com:9906/885a393d586541108bbffc5fa58b24ac
+緯來綜合台,mitv://ns2.hellotvvod.com:9906/7fadea59d6164cdfb9f1a00934dca1b4
+寰宇新聞,mitv://ns2.hellotvvod.com:9906/fd0365a36bc54ba488f83745697d223f
+寰宇新聞TW,mitv://ns2.hellotvvod.com:9906/7816caffebe447b396f51ffff1340743
+非凡商業台,mitv://ns2.hellotvvod.com:9906/ab98271beb804141970814152c3c04c4
+非凡新聞台,mitv://ns2.hellotvvod.com:9906/dac5852a4a604c5b961c6123fa0a1a50
+壹電視新聞台,mitv://ns2.hellotvvod.com:9906/c9bd8e82049f4be38e16423d8036a950
+壹電視綜合台,mitv://ns2.hellotvvod.com:9906/d7a29eaf848d454eb04c923e8556dcc0
+東森超視,mitv://ns2.hellotvvod.com:9906/69d2459c7d9c4e3dadef5ca854381b9b
+高點綜合台,mitv://ns2.hellotvvod.com:9906/f4e65b6e812f4e89aec6142bcbddebf8
+國興衛視,mitv://ns2.hellotvvod.com:9906/0eee99cd8a0f430999d6d5252790a42b
+韓國娛樂台KMTV,mitv://ns2.hellotvvod.com:9906/0a9fa3e919364058a6442239678becc5
+靖洋戲劇台,mitv://ns2.hellotvvod.com:9906/f8212853844d49bd87a5b9f6778c3908
+年代新聞台,mitv://ns2.hellotvvod.com:9906/4e9ef1a2e4594fe4a77ce5c9530901ac
+霹靂台灣台,mitv://ns2.hellotvvod.com:9906/13f6cc701d4d45708bfa066bea4ec313
+衛視中文台,mitv://ns2.hellotvvod.com:9906/84151c2c34774880bc18855a2dd8aa9e
+星衛娛樂,mitv://ns2.hellotvvod.com:9906/1884d9bd3c8e45da8aea84f406be9d9e
+國會頻道1,mitv://ns2.hellotvvod.com:9906/0fbcda5c619e42f19d4712a3b835a3a8
+國會頻道2,mitv://ns2.hellotvvod.com:9906/9c35659f2aba44349d7f7a7d9ac44bbd
+馬來西亞,#genre#
+Astro小太陽,mitv://ns2.hellotvvod.com:9906/1ecacc6d297c4bd5b0fc215f8d17d6d2
+Astro雙星,mitv://ns2.hellotvvod.com:9906/15cc3424cba8459594eea93739ac1d54
+Astro全佳,mitv://ns2.hellotvvod.com:9906/d8b1a69794ac4ba8862c05181a58fa51
+Astro歡喜台,mitv://ns2.hellotvvod.com:9906/e5bd2311526e4551b5eeb1d195b2ce41
+Astro歡喜台,mitv://ns2.hellotvvod.com:9906/e5bd2311526e4551b5eeb1d195b2ce41
+Astro Warna HD,mitv://ns2.hellotvvod.com:9906/b82ced5b45734b1cb6caecaf6b399ac2
+Astro Vinmeen,mitv://ns2.hellotvvod.com:9906/9e1db2af9fa74847862c51c9a91cccec
+Astro Vaanavil,mitv://ns2.hellotvvod.com:9906/3cb28b31ff8b4ee2b6570343c2d17843
+Astro Tutor TV SPM,mitv://ns2.hellotvvod.com:9906/2aba98349fb54a10864fb884d4c0b164
+Astro Tutor TV SK,mitv://ns2.hellotvvod.com:9906/c9169c9d796144e5a70387473ea32888
+Astro Ria HD,mitv://ns2.hellotvvod.com:9906/f45dfa4067414013904913c355ad1057
+Astro Rania HD,mitv://ns2.hellotvvod.com:9906/2b4c544f3d9a46ca8cd9eae22c53206e
+Astro Prima HD,mitv://ns2.hellotvvod.com:9906/518bc048fce1408ca0c4142a01fe3578
+Astro Oasis HD,mitv://ns2.hellotvvod.com:9906/1a9489419dae4051af0634127a07044c
+Astro Cricket,mitv://ns2.hellotvvod.com:9906/87db8de3a9f84981aff69f31e5d1a079
+Astro Citra HD,mitv://ns2.hellotvvod.com:9906/9b084c4e6de14e8dbd55ef67d6379128
+Astro Ceria,mitv://ns2.hellotvvod.com:9906/f8042716d41d4ce98a37f2f018ebff5d
+Astro Awani,mitv://ns2.hellotvvod.com:9906/3a80514c359f457baa9bb4782ca94916
+Astro Aura HD,mitv://ns2.hellotvvod.com:9906/2134e280919d406983153fdf07722681
+Astro Arena,mitv://ns2.hellotvvod.com:9906/9131fafc3eca4105aa0e08ceba201913
+Astro Arena 2,mitv://ns2.hellotvvod.com:9906/aac3a19813cb4df0b828507e5bdf8474
+Astro AOD HD 311,mitv://ns2.hellotvvod.com:9906/48702052e04848b58f1486265c3c52be
+Astro AOD 354,mitv://ns2.hellotvvod.com:9906/5e156c189e1c4115a39bf93ad1c51e75
+Astro AOD 352,mitv://ns2.hellotvvod.com:9906/2bf959c786514781b30895b89e57885f
+Astro AEC,mitv://ns2.hellotvvod.com:9906/9636a8ff7fb54ccda3104dffbcf1e495
+Astro AEC,mitv://ns2.hellotvvod.com:9906/9636a8ff7fb54ccda3104dffbcf1e495
+Adithya,mitv://ns2.hellotvvod.com:9906/cc4a8b036fec422db96723e5b3345a8f
+ABO Movies Thangathirai HD,mitv://ns2.hellotvvod.com:9906/34dbcaf6c07441aeb99be37652d40fbd
+ABC Australia,mitv://ns2.hellotvvod.com:9906/0b33f2a14fb64f47b82e188bc8b5682c
+8TV,mitv://ns2.hellotvvod.com:9906/bea14ac6629143429a33197ad76c7cf1
+中天亞洲台,mitv://ns2.hellotvvod.com:9906/1f241703701a4a4c86ef93fdd3690ea1
+天映頻道,mitv://ns2.hellotvvod.com:9906/a0c390dbc03b49e9b8dd7686428bedce
+天映經典,mitv://ns2.hellotvvod.com:9906/6e1aad4b3ffb4832b80c5bf9d6bca2c2
+翡翠台,mitv://ns2.hellotvvod.com:9906/d13b35c8a11b469b8d95a83c8d5db4e9
+愛奇藝,mitv://ns2.hellotvvod.com:9906/f8d28c228c334889a468f57a9b6bca31
+Zee Tamil,mitv://ns2.hellotvvod.com:9906/694c2681f2e54ddd9567413d9d7aa73f
+TVS,mitv://ns2.hellotvvod.com:9906/9d847e6b8b8d403ab0463f4e648861ae
+TVB娛樂新聞台,mitv://ns2.hellotvvod.com:9906/9f60552e07c64b3aa85329d33c997d7a
+TVB星河頻道,mitv://ns2.hellotvvod.com:9906/1a0001a9c1634c6495079d1b5b6cecd1
+TVB經典台,mitv://ns2.hellotvvod.com:9906/3357a302823c431a9bdf89bdb20c904a
+TVBS亞洲,mitv://ns2.hellotvvod.com:9906/3e6647ea77254c29a0efef38297af011
+TV9,mitv://ns2.hellotvvod.com:9906/5949d84a2ab34d4f93a3df3696ccaf8f
+TV3,mitv://ns2.hellotvvod.com:9906/21d32963ac084698aafc49dafb21f2a0
+TV2,mitv://ns2.hellotvvod.com:9906/b76cdb376c6b42bc87de714457733151
+TV1,mitv://ns2.hellotvvod.com:9906/fc58ff54d4da4a19aa3fb96fc04ad615
+TV Okey,mitv://ns2.hellotvvod.com:9906/e00320d7766244d9be302d55dec36e89
+TA-DAA!,mitv://ns2.hellotvvod.com:9906/5b0ab8af3a8c41c8a09ff7a92198be1b
+SUN TV,mitv://ns2.hellotvvod.com:9906/c59795e2ce754facb3aa2793a8b3d520
+Sun Music,mitv://ns2.hellotvvod.com:9906/18db4dc0ceef4c1eb98c67fb554bb4e1
+Star Vijay,mitv://ns2.hellotvvod.com:9906/40f1ccfa663446b4af77127d0a8aad49
+SPOTV,mitv://ns2.hellotvvod.com:9906/93095574ee6e42c3b90e9d55ddd89c08
+Sky News,mitv://ns2.hellotvvod.com:9906/de84a9abc5404b9c80ea0b1aa8f2d50e
+SHOWCASE MOVIES,mitv://ns2.hellotvvod.com:9906/6322da31ea054abdbabc8172f6a73be0
+PrimeTime Channel,mitv://ns2.hellotvvod.com:9906/0025563f0e794473b4858f46b3662e2f
+ONE,mitv://ns2.hellotvvod.com:9906/154422626b8748a6ba15a8855b179e4a
+Oh!K,mitv://ns2.hellotvvod.com:9906/c6d023088bca4399842da73aa1591eb4
+NTV7,mitv://ns2.hellotvvod.com:9906/6c2ad2d94a6c45b7a82a533267775452
+Nickelodeon,mitv://ns2.hellotvvod.com:9906/67a6b412cc5246d1915734933c6a5655
+NickJr.,mitv://ns2.hellotvvod.com:9906/24734882008047b090db3f4b94f4e6b9
+KIX,mitv://ns2.hellotvvod.com:9906/858bb27288a4429880744f39bcbf5f7f
+KBS World,mitv://ns2.hellotvvod.com:9906/0cad7c316c6e4c83a1ef0b69a453d128
+France24,mitv://ns2.hellotvvod.com:9906/7a6f3b480bd54e069a96c61b68e3e8cb
+DW,mitv://ns2.hellotvvod.com:9906/150ab61420b141409f58a5bc884ebb87
+Drama Sangat,mitv://ns2.hellotvvod.com:9906/42bc630a63f348df9862e06b5403bd71
+Colors Tamil,mitv://ns2.hellotvvod.com:9906/2c37c5fac88d47bfa67f08ef4b7528ed
+Colors Hindi,mitv://ns2.hellotvvod.com:9906/fb6f0bb08dc045a28970ac88f4a1b15a
+CNN,mitv://ns2.hellotvvod.com:9906/33c7d5de6bce4b8db22c7d7c5bbab131
+CNBCHongKong,mitv://ns2.hellotvvod.com:9906/9c8f4f1671bb444d9096a162ebdcb1fa
+Chutti TV,mitv://ns2.hellotvvod.com:9906/dd07e17362b34ea0a673318c66381a1b
+CGTN,mitv://ns2.hellotvvod.com:9906/aee9223086a04a2398bb7bd1e7c4739a
+Cartoon Network,mitv://ns2.hellotvvod.com:9906/f41bcec085c64bf0adbce83c57dadb01
+Boomerang,mitv://ns2.hellotvvod.com:9906/df86c30e949e49f6898b091738685d45
+BOO,mitv://ns2.hellotvvod.com:9906/367f79c32d244a7d847aeabf469334f7
+BollyOne,mitv://ns2.hellotvvod.com:9906/4de5b82cdf064b5083fbbd8d08e782c5
+BloombergTV,mitv://ns2.hellotvvod.com:9906/8f6145809091446ca85ec74aaa6313c3
+BERNAMA,mitv://ns2.hellotvvod.com:9906/8eabc3e90d574444983af6d1dd0cb0af
+Berita RTM,mitv://ns2.hellotvvod.com:9906/451b2e6d12634e1aaa11ddab634735e2
+AXN,mitv://ns2.hellotvvod.com:9906/6fbff6b4ae4d442eb433c4a37ec49a4b
+Awesome TV,mitv://ns2.hellotvvod.com:9906/3212457a443249999dd3e4967b935da8
+新加坡,#genre#
+CNA,mitv://ns2.hellotvvod.com:9906/c519b7d634e74be783768e53b6a7a32e
+Mediacorp 5,mitv://ns2.hellotvvod.com:9906/e69dba0eb06e4a029c2e38fe121fbfa3
+Mediacorp 8,mitv://ns2.hellotvvod.com:9906/4961250e492a4576bef65fa7bbabd621
+Mediacorp U,mitv://ns2.hellotvvod.com:9906/63376f5e1a09493e8445d47a7052a3db
+中天亞洲台,mitv://ns2.hellotvvod.com:9906/1f241703701a4a4c86ef93fdd3690ea1
+衛視電影台,mitv://ns2.hellotvvod.com:9906/23ade85dafce4df6a6a3569e35cc2fe3
+東森亞洲衛視,mitv://ns2.hellotvvod.com:9906/dd88fbf9fc6040509cdb2c6e97cc24a4
+Vasantham,mitv://ns2.hellotvvod.com:9906/37cdbc95ffde476ab79db244f85f89cc
+TVB星河,mitv://ns2.hellotvvod.com:9906/1a0001a9c1634c6495079d1b5b6cecd1
+TVBS亞洲,mitv://ns2.hellotvvod.com:9906/3e6647ea77254c29a0efef38297af011
+TV5Monde,mitv://ns2.hellotvvod.com:9906/4b469a4e2f244ec7a7e2632a4c16e7a3
+Thrill,mitv://ns2.hellotvvod.com:9906/9d3edae6b1b642db997711d5a8dea997
+Suria,mitv://ns2.hellotvvod.com:9906/6b4e3875ae03418e99be0881f1292f86
+ONE,mitv://ns2.hellotvvod.com:9906/154422626b8748a6ba15a8855b179e4a
+Oh!K,mitv://ns2.hellotvvod.com:9906/c6d023088bca4399842da73aa1591eb4
+Nickelodeon,mitv://ns2.hellotvvod.com:9906/67a6b412cc5246d1915734933c6a5655
+NickJr.,mitv://ns2.hellotvvod.com:9906/24734882008047b090db3f4b94f4e6b9
+NBA,mitv://ns2.hellotvvod.com:9906/542f618ff5434640ae7f58a60834a355
+KBS World,mitv://ns2.hellotvvod.com:9906/0cad7c316c6e4c83a1ef0b69a453d128
+Hub娛家,mitv://ns2.hellotvvod.com:9906/4d91e02044fc44c3be5606fbcc658dcf
+Hub都會台,mitv://ns2.hellotvvod.com:9906/001fa6bd19fb4bc0b7f8c2a3f77a467d
+HITS,mitv://ns2.hellotvvod.com:9906/77e3380fba0b447aa9669fc8e6f81990
+HGTV居家樂活頻道,mitv://ns2.hellotvvod.com:9906/179e221aeffc4d369ab6fcab07e3e3d1
+GEM,mitv://ns2.hellotvvod.com:9906/bc50fe04227e42aa8d79f9cdfe523502
+Fox News,mitv://ns2.hellotvvod.com:9906/9fae059ff1b844508717204c040ea9c8
+Euronews,mitv://ns2.hellotvvod.com:9906/fcc778fdeeba4d5fb6c3ebc35f83e12e
+Colors Hindi,mitv://ns2.hellotvvod.com:9906/fb6f0bb08dc045a28970ac88f4a1b15a
+CNBC,mitv://ns2.hellotvvod.com:9906/9c8f4f1671bb444d9096a162ebdcb1fa
+CGTN,mitv://ns2.hellotvvod.com:9906/aee9223086a04a2398bb7bd1e7c4739a
+Cartoon Network,mitv://ns2.hellotvvod.com:9906/f41bcec085c64bf0adbce83c57dadb01
+Boomerang,mitv://ns2.hellotvvod.com:9906/df86c30e949e49f6898b091738685d45
+Bloomberg TV,mitv://ns2.hellotvvod.com:9906/8f6145809091446ca85ec74aaa6313c3
+BBC World News,mitv://ns2.hellotvvod.com:9906/24a8fccd4f27470b961a56a241534e3b
+AXN亞洲,mitv://ns2.hellotvvod.com:9906/10a6610d89c44e0e8d39d79ff004c146
+Arirang,mitv://ns2.hellotvvod.com:9906/a59af969704944cd8b6caebe7c181596
+日　本,#genre#
+NHK-G綜合,mitv://ns2.hellotvvod.com:9906/7b1a9e935ef842039a7dd5f53f73e166
+NHK-E教育,mitv://ns2.hellotvvod.com:9906/da852b77f8f243aba37ae120bd926063
+日本テレビ,mitv://ns2.hellotvvod.com:9906/fb5aca00239547c994d896eec163a793
+TBSテレビ,mitv://ns2.hellotvvod.com:9906/f320952ec4d04630a98e36d9ac57c464
+テレビ東京,mitv://ns2.hellotvvod.com:9906/f214dd44dd724aa9864a35e3c48443a6
+フジテレビ,mitv://ns2.hellotvvod.com:9906/2052287394514c51ad9b77769d0f3b42
+読売テレビ,mitv://ns2.hellotvvod.com:9906/d1d2cf737f944034a1b46c9faac0de6a
+關西テレビ,mitv://ns2.hellotvvod.com:9906/beccc9051be3486daf4890052ca44101
+KBS京都,mitv://ns2.hellotvvod.com:9906/fe573f3d94eb4c76a5d8007c5c63db98
+毎日放送,mitv://ns2.hellotvvod.com:9906/896f9ba757614c4eb3b210382679de87
+朝日放送,mitv://ns2.hellotvvod.com:9906/f3ceb21b4ec1401d96a942951ec54dc4
+テレビ大阪,mitv://ns2.hellotvvod.com:9906/0815a83ff24d4df98ea5211338fa3c4b
+テレビ朝日,mitv://ns2.hellotvvod.com:9906/b438f4de0a034eba86d39d5a862ab3f1
+BS-1,mitv://ns2.hellotvvod.com:9906/5f2fcb4a560b4f1896e7a8a9af03d969
+BSプレミアム,mitv://ns2.hellotvvod.com:9906/94a4973d220c4f2fbf78bbaedb68b361
+BS日テレ,mitv://ns2.hellotvvod.com:9906/a0582a9bcbec4308a6b49504a9771fab
+BS朝日,mitv://ns2.hellotvvod.com:9906/446d3b88e9de4bc1bc79f484df0f4b64
+BS-TBS,mitv://ns2.hellotvvod.com:9906/daf8aba889be492581478cff70bfcd36
+BS11,mitv://ns2.hellotvvod.com:9906/439d4898058843b8838a6318f75eafa3
+BSフジ,mitv://ns2.hellotvvod.com:9906/6d825e87e3844440863734a70aa84bf1
+WOWOWプライム,mitv://ns2.hellotvvod.com:9906/8e4df2a38e9243f5967f95243d0452b5
+WOWOWライブ,mitv://ns2.hellotvvod.com:9906/d28fab249f7046379e65defc8ebecf2a
+WOWOWシネマ,mitv://ns2.hellotvvod.com:9906/506469d0087945b5873560fa1b2dace7
+スター・チャンネル1,mitv://ns2.hellotvvod.com:9906/5ef65e6ec739475394eca9b2e2c1783e
+スター・チャンネル2,mitv://ns2.hellotvvod.com:9906/53ec1e7310b849848cf3211634d3c47c
+スター・チャンネル3,mitv://ns2.hellotvvod.com:9906/78b1450f91fb41c081a0566fae18845a
+BSアニマックス,mitv://ns2.hellotvvod.com:9906/619a8e87535946ba952a4a2eb46b1b46
+J Sports 1,mitv://ns2.hellotvvod.com:9906/8ec3e2316af946349a819d6fd315cb10
+J Sports 2,mitv://ns2.hellotvvod.com:9906/e7bec530b75746a49576a32ecc663b40
+J Sports 3,mitv://ns2.hellotvvod.com:9906/f008ae8bf3024ec1ac21ddfce2aae340
+J Sports 4,mitv://ns2.hellotvvod.com:9906/d46d5fe062c14e8ea54db2dd22f7c1fe
+BS12,mitv://ns2.hellotvvod.com:9906/36feedc663384d4ba54fac7035566938
+ゴルフネットワークHD,mitv://ns2.hellotvvod.com:9906/9e76008d321241408b88ae3bb845931f
+時代劇専門チャンネル,mitv://ns2.hellotvvod.com:9906/a8cdc87f89254441b7ffedd141e0784c
+Music Japan TV,mitv://ns2.hellotvvod.com:9906/5e90be7e455642b19b95a0b82a1874a5
+キッズステーションHD,mitv://ns2.hellotvvod.com:9906/60b6a02af5884dbe8d19518b93d2bb54
+ディスカバリーチャンネル,mitv://ns2.hellotvvod.com:9906/26433b92617748cbb3c5934a6f578d80
+ナショナルジオグラフィック,mitv://ns2.hellotvvod.com:9906/e0c02a8103984a3992c3bec1f7710f46
+日テレNEWS 24,mitv://ns2.hellotvvod.com:9906/1420d765d58d432c8f57ef5535a3074c
+旅チャンネル,mitv://ns2.hellotvvod.com:9906/4d60718292404601bfffd5cb3292efa9
+ファミリー劇場,mitv://ns2.hellotvvod.com:9906/8c926d358e5a4206bac2ec53e7b640cc
+韓　國,#genre#
+Arirang,mitv://ns2.hellotvvod.com:9906/a59af969704944cd8b6caebe7c181596
+KBS1,mitv://ns2.hellotvvod.com:9906/44f560b14dfe47b4b85e954035d67ae8
+KBS2,mitv://ns2.hellotvvod.com:9906/8c6d0c82458f4d399201babbb899723c
+KBS Drama,mitv://ns2.hellotvvod.com:9906/9eb3b5dd5eaa49cca2e6eba52d76153a
+KBS Joy,mitv://ns2.hellotvvod.com:9906/67d22c4827b74a3486919a48b9eb3f03
+SBS,mitv://ns2.hellotvvod.com:9906/5a896bcc7c094ed9860556f7c523da52
+SBS Biz,mitv://ns2.hellotvvod.com:9906/7e773b4bb2c247d9a468a358967d8e19
+JTBC,mitv://ns2.hellotvvod.com:9906/c7effb78f66948af97c4e5b2bfc440c8
+EBS,mitv://ns2.hellotvvod.com:9906/57461505a47541199df402cc7886d607
+YTN,mitv://ns2.hellotvvod.com:9906/8f6cf07faa9c4c9e99bd6ac01bb36fc7
+Mnet,mitv://ns2.hellotvvod.com:9906/f324e364e9c242768fbd11a1c90a4611
+tvN,mitv://ns2.hellotvvod.com:9906/2c4954088a864b369c5ed5f7b7f714f3
+OCN,mitv://ns2.hellotvvod.com:9906/30d27aa6e44640aa8a740bf82f672f2e
+OCN Movies,mitv://ns2.hellotvvod.com:9906/cfd07bee289b46d8af50ab1013a20665
+TV Chosun,mitv://ns2.hellotvvod.com:9906/84ac7b7978474242a55580844dfa28bf
+MBC,mitv://ns2.hellotvvod.com:9906/a789e1f28cdc4071ac814ac58f5e912f
+MBN,mitv://ns2.hellotvvod.com:9906/ee2d8dece9db4325b4d1058429d1b461
+Tooniverse,mitv://ns2.hellotvvod.com:9906/241ba53023f3434abca44fdb759d3169
+SPOTV,mitv://ns2.hellotvvod.com:9906/93095574ee6e42c3b90e9d55ddd89c08
+SPOTV 2,mitv://ns2.hellotvvod.com:9906/a0e72291dc7c48b8bbfec7ab09a7d286
+JTBC GOLF,mitv://ns2.hellotvvod.com:9906/831708a66b174b8cba18052d6787e3eb
+印　尼,#genre#
+tvN Movies HD,mitv://ns2.hellotvvod.com:9906/ad95f7db93f24adca9e578922c07a9f3
+Indosiar,mitv://ns2.hellotvvod.com:9906/40ed317b1aff4dfc85c319fcc4f7dc9d
+RCTI,mitv://ns2.hellotvvod.com:9906/3fb91edb5a554f0cbb624ef7abf70a73
+泰　國,#genre#
+Channel 5,mitv://ns2.hellotvvod.com:9906/3c7546fa282b46e5940567b03de97984
+NBT,mitv://ns2.hellotvvod.com:9906/7661953e495144d5a2987b546e1b98be
+TNN 16,mitv://ns2.hellotvvod.com:9906/00a3c02d55de4a6ab3b9fa6860ad6304
+JKN 18,mitv://ns2.hellotvvod.com:9906/815b3ddf3343422eb8cc46943a175516
+Voice TV,mitv://ns2.hellotvvod.com:9906/f0c2088ecd57421eb1d4034eaa1db98e
+Nation TV,mitv://ns2.hellotvvod.com:9906/c613b54860c34cb384f906ef7ccd5dd8
+Workpoint TV,mitv://ns2.hellotvvod.com:9906/2de66b5dc7dc4ca9a9401bcc91ea829f
+true4U,mitv://ns2.hellotvvod.com:9906/ea5d9e255b844d408f18f689e901cab5
+GMM 25,mitv://ns2.hellotvvod.com:9906/0896738ea81e4c0f84fc1a81cc92f115
+Channel 8,mitv://ns2.hellotvvod.com:9906/bea14ac6629143429a33197ad76c7cf1
+Mono 29,mitv://ns2.hellotvvod.com:9906/19d08c66bdcd4201a95ae47ee58cca46
+MCOT,mitv://ns2.hellotvvod.com:9906/a972d5649de74a399fd4dc734c8e436d
+ONE,mitv://ns2.hellotvvod.com:9906/154422626b8748a6ba15a8855b179e4a
+Thairath TV,mitv://ns2.hellotvvod.com:9906/5db082ad963940db9a3dc1667948565a
+Channel 3,mitv://ns2.hellotvvod.com:9906/77d7b667fd0a4cc283652f7f93322143
+Amarin TV,mitv://ns2.hellotvvod.com:9906/c1e04a57bf564cfd9d792049109915c6
+Channel 7,mitv://ns2.hellotvvod.com:9906/99f80f1b2e1948b2a53478ecdf659f4c
+PPTV,mitv://ns2.hellotvvod.com:9906/d4b699eafea14f479d1f7bc244a8b446
+Boomerang,mitv://ns2.hellotvvod.com:9906/df86c30e949e49f6898b091738685d45
+Toonee,mitv://ns2.hellotvvod.com:9906/742436e60e5947a0a7f546633dd73bd8
+Thai Parliament TV,mitv://ns2.hellotvvod.com:9906/c6bcffab600841c5a4ef36042bfccdf8
+Thai PBS,mitv://ns2.hellotvvod.com:9906/131fa5e9e1e74b0482ad669857254869
+News 1,mitv://ns2.hellotvvod.com:9906/a8ce0702b6fe448080efd24647bdc0ea
+Zee Nung,mitv://ns2.hellotvvod.com:9906/694c2681f2e54ddd9567413d9d7aa73f
+Channel 4050,mitv://ns2.hellotvvod.com:9906/7e45a4efe0be4def8cba489a80f6c572
+TVB Thai,mitv://ns2.hellotvvod.com:9906/7960fdb251444ebd91f8d52a9fbbbd34
+Bluesky,mitv://ns2.hellotvvod.com:9906/80fe9d62903b43c3bbdaf9524a5e1b05
+Top News,mitv://ns2.hellotvvod.com:9906/782b84667a624c5e8a083f64bfb4d88a
+True Sport 2,mitv://ns2.hellotvvod.com:9906/cbdbd88cacac49c4ba2aeb1a2c6aa7cb
+True Sport 3,mitv://ns2.hellotvvod.com:9906/e48c5fff938e4eb19d1ddea12ad20ad4
+True Sport 4,mitv://ns2.hellotvvod.com:9906/21f9e36af877407891c65195cac443f1
+True Sport 5,mitv://ns2.hellotvvod.com:9906/a69e2701a1a34309a10ee17bd1ab394c
+True Sport 7,mitv://ns2.hellotvvod.com:9906/eaf8eea0a8e14e6a8ed53b3027b4bb49
+菲律賓,#genre#
+Cartoon Network,mitv://ns2.hellotvvod.com:9906/f41bcec085c64bf0adbce83c57dadb01
+Nickelodeon,mitv://ns2.hellotvvod.com:9906/67a6b412cc5246d1915734933c6a5655
+Nick Jr.,mitv://ns2.hellotvvod.com:9906/24734882008047b090db3f4b94f4e6b9
+Boomerang,mitv://ns2.hellotvvod.com:9906/df86c30e949e49f6898b091738685d45
+Golf Channel Philippines,mitv://ns2.hellotvvod.com:9906/16bf931eae7349b6bb939d90f60c3480
+GMA,#genre#
+TV5MONDE,mitv://ns2.hellotvvod.com:9906/4b469a4e2f244ec7a7e2632a4c16e7a3
+Golf Channel Philippines,mitv://ns2.hellotvvod.com:9906/16bf931eae7349b6bb939d90f60c3480
+印　度,#genre#
+SUN TV,mitv://ns2.hellotvvod.com:9906/c59795e2ce754facb3aa2793a8b3d520
+CNBC Awaaz,mitv://ns2.hellotvvod.com:9906/9c8f4f1671bb444d9096a162ebdcb1fa
+India TV,mitv://ns2.hellotvvod.com:9906/d10ce5b20ca0424d8f399fe5f4c5f2ba
+Janam TV,mitv://ns2.hellotvvod.com:9906/047e20084dcc4737a980d85cd33f5dbf
+Colors Tamil,mitv://ns2.hellotvvod.com:9906/2c37c5fac88d47bfa67f08ef4b7528ed
+NDTV,mitv://ns2.hellotvvod.com:9906/23bd66e1e5b64f2aae5d5feace58ecd3
+Sun Music,mitv://ns2.hellotvvod.com:9906/18db4dc0ceef4c1eb98c67fb554bb4e1
+Chutti TV,mitv://ns2.hellotvvod.com:9906/dd07e17362b34ea0a673318c66381a1b
+Adithya,mitv://ns2.hellotvvod.com:9906/cc4a8b036fec422db96723e5b3345a8f
+Star Vijay,mitv://ns2.hellotvvod.com:9906/40f1ccfa663446b4af77127d0a8aad49
+Zee Tamil,mitv://ns2.hellotvvod.com:9906/694c2681f2e54ddd9567413d9d7aa73f
+美　國,#genre#
+CNN,mitv://ns2.hellotvvod.com:9906/33c7d5de6bce4b8db22c7d7c5bbab131
+CNBC,mitv://ns2.hellotvvod.com:9906/9c8f4f1671bb444d9096a162ebdcb1fa
+BloombergTV,mitv://ns2.hellotvvod.com:9906/8f6145809091446ca85ec74aaa6313c3
+ESPN,mitv://ns2.hellotvvod.com:9906/be96f73105ba4c089ae9c6f9d918fd5b
+CBSN,mitv://ns2.hellotvvod.com:9906/bd78aa5d7ff84072af3522f5000cf16c
+Fox,mitv://ns2.hellotvvod.com:9906/7ba766f7143b44d3910be6e9eed032d5
+Food Network,mitv://ns2.hellotvvod.com:9906/8d854a6ba15f4e0d8e9db56231268f9d
+NBA,mitv://ns2.hellotvvod.com:9906/542f618ff5434640ae7f58a60834a355
+加拿大,#genre#
+5AAB TV,http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+Amazing Discoveries TV,https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+Salt + Light Television,https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
+BBC Toronto Gaunda Punjab,http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+Canada One,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+CanBangla TV,https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8
+Télé-Québec,https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+DesheBideshe TV,https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8
+ICI Montreal,https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+NETV Toronto,https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
+Ontario Parliamentary Network,http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+Pardesi TV,http://stream.pardesitv.online/pardesi/index.m3u8
+Plymouth Rock TV,https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtv/playlist.m3u8
+Plymouth Rock TV,https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtvedge/playlist.m3u8
+Prime Canada TV,http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
+Sikh Spiritual Centre Rexdale,https://cdn12.henico.net:8443/live/ssct/index.m3u8
+TAG TV,http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+Tamil Vision TV,http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+Tamil Vision TV,http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
+Télé Culturelle Médias,https://5790d294af2dc.streamlock.net/8150/8150/playlist.m3u8
+The Channel TV,https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/thechanneltv.stream/playlist.m3u8
+Toronto 360 TV,http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+TV 16 Toronto,http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8
+Uvagut TV,http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
+Ontario Parliamentary Network (FR),http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
+QVTV,https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
+Doyel TV,http://ipm.oncast.me:1934/iplived/ip-doyeltv.stream/playlist.m3u8
+Doyel TV,https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/doyeltv.stream/playlist.m3u8
+Dukh Nivaran,http://cdn12.henico.net:8080/live/dncal/index.m3u8
+Eawaz TV,https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
+EET TV,https://eu.streamjo.com/eetlive/eettv.m3u8
+Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+Heartland,https://d76toswjmqqzm.cloudfront.net/playlist.m3u8
+Canal de l'Assemblée nationale,https://wowzaprod231-i.akamaihd.net/hls/live/1013830/177d227e/playlist.m3u8
+CPAC,https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+ICI RDI,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+NACTV,http://stream.pivotalelements.com/nactv/stream.m3u8
+NRB TV,https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8
+Sanjha Punjab,http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
+Azstar TV,http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8
+Stingray Classic Rock,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
+Stingray Everything 80s,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+Stingray Flashback 70s,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+Stingray Greatest Hits,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
+Stingray Hit List,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
+Stingray Hot Country,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
+Stingray Pop Adult,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+Stingray Rock Alternative,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+Stingray Soul Storm,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/134/master.m3u8
+Stingray Today's Latin Pop,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
+Stingray Urban Beat,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
+國內新聞,#genre#
+中天新聞台,mitv://ns2.hellotvvod.com:9906/68d11486c3864cea8e3e115e6d41803a
+中視新聞,mitv://ns2.hellotvvod.com:9906/fd670236fe3944bdbd4c7fa0b5b26809
+壹電視新聞台,mitv://ns2.hellotvvod.com:9906/c9bd8e82049f4be38e16423d8036a950
+無線新聞,mitv://ns2.hellotvvod.com:9906/0d9b491bbb594d17bd778a8aa1f032b9
+無線財經,mitv://ns2.hellotvvod.com:9906/cf116df5b7444e29a5f97a99855cc713
+台視新聞台,mitv://ns2.hellotvvod.com:9906/208d3a4dbe3a44668deb7621b1add360
+台視財經台,mitv://ns2.hellotvvod.com:9906/12a0866943ef4427b8c873c017d28098
+三立新聞台,mitv://ns2.hellotvvod.com:9906/7d11ff16b37c46cbb696f3ef1938dfb6
+三立iNEWS,mitv://ns2.hellotvvod.com:9906/e0b67f1274434d5d8dd06344dcb98754
+年代新聞台,mitv://ns2.hellotvvod.com:9906/4e9ef1a2e4594fe4a77ce5c9530901ac
+民視新聞台,mitv://ns2.hellotvvod.com:9906/e869a423f27e4c1b8233e45fd7bbbcc4
+寰宇新聞台灣台,mitv://ns2.hellotvvod.com:9906/7816caffebe447b396f51ffff1340743
+寰宇新聞,mitv://ns2.hellotvvod.com:9906/fd0365a36bc54ba488f83745697d223f
+華視新聞,mitv://ns2.hellotvvod.com:9906/0c13d826172e446aba96cd2d82778622
+非凡新聞台,mitv://ns2.hellotvvod.com:9906/dac5852a4a604c5b961c6123fa0a1a50
+非凡商業台,mitv://ns2.hellotvvod.com:9906/ab98271beb804141970814152c3c04c4
+東森新聞台,mitv://ns2.hellotvvod.com:9906/067a5eb5f87844f1af18e7ee9fb15c6c
+東森財經新聞台,mitv://ns2.hellotvvod.com:9906/e5ff63fe62b74c85a22ba9f12ee67d30
+TVBS新聞台,mitv://ns2.hellotvvod.com:9906/fd506871afd04352a0faded9d535a442
+now直播台,mitv://ns2.hellotvvod.com:9906/ba4f1ba8185c4d1785102d24879b64e8
+now新聞台,mitv://ns2.hellotvvod.com:9906/c93bf269bc214f2fbf326650a2b00c1f
+NHK新聞資訊台,mitv://ns2.hellotvvod.com:9906/07a0d73aedd64699a99bdd240a7d2cc5
+JKN 18,mitv://ns2.hellotvvod.com:9906/815b3ddf3343422eb8cc46943a175516
+有線新聞台,mitv://ns2.hellotvvod.com:9906/daee2885ea784f53b9cb40ce0c1d64aa
+有線財經資訊台,mitv://ns2.hellotvvod.com:9906/77878a31e697445bbc2fea694e28fe0f
+海外新聞,#genre#
+TNN 16,mitv://ns2.hellotvvod.com:9906/00a3c02d55de4a6ab3b9fa6860ad6304
+Sky News,mitv://ns2.hellotvvod.com:9906/de84a9abc5404b9c80ea0b1aa8f2d50e
+NHK新聞資訊台,mitv://ns2.hellotvvod.com:9906/07a0d73aedd64699a99bdd240a7d2cc5
+France24,mitv://ns2.hellotvvod.com:9906/7a6f3b480bd54e069a96c61b68e3e8cb
+FOX,mitv://ns2.hellotvvod.com:9906/7ba766f7143b44d3910be6e9eed032d5
+Fox News,mitv://ns2.hellotvvod.com:9906/9fae059ff1b844508717204c040ea9c8
+Euronews,mitv://ns2.hellotvvod.com:9906/fcc778fdeeba4d5fb6c3ebc35f83e12e
+DW,mitv://ns2.hellotvvod.com:9906/150ab61420b141409f58a5bc884ebb87
+CNN,mitv://ns2.hellotvvod.com:9906/33c7d5de6bce4b8db22c7d7c5bbab131
+CNBC,mitv://ns2.hellotvvod.com:9906/9c8f4f1671bb444d9096a162ebdcb1fa
+CNBC Awaaz,mitv://ns2.hellotvvod.com:9906/9c8f4f1671bb444d9096a162ebdcb1fa
+CNA,mitv://ns2.hellotvvod.com:9906/c519b7d634e74be783768e53b6a7a32e
+CGTN,mitv://ns2.hellotvvod.com:9906/aee9223086a04a2398bb7bd1e7c4739a
+CBSN,mitv://ns2.hellotvvod.com:9906/bd78aa5d7ff84072af3522f5000cf16c
+BloombergTV,mitv://ns2.hellotvvod.com:9906/8f6145809091446ca85ec74aaa6313c3
+BBC World News,mitv://ns2.hellotvvod.com:9906/24a8fccd4f27470b961a56a241534e3b
+Arirang,mitv://ns2.hellotvvod.com:9906/a59af969704944cd8b6caebe7c181596
+Al-Hijrah,mitv://ns2.hellotvvod.com:9906/ff5b4422bb704289938cec6b217e530d
+Al Jazeera English,mitv://ns2.hellotvvod.com:9906/d2fa995dda4b43a2975e2d6cb095beff
+音　樂,#genre#
+MTV,mitv://ns2.hellotvvod.com:9906/c2f0f6a9d03540f6b3b0d50e12b249d6
+MTV Live,mitv://ns2.hellotvvod.com:9906/bb492154864e49a1966540646991bf86
+MEZZOLIVEHD,mitv://ns2.hellotvvod.com:9906/0130908233a64ea5839f16d9087a758a
+CLASSICA 古典樂,mitv://ns2.hellotvvod.com:9906/05045fbaecbc4844a3cd6e4e4630a854
+CMusic,mitv://ns2.hellotvvod.com:9906/67a445445bca422f84149ce0af1779de
+Sun Music,mitv://ns2.hellotvvod.com:9906/18db4dc0ceef4c1eb98c67fb554bb4e1
+國內體育,#genre#
+CCTV16,mitv://ns2.hellotvvod.com:9906/5d54f00b370941c68b1d84376277d0d6
+CCTV5,mitv://ns2.hellotvvod.com:9906/d8eb2ce26a36421bb376d59d72f3f73b
+CCTV5+,mitv://ns2.hellotvvod.com:9906/54a2f4f2914946078bcec9489f750523
+ELEVEN體育一台,mitv://ns2.hellotvvod.com:9906/db2b21a6584e442a82b8ef89f634fd82
+ELEVEN體育二台,mitv://ns2.hellotvvod.com:9906/52e578e154714410a7157833380e9a3d
+HKC 18,mitv://ns2.hellotvvod.com:9906/1625b66d963b4f0590534c3288c13b28
+香港603,mitv://ns2.hellotvvod.com:9906/6c181b31628346cb8b0c722c767a8289
+HKC Sports Plus 1,mitv://ns2.hellotvvod.com:9906/a4265c506b8a4d68be5f9b6afb25eaaf
+HKC體育台,mitv://ns2.hellotvvod.com:9906/40d81c9603744c369b7491b3021dea52
+愛爾達體育1台(備),mitv://ns2.hellotvvod.com:9906/c5467bdb499440d59fda0a490dca13c4
+愛爾達體育1台,mitv://ns2.hellotvvod.com:9906/9502c7983e3a4215a0c00fa62ecbeb24
+愛爾達體育2,mitv://ns2.hellotvvod.com:9906/13c5007b107349e98c02eed6ffcbb5e4
+愛爾達體育3台(備),mitv://ns2.hellotvvod.com:9906/673a7935b4504809b2e6bc0d852440bd
+愛爾達體育3台,mitv://ns2.hellotvvod.com:9906/70437e80ba86494ab1f8edb0cdb1c7b8
+博斯高球1台,mitv://ns2.hellotvvod.com:9906/1fc2441a9d2b4ed5ae55ef6f7c6c87d6
+博斯高球2台,mitv://ns2.hellotvvod.com:9906/393d637dad214e8abf578d864727954c
+博斯魅力網,mitv://ns2.hellotvvod.com:9906/5ac961e95f834dc7ae7a532d11ce7196
+博斯網球台,mitv://ns2.hellotvvod.com:9906/c80bb58475544cecaa955c26dcd39c0d
+博斯無限二台,mitv://ns2.hellotvvod.com:9906/25e4f52e1c3944428b8318064b99d454
+博斯無限台,mitv://ns2.hellotvvod.com:9906/983149139edf4af0b99f79c95d6c29f8
+博斯運動一台,mitv://ns2.hellotvvod.com:9906/73f7ff5905af4aefaadc848ff0e141d4
+博斯運動二台,mitv://ns2.hellotvvod.com:9906/d7e6733a3a084f95877fe2529787da3b
+廣東體育,mitv://ns2.hellotvvod.com:9906/ba4be21d38ff4fd4b3b73d5f9fc0496f
+魅力足球,mitv://ns2.hellotvvod.com:9906/e62f4dc5efc4435b94cdbcc369680b71
+緯來體育台,mitv://ns2.hellotvvod.com:9906/52490fe65b74416c8e4e7a9ea8bc86ed
+緯來育樂台,mitv://ns2.hellotvvod.com:9906/885a393d586541108bbffc5fa58b24ac
+智林體育,mitv://ns2.hellotvvod.com:9906/8057facd316548d781897aa01ade5ff9
+海外體育,#genre#
+Z頻道,mitv://ns2.hellotvvod.com:9906/ebf368c07c4b4fe38221e2db13b84fec
+WWE,mitv://ns2.hellotvvod.com:9906/d52a956f4a6642eb8f553aca94610e51
+True Sport 7,mitv://ns2.hellotvvod.com:9906/eaf8eea0a8e14e6a8ed53b3027b4bb49
+True Sport 5,mitv://ns2.hellotvvod.com:9906/a69e2701a1a34309a10ee17bd1ab394c
+True Sport 4,mitv://ns2.hellotvvod.com:9906/21f9e36af877407891c65195cac443f1
+True Sport 3,mitv://ns2.hellotvvod.com:9906/e48c5fff938e4eb19d1ddea12ad20ad4
+True Sport 2,mitv://ns2.hellotvvod.com:9906/cbdbd88cacac49c4ba2aeb1a2c6aa7cb
+TRACE Sport Stars,mitv://ns2.hellotvvod.com:9906/268cb28123e84198b5fb6cef9110e993
+SPOTV,mitv://ns2.hellotvvod.com:9906/93095574ee6e42c3b90e9d55ddd89c08
+Skynet Sports HD,mitv://ns2.hellotvvod.com:9906/201358f7ac234f85a244b637bdf80878
+Skynet Sports 6,mitv://ns2.hellotvvod.com:9906/ea335be2911b4ee7b26c7c9df72c0144
+Skynet Sports 5,mitv://ns2.hellotvvod.com:9906/f4c9e5cd6f274011873b34c49e051653
+Skynet Sports 2,mitv://ns2.hellotvvod.com:9906/4040306f94ee4de39ab4364635d57ad9
+RTM Sport,mitv://ns2.hellotvvod.com:9906/629379b7030b4efdb35563cdba4204cc
+Premier Sports,mitv://ns2.hellotvvod.com:9906/19f94615896f4baf86644b7a526ca0f7
+NBA,mitv://ns2.hellotvvod.com:9906/542f618ff5434640ae7f58a60834a355
+J Sports 4,mitv://ns2.hellotvvod.com:9906/d46d5fe062c14e8ea54db2dd22f7c1fe
+J Sports 3,mitv://ns2.hellotvvod.com:9906/f008ae8bf3024ec1ac21ddfce2aae340
+J Sports 2,mitv://ns2.hellotvvod.com:9906/e7bec530b75746a49576a32ecc663b40
+J Sports 1,mitv://ns2.hellotvvod.com:9906/8ec3e2316af946349a819d6fd315cb10
+Hub Sports 3,mitv://ns2.hellotvvod.com:9906/8c34292fbd5f4ec8b79d4e472e946f9b
+Hub Sports 2,mitv://ns2.hellotvvod.com:9906/e4ccf4517d284295908c687ae48c18ad
+Hub Sports 1,mitv://ns2.hellotvvod.com:9906/8e0cf649c4c946138f9dcbca2963a199
+Golf Channel,mitv://ns2.hellotvvod.com:9906/05c802d90d4542389f5a0b7f26599919
+Golf Channel Philippines,mitv://ns2.hellotvvod.com:9906/16bf931eae7349b6bb939d90f60c3480
+Fight Sports,mitv://ns2.hellotvvod.com:9906/a68dbbef1d774670b1a57923b9e05995
+Eurosport,mitv://ns2.hellotvvod.com:9906/9a9591fc97dd4c11ad964cfc94317b37
+ESPN,mitv://ns2.hellotvvod.com:9906/be96f73105ba4c089ae9c6f9d918fd5b
+eGG Network,mitv://ns2.hellotvvod.com:9906/e656e0e5fc74410aa816e6540f6e1036
+beIN Sports,mitv://ns2.hellotvvod.com:9906/9f671aebfde545ef8b760d7c8836f5ba
+beIN Sports 3,mitv://ns2.hellotvvod.com:9906/6caee7dcc43a446b88434b00967f9d8e
+beIN Sports 2,mitv://ns2.hellotvvod.com:9906/0fd4431736634eae890c77a85eb44f61
+Astro SuperSport,mitv://ns2.hellotvvod.com:9906/12e9032a0fc94c11a7508e1c7889b385
+Astro SuperSport 5,mitv://ns2.hellotvvod.com:9906/2d583f584fb247349c647b6f3a35f89e
+Astro SuperSport 4,mitv://ns2.hellotvvod.com:9906/0caa6229c4e441d782159d625f091cec
+Astro SuperSport 3,mitv://ns2.hellotvvod.com:9906/ae6456c49b6d4d099c7b7739512fe831
+Astro SuperSport 2,mitv://ns2.hellotvvod.com:9906/14673f4668d94367a7f36e2f1ae46020
+Astro Cricket,mitv://ns2.hellotvvod.com:9906/87db8de3a9f84981aff69f31e5d1a079
+Astro Arena,mitv://ns2.hellotvvod.com:9906/9131fafc3eca4105aa0e08ceba201913
+Astro Arena 2,mitv://ns2.hellotvvod.com:9906/aac3a19813cb4df0b828507e5bdf8474
+Fight Sports,mitv://ns2.hellotvvod.com:9906/a68dbbef1d774670b1a57923b9e05995
+地理探索,#genre#
+國家地理頻道,mitv://ns2.hellotvvod.com:9906/65018b4eb942419fad5bae8fb34c80e2
+國家地理野生頻道,mitv://ns2.hellotvvod.com:9906/461cb0398ed54fb4ae9cfae1d6e5dda4
+動物星球,mitv://ns2.hellotvvod.com:9906/092e0e52614a45cbabc458d7aee7792e
+DMAX,mitv://ns2.hellotvvod.com:9906/a737af9a23f64a2c956b90a8a553515a
+DMAX,mitv://ns2.hellotvvod.com:9906/a737af9a23f64a2c956b90a8a553515a
+DiscoveryAsia,mitv://ns2.hellotvvod.com:9906/8f174ed5b6984c1b94f210de5541bc8e
+Discovery科學,mitv://ns2.hellotvvod.com:9906/86dfab18e22e4a5fa60bdb3e3ca974ee
+Nat Geo Wild,mitv://ns2.hellotvvod.com:9906/0892bc3ec32c46db80131dcc06d17977
+Love Nature,mitv://ns2.hellotvvod.com:9906/7908598bf3874d93bd3665c39e455ef7
+Discovery,#genre#
+Outdoor,mitv://ns2.hellotvvod.com:9906/09296d49b5804dd49b5d93f2ea03f4f4
+History,mitv://ns2.hellotvvod.com:9906/31b3b8f738e34cbdb3f61808e1aa2adb
+CI,mitv://ns2.hellotvvod.com:9906/8d87c16c8af648739bafa8367376b593
+歷史頻道,mitv://ns2.hellotvvod.com:9906/3e1e147eba934b6e802a8fcb5eb8f704
+BBCEarth,mitv://ns2.hellotvvod.com:9906/714cfe21b8934851a860885a42612a50
+CCTV9,mitv://ns2.hellotvvod.com:9906/6a74c33ec31a4a6abe33e089c9bcd10f
+亞洲美食頻道,mitv://ns2.hellotvvod.com:9906/c586da9f5baf4264a4208b376470df35
+亞洲旅遊台,mitv://ns2.hellotvvod.com:9906/4d49771322fa48d786ac8a73557e101d
+時尚頻道,mitv://ns2.hellotvvod.com:9906/3a7341fa21b841b5b43414b921e9e566
+美食星球,mitv://ns2.hellotvvod.com:9906/77dcf2aea8204724b315bc76f7ddb0a8
+達文西頻道,mitv://ns2.hellotvvod.com:9906/0752240d55bb4ab38ced870681975dd9
+TV5Monde,mitv://ns2.hellotvvod.com:9906/4b469a4e2f244ec7a7e2632a4c16e7a3
+TV5MONDE Style 生活時尚,mitv://ns2.hellotvvod.com:9906/b4a4d0e812034e38b7f28db0604fa630
+亞洲旅遊台,mitv://ns2.hellotvvod.com:9906/4d49771322fa48d786ac8a73557e101d
+TLC旅遊生活頻道,mitv://ns2.hellotvvod.com:9906/714cfe21b8934851a860885a42612a50
+LUXETV,mitv://ns2.hellotvvod.com:9906/2e9b6bc29386449d9bb1f6fdd720e9b6
+Lifetime,mitv://ns2.hellotvvod.com:9906/57192a7e69f14cbcbbc218cd63bdc4b4
+KLT-靖天國際台,mitv://ns2.hellotvvod.com:9906/274de41fc423470caaf3d4c6caf9715a
+HGTV居家樂活頻道,mitv://ns2.hellotvvod.com:9906/179e221aeffc4d369ab6fcab07e3e3d1
+Food Network,mitv://ns2.hellotvvod.com:9906/8d854a6ba15f4e0d8e9db56231268f9d
+EYE旅遊,mitv://ns2.hellotvvod.com:9906/85bf0a842a784185bbac347483efeb07
+EVE,mitv://ns2.hellotvvod.com:9906/eeb68536f8394f188498caf68574a8e1
+Ettoday,mitv://ns2.hellotvvod.com:9906/b5aefa94f1f04146a7405814de0e7c29
+ELTV,mitv://ns2.hellotvvod.com:9906/69996c6a8b514e508353745e2b1d7ca6
+BBCLifestyle,mitv://ns2.hellotvvod.com:9906/4c3f07ab599d4ed9b60ad256e2f4ee1c
+少兒動漫,#genre#
+Nickelodeon,mitv://ns2.hellotvvod.com:9906/67a6b412cc5246d1915734933c6a5655
+靖洋卡通台Nice Bingo,mitv://ns2.hellotvvod.com:9906/b6d0777621aa48a096e8e754c406ff45
+靖天卡通台,mitv://ns2.hellotvvod.com:9906/4c696c0ee752441fb9492c8d4d391a30
+金鷹卡通,mitv://ns2.hellotvvod.com:9906/833a9d26fa674d14a0b292e2f2299ab8
+達文西頻道,mitv://ns2.hellotvvod.com:9906/0752240d55bb4ab38ced870681975dd9
+Nickelodeon,mitv://ns2.hellotvvod.com:9906/67a6b412cc5246d1915734933c6a5655
+NickJr.,mitv://ns2.hellotvvod.com:9906/24734882008047b090db3f4b94f4e6b9
+MOMO親子台,mitv://ns2.hellotvvod.com:9906/e4a46c7c5c3a4a0799f945365fb3afbf
+iFun1,mitv://ns2.hellotvvod.com:9906/d43ec487f1834c999164c727c8091166
+Hands Up,mitv://ns2.hellotvvod.com:9906/5bf89a712321439d8f944fd91b56b997
+DREAMWORKS,mitv://ns2.hellotvvod.com:9906/7505454c090648158214ee3d22f01081
+CN卡通頻道,mitv://ns2.hellotvvod.com:9906/e6940a7e2493432292af573bc268f516
+CCTV14,mitv://ns2.hellotvvod.com:9906/7b62c4f359d1447d9f56819a2050cfec
+CBeebies,mitv://ns2.hellotvvod.com:9906/5ca694a4e77744868d71a181364b25de
+Cartoon Network,mitv://ns2.hellotvvod.com:9906/f41bcec085c64bf0adbce83c57dadb01
+Boomerang,mitv://ns2.hellotvvod.com:9906/df86c30e949e49f6898b091738685d45
+Baby TV,mitv://ns2.hellotvvod.com:9906/f1b9299ea73c4e4ca969808e9ad4a52e
+Astro小太陽,mitv://ns2.hellotvvod.com:9906/1ecacc6d297c4bd5b0fc215f8d17d6d2
+Astro Ceria,mitv://ns2.hellotvvod.com:9906/f8042716d41d4ce98a37f2f018ebff5d
+Animax,mitv://ns2.hellotvvod.com:9906/ac6fa42e60d840d98c995eea7143e7c7
+電　影,#genre#
+天映頻道,mitv://ns2.hellotvvod.com:9906/a0c390dbc03b49e9b8dd7686428bedce
+天映頻道,mitv://ns2.hellotvvod.com:9906/a0c390dbc03b49e9b8dd7686428bedce
+天映經典,mitv://ns2.hellotvvod.com:9906/6e1aad4b3ffb4832b80c5bf9d6bca2c2
+天映經典,mitv://ns2.hellotvvod.com:9906/6e1aad4b3ffb4832b80c5bf9d6bca2c2
+美亞高清電影台,mitv://ns2.hellotvvod.com:9906/d960c76810984268994c60316f48bcd8
+美亞電影台(粵語),mitv://ns2.hellotvvod.com:9906/bcde74703ea04b40baef86b24f0d3db9
+LSTime電影台,mitv://ns2.hellotvvod.com:9906/3671b0fb49db40408ab61d2e19e5c631
+龍華電影,mitv://ns2.hellotvvod.com:9906/2071eb68df4b4e07855feb4170448993
+靖天映畫,mitv://ns2.hellotvvod.com:9906/bc7c2f85b96b4230904eaf03243a2594
+靖天電影台,mitv://ns2.hellotvvod.com:9906/715aef9cfa0e4391bba0bfabc9032516
+好萊塢電影台,mitv://ns2.hellotvvod.com:9906/072b01d54b954eacb530858a1d61b993
+影迷數位電影,mitv://ns2.hellotvvod.com:9906/54b47091b7f5445ca1445d33f490573d
+壹電視電影台,mitv://ns2.hellotvvod.com:9906/3c8dc1a29f3e40c381432ff9afff4757
+星衛HD電影,mitv://ns2.hellotvvod.com:9906/042b5b5b8aee4f49a2ff6ff59b6152b3
+衛視電影台,mitv://ns2.hellotvvod.com:9906/23ade85dafce4df6a6a3569e35cc2fe3
+緯來育樂台,mitv://ns2.hellotvvod.com:9906/885a393d586541108bbffc5fa58b24ac
+緯來電影台,mitv://ns2.hellotvvod.com:9906/a93ff9e4e84345948a3a5209549f9dbf
+鳳凰電影台,mitv://ns2.hellotvvod.com:9906/e8ce90281fbf4a8f8e86fee1b2559690
+東森洋片台,mitv://ns2.hellotvvod.com:9906/564798b3a4b945528410559392b461f9
+東森電影台,mitv://ns2.hellotvvod.com:9906/4d52e75bf0394e9d9a1569f0de2d2419
+采昌影劇,mitv://ns2.hellotvvod.com:9906/8ac732dcc9e741b59c9b3c43f3a1cb85
+爆谷星影台,mitv://ns2.hellotvvod.com:9906/7e919be933d74926b56a43399f4cff6f
+爆谷台,mitv://ns2.hellotvvod.com:9906/6966b3e8df2946128dda5f52105666cc
+愛爾達影劇,mitv://ns2.hellotvvod.com:9906/e961ab9686b64fc0a277e8e5314ab4f4
+WarnerTV,mitv://ns2.hellotvvod.com:9906/5f9795c81e64477f9dae6ca6ab958efc
+tvN,mitv://ns2.hellotvvod.com:9906/2c4954088a864b369c5ed5f7b7f714f3
+tvN Movies HD,mitv://ns2.hellotvvod.com:9906/ad95f7db93f24adca9e578922c07a9f3
+Thrill,mitv://ns2.hellotvvod.com:9906/9d3edae6b1b642db997711d5a8dea997
+StarMoviesHD,mitv://ns2.hellotvvod.com:9906/786c7d3a75094ca6828205ab3da99b39
+SHOWCASE MOVIES,mitv://ns2.hellotvvod.com:9906/6322da31ea054abdbabc8172f6a73be0
+HKC電影台,mitv://ns2.hellotvvod.com:9906/cadbdcf3111b4ec2b3929e97d0742739
+HITS,mitv://ns2.hellotvvod.com:9906/77e3380fba0b447aa9669fc8e6f81990
+HITS Movies,mitv://ns2.hellotvvod.com:9906/8908f2c2aa1f4e9686b7db1e6d443d93
+HBOSignature,mitv://ns2.hellotvvod.com:9906/8e907f32795f40f6bbb62d94b3a1ff85
+HBOHitsm,mitv://ns2.hellotvvod.com:9906/926f60626fdc47c59d00bf6960eea373
+HBO,mitv://ns2.hellotvvod.com:9906/ee08fe6d3fec48fb9c51717f418c9d83
+HBOFamily,mitv://ns2.hellotvvod.com:9906/7f68b5be8e44467cb01d8fac053bf56d
+CINEMAX,mitv://ns2.hellotvvod.com:9906/6e348a3fdfd44336bf4e83a359aaf53a
+CinemaWorld,mitv://ns2.hellotvvod.com:9906/5ccc54d3b043433bb1679bbb9ec9578b
+CCTV6,mitv://ns2.hellotvvod.com:9906/332c59ede2634bd4a01f1ef0021b19ca
+CatchPlay電影台,mitv://ns2.hellotvvod.com:9906/e176e4363a954ad4932c0490d3908a17
+BOO,mitv://ns2.hellotvvod.com:9906/367f79c32d244a7d847aeabf469334f7
+AXN,mitv://ns2.hellotvvod.com:9906/6fbff6b4ae4d442eb433c4a37ec49a4b
+AMC,mitv://ns2.hellotvvod.com:9906/27a4af54cc9e40598f8bbc9483dd51cb
+戲　劇,#genre#
+東森戲劇台,mitv://ns2.hellotvvod.com:9906/d343d861e605442595598821327cfa11
+八大戲劇台,mitv://ns2.hellotvvod.com:9906/f79d2e117e3846379e8b315cc60a15bb
+緯來戲劇台,mitv://ns2.hellotvvod.com:9906/c8c832b33a26420a8e724fff221ce237
+三立戲劇,mitv://ns2.hellotvvod.com:9906/b6beb0384af2476d969fa0e749f42460
+龍華戲劇,mitv://ns2.hellotvvod.com:9906/9370d2ca3138407c89146a7df62b0716
+靖天戲劇台,mitv://ns2.hellotvvod.com:9906/3eb966b8af5d4446b13ffa9f8f1fcb9c
+靖洋戲劇台,mitv://ns2.hellotvvod.com:9906/f8212853844d49bd87a5b9f6778c3908
+EYE戲劇,mitv://ns2.hellotvvod.com:9906/71ec8a158be2405c86063664051732a5
+愛爾達影劇台,mitv://ns2.hellotvvod.com:9906/e961ab9686b64fc0a277e8e5314ab4f4
+Hub娛家,mitv://ns2.hellotvvod.com:9906/4d91e02044fc44c3be5606fbcc658dcf
+亞洲劇台,mitv://ns2.hellotvvod.com:9906/71f5195bafb34ca2bc900dee8ffb674f
+SP_0000,#genre#
+彩虹e台,mitv://ns2.hellotvvod.com:9906/d54097c49aae4ad4a5d1028ed60faab4
+彩虹電影台,mitv://ns2.hellotvvod.com:9906/a6f1613f380e43518c8c277f6bdf6bf6
+潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/b501f9abfaaf4054b4d05323ff14e037
+潘朵啦粉虹台,#N/A
+驚艷電影台,mitv://ns2.hellotvvod.com:9906/63fdfe354a244e74a507d3bfef9d319c
+松視1台,mitv://ns2.hellotvvod.com:9906/12d054f3bfde4aad8c98c4cc576af946
+松視2台,mitv://ns2.hellotvvod.com:9906/2fce089cfbc54d178c184f30b83e8231
+松視3台,mitv://ns2.hellotvvod.com:9906/1448f3235a404f30b3313fea3bf14a99
+PLAYBOY,mitv://ns2.hellotvvod.com:9906/abd30b0b191f4183a41e2228c67d2d41
+香蕉台,mitv://ns2.hellotvvod.com:9906/6a1754fa20394dd09903a98133152eef
+HOT,#N/A
+LOOK TV,mitv://ns2.hellotvvod.com:9906/c564a8c3a127432eb7f813b31139a6d4
+JStar極限台,mitv://ns2.hellotvvod.com:9906/ac3459851f2d48babb893cdd06072e9d
+HAPPY,mitv://ns2.hellotvvod.com:9906/24670119ed16475095d7a0a1d1d29aee
+松視1台,mitv://ns2.hellotvvod.com:9906/12d054f3bfde4aad8c98c4cc576af946
+松視2台,mitv://ns2.hellotvvod.com:9906/2fce089cfbc54d178c184f30b83e8231
+松視3台,mitv://ns2.hellotvvod.com:9906/1448f3235a404f30b3313fea3bf14a99
+K頻道,mitv://ns2.hellotvvod.com:9906/214f573e568a43af8bed500d3d56f4d0
