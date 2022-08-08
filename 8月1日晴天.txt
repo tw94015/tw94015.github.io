@@ -86,7 +86,7 @@ Thrill,mitv://ns2.hellotvvod.com:9906/9d3edae6b1b642db997711d5a8dea997
 星空衛視,mitv://ns2.hellotvvod.com:9906/939cf4c83d694325a914cf15f2b59472
 澳門-MACAU,mitv://ns2.hellotvvod.com:9906/357683e6820b4fd4a5f86729daf51432
 澳門蓮花,mitv://ns2.hellotvvod.com:9906/6cd160fb635a48a29d655070fe01fe15
-台灣省,#genre#
+台灣,#genre#
 中天新聞台,mitv://ns2.hellotvvod.com:9906/68d11486c3864cea8e3e115e6d41803a
 中天娛樂台,mitv://ns2.hellotvvod.com:9906/1fa45143dc72442c83d88b34aab68f2a
 中天綜合台,mitv://ns2.hellotvvod.com:9906/5f08cdd50c1947cbbe6074854c609d8a
