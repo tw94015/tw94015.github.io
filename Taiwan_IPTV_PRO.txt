@@ -164,9 +164,9 @@ BBC Earth
 Eurosport 1,http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/217/stream.m3u8#http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8#http://cdnua06.hls.tv/476/hls/ic98vakdjzm2sqf1elhg67pwr0xbto34/216/stream.m3u8#http://cdnua06.hls.tv/476/hls/cma6nrk9e8z7ygfsl5xtj3ohb014vpw2/216/stream.m3u8#http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/216/stream.m3u8
 Eurosport 2,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/stream.m3u8#http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/219/stream.m3u8#http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/stream.m3u8#http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8#http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=eurosport2
 WWE,http://50.7.220.74:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
-愛爾達體育1台#http://iptv12k.com:35461/live/80301070602/456776/1221.m3u8#http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745#rtmp://59.124.75.150/sat/md011#rtmp://59.124.75.138/sat/md011
-愛爾達體育2台
-愛爾達體育3台#http://iptv12k.com:35461/live/80301070602/456776/1219.m3u8#rtmp://59.124.75.138/sat/md021
+愛爾達體育1台,mitv://fccs.word-tv.com:9906/62596cd0000349b813fb2a4367d31141#http://iptv12k.com:35461/live/80301070602/456776/1221.m3u8#http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745#rtmp://59.124.75.150/sat/md011#rtmp://59.124.75.138/sat/md011
+愛爾達體育2台,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10
+愛爾達體育3台,mitv://fccs.word-tv.com:9906/62596d0a0009c5b313fc0e7cd12205f2#http://iptv12k.com:35461/live/80301070602/456776/1219.m3u8#rtmp://59.124.75.138/sat/md021
 HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 HBO強檔巨獻,http://iptv12k.com:35461/live/80301070602/456776/258.m3u8
 HBO原創巨獻,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
@@ -267,9 +267,9 @@ TVBS新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live
 
 🇹🇼體育🇹🇼,#genre#
 緯來體育,http://60.251.33.252:18509/.m3u8#http://iptv12k.com:35461/live/80301070602/456776/1237.m3u8#rtmp://59.124.75.138:1935/sat/tv721#rtmp://59.124.75.138/sat/tv721#rtmp://59.124.75.150/sat/tv721#P2p://54.39.16.152:9906/62541bbd000ba7f6097abfe357f9c565
-愛爾達體育1台#http://iptv12k.com:35461/live/80301070602/456776/1221.m3u8#http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745#rtmp://59.124.75.150/sat/md011#rtmp://59.124.75.138/sat/md011
-愛爾達體育2台
-愛爾達體育3台#http://iptv12k.com:35461/live/80301070602/456776/1219.m3u8#rtmp://59.124.75.138/sat/md021
+愛爾達體育1台,mitv://fccs.word-tv.com:9906/62596cd0000349b813fb2a4367d31141#http://iptv12k.com:35461/live/80301070602/456776/1221.m3u8#http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745#rtmp://59.124.75.150/sat/md011#rtmp://59.124.75.138/sat/md011
+愛爾達體育2台,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10
+愛爾達體育3台,mitv://fccs.word-tv.com:9906/62596d0a0009c5b313fc0e7cd12205f2#http://iptv12k.com:35461/live/80301070602/456776/1219.m3u8#rtmp://59.124.75.138/sat/md021
 ELEVEN體育1台,http://iptv12k.com:35461/live/80301070602/456776/1218.m3u8#rtmp://59.124.75.150/sat/tv731#rtmp://59.124.75.138:1935/sat/tv731#http://220.134.196.147:9230/http/59.120.8.187:8078/hls/25/80/esport.m3u8#http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8#rtmp://59.124.75.150/sat/tv741#http://220.134.196.147:9227/http/59.120.8.187:8078/hls/26/80/esport2.m3u8#https://epg.pm/stream/480fbbc2ba61ff75864f5aca4b9918c7ddba6fb3306ad56eb2a6482f92fc3301.m3u8#rtmp://59.124.75.138:1935/sat/tv741
 J Sports 1,P2p://54.39.16.152:9906/62693bb8000a631203c04aaf37cd8e88
