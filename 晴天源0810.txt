@@ -1,5 +1,6 @@
-
-台灣,#genre#  
+☀晴天源,#genre#
+🇹🇼台北-象山,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=528
+🇹🇼台灣,#genre#  
 CNN,mitv://ns2.hellotvvod.com:9906/c1a6d29a426a4cbabb1c2d0a09c7222f
 民視,mitv://ns2.hellotvvod.com:9906/a7012db2192842388b789d414f6fbd8f
 人間衛視,mitv://ns2.hellotvvod.com:9906/9b616c6e68d3483aa838ee20eb95bbf5
@@ -197,7 +198,7 @@ Travel Channel,mitv://ns2.hellotvvod.com:9906/de1b53cbc8594c7aae5410f62bbcc016
   
 
 
-中國,#genre#   
+🇨🇳中國,#genre#   
 CCTV1,mitv://ns2.hellotvvod.com:9906/d74dfbc1317d4f5c83021e2cccfa0f1a
 CCTV2,mitv://ns2.hellotvvod.com:9906/7cbcfaec1c4b49e7a55a4cbb720c46b1
 CCTV3,mitv://ns2.hellotvvod.com:9906/65311c2325144d928c6a459033500438
@@ -290,7 +291,7 @@ Hands Up,mitv://ns2.hellotvvod.com:9906/c79571517a594f0692c0e0b9a9eba11f
   
 
 
-馬來西亞,#genre#   
+🇲🇾馬來西亞,#genre#   
 CNN,mitv://ns2.hellotvvod.com:9906/c1a6d29a426a4cbabb1c2d0a09c7222f
 TV1,mitv://ns2.hellotvvod.com:9906/e8295741ba5948a7962ef53449a9ce0a
 TV2,mitv://ns2.hellotvvod.com:9906/35d024f16da54804bca07838e6886f7b
@@ -398,7 +399,7 @@ beIN Sports 2,mitv://ns2.hellotvvod.com:9906/9279ca91b2584995a0903c1601ede459
   
 
 
-新加坡,#genre#   
+🇸🇬新加坡,#genre#   
 天映頻道,mitv://ns2.hellotvvod.com:9906/000921b9b4cb44b9980480e9fb4a91ef
 中天亞洲台,mitv://ns2.hellotvvod.com:9906/267b58a32d194f59a6ee3814076d86bf
 TVB星河(粵),mitv://ns2.hellotvvod.com:9906/83fa2095e9274420af05e462d597601a
@@ -450,7 +451,7 @@ Horse Racing 88,mitv://ns2.hellotvvod.com:9906/f94c727bc0674a4e9c6dc4270a450d8b
   
 
 
-日本,#genre#   
+🇯🇵日本,#genre#   
 NHK-G综合,mitv://ns2.hellotvvod.com:9906/d2613bad7a804113bd5f6c75b88204df
 NHK-E教育,mitv://ns2.hellotvvod.com:9906/793f937478484f1eba13eb0ed9309568
 日本テレビ,mitv://ns2.hellotvvod.com:9906/db7666ef109746e9bfa9c91253321eda
@@ -496,7 +497,7 @@ Music Japan TV,mitv://ns2.hellotvvod.com:9906/539b1015928146249b6d92edacd73f92
   
 
 
-韓國,#genre#   
+🇰🇷韓國,#genre#   
 Arirang,mitv://ns2.hellotvvod.com:9906/87eeb41ad83443d293ff352d4205600e
 KBS1,mitv://ns2.hellotvvod.com:9906/6a6c42d37e5c4a5ca3e4c4a1377bf4eb
 KBS2,mitv://ns2.hellotvvod.com:9906/9a5ac9bcce114897ae9ad5140feea851
@@ -522,7 +523,7 @@ JTBC GOLF,mitv://ns2.hellotvvod.com:9906/47c9c447a72642608b4575e43aa547b1
   
 
 
-印尼,#genre#   
+🇮🇩印尼,#genre#   
 tvN Movies HD,mitv://ns2.hellotvvod.com:9906/96c910af516c4099a7f652edee73dd92
 Indosiar,mitv://ns2.hellotvvod.com:9906/e7aecf0cc29f48d995808580a6dc085a
 SCTV,mitv://ns2.hellotvvod.com:9906/d812a6a43acf45c2be32a6ec2c899887
@@ -531,7 +532,7 @@ RCTI,mitv://ns2.hellotvvod.com:9906/563ef6ee5c614cc69fc3c8826a007c17
   
 
 
-泰國,#genre#   
+🇹🇭泰國,#genre#   
 Channel 5,mitv://ns2.hellotvvod.com:9906/7e9cd4168a6c45358c3622bfc63cb823
 NBT,mitv://ns2.hellotvvod.com:9906/c49bf83eaeb7467396f30a346ac4b835
 TNN 16,mitv://ns2.hellotvvod.com:9906/589def7d4cdc4057b426190fb8c4d349
@@ -568,7 +569,7 @@ True Sport 7,mitv://ns2.hellotvvod.com:9906/8b6f89d6a79543709c61bf236fd7e7c4
   
 
 
-菲律賓,#genre#   
+🇵🇭菲律賓,#genre#   
 Cartoon Network,mitv://ns2.hellotvvod.com:9906/3692389f89d3468eb4a828dd76e11383
 Nickelodeon,mitv://ns2.hellotvvod.com:9906/13d40c482d0f481f8ae2bef8ea2f81a8
 Nick Jr.,mitv://ns2.hellotvvod.com:9906/1d50ca3249884a18be9df69041fb4aa0
@@ -578,7 +579,7 @@ Golf Channel Philippines,mitv://ns2.hellotvvod.com:9906/83db342d26a747f1880c7139
   
 
 
-印度,#genre#   
+🇮🇳印度,#genre#   
 SUN TV,mitv://ns2.hellotvvod.com:9906/8d3063cd8383478195d5402ca22f2c9a
 India TV,mitv://ns2.hellotvvod.com:9906/c173e2cc377b4d15b5c35e586da33cd3
 Janam TV,mitv://ns2.hellotvvod.com:9906/183664a8bf3846009155f31442d42664
@@ -593,7 +594,7 @@ Zee Tamil,mitv://ns2.hellotvvod.com:9906/20251ed9c81c4957943f010638843ccf
   
 
 
-美國,#genre#   
+🇺🇸美國,#genre#   
 CNN,mitv://ns2.hellotvvod.com:9906/c1a6d29a426a4cbabb1c2d0a09c7222f
 CNBC,mitv://ns2.hellotvvod.com:9906/ea88d182a5494f9f895ddb0f04f84232
 Bloomberg TV,mitv://ns2.hellotvvod.com:9906/cfc7987fd08943eca09449fac7bd4355
