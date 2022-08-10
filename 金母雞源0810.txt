@@ -1,4 +1,6 @@
-大陸央視,#genre#
+🐓金母雞源,#genre#
+🇹🇼台北-象山,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=528
+🇨🇳大陸央視,#genre#
 CCTV1,mitv://fccs.word-tv.com:9906/626b10db0008d63e0ae8db0223edd50d
 CCTV2,mitv://fccs.word-tv.com:9906/626b115200030f120aeaaa5f371ca9f3
 CCTV3,mitv://fccs.word-tv.com:9906/626a3508000e8a44078e2c3f7a7a4675
@@ -14,7 +16,7 @@ CCTV12,mitv://fccs.word-tv.com:9906/626a435400043d9e07c6027c6732af81
 CCTV13,mitv://fccs.word-tv.com:9906/626a51cd00051ae507fe8b5dbb96e27d
 CCTV14,mitv://fccs.word-tv.com:9906/626a4592000c197507cec6aff8d56f4a
 CCTV15,mitv://fccs.word-tv.com:9906/626a4601000e1c5407d078cbbeb38371
-大陸省市,#genre#
+🇨🇳大陸省市,#genre#
 北京衛視,mitv://fccs.word-tv.com:9906/626a61250003f296083a7ad176723dd2
 東方衛視,mitv://fccs.word-tv.com:9906/626b29490005ba930b4847e6d9945c31
 江蘇衛視,mitv://fccs.word-tv.com:9906/626b29990008b3cd0b49812948e25677
@@ -31,7 +33,7 @@ CCTV15,mitv://fccs.word-tv.com:9906/626a4601000e1c5407d078cbbeb38371
 澳亞衛視,mitv://fccs.word-tv.com:9906/626b2c8b000e79480b5503f397803b16
 星空衛視,mitv://fccs.word-tv.com:9906/626b5ba2000298700c0cf2c141db6327
 廣東體育,mitv://fccs.word-tv.com:9906/626b2c2c000809b10b538f3510ef2629
-港　澳,#genre#
+🇭🇰港　澳,#genre#
 鳳凰香港,mitv://fccs.word-tv.com:9906/62582991000071710f0c7b707491d2e9
 鳳凰中文,mitv://fccs.word-tv.com:9906/6258281d0002e1400f06cef0fc77e330
 鳳凰資訊,mitv://fccs.word-tv.com:9906/6258288b0006f4a60f087dab170cf23e
@@ -53,7 +55,7 @@ ViuTVsix,mitv://fccs.word-tv.com:9906/627160d00008ced7098cbc29e23c5e0c
 港台電視32,mitv://fccs.word-tv.com:9906/62595a8a0007901013b3c9eb93df46aa
 星空衛視,mitv://fccs.word-tv.com:9906/626b5ba2000298700c0cf2c141db6327
 澳門蓮花,mitv://fccs.word-tv.com:9906/6258e686000e215f11ee9bf962767123
-台　灣,#genre#
+🇹🇼台　灣,#genre#
 TVBS,mitv://fccs.word-tv.com:9906/62541264000b8c2809563c340355f46f
 TVBS歡樂台,mitv://fccs.word-tv.com:9906/62585f330007fbe70fddfe2f12feb8b6
 TVBS精采台,mitv://fccs.word-tv.com:9906/6259b507000647d0151541dfdfa4429f
@@ -143,7 +145,7 @@ MOMO綜合台,mitv://fccs.word-tv.com:9906/62580818000c773d0e89bddcd1b0c221
 華視信息,mitv://fccs.word-tv.com:9906/62692acf000c5e7a037e3d0919397c0a
 公視3,mitv://fccs.word-tv.com:9906/62692af700080a87037ed82d98f82f9d
 星衛娛樂,mitv://fccs.word-tv.com:9906/6259b4eb0005f6251514d46a93c04eb3
-馬來西亞,#genre#
+🇲🇾馬來西亞,#genre#
 中天亞洲台,mitv://fccs.word-tv.com:9906/626610e20008d9cf11656e24ac45db0e
 天映經典,mitv://fccs.word-tv.com:9906/6260fa83000c7b8e1789acc84075d31b
 翡翠台,mitv://fccs.word-tv.com:9906/6258ea0e00051f8e11fc64eb04aee473
@@ -153,7 +155,7 @@ DW,mitv://fccs.word-tv.com:9906/626191960005358319d7cd241ef843c4
 CNN,mitv://fccs.word-tv.com:9906/62582a520008e9c70f0f6f8479cb96d1
 Boomerang,mitv://fccs.word-tv.com:9906/62584d670009313f0f98799e2354015b
 AXN,mitv://fccs.word-tv.com:9906/6258d52d000490df11aad5dfc8e0641c
-新加坡,#genre#
+🇸🇬新加坡,#genre#
 CNA,mitv://fccs.word-tv.com:9906/6261934a0007e00f19de74f21e2709b4
 中天亞洲台,mitv://fccs.word-tv.com:9906/626610e20008d9cf11656e24ac45db0e
 衛視電影台,mitv://fccs.word-tv.com:9906/6256bd0a000359ee097c8cd7ea2af582
@@ -164,7 +166,7 @@ CNBC,mitv://fccs.word-tv.com:9906/626854f2000c5c52003ad5c1393ee879
 Boomerang,mitv://fccs.word-tv.com:9906/62584d670009313f0f98799e2354015b
 Bloomberg TV,mitv://fccs.word-tv.com:9906/626191ed0001b05319d92015e4a6cb61
 BBC World News,mitv://fccs.word-tv.com:9906/6257e7ef0003fddd0e0c1b89963d6947
-日　本,#genre#
+🇯🇵日　本,#genre#
 NHK-G綜合,mitv://fccs.word-tv.com:9906/6263af600003da7a0818890d1c4df804
 NHK-E教育,mitv://fccs.word-tv.com:9906/6263b02b00030580081ba1ce1d98224d
 日本テレビ,mitv://fccs.word-tv.com:9906/6263b2bc000763bd0825a955be8e315c
@@ -230,7 +232,7 @@ NHKBS1,mitv://fccs.word-tv.com:9906/62693c72000aa5af03c321500546bab5
 NHK BS Premium,mitv://fccs.word-tv.com:9906/62693c9500057b0703c3a8b6296d58a1
 BSテレ東,mitv://fccs.word-tv.com:9906/62693d4d000ebdaa03c679d5761b2308
 BS Sky PerfecTV!,mitv://fccs.word-tv.com:9906/62693d6e000a42ef03c6f9979f2a03e8
-韓　國,#genre#
+🇰🇷韓　國,#genre#
 KBS1,mitv://fccs.word-tv.com:9906/626b63d50001600c0c2cf9a9c22671ac
 KBS2,mitv://fccs.word-tv.com:9906/626b6b2a0004a5a20c499e87a5dddfc1
 KBS Drama,mitv://fccs.word-tv.com:9906/626b6b0c000c97e10c492b60c9e6b665
