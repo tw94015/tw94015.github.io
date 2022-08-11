@@ -294,7 +294,7 @@ ELEVEN體育二台,mitv://fccs.word-tv.com:9906/6258550f0001c6880fb65ff87e0ebc13
 HKC 18,mitv://fccs.word-tv.com:9906/626bc57e0002fcc70daa763a17885784
 香港603,mitv://fccs.word-tv.com:9906/626bc5c00008e69a0dab798eb8ae558d
 愛爾達體育1台,mitv://fccs.word-tv.com:9906/62596cd0000349b813fb2a4367d31141
-愛爾達體育2,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10
+愛爾達體育2台,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10
 愛爾達體育3台,mitv://fccs.word-tv.com:9906/62596d0a0009c5b313fc0e7cd12205f2
 博斯高球1台,mitv://fccs.word-tv.com:9906/62596d9e000e5b6c13fe51c8c1ca116c
 博斯高球2台,mitv://fccs.word-tv.com:9906/6259b7ea000cad1415208a3ab972be5a
