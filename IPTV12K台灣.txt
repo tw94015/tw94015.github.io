@@ -1,0 +1,98 @@
+台灣備用,#genre#
+TVBS-精彩台,http://iptv12k.com:35461/live/80301070602/456776/4842.m3u8
+天映經典 MOVIE,http://iptv12k.com:35461/live/80301070602/456776/1871.m3u8
+星衛HD電影 MOVIE,http://iptv12k.com:35461/live/80301070602/456776/1870.m3u8
+美亞電影台 MOVIE,http://iptv12k.com:35461/live/80301070602/456776/1869.m3u8
+衛視電影台 MOVIE scm,http://iptv12k.com:35461/live/80301070602/456776/1868.m3u8
+東森洋片 MOVIE,http://iptv12k.com:35461/live/80301070602/456776/1867.m3u8
+東森電影台 MOVIE,http://iptv12k.com:35461/live/80301070602/456776/1866.m3u8
+CatchPlay電影台 MOVIE,http://iptv12k.com:35461/live/80301070602/456776/1865.m3u8
+壹電視新聞台,http://iptv12k.com:35461/live/80301070602/456776/1293.m3u8
+中視,http://iptv12k.com:35461/live/80301070602/456776/1291.m3u8
+台視,http://iptv12k.com:35461/live/80301070602/456776/1290.m3u8
+公視,http://iptv12k.com:35461/live/80301070602/456776/1289.m3u8
+三立都會,http://iptv12k.com:35461/live/80301070602/456776/1287.m3u8
+三立台灣,http://iptv12k.com:35461/live/80301070602/456776/1286.m3u8
+三立戲劇,http://iptv12k.com:35461/live/80301070602/456776/5080.m3u8
+三立新聞,http://iptv12k.com:35461/live/80301070602/456776/1285.m3u8
+八大戲劇,http://iptv12k.com:35461/live/80301070602/456776/1284.m3u8
+八大綜合,http://iptv12k.com:35461/live/80301070602/456776/1283.m3u8
+八大第一,http://iptv12k.com:35461/live/80301070602/456776/1282.m3u8
+八大娛樂台,http://iptv12k.com:35461/live/80301070602/456776/1281.m3u8
+東森綜合台,http://iptv12k.com:35461/live/80301070602/456776/1280.m3u8
+中天亞洲CTI Asia,http://iptv12k.com:35461/live/80301070602/456776/1278.m3u8
+中天娛樂,http://iptv12k.com:35461/live/80301070602/456776/1277.m3u8
+中視經典,http://iptv12k.com:35461/live/80301070602/456776/1274.m3u8
+BRAVO中視青采,http://iptv12k.com:35461/live/80301070602/456776/1273.m3u8
+TVBS,http://iptv12k.com:35461/live/80301070602/456776/1272.m3u8
+TVBS-G歡樂台,http://iptv12k.com:35461/live/80301070602/456776/1271.m3u8
+FOX NEWS,http://iptv12k.com:35461/live/80301070602/456776/1270.m3u8
+NBCSN,http://iptv12k.com:35461/live/80301070602/456776/1269.m3u8
+HBO,http://iptv12k.com:35461/live/80301070602/456776/1266.m3u8
+HBO家庭,http://iptv12k.com:35461/live/80301070602/456776/1265.m3u8
+HBO強檔,http://iptv12k.com:35461/live/80301070602/456776/1264.m3u8
+HBO原創,http://iptv12k.com:35461/live/80301070602/456776/1263.m3u8
+JET TV,http://iptv12k.com:35461/live/80301070602/456776/1262.m3u8
+衛視HD電影scm,http://iptv12k.com:35461/live/80301070602/456776/1261.m3u8
+美亞電影台,http://iptv12k.com:35461/live/80301070602/456776/1260.m3u8
+美食星球,http://iptv12k.com:35461/live/80301070602/456776/1259.m3u8
+衛視電影台scm,http://iptv12k.com:35461/live/80301070602/456776/1258.m3u8
+衛視中文 HD Star Chinese Channel HD,http://iptv12k.com:35461/live/80301070602/456776/1257.m3u8
+東森洋片,http://iptv12k.com:35461/live/80301070602/456776/1256.m3u8
+東森戲劇台,http://iptv12k.com:35461/live/80301070602/456776/1255.m3u8
+東森電影台,http://iptv12k.com:35461/live/80301070602/456776/1254.m3u8
+天映經典,http://iptv12k.com:35461/live/80301070602/456776/1253.m3u8
+CatchPlay電影台,http://iptv12k.com:35461/live/80301070602/456776/1252.m3u8
+金光布袋戲,http://iptv12k.com:35461/live/80301070602/456776/1251.m3u8
+Smithsonian Channel,http://iptv12k.com:35461/live/80301070602/456776/1250.m3u8
+好萊塢電影台,http://iptv12k.com:35461/live/80301070602/456776/1249.m3u8
+愛爾達影劇台,http://iptv12k.com:35461/live/80301070602/456776/1248.m3u8
+星衛娛樂台,http://iptv12k.com:35461/live/80301070602/456776/1247.m3u8
+罪案偵緝頻道,http://iptv12k.com:35461/live/80301070602/456776/1246.m3u8
+TSN 1,http://iptv12k.com:35461/live/80301070602/456776/1245.m3u8
+TLC旅遊生活,http://iptv12k.com:35461/live/80301070602/456776/1244.m3u8
+AXN,http://iptv12k.com:35461/live/80301070602/456776/1243.m3u8
+緯來戲劇  緯來戲劇,http://iptv12k.com:35461/live/80301070602/456776/1241.m3u8
+緯來綜合,http://iptv12k.com:35461/live/80301070602/456776/1240.m3u8
+緯來精彩,http://iptv12k.com:35461/live/80301070602/456776/1239.m3u8
+緯來日本,http://iptv12k.com:35461/live/80301070602/456776/1238.m3u8
+緯來體育,http://iptv12k.com:35461/live/80301070602/456776/1237.m3u8
+緯來電影,http://iptv12k.com:35461/live/80301070602/456776/1236.m3u8
+ASIANET NEWS,http://iptv12k.com:35461/live/80301070602/456776/1234.m3u8
+動物星球animal planet,http://iptv12k.com:35461/live/80301070602/456776/1233.m3u8
+探索頻道asia,http://iptv12k.com:35461/live/80301070602/456776/1231.m3u8
+Animax HD,http://iptv12k.com:35461/live/80301070602/456776/1230.m3u8
+亞洲美食頻道,http://iptv12k.com:35461/live/80301070602/456776/1229.m3u8
+NBCgolf,http://iptv12k.com:35461/live/80301070602/456776/1228.m3u8
+NBA,http://iptv12k.com:35461/live/80301070602/456776/1227.m3u8
+TSN 4,http://iptv12k.com:35461/live/80301070602/456776/1225.m3u8
+探索科學,http://iptv12k.com:35461/live/80301070602/456776/1224.m3u8
+EYE TV旅遊台,http://iptv12k.com:35461/live/80301070602/456776/1223.m3u8
+國家地理高畫質野生,http://iptv12k.com:35461/live/80301070602/456776/1222.m3u8
+ELTA體育1台,http://iptv12k.com:35461/live/80301070602/456776/1221.m3u8
+ELTA體育2台,http://iptv12k.com:35461/live/80301070602/456776/1220.m3u8
+ELTA體育3台,http://iptv12k.com:35461/live/80301070602/456776/1219.m3u8
+ELEVEN 體育1,http://iptv12k.com:35461/live/80301070602/456776/1218.m3u8
+ELEVEN 體育2,http://iptv12k.com:35461/live/80301070602/456776/1217.m3u8
+Warner TV,http://iptv12k.com:35461/live/80301070602/456776/1216.m3u8
+BBC Lifestyle Channel,http://iptv12k.com:35461/live/80301070602/456776/1215.m3u8
+CINEMAX HD,http://iptv12k.com:35461/live/80301070602/456776/1214.m3u8
+Travel Channel,http://iptv12k.com:35461/live/80301070602/456776/1213.m3u8
+ESPN,http://iptv12k.com:35461/live/80301070602/456776/1212.m3u8
+BBC Earth,http://iptv12k.com:35461/live/80301070602/456776/1210.m3u8
+MOMO親子臺,http://iptv12k.com:35461/live/80301070602/456776/1209.m3u8
+DW,http://iptv12k.com:35461/live/80301070602/456776/1208.m3u8
+歷史頻道History 1,http://iptv12k.com:35461/live/80301070602/456776/1206.m3u8
+MTV LIVE,http://iptv12k.com:35461/live/80301070602/456776/1205.m3u8
+大愛電視,http://iptv12k.com:35461/live/80301070602/456776/1204.m3u8
+大愛二台,http://iptv12k.com:35461/live/80301070602/456776/1203.m3u8
+人間衛視,http://iptv12k.com:35461/live/80301070602/456776/1202.m3u8
+歷史頻道2 History 2,http://iptv12k.com:35461/live/80301070602/456776/1201.m3u8
+新唐人亞太台,http://iptv12k.com:35461/live/80301070602/456776/1200.m3u8
+年代新聞 NEWS,http://iptv12k.com:35461/live/80301070602/456776/1359.m3u8
+三立inews NEWS,http://iptv12k.com:35461/live/80301070602/456776/1358.m3u8
+中天新聞 NEWS,http://iptv12k.com:35461/live/80301070602/456776/1357.m3u8
+東森財經 NEWS東森財經新聞,http://iptv12k.com:35461/live/80301070602/456776/1356.m3u8
+CNBC NEWS,http://iptv12k.com:35461/live/80301070602/456776/1355.m3u8
+SBN全球財經台 NEWS,http://iptv12k.com:35461/live/80301070602/456776/1354.m3u8
+東森新聞 NEWS,http://iptv12k.com:35461/live/80301070602/456776/1353.m3u8
