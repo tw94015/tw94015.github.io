@@ -26,7 +26,7 @@ momo親子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live
 八大第一台,http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8
 八大綜合,http://61.219.170.95:18517/.m3u8
 三立台灣台,mitv://fccs.word-tv.com:9906/625851fa000d44170faa58e136d727dc#http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20623#http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb#mitv://fccs.word-tv.com:9906/625851fa000d44170faa58e136d727dc
-三立都會台,http://iptv12k.com:35461/live/80301070602/456776/1287.m3u8
+三立都會台,mitv://fccs.word-tv.com:9906/62585240000566d20fab684d64808ca0
 衛視中文台,http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
 東森綜合,http://220.134.196.147:9224/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
 東森超視 HD,http://61.219.170.95:18555/http/192.168.1.9:8081/hls/64/806/ch14.m3u8#http://59.125.122.90:18555/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://59.125.122.90:18555/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8
@@ -70,7 +70,7 @@ AXN,http://61.219.170.95:18548/http/192.168.1.9:8081/hls/71/813/ch43.m3u8#http:/
 衛視合家歡,http://220.134.196.147:9561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a#http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8#http://61.219.170.95:18504/.m3u8
 CINEMAX,http://220.134.196.147:9229/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 緯來育樂,http://220.134.196.147:9569/http/59.120.8.187:8081/hls/68/810/ch30.m3u8#http://61.219.170.95:18541/playlist.m3u8#http://220.134.196.147:9569/playlist.m3u8
-緯來體育,http://60.251.33.252:18509/.m3u8#http://iptv12k.com:35461/live/80301070602/456776/1237.m3u8#rtmp://59.124.75.138:1935/sat/tv721#rtmp://59.124.75.138/sat/tv721#rtmp://59.124.75.150/sat/tv721#P2p://54.39.16.152:9906/62541bbd000ba7f6097abfe357f9c565
+緯來體育,http://60.251.33.252:18509/.m3u8#mitv://fccs.word-tv.com:9906/62541bbd000ba7f6097abfe357f9c565#rtmp://59.124.75.138:1935/sat/tv721#rtmp://59.124.75.138/sat/tv721#rtmp://59.124.75.150/sat/tv721#P2p://54.39.16.152:9906/62541bbd000ba7f6097abfe357f9c565
 ELEVEN體育1台,,mitv://fccs.word-tv.com:9906/625854d4000964b10fb57b7382610c8d#rtmp://59.124.75.150/sat/tv731#rtmp://59.124.75.138:1935/sat/tv731#http://220.134.196.147:9230/http/59.120.8.187:8078/hls/25/80/esport.m3u8#http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8#rtmp://59.124.75.150/sat/tv741#http://220.134.196.147:9227/http/59.120.8.187:8078/hls/26/80/esport2.m3u8#https://epg.pm/stream/480fbbc2ba61ff75864f5aca4b9918c7ddba6fb3306ad56eb2a6482f92fc3301.m3u8#rtmp://59.124.75.138:1935/sat/tv741
 momo綜合台,http://61.219.170.95:18576/http/192.168.1.9:8081/hls/76/818/momo_max.m3u8
@@ -149,12 +149,12 @@ GoodTV2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/l
 民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
 中視經典台,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
-中視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+中視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
 中視精采台,mitv://fccs.word-tv.com:9906/6269290b000463f70377555ece4c7fca
 台視財經,mitv://fccs.word-tv.com:9906/626928870002ef3e0375515fa02e33ba
-台視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
-星衛電影台,http://iptv12k.com:35461/live/80301070602/456776/1870.m3u8#http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
-星衛娛樂台,http://iptv12k.com:35461/live/80301070602/456776/1247.m3u8
+台視新聞,https://git.io/JgkxY#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
+星衛電影台,mitv://fccs.word-tv.com:9906/62613c0200051f95188982fec2ef3ed5#http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+星衛娛樂台,mitv://fccs.word-tv.com:9906/6259b4eb0005f6251514d46a93c04eb3
 THE K-POP,https://git.io/JgYAE
 暴走兄弟,http://zzy789.xyz/bili.php?id=10544270
 BBC Lifestyle
@@ -164,11 +164,11 @@ BBC Earth
 Eurosport 1,http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/217/stream.m3u8#http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8#http://cdnua06.hls.tv/476/hls/ic98vakdjzm2sqf1elhg67pwr0xbto34/216/stream.m3u8#http://cdnua06.hls.tv/476/hls/cma6nrk9e8z7ygfsl5xtj3ohb014vpw2/216/stream.m3u8#http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/216/stream.m3u8
 Eurosport 2,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/stream.m3u8#http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/219/stream.m3u8#http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/stream.m3u8#http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8#http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=eurosport2
 WWE,http://50.7.220.74:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
-愛爾達體育1台,mitv://fccs.word-tv.com:9906/62596cd0000349b813fb2a4367d31141#http://iptv12k.com:35461/live/80301070602/456776/1221.m3u8#http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745#rtmp://59.124.75.150/sat/md011#rtmp://59.124.75.138/sat/md011
-愛爾達體育2台,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10
-愛爾達體育3台,mitv://fccs.word-tv.com:9906/62596d0a0009c5b313fc0e7cd12205f2#http://iptv12k.com:35461/live/80301070602/456776/1219.m3u8#rtmp://59.124.75.138/sat/md021
+愛爾達體育1台,mitv://fccs.word-tv.com:9906/62596cd0000349b813fb2a4367d31141#mitv://ns2.hellotvvod.com:9906/ce296a7106944164ad01b2b2b18b59ed#mitv://ns2.hellotvvod.com:9906/314f21ee7a2d45f78bfafa8232920af4#rtmp://59.124.75.150/sat/md011#rtmp://59.124.75.138/sat/md011
+愛爾達體育2台,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10#mitv://ns2.hellotvvod.com:9906/b5950873b0594135b9ebfa4d106ab456#mitv://ns2.hellotvvod.com:9906/c16187a81977429ba130bc73329b5d57
+愛爾達體育3台,mitv://fccs.word-tv.com:9906/62596d0a0009c5b313fc0e7cd12205f2#mitv://ns2.hellotvvod.com:9906/adc92eea521945d99d024e5d9c591e2c#mitv://ns2.hellotvvod.com:9906/5d28361306c940c4845edaf4f49fff7d
 HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
-HBO強檔巨獻,http://iptv12k.com:35461/live/80301070602/456776/258.m3u8
+HBO強檔巨獻,mitv://fccs.word-tv.com:9906/6259b8f1000b9a0015248d4cabbe753c
 HBO原創巨獻,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 HBO溫馨家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 Star Movies,mitv://fccs.word-tv.com:9906/6258d58f000430fa11ac54962a5c2d42
@@ -189,7 +189,7 @@ CLASSICA 古典樂,mitv://fccs.word-tv.com:9906/6260fd970004b7061795b0eb2df29131
 DMAX,mitv://fccs.word-tv.com:9906/6258ec18000964b412045d13a4eb316e
 CatchPlay電影台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv076&nid=177
 AMC最愛電影,mitv://ns2.hellotvvod.com:9906/d735892105d24440af69d6869a4ea091
-緯來精采,http://iptv12k.com:35461/live/80301070602/456776/1239.m3u8
+緯來精采,mitv://ns2.hellotvvod.com:9906/0d4ecea36f6c4b6384f50afcec053086
 三立戲劇台,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
 博斯高球I,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
 博斯高球II,http://198.204.239.194:27347/livehlsplay?channel_id=20117
@@ -209,10 +209,10 @@ LUXE TV,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&ni
 華語綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
 EF運通,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
 MTV POP,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-J Sports 1,http://iptv12k.com:35461/live/80301070602/456776/3134.m3u8
-J Sports 2,http://iptv12k.com:35461/live/80301070602/456776/3135.m3u8
-J Sports 3,http://iptv12k.com:35461/live/80301070602/456776/3136.m3u8
-J Sports 4,http://iptv12k.com:35461/live/80301070602/456776/3137.m3u8
+J Sports 1,mitv://fccs.word-tv.com:9906/62693bb8000a631203c04aaf37cd8e88
+J Sports 2,mitv://fccs.word-tv.com:9906/62693bdb0004012003c0d1c50f9e8e29
+J Sports 3,mitv://fccs.word-tv.com:9906/62693bfe00003b9903c15986a1340f94
+J Sports 4,mitv://fccs.word-tv.com:9906/62693c20000c2a0c03c1e164c32f251c
 海豚綜合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 達文西頻道
 ELTV生活英語台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
@@ -244,8 +244,8 @@ FashionTV,http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&
 網路流行音樂台,https://git.io/JgkA6
 🌏新聞,#genre#
 民視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
-台視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
-中視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+台視新聞 HD,https://git.io/JgkxY#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
+中視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
 華視新聞資訊 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw#http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
 TVBS新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129#rtmp://59.124.75.138/sat/tv551#rtmp://59.124.75.150/sat/tv551
 中天新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
@@ -266,10 +266,10 @@ TVBS新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live
 滾動力,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
 
 ⚾體育,#genre#
-緯來體育,http://60.251.33.252:18509/.m3u8#http://iptv12k.com:35461/live/80301070602/456776/1237.m3u8#rtmp://59.124.75.138:1935/sat/tv721#rtmp://59.124.75.138/sat/tv721#rtmp://59.124.75.150/sat/tv721#P2p://54.39.16.152:9906/62541bbd000ba7f6097abfe357f9c565
-愛爾達體育1台,mitv://fccs.word-tv.com:9906/62596cd0000349b813fb2a4367d31141#http://iptv12k.com:35461/live/80301070602/456776/1221.m3u8#http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745#rtmp://59.124.75.150/sat/md011#rtmp://59.124.75.138/sat/md011
-愛爾達體育2台,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10
-愛爾達體育3台,mitv://fccs.word-tv.com:9906/62596d0a0009c5b313fc0e7cd12205f2#http://iptv12k.com:35461/live/80301070602/456776/1219.m3u8#rtmp://59.124.75.138/sat/md021
+緯來體育,http://60.251.33.252:18509/.m3u8#mitv://fccs.word-tv.com:9906/62541bbd000ba7f6097abfe357f9c565#rtmp://59.124.75.138:1935/sat/tv721#rtmp://59.124.75.138/sat/tv721#rtmp://59.124.75.150/sat/tv721#P2p://54.39.16.152:9906/62541bbd000ba7f6097abfe357f9c565
+愛爾達體育1台,mitv://fccs.word-tv.com:9906/62596cd0000349b813fb2a4367d31141#mitv://ns2.hellotvvod.com:9906/ce296a7106944164ad01b2b2b18b59ed#mitv://ns2.hellotvvod.com:9906/314f21ee7a2d45f78bfafa8232920af4#rtmp://59.124.75.150/sat/md011#rtmp://59.124.75.138/sat/md011
+愛爾達體育2台,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10#mitv://ns2.hellotvvod.com:9906/b5950873b0594135b9ebfa4d106ab456#mitv://ns2.hellotvvod.com:9906/c16187a81977429ba130bc73329b5d57
+愛爾達體育3台,mitv://fccs.word-tv.com:9906/62596d0a0009c5b313fc0e7cd12205f2#mitv://ns2.hellotvvod.com:9906/adc92eea521945d99d024e5d9c591e2c#mitv://ns2.hellotvvod.com:9906/5d28361306c940c4845edaf4f49fff7d
 ELEVEN體育1台,,mitv://fccs.word-tv.com:9906/625854d4000964b10fb57b7382610c8d#rtmp://59.124.75.150/sat/tv731#rtmp://59.124.75.138:1935/sat/tv731#http://220.134.196.147:9230/http/59.120.8.187:8078/hls/25/80/esport.m3u8#http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8#rtmp://59.124.75.150/sat/tv741#http://220.134.196.147:9227/http/59.120.8.187:8078/hls/26/80/esport2.m3u8#https://epg.pm/stream/480fbbc2ba61ff75864f5aca4b9918c7ddba6fb3306ad56eb2a6482f92fc3301.m3u8#rtmp://59.124.75.138:1935/sat/tv741
 J Sports 1,P2p://54.39.16.152:9906/62693bb8000a631203c04aaf37cd8e88
@@ -290,7 +290,7 @@ BT Sport ESPN,http://93.152.174.144:4000/play/btsportespn/index.m3u8
 衛視電影台,http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8#http://61.219.170.95:18529/.m3u8#http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8#http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2#http://61.219.170.95:18529/.m3u8
 東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b#http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20296
 東森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4#mitv://45.92.126.18:9906/62541d6200021780098129f8ea5d0f93
-星衛電影台,http://iptv12k.com:35461/live/80301070602/456776/1870.m3u8#http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+星衛電影台,mitv://fccs.word-tv.com:9906/62613c0200051f95188982fec2ef3ed5#http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
 經典電影,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
 好萊塢電影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3#http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859#http://220.134.196.147:9224/http/116.50.42.19:8081/hls/74/816/ch55.m3u8#mitv://fccs.word-tv.com:9906/6256bd25000a0a02097cf805932004af
 HBO Signature,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
@@ -314,7 +314,7 @@ CatchPlay電影台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv
 八大戲劇 HD,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54#http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
 三立戲劇台,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
 三立台灣台,mitv://fccs.word-tv.com:9906/625851fa000d44170faa58e136d727dc#http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20623#http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb#mitv://fccs.word-tv.com:9906/625851fa000d44170faa58e136d727dc
-三立都會台,http://iptv12k.com:35461/live/80301070602/456776/1287.m3u8
+三立都會台,mitv://fccs.word-tv.com:9906/62585240000566d20fab684d64808ca0
 三立綜合,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169#http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20343
 年代MUCH,http://61.219.170.95:18558/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
 衛視中文 FHD,http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
@@ -334,7 +334,7 @@ Star World,http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8
 🌄即時風景,#genre#
 🇹🇼台北-象山,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=528
 
-❤鎖碼頻道❤_0,#genre#
+❤鎖碼頻道❤_0000,#genre#
 ☆JSᴴᴰ極限電影,mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815#P2p://54.39.16.152:9906/6260e2b000004933172c99712568d815
 彩虹e台,mitv://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057#p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
 彩虹電影台,mitv://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66#p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66
