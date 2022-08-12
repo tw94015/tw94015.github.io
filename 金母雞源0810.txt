@@ -397,7 +397,7 @@ AMC,mitv://fccs.word-tv.com:9906/62674eb900041ef4163efcc6b4c8cd0b
 EYE戲劇,mitv://fccs.word-tv.com:9906/625960940003b62a13cb5fff85627bd1
 愛爾達影劇台,mitv://fccs.word-tv.com:9906/62595fe00007a82a13c8a1e18c1171c7
 
-成人,#genre#
+成人_0,#genre#
 ☆JSᴴᴰ極限電影,mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815#P2p://54.39.16.152:9906/6260e2b000004933172c99712568d815
 彩虹e台,mitv://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057#p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
 彩虹電影台,mitv://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66#p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66
