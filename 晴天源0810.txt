@@ -863,7 +863,7 @@ Hub娛家,mitv://ns2.hellotvvod.com:9906/90ae533013ca45d3a8a561bef4187768
   
 
 
-SP,#genre#   
+SP_0,#genre#   
 彩虹e台,mitv://ns2.hellotvvod.com:9906/27fee1f489c64dfb8a387d2b40163340
 彩虹電影台,mitv://ns2.hellotvvod.com:9906/44584f27dd034bc4bd3cb79a81ac16c7
 LOOK TV,mitv://ns2.hellotvvod.com:9906/220b79ae6fb7445880c32d5c7aeecaf3
