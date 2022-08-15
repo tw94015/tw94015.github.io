@@ -14,7 +14,7 @@ CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x72
 GoodTV,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 原住民電視台,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8#http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
 客家電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
-國家地理,http://220.134.196.147:9236/http/116.50.42.18:8081/hls/61/803/ch01.m3u8#http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
+國家地理,mitv://fccs.word-tv.com:9906/62541d810002b7c00981a33911a2eb57#http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
 Discovery,http://61.219.170.95:18500/.m3u8#http://220.134.196.147:9568/http/116.50.42.19:8081/hls/71/813/ch44.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
 TLC旅遊生活,http://220.134.196.147:9567/http/116.50.42.19:8081/hls/70/812/ch38.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef#http://220.134.196.147:9570/http/116.50.42.18:8088/hls/70/812/ch38.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
 動物星球,http://220.134.196.147:9566/http/116.50.42.18:8088/hls/70/812/ch37.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
@@ -60,7 +60,7 @@ TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 美好1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 中天新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
 衛視電影台,http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8#http://61.219.170.95:18529/.m3u8#http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8#http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2#http://61.219.170.95:18529/.m3u8
-東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b#http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20296
+東森電影,mitv://fccs.word-tv.com:9906/62541ccb0008d232097eddd9e4082c99#http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20296
 緯來電影,http://220.134.196.147:9223/http/116.50.42.18:8081/hls/69/811/ch35.m3u8
 龍祥時代,http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8#http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
 HBO,http://220.134.196.147:9557/http/116.50.42.18:8081/hls/71/813/ch41.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
@@ -167,7 +167,7 @@ WWE,http://50.7.220.74:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18
 愛爾達體育1台,mitv://fccs.word-tv.com:9906/62596cd0000349b813fb2a4367d31141#mitv://ns2.hellotvvod.com:9906/ce296a7106944164ad01b2b2b18b59ed#mitv://ns2.hellotvvod.com:9906/314f21ee7a2d45f78bfafa8232920af4#rtmp://59.124.75.150/sat/md011#rtmp://59.124.75.138/sat/md011
 愛爾達體育2台,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10#mitv://ns2.hellotvvod.com:9906/b5950873b0594135b9ebfa4d106ab456#mitv://ns2.hellotvvod.com:9906/c16187a81977429ba130bc73329b5d57
 愛爾達體育3台,mitv://fccs.word-tv.com:9906/62596d0a0009c5b313fc0e7cd12205f2#mitv://ns2.hellotvvod.com:9906/adc92eea521945d99d024e5d9c591e2c#mitv://ns2.hellotvvod.com:9906/5d28361306c940c4845edaf4f49fff7d
-HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2#mitv://fccs.word-tv.com:9906/6268100d000c1b5d19322ef22ed23efc
 HBO強檔巨獻,mitv://fccs.word-tv.com:9906/6259b8f1000b9a0015248d4cabbe753c
 HBO原創巨獻,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 HBO溫馨家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
@@ -288,13 +288,13 @@ BT Sport ESPN,http://93.152.174.144:4000/play/btsportespn/index.m3u8
 📽電影,#genre#
 龍華電影,mitv://ns2.hellotvvod.com:9906/1b6b62a7122142ec8193504cf0a103f3#http://61.219.170.95:18574/.m3u8
 衛視電影台,http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8#http://61.219.170.95:18529/.m3u8#http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8#http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2#http://61.219.170.95:18529/.m3u8
-東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b#http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20296
+東森電影,mitv://fccs.word-tv.com:9906/62541ccb0008d232097eddd9e4082c99#http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20296
 東森洋片,mitv://fccs.word-tv.com:9906/62541d6200021780098129f8ea5d0f93#mitv://ns2.hellotvvod.com:9906/8a1ff4a067904e7b95d15a545b9d12ca
 星衛電影台,mitv://fccs.word-tv.com:9906/62613c0200051f95188982fec2ef3ed5#http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
 經典電影,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
 好萊塢電影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3#http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859#http://220.134.196.147:9224/http/116.50.42.19:8081/hls/74/816/ch55.m3u8#mitv://fccs.word-tv.com:9906/6256bd25000a0a02097cf805932004af
-HBO Signature,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+HBO Signature,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee#mitv://fccs.word-tv.com:9906/6259b8f1000b9a0015248d4cabbe753c
+HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2#mitv://fccs.word-tv.com:9906/6268100d000c1b5d19322ef22ed23efc
 緯來電影,http://220.134.196.147:9223/http/116.50.42.18:8081/hls/69/811/ch35.m3u8
 龍祥時代,http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8#http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
 漫威電影,http://epg.112114.xyz/douyu/4282654
