@@ -25,8 +25,8 @@ momo親子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live
 緯來綜合,http://61.219.170.95:18540/.m3u8
 八大第一台,http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8
 八大綜合,http://61.219.170.95:18517/.m3u8
-三立台灣台,mitv://fccs.word-tv.com:9906/625851fa000d44170faa58e136d727dc#http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20623#http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb#mitv://fccs.word-tv.com:9906/625851fa000d44170faa58e136d727dc
-三立都會台,mitv://fccs.word-tv.com:9906/62585240000566d20fab684d64808ca0
+三立台灣台,mitv://fccs.word-tv.com:9906/625851fa000d44170faa58e136d727dc#http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20623#http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+三立都會台,mitv://fccs.word-tv.com:9906/62585240000566d20fab684d64808ca0#mitv://ns2.hellotvvod.com:9906/742bf4f7d3684ef884b4b251e18be970
 衛視中文台,http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
 東森綜合,http://220.134.196.147:9224/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
 東森超視 HD,http://61.219.170.95:18555/http/192.168.1.9:8081/hls/64/806/ch14.m3u8#http://59.125.122.90:18555/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://59.125.122.90:18555/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8
@@ -313,8 +313,8 @@ CatchPlay電影台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv
 八大第一 FHD,http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8
 八大戲劇 HD,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54#http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
 三立戲劇台,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
-三立台灣台,mitv://fccs.word-tv.com:9906/625851fa000d44170faa58e136d727dc#http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20623#http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb#mitv://fccs.word-tv.com:9906/625851fa000d44170faa58e136d727dc
-三立都會台,mitv://fccs.word-tv.com:9906/62585240000566d20fab684d64808ca0
+三立台灣台,mitv://fccs.word-tv.com:9906/625851fa000d44170faa58e136d727dc#http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20623#http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+三立都會台,mitv://fccs.word-tv.com:9906/62585240000566d20fab684d64808ca0#mitv://ns2.hellotvvod.com:9906/742bf4f7d3684ef884b4b251e18be970
 三立綜合,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169#http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20343
 年代MUCH,http://61.219.170.95:18558/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
 衛視中文 FHD,http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
