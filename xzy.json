@@ -5,7 +5,7 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 /*-----------------------JAR包接口-----------------------*/
-"spider":"clan://TVBox/zy/jar/xzy.jar",
+"spider":"https://share.nite07.com/api/v3/file/source/14989/xzy.jar?sign=LXhFJRFy_6YJWqlf8x7NB-bh_G0185qnVbg0QtcWA6M%3D%3A0",
 
 /*-----------------------直播-----------------------*/
 //"lives": [{"group": "redirect","channels": [{"name": "live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3p5L3R2L3h6eS50eHQ="]}]}],
