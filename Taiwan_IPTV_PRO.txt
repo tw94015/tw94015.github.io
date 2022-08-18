@@ -1,5 +1,5 @@
 🇹🇼台灣頻道🇹🇼,#genre#
-豬哥亮歌廳秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
+網路流行音樂台,https://git.io/JgkA6
 公視台語台,http://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3#http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=MF8F2804739628047396&ct=19193&tsum=73a49379fed74f8fc39359fcf589a9d8#rtmp://59.124.75.138/sat/tv051#rtmp://59.124.75.138:1935/sat/tv051#rtmp://59.124.75.150/sat/tv051
@@ -164,9 +164,9 @@ BBC Earth
 Eurosport 1,http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/217/stream.m3u8#http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8#http://cdnua06.hls.tv/476/hls/ic98vakdjzm2sqf1elhg67pwr0xbto34/216/stream.m3u8#http://cdnua06.hls.tv/476/hls/cma6nrk9e8z7ygfsl5xtj3ohb014vpw2/216/stream.m3u8#http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/216/stream.m3u8
 Eurosport 2,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/stream.m3u8#http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/219/stream.m3u8#http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/stream.m3u8#http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8#http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=eurosport2
 WWE,http://50.7.220.74:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
-愛爾達體育1台,mitv://fccs.word-tv.com:9906/62596cd0000349b813fb2a4367d31141#mitv://ns2.hellotvvod.com:9906/ce296a7106944164ad01b2b2b18b59ed#mitv://ns2.hellotvvod.com:9906/314f21ee7a2d45f78bfafa8232920af4#rtmp://59.124.75.150/sat/md011#rtmp://59.124.75.138/sat/md011
-愛爾達體育2台,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10#mitv://ns2.hellotvvod.com:9906/b5950873b0594135b9ebfa4d106ab456#mitv://ns2.hellotvvod.com:9906/c16187a81977429ba130bc73329b5d57
-愛爾達體育3台,mitv://fccs.word-tv.com:9906/62596d0a0009c5b313fc0e7cd12205f2#mitv://ns2.hellotvvod.com:9906/adc92eea521945d99d024e5d9c591e2c#mitv://ns2.hellotvvod.com:9906/5d28361306c940c4845edaf4f49fff7d
+愛爾達體育1台,mitv://fccs.word-tv.com:9906/62596cd0000349b813fb2a4367d31141#http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745#rtmp://59.124.75.150/sat/md011#rtmp://59.124.75.138/sat/md011
+愛爾達體育2台,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10
+愛爾達體育3台,mitv://fccs.word-tv.com:9906/62596d0a0009c5b313fc0e7cd12205f2
 HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2#mitv://fccs.word-tv.com:9906/6268100d000c1b5d19322ef22ed23efc
 HBO強檔巨獻,mitv://fccs.word-tv.com:9906/6259b8f1000b9a0015248d4cabbe753c
 HBO原創巨獻,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
@@ -241,7 +241,7 @@ FashionTV,http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&
 生命電視台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 孝廉,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
 音樂石榴,http://txtest-xp2p.p2p.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.xs
-網路流行音樂台,https://git.io/JgkA6
+豬哥亮歌廳秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
 🌏新聞,#genre#
 民視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
 台視新聞 HD,https://git.io/JgkxY#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
@@ -267,9 +267,9 @@ TVBS新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live
 
 ⚾體育,#genre#
 緯來體育,http://60.251.33.252:18509/.m3u8#mitv://fccs.word-tv.com:9906/62541bbd000ba7f6097abfe357f9c565#rtmp://59.124.75.138:1935/sat/tv721#rtmp://59.124.75.138/sat/tv721#rtmp://59.124.75.150/sat/tv721#P2p://54.39.16.152:9906/62541bbd000ba7f6097abfe357f9c565
-愛爾達體育1台,mitv://fccs.word-tv.com:9906/62596cd0000349b813fb2a4367d31141#mitv://ns2.hellotvvod.com:9906/ce296a7106944164ad01b2b2b18b59ed#mitv://ns2.hellotvvod.com:9906/314f21ee7a2d45f78bfafa8232920af4#rtmp://59.124.75.150/sat/md011#rtmp://59.124.75.138/sat/md011
-愛爾達體育2台,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10#mitv://ns2.hellotvvod.com:9906/b5950873b0594135b9ebfa4d106ab456#mitv://ns2.hellotvvod.com:9906/c16187a81977429ba130bc73329b5d57
-愛爾達體育3台,mitv://fccs.word-tv.com:9906/62596d0a0009c5b313fc0e7cd12205f2#mitv://ns2.hellotvvod.com:9906/adc92eea521945d99d024e5d9c591e2c#mitv://ns2.hellotvvod.com:9906/5d28361306c940c4845edaf4f49fff7d
+愛爾達體育1台,mitv://fccs.word-tv.com:9906/62596cd0000349b813fb2a4367d31141#http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745#rtmp://59.124.75.150/sat/md011#rtmp://59.124.75.138/sat/md011
+愛爾達體育2台,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10
+愛爾達體育3台,mitv://fccs.word-tv.com:9906/62596d0a0009c5b313fc0e7cd12205f2
 ELEVEN體育1台,mitv://fccs.word-tv.com:9906/625854d4000964b10fb57b7382610c8d#rtmp://59.124.75.150/sat/tv731#rtmp://59.124.75.138:1935/sat/tv731#mitv://ns2.hellotvvod.com:9906/16d8fd11dd3d4172889bc1500f764c81#http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8#rtmp://59.124.75.150/sat/tv741#mitv://fccs.word-tv.com:9906/6258550f0001c6880fb65ff87e0ebc13#mitv://ns2.hellotvvod.com:9906/157cac38d31e4570a7b623e6cd23e897#rtmp://59.124.75.138:1935/sat/tv741
 J Sports 1,P2p://54.39.16.152:9906/62693bb8000a631203c04aaf37cd8e88
