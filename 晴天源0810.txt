@@ -3,7 +3,7 @@
 🇹🇼台灣,#genre#  
 
 
-1,http://na2.mytv01.com:1977/live/ab7c868d-3788-4bfa-8352-930399e5c78a.m3u8
+1,http://na.mytv01.com:1977/live/a0c87361-87f0-422f-a9ba-c9d614f7fd8e.m3u8
 2,http://na2.mytv01.com:1977/live/14a2fbdd-6d6a-4f1b-b7cb-37097fea5988.m3u8
 3,http://na2.mytv01.com:1977/live/bba1cd9a-b72b-4d29-a545-384d7de01cf7.m3u8
 民視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
