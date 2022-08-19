@@ -1,4 +1,4 @@
-☀晴天源,#genre#
+☀晴天源故障中等待修復,#genre#
 🇹🇼台北-象山,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=528
 🇹🇼台灣,#genre#  
 CNN,mitv://ns2.hellotvvod.com:9906/c1a6d29a426a4cbabb1c2d0a09c7222f
