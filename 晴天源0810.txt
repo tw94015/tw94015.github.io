@@ -5,7 +5,7 @@
 
 1,http://na2.mytv01.com:1977/live/ab7c868d-3788-4bfa-8352-930399e5c78a.m3u8
 2,http://na2.mytv01.com:1977/live/14a2fbdd-6d6a-4f1b-b7cb-37097fea5988.m3u8
-3,http://na2.mytv01.com:1977/live/bba1cd9a-b72b-4d29-a545-384d7de01cf7.m3u8
+3,http://na2.mytv01.com:1977/live2/127.0.0.1:1977/hls/166202_TW_MINGSHI-20220819-1660918380.ts
 民視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
 民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
