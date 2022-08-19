@@ -2,6 +2,7 @@
 🇹🇼台北-象山,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=528
 🇹🇼台灣,#genre#  
 
+三立台灣IPV6,http://na2.mytv01.com:1977/live/ab7c868d-3788-4bfa-8352-930399e5c78a.m3u8
 民視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
 民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
