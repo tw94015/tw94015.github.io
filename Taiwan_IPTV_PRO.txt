@@ -129,7 +129,7 @@ GoodTV2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/l
 民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
 民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
 龍華動畫,http://61.219.170.95:18600/.m3u8
-龍華電影,mitv://ns2.hellotvvod.com:9906/1b6b62a7122142ec8193504cf0a103f3#http://61.219.170.95:18574/.m3u8
+龍華電影,http://59.125.122.90:18574/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://61.219.170.95:18574/.m3u8
 龍華戲劇,http://61.219.170.95:18507/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
 龍華偶像,http://61.219.170.95:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
 龍華日韓,http://61.219.170.95:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
@@ -286,7 +286,7 @@ NBA,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/281638
 BT Sport ESPN,http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
 📽電影,#genre#
-龍華電影,mitv://ns2.hellotvvod.com:9906/1b6b62a7122142ec8193504cf0a103f3#http://61.219.170.95:18574/.m3u8
+龍華電影,http://59.125.122.90:18574/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://61.219.170.95:18574/.m3u8
 衛視電影台,http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8#http://61.219.170.95:18529/.m3u8#http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8#http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2#http://61.219.170.95:18529/.m3u8
 東森電影,mitv://fccs.word-tv.com:9906/62541ccb0008d232097eddd9e4082c99#http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20296#http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 東森洋片,mitv://fccs.word-tv.com:9906/62541d6200021780098129f8ea5d0f93#mitv://ns2.hellotvvod.com:9906/8a1ff4a067904e7b95d15a545b9d12ca
