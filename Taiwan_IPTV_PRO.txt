@@ -15,7 +15,7 @@ GoodTV,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/li
 原住民電視台,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8#http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
 客家電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
 國家地理,mitv://fccs.word-tv.com:9906/62541d810002b7c00981a33911a2eb57#http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
-Discovery,http://61.219.170.95:18500/.m3u8#http://220.134.196.147:9568/http/116.50.42.19:8081/hls/71/813/ch44.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
+Discovery,p2p://fccs.word-tv.com:9906/62541db9000483b809827e6fdf85c22c
 TLC旅遊生活,http://220.134.196.147:9567/http/116.50.42.19:8081/hls/70/812/ch38.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef#http://220.134.196.147:9570/http/116.50.42.18:8088/hls/70/812/ch38.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
 動物星球,http://220.134.196.147:9566/http/116.50.42.18:8088/hls/70/812/ch37.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
 CN卡通頻道,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
