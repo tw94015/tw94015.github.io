@@ -165,7 +165,7 @@ Eurosport 1,http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/217/s
 Eurosport 2,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/stream.m3u8#http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/219/stream.m3u8#http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/stream.m3u8#http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8#http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=eurosport2
 WWE,http://50.7.220.74:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 愛爾達體育1台,mitv://fccs.word-tv.com:9906/62596cd0000349b813fb2a4367d31141#http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745#rtmp://59.124.75.150/sat/md011#rtmp://59.124.75.138/sat/md011
-愛爾達體育2台,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10
+愛爾達體育2台,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10##rtmp://59.124.75.138/sat/md041
 愛爾達體育3台,mitv://fccs.word-tv.com:9906/62596d0a0009c5b313fc0e7cd12205f2
 HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2#mitv://fccs.word-tv.com:9906/6268100d000c1b5d19322ef22ed23efc
 HBO強檔巨獻,mitv://fccs.word-tv.com:9906/6259b8f1000b9a0015248d4cabbe753c
@@ -268,7 +268,7 @@ TVBS新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live
 ⚾體育,#genre#
 緯來體育,http://60.251.33.252:18509/.m3u8#mitv://fccs.word-tv.com:9906/62541bbd000ba7f6097abfe357f9c565#rtmp://59.124.75.138:1935/sat/tv721#rtmp://59.124.75.138/sat/tv721#rtmp://59.124.75.150/sat/tv721#P2p://54.39.16.152:9906/62541bbd000ba7f6097abfe357f9c565
 愛爾達體育1台,mitv://fccs.word-tv.com:9906/62596cd0000349b813fb2a4367d31141#http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745#rtmp://59.124.75.150/sat/md011#rtmp://59.124.75.138/sat/md011
-愛爾達體育2台,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10
+愛爾達體育2台,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10#rtmp://59.124.75.138/sat/md041
 愛爾達體育3台,mitv://fccs.word-tv.com:9906/62596d0a0009c5b313fc0e7cd12205f2
 ELEVEN體育1台,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120#mitv://fccs.word-tv.com:9906/625854d4000964b10fb57b7382610c8d#rtmp://59.124.75.138:1935/sat/tv731#rtmp://59.124.75.150/sat/tv731
 ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8#rtmp://59.124.75.150/sat/tv741#mitv://fccs.word-tv.com:9906/6258550f0001c6880fb65ff87e0ebc13#rtmp://59.124.75.138:1935/sat/tv741
