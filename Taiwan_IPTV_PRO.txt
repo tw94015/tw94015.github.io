@@ -49,7 +49,7 @@ momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8#http://stream.nexttv.com.tw:80/n001/hd/live.m3u8
 年代新聞,mitv://fccs.word-tv.com:9906/62540c45000225da093e50b45b457d41
 東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
-華視新聞資訊,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw#http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
+華視新聞資訊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
 民視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
 三立新聞,http://220.134.196.147:9243/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 TVBS新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129#rtmp://59.124.75.138/sat/tv551#rtmp://59.124.75.150/sat/tv551
@@ -149,10 +149,10 @@ GoodTV2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/l
 民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
 中視經典台,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
-中視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+中視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
 中視精采台,mitv://fccs.word-tv.com:9906/6269290b000463f70377555ece4c7fca
 台視財經,mitv://fccs.word-tv.com:9906/626928870002ef3e0375515fa02e33ba
-台視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
+台視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8#https://git.io/JgkxY
 星衛電影台,mitv://fccs.word-tv.com:9906/62613c0200051f95188982fec2ef3ed5#http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
 星衛娛樂台,mitv://fccs.word-tv.com:9906/6259b4eb0005f6251514d46a93c04eb3
 THE K-POP,https://git.io/JgYAE
@@ -244,9 +244,9 @@ FashionTV,http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&
 豬哥亮歌廳秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
 🌏新聞,#genre#
 民視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
-台視新聞 HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
-中視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
-華視新聞資訊 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw#http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
+台視新聞 HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8#https://git.io/JgkxY
+中視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+華視新聞資訊 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
 TVBS新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129#rtmp://59.124.75.138/sat/tv551#rtmp://59.124.75.150/sat/tv551
 中天新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
 三立新聞,http://220.134.196.147:9243/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
