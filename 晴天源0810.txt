@@ -1,3 +1,7 @@
+風景,#genre#
+🇹🇼台北-象山,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=528
+
+
 四季線上免費頻道,#genre#
 
 民視第一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
@@ -55,9 +59,6 @@ CNN國際新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv
 華語戲劇台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
 華語綜藝台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
 
-風景,#genre#
-🇹🇼台北-象山,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=528
-
 218秒播,#genre#
 龍華電影台,http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
 中天娛樂FHD,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
@@ -91,3 +92,293 @@ NHK世界FHD,http://218.32.47.179:8552/http/192.168.1.9:8081/hls/62/804/ch06.m3u
 MUCH TV,http://218.32.47.179:18529/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
 龍華戲劇台,http://218.32.47.179:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
 人間衛視,http://218.32.47.179:8506/http/192.168.1.9:8081/hls/69/811/ch36.m3u8
+
+🇹🇼台灣,#genre#
+中天新聞,http://146.56.155.239:9000/jmsytb.m3u8?c=33
+中視新聞,http://146.56.155.239:9000/jmsytb.m3u8?c=28
+台視新聞,http://146.56.155.239:9000/jmsytb.m3u8?c=29
+三立LIVE,http://146.56.155.239:9000/jmsytb.m3u8?c=27
+三立INEWS,http://146.56.155.239:9000/jmsytb.m3u8?c=24
+鏡新聞,http://146.56.155.239:9000/jmsytb.m3u8?c=23
+寰宇新聞台,http://146.56.155.239:9000/jmsytb.m3u8?c=25
+東森新聞,http://146.56.155.239:9000/jmsytb.m3u8?c=22
+東森財經新聞,http://146.56.155.239:9000/jmsytb.m3u8?c=26
+東森LIVE,http://146.56.155.239:9000/jmsytb.m3u8?c=02
+TVBS新聞台,http://146.56.155.239:9000/jmsytb.m3u8?c=31
+TVBS,http://146.56.155.239:9000/jmsytb.m3u8?c=30
+魅力足球,http://27.47.68.22:808/hls/50/index.m3u8
+龍祥時代,http://27.47.68.22:808/hls/38/index.m3u8
+東森洋片,http://27.47.68.22:808/hls/59/index.m3u8
+東森電影,http://27.47.68.22:808/hls/58/index.m3u8
+TVB星河http://27.47.68.22:808/hls/35/index.m3u8
+TVB明珠,http://27.47.68.22:808/hls/37/index.m3u8
+桌遊樂園,http://146.56.155.239:9000/jmsytb.m3u8?c=10
+中天綜合,http://iptv.everydaytv.top/taiwanlive.php?id=25
+中天娛樂,http://iptv.everydaytv.top/taiwanlive.php?id=26
+壹新聞,http://iptv.everydaytv.top/taiwanlive.php?id=46
+衛視中文台,http://iptv.everydaytv.top/taiwanlive.php?id=22
+衛視電影台,http://iptv.everydaytv.top/taiwanlive.php?id=49
+緯來綜合,http://iptv.everydaytv.top/taiwanlive.php?id=17
+緯來育樂,http://iptv.everydaytv.top/taiwanlive.php?id=58
+緯來戲劇,http://iptv.everydaytv.top/taiwanlive.php?id=31
+緯來體育,http://iptv.everydaytv.top/taiwanlive.php?id=59
+緯來日本,http://iptv.everydaytv.top/taiwanlive.php?id=35
+緯來電影,http://iptv.everydaytv.top/taiwanlive.php?id=51
+三立台灣台,http://iptv.everydaytv.top/taiwanlive.php?id=20
+三立都會台,http://iptv.everydaytv.top/taiwanlive.php?id=21
+年代新聞,http://iptv.everydaytv.top/taiwanlive.php?id=37
+年代MUCH,http://iptv.everydaytv.top/taiwanlive.php?id=28
+民視新聞台,http://iptv.everydaytv.top/taiwanlive.php?id=40
+龍華戲劇,http://iptv.everydaytv.top/taiwanlive.php?id=32
+龍華日韓,http://iptv.everydaytv.top/taiwanlive.php?id=33
+龍華偶像,http://iptv.everydaytv.top/taiwanlive.php?id=34
+龍華電影,http://iptv.everydaytv.top/taiwanlive.php?id=52
+寰宇新聞台,http://iptv.everydaytv.top/taiwanlive.php?id=45
+華視新聞資訊,http://iptv.everydaytv.top/taiwanlive.php?id=36
+非凡新聞,http://iptv.everydaytv.top/taiwanlive.php?id=42
+東森綜合,http://iptv.everydaytv.top/taiwanlive.php?id=23
+東森新聞,http://iptv.everydaytv.top/taiwanlive.php?id=38
+東森超視,http://iptv.everydaytv.top/taiwanlive.php?id=24
+東森財經新聞,http://iptv.everydaytv.top/taiwanlive.php?id=44
+八大綜合台,http://iptv.everydaytv.top/taiwanlive.php?id=19
+八大戲劇台,http://iptv.everydaytv.top/taiwanlive.php?id=30
+八大第一台,http://iptv.everydaytv.top/taiwanlive.php?id=18
+STAR WORLD,http://iptv.everydaytv.top/taiwanlive.php?id=57
+NHK,http://iptv.everydaytv.top/taiwanlive.php?id=48
+MOMO綜合台,http://iptv.everydaytv.top/taiwanlive.php?id=61
+好萊塢電影台,http://iptv.everydaytv.top/taiwanlive.php?id=50
+HBO,http://iptv.everydaytv.top/taiwanlive.php?id=53
+ELEVEN 2,http://iptv.everydaytv.top/taiwanlive.php?id=63
+ELEVEN 1,http://iptv.everydaytv.top/taiwanlive.php?id=62
+CINEMAX,http://iptv.everydaytv.top/taiwanlive.php?id=55
+AXN,http://iptv.everydaytv.top/taiwanlive.php?id=54
+中天新聞,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
+中天綜合,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
+中天亞洲台,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
+中視新聞台,http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
+中視,http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
+中視,rtmp://59.124.75.150/sat/tv091
+中視,rtmp://59.124.75.138:1935/sat/tv091
+中視,rtmp://59.124.75.138/sat/tv091
+台視,rtmp://59.124.75.150/sat/tv071
+台視,rtmp://59.124.75.138:1935/sat/tv071
+台視,rtmp://59.124.75.138/sat/tv071
+民視,rtmp://59.124.75.150/sat/tv051
+民視,rtmp://59.124.75.138:1935/sat/tv051
+民視,rtmp://59.124.75.138/sat/tv051
+華視,rtmp://59.124.75.150/sat/tv111
+華視,rtmp://59.124.75.138:1935/sat/tv111
+華視,rtmp://59.124.75.138/sat/tv111
+TVBS新聞,rtmp://59.124.75.150/sat/tv551
+TVBS新聞,rtmp://59.124.75.138:1935/sat/tv551
+TVBS新聞,rtmp://59.124.75.138/sat/tv551
+TVBS歡樂,rtmp://59.124.75.150/sat/tv421
+TVBS歡樂,rtmp://59.124.75.138:1935/sat/tv421
+TVBS歡樂,rtmp://59.124.75.138:1935/sat/tv421
+TVBS歡樂,rtmp://59.124.75.138/sat/tv421
+TVBS歡樂,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
+東森新聞,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
+東森財經新聞,rtmp://59.124.75.150/sat/tv571
+東森財經新聞,rtmp://59.124.75.138/sat/tv571
+東森財經,rtmp://59.124.75.138:1935/sat/tv571
+東森超視,rtmp://59.124.75.138:1935/sat/tv331
+東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+東森綜合,http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
+八大綜合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
+八大綜合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
+八大戲劇,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=ME3E7432781774327817&ct=19193&tsum=504532547ffc646858157dd724bca18d
+八大戲劇,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
+八大戲劇,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
+緯來育樂,rtmp://59.124.75.150/sat/tv701
+緯來育樂,rtmp://59.124.75.138:1935/sat/tv701
+緯來育樂,http://123.51.229.65:18541/.m3u8
+緯來育樂,rtmp://59.124.75.138/sat/tv701
+緯來體育,rtmp://59.124.75.150/sat/tv721
+緯來體育,rtmp://59.124.75.138:1935/sat/tv721
+緯來體育,rtmp://59.124.75.138/sat/tv721
+緯來日本,rtmp://59.124.75.150/sat/tv771
+緯來日本,rtmp://59.124.75.138:1935/sat/tv771
+緯來日本,rtmp://59.124.75.138/sat/tv771
+三立戲劇,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
+陌陌綜合,rtmp://59.124.75.138:1935/sat/tv761
+MOMO綜合,rtmp://59.124.75.150/sat/tv761
+MOMO綜合,rtmp://59.124.75.138/sat/tv761
+
+🎦電影,#genre#
+東森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
+東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+美亞電影,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MDDD9575732595757325&ct=19211&tsum=55dac286bd545b7950cf8dd18fedfe7a
+美亞電影,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFDF2848449728484497&ct=19211&tsum=f65f39620c24fee2e633c4727cc48727
+美亞電影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+龍華經典,http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
+天映頻道,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=m02000000000012711358&ct=17975&tsum=2183a8e8c64ee064df57205a4729efe8
+好萊塢電影,http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
+衛視電影台,http://23.237.10.66:16010
+
+⚾︎體育,#genre#
+ELTA體育1台,http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+ELTA體育1台,rtmp://59.124.75.138/sat/md011
+ELTA體育1台,rtmp://59.124.75.150/sat/md011
+ELTA體育2台,rtmp://59.124.75.138/sat/md021
+ELTA體育2台,rtmp://59.124.75.150/sat/md021
+ELTA體育3台,rtmp://59.124.75.138/sat/md041
+ELTA體育3台,rtmp://59.124.75.150/sat/md041
+博斯網球,rtmp://59.124.75.138/sat/md031
+博斯網球,rtmp://59.124.75.150/sat/md031
+緯來體育,http://123.51.229.65:18509/.m3u8
+緯來體育,http://60.251.39.247:8503/http/192.168.77.24:8081/hls/67/809/ch28.m3u8
+ELEVEN 1,rtmp://59.124.75.138:1935/sat/tv731
+ELEVEN 2,rtmp://59.124.75.138:1935/sat/tv741
+
+🇲🇾馬來西亞,#genre#
+八度空間,http://51.79.82.208:16005
+天映頻道,http://51.79.82.208:16024
+Astro Arena,Http://51.79.82.208:16058
+Astro Supersports3,Http://51.79.82.208:16062
+Astro Aec,Http://51.79.82.208:16021
+Astro Box Office,Http://51.79.82.208:16013
+Astro Oasis,Http://51.79.82.208:16009
+Astro Prima,Http://51.79.82.208:16008
+Astro Ria,Http://51.79.82.208:16007
+Astro Warna,Http://51.79.82.208:16010
+Astro,Http://51.79.82.208:16014
+Bbc Golf,Http://51.79.82.208:16059
+Bein Sports,Http://51.79.82.208:16064
+Bein Sports3,Http://51.79.82.208:16065
+Bs東,Http://51.79.82.208:16047
+Didik Tv,Http://51.79.82.208:16004
+Espn,Http://51.79.82.208:16417
+Hgtv,Http://51.79.82.208:16057
+Premiere,Http://51.79.82.208:16450
+Premiere,Http://51.79.82.208:16455
+Premiere,Http://51.79.82.208:16456
+Sportv2,Http://51.79.82.208:16463
+Sportv3,Http://51.79.82.208:16464
+Tv1,Http://51.79.82.208:16001
+Tv2,Http://51.79.82.208:16002
+Tv3,Http://51.79.82.208:16003
+Tv9,Http://51.79.82.208:16006
+
+🇯🇵日本,#genre#
+NHK華語,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NHK華語,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+NHK World Japan,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NHK World Japan,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+Tokyo MX 1,https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+Tokyo MX 2,https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+BSアニマックス,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BSテレ東,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+GAORA,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS 1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS 2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS 3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+LaLaTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Music ON TV!,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHK BS1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHK World,https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+NHK World,http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+NHK教育,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHK総合,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Shop Channel,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+WOWOWシネマ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+WOWOWプライム,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+キッズステーション[1024*576[1024*576],https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ゴルフネットワーク,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スーパー!ドラマTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スカイA,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スターチャンネル1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スターチャンネル2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スターチャンネル3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+チャンネルNECO,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+チャンネル銀河,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+テレビ朝日,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+テレビ東京,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ファミリー劇場,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+フジテレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ホームドラマチャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ムービープラス,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+釣りビジョン,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+東映チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+歌謡ポップスチャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+群馬,https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
+日テレNEWS24,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日テレジータス,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日本テレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日本映畫専門チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+時代劇専門チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+囲碁・將棋チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+Animax,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+Animax,http://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
+Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
+NHK,http://203.162.235.41:16901
+NHK-綜合[0*0],http://203.162.235.41:16903
+Fuji TV,http://203.162.235.41:16904
+Nippon TV,http://203.162.235.41:16905
+TV Asahi,http://203.162.235.41:16906
+TBS,http://203.162.235.41:16907
+NHK BSP,http://203.162.235.41:16910
+BS Fuji,http://203.162.235.41:16911
+BS Nippon TV,http://203.162.235.41:16912
+BS TBS,http://203.162.235.41:16913
+BS Asahi,http://203.162.235.41:16914
+BS Tokyo,http://203.162.235.41:16915
+WOWOW Prime,http://203.162.235.41:16916
+Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
+日本購物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+日本購物2,http://stream1.shopch.jp/HLS/out2/prog_index.m3
+
+
+🇰🇷韓國,#genre#
+ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+KBC 광주방송 (SBS 光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+
+TJB 대전방송 (SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
+한국선거방송,http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+KCTV 광주,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+
+CTS기독교TV,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+
+KBS-1,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
+KBS-2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
+KBS-WORLD,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
+TJB SBS,http://ye23.win/iptv/korea2021.php?id=TJB
+CJB SBS,http://ye23.win/iptv/korea2021.php?id=CJB
+KBC SBS,http://ye23.win/iptv/korea2021.php?id=KBC
+SBS,http://ye23.win/iptv/sbs5.1.php?id=S01
+SBS-Sports,http://ye23.win/iptv/sbs5.1.php?id=S02
+SBS-Plus,http://ye23.win/iptv/sbs5.1.php?id=S03
+SBS-Fun,http://ye23.win/iptv/sbs5.1.php?id=S04
+SBS-Golf,http://ye23.win/iptv/sbs5.1.php?id=S05
+SBS-Biz,http://ye23.win/iptv/sbs5.1.php?id=S06
+SBS-MTV,http://ye23.win/iptv/sbs5.1.php?id=S09
+SBS-GorealraM,http://ye23.win/iptv/sbs5.1.php?id=S19
+SBS-POWER,http://ye23.win/iptv/sbs5.1.php?id=S07
+SBS-LOVE,http://ye23.win/iptv/sbs5.1.php?id=S08
+Good TV,http://ye23.win/iptv/korea2021.php?id=Good
+cpbc,http://ye23.win/iptv/korea2021.php?id=cpbc
+bbstv,http://ye23.win/iptv/korea2021.php?id=bbstv
+myStream,http://ye23.win/iptv/korea2021.php?id=myStream
+MTN,http://ye23.win/iptv/korea2021.php?id=MTN
+FTV,http://ye23.win/iptv/korea2021.php?id=FTV
+Channel A,http://ye23.win/iptv/korea2021.php?id=Channela
+korea TV,http://ye23.win/iptv/korea2021.php?id=korea
+YTN,http://ye23.win/iptv/korea2021.php?id=ytn
+Channel A,http://ye23.win/iptv/korea2021.php?id=Channel
+TBS,http://ye23.win/iptv/korea2021.php?id=TBS-a
+KCTV,http://ye23.win/iptv/korea2021.php?id=KCTV
+EBS 1,http://ye23.win/iptv/korea2021.php?id=EBS1
+EBS 2,http://ye23.win/iptv/korea2021.php?id=EBS2
+EBS i,http://ye23.win/iptv/korea2021.php?id=EBSi
+EBS+2,http://ye23.win/iptv/korea2021.php?id=EBS_2
+EBS E,http://ye23.win/iptv/korea2021.php?id=EBS_E
+EBS KIDS,http://ye23.win/iptv/korea2021.php?id=EBS_KIDS
+dema,http://ye23.win/iptv/korea2021.php?id=dema
+阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_1
+阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_2
+
